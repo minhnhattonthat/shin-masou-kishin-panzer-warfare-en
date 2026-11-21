@@ -87,7 +87,11 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | 騎士候補兵 | Knight Cadet | | (speaker) | |
 | 従者 | Attendant | | (speaker) | |
 | 整備兵 | Mechanic | | (speaker) | |
-| 民間兵 | Militiaman | | (speaker) | |
+| 民間兵 | Militiaman / Militiamen | | (speaker) | |
+| ツァディ | Tsadi | | | |
+| ベウマーのおっちゃん | Uncle Beumer | | Toto's name for him | |
+| シェスねえちゃん | Sis Shess | | Toto's name for her | |
+| アルマ姉ちゃん | Sis Alma | | Toto's name for her | |
 | 群衆 | Crowd | | (speaker) | |
 
 ## Places
@@ -101,6 +105,17 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | 王都 | Royal Capital | | | |
 | ミッダスト | Middast | | | |
 | アルデンヌ | Ardennes | | | |
+| バルツフィーム共和国 | Republic of Vartzpheem | | | |
+| バルツフィーム解放軍 | Vartzpheem Liberation Army / Liberation Army | | | |
+| バルツフィーム救国軍 | Vartzpheem Liberators | | | |
+| ラガーシュ王国軍司令部 | Ragash Royal Army Headquarters | | | |
+| 王国騎士団 | Royal Knights | | | |
+| 辺境の村 | Frontier Village | | | |
+| ダウスの穴 | Pit of Daus | | | |
+| ダウスの魔物 | Monsters of Daus / monsters from Daus / Daus monsters | | | |
+| イクナァトの館 | Iknaat Mansion | | | |
+| 荒野の七騎士 | Seven Knights of the Wasteland / Seven Wasteland Knights | | short form in chapter labels (200 px) | |
+| 裏の世界 | underworld | | | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -134,6 +149,37 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | アグ・ゲブラ | Ag Gebra | | | |
 | ティルウェス | Tilwes | | | |
 | ジャメイム | Jameim | | | |
+| 操者 | pilot | | | |
+| 魔装兵 | Masouhei / Masou Soldier | | machine class (Masouhei Middast); 魔装兵士 unit = Masou Soldier | Grunt |
+| 反逆兵士 | Rebel Soldier | | | Grunt |
+| 反逆騎士 | Rebel Knight | | | Renegade |
+| 魔装技師 | Masou Engineer | | | |
+| 叙任式 | knighting / ceremony | | knighting ceremony | |
+| オリハルコニウム | Orichalconium | | | |
+| フルカネルリ式 | Fulcanelli | | Fulcanelli-type engine | |
+| 精霊石 | spirit stone | | | |
+| １体１精霊 | One Machine, One Spirit | | | One Body |
+| プラーナ観測器 | Prana scope | | | |
+| アグ・ノイア | Ag Noia | | | |
+| アートカノン | Art Cannon | | | |
+| ファミリア | Familiar / Familia | | Altra Familia (attack) | |
+| エレメンタルバスター | Elemental Buster | | | |
+| 先の先 | Seizing the Initiative | | | |
+| 背徳神官 | fallen priest | | | |
+| 騎士見習い | squire | | | |
+| 擬兵ゴーレム | Dummy Golem | | | |
+| 怨霊 | Wraith | | | |
+| 邪霊 | Fiend | | | |
+| 切り払い | Parry | | | |
+| レスルグ | Reslug | | | Resrug |
+| ベムルグ | Bemlug | | | Bemrug |
+| 天空斬 | Sky Slash | | 真・天空斬 True Sky Slash | Skycut |
+| 真魔烈空斬 | True Demon Gale Slash | | | Hell Skycut |
+| 烈震気功斬 / 烈震気孔斬 | Quake Chi Slash | | | |
+| ビルトライデント | Bill Trident | | | Bil Trident |
 
 ## Decisions from earlier batches
-- (none yet)
+- Spirit commands (not checked by tool: the JP words are common): 努力 Gain, ド根性 Grit, 呪縛 Spellbind; the rest as
+  b069 (Alert, Focus, Guts, ...). Exe list and "Learned Spirit Command: X" messages must match.
+- Stock defeat/retreat lines: one English form per JP line (consistency pass, `tools/terms.py --dupes`).
+- ● placeholder battle quotes stay ● (the font draws it).

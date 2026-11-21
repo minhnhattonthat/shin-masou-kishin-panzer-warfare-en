@@ -275,7 +275,7 @@
   {
    "id": "exe_00F0C",
    "jp": "真魔烈空斬",
-   "en": "Hell Skycut",
+   "en": "True Demon Gale Slash",
    "ptrs": [
     "0xA7C84"
    ],
@@ -315,7 +315,7 @@
   {
    "id": "exe_00F54",
    "jp": "烈震気孔斬",
-   "en": "Quake Slash",
+   "en": "Quake Chi Slash",
    "ptrs": [
     "0xA7C74"
    ],
@@ -765,7 +765,7 @@
   {
    "id": "exe_01288",
    "jp": "ビルトライデント",
-   "en": "Bil Trident",
+   "en": "Bill Trident",
    "ptrs": [
     "0xA7BBC"
    ],
@@ -835,7 +835,7 @@
   {
    "id": "exe_01310",
    "jp": "真・天空斬",
-   "en": "True Skycut",
+   "en": "True Sky Slash",
    "ptrs": [
     "0xA7BA0"
    ],
@@ -1025,7 +1025,7 @@
   {
    "id": "exe_01400",
    "jp": "反逆騎士",
-   "en": "Renegade",
+   "en": "Rebel Knight",
    "ptrs": [
     "0xA88C4",
     "0xA88C8"
@@ -1036,7 +1036,7 @@
   {
    "id": "exe_0140C",
    "jp": "反逆兵士",
-   "en": "Rebel Grunt",
+   "en": "Rebel Soldier",
    "ptrs": [
     "0xA88BC",
     "0xA88C0"
@@ -1104,7 +1104,7 @@
   {
    "id": "exe_01454",
    "jp": "魔装兵士",
-   "en": "Masou Grunt",
+   "en": "Masou Soldier",
    "ptrs": [
     "0xA8850",
     "0xA8854",
@@ -2157,7 +2157,7 @@
   {
    "id": "exe_01BF0",
    "jp": "魔装兵ドガリニ",
-   "en": "Grunt Dogarini",
+   "en": "Masouhei Dogarini",
    "ptrs": [
     "0xA8B90"
    ],
@@ -2177,7 +2177,7 @@
   {
    "id": "exe_01C18",
    "jp": "魔装兵ウェバール",
-   "en": "Grunt Webal",
+   "en": "Masouhei Webal",
    "ptrs": [
     "0xA8B88"
    ],
@@ -2207,7 +2207,7 @@
   {
    "id": "exe_01C5C",
    "jp": "魔装兵メルバス",
-   "en": "Grunt Melbas",
+   "en": "Masouhei Melbas",
    "ptrs": [
     "0xA8B7C"
    ],
@@ -2248,7 +2248,7 @@
   {
    "id": "exe_01CA4",
    "jp": "魔装兵ミッダスト改",
-   "en": "Grunt Middast Kai",
+   "en": "Masouhei Middast Kai",
    "ptrs": [
     "0xA8B68"
    ],
@@ -2258,7 +2258,7 @@
   {
    "id": "exe_01CB8",
    "jp": "魔装兵ミッダスト",
-   "en": "Grunt Middast",
+   "en": "Masouhei Middast",
    "ptrs": [
     "0xA8B64"
    ],
@@ -2698,7 +2698,7 @@
   {
    "id": "exe_03814",
    "jp": "精神コマンド「努力」を覚えました",
-   "en": "Learned Spirit Command: Effort",
+   "en": "Learned Spirit Command: Gain",
    "lui": [
     "0x58538"
    ],
@@ -2768,7 +2768,7 @@
   {
    "id": "exe_03910",
    "jp": "精神コマンド「呪縛」を覚えました",
-   "en": "Learned Spirit Command: Bind",
+   "en": "Learned Spirit Command: Spellbind",
    "lui": [
     "0x5866C"
    ],
@@ -4451,7 +4451,7 @@
   {
    "id": "exe_05660",
    "jp": "レスルグ　",
-   "en": "Resrug",
+   "en": "Reslug",
    "ptrs": [
     "0xC5640"
    ],
@@ -4461,7 +4461,7 @@
   {
    "id": "exe_0566C",
    "jp": "ベムルグ　",
-   "en": "Bemrug",
+   "en": "Bemlug",
    "ptrs": [
     "0xC563C"
    ],
@@ -5849,7 +5849,7 @@
   {
    "id": "exe_AD2C4",
    "jp": "ド根性",
-   "en": "True Grit",
+   "en": "Grit",
    "region": "spirit",
    "max": 10,
    "status": "done"
