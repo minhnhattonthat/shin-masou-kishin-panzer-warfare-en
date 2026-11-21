@@ -2,6 +2,11 @@
 
 One line per gotcha: the reference file it belongs in, then the fact.
 
+- references/platform-ps1.md: a font TIM whose CLUTs map only one bit of each 4bpp pixel to white (CLUT 0 = 0,FFFF,0,FFFF…) packs 4 glyph pages into one image; the glyph table's "page" picks the CLUT row. Edit only that bit when redrawing cells, or the other 3 pages break.
+- references/pipeline.md §Marker: a sprite-per-glyph renderer can give each text window a fixed slot count (here 80) freed on close; English (about twice the glyphs per byte) overflowed it and left stray glyphs on later screens. Log each window's slot start/count before the width gate (`tools/lua/windows.lua` pattern).
+- references/pipeline.md §Marker: a same-byte-length marker (each line → filler of the JP line's byte count) cannot overflow a full pool; pools here had zero slack even in Japanese, so `[id]` markers longer than the JP failed to insert.
+- references/emulator-qa.md §Visual QA: typewriter glyphs fade in grey → white; judge a box on its settled frame, not mid-typing.
+
 - references/platform-ps1.md: `iso9660.py` reads 2048-byte ISOs only; for a raw MODE2/2352 .bin, read the PVD at `16*2352+24` (this repo's `tools/disc_ls.py`).
 - references/platform-ps1.md: script-text pools here are referenced by absolute RAM pointers inside fixed 16-byte commands; a RAM dump + `ramfind`-style chunk match found the load base in one step (`tools/ramfind.py`).
 - SKILL.md / setup: context-mode trims Bash/Read output over ~4 KB even for `--help`; redirect help to a file and Read it with limit.

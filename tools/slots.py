@@ -1,7 +1,8 @@
 """Event-window glyph slots (docs/re/font.md §Glyph slots): every drawn glyph takes one sprite slot (600 slots at
 *0x801B7184, 0x44 bytes each). The 3 event windows own fixed ranges (start 10 / 90 / 170, 80 slots each) and share
 the shadow range from 300; a window frees only its 80 slots on close, so English with more than 80 glyphs left stray
-glyphs on screen. New layout: 120 slots per window at 10 / 130 / 250, shadows at 380-499.
+glyphs on screen. New layout: 140 slots per window at 10 / 150 / 290, shadows at 430-569. Slots 250-599 had no
+other user in ev01/map05/battle05/intermission/status runs (tools/lua/slots.lua, 2026-11-22).
 
 Each patch is an `addiu rX, zero, imm` in the exe whose immediate changes; patch() checks the original word first.
 Library: patch(exe bytes) -> bytes. WINDOW_GLYPHS is the lint budget (non-space glyphs per message incl. speaker)."""
@@ -9,7 +10,7 @@ import struct
 
 T_BASE = 0x800A5800
 OLD = {"count": 0x50, "w0": 0x0A, "w1": 0x5A, "w2": 0xAA, "shadow": 0x12C}
-NEW = {"count": 120, "w0": 10, "w1": 130, "w2": 250, "shadow": 380}
+NEW = {"count": 140, "w0": 10, "w1": 150, "w2": 290, "shadow": 430}  # 430+140 = 570 <= 600 slots
 WINDOW_GLYPHS = NEW["count"]
 
 # (RAM address, register, role); found by tools/lua/slots.lua + windows.lua and a scan around every free/draw call

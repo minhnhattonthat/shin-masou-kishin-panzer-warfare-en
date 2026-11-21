@@ -17,7 +17,8 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [battle.md](battle.md) | BAT_OVER battle quotes (2 sets, absolute pointers), exe strings (pointer / lui / record forms, extraction regions), overlay text | verified statically; runtime readers not traced |
 | [graphics.md](graphics.md) | graphics-text survey G1-G19 (TIMs, VRAM, FMV) | static sweep done |
 | [debug.md](debug.md) | stage byte, game-mode table, chapter-card buffer, intermission/memory-card flow (debug tool) | verified |
-| [font.md](font.md) | renderer (SJIS → 12x12 glyph via row table), font TIMs, no half-width ASCII | verified; page streaming open |
+| [font.md](font.md) | renderer (SJIS → 12x12 glyph via row table), font TIM = 4 bit-plane pages, VWF hook, glyph slots | verified |
+| [windows.md](windows.md) | width gate: px / line / glyph budgets per text window | dialogue measured; rest open |
 
 Tools: `tools/extract.py` + `tools/sjis.py` (all text → `script/`, codec), `tools/over.py` (event blocks), `tools/batquote.py` (quote blocks + pointer check), `tools/re.py` (exe string
 refs: u32 / lui pairs), `tools/tim.py` + `tools/montage.py` (TIM sweep), `tools/vram.py` (VRAM dump render),

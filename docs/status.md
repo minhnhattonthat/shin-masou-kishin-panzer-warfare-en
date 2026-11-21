@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5. Engine spike and marker build next (phase 4 extract done 2026-11-22). Last build: 2026-11-21,
-  `build/smk_en.bin` sha1 e0b0a78b… (= original, no edits yet).
+- **Phase:** 5. Engine spike + marker build in progress (VWF and marker build done; width gate partly measured).
+  Last builds 2026-11-22: `build/smk_marker2` (full marker, boots, 11/11 warps), `build/smk_qa` (ruler lines).
 - **Done:**
   - Step 0: repo set up; PCSX-Redux + SCPH-5500 in `tools/`, mkpsxiso 2.30, armips 0.11.0; original boots (`--smoke`
     ok), Start press works, Lua probe logs; pre-commit rejects a failing test; guard hook blocks `sed -i`.
@@ -29,14 +29,27 @@ Updated at the end of every session. Keep it to what the next session needs; his
     chapter save labels). `tests/test_extract.py`: roundtrip of every string, script/ = fresh extraction, event
     pools and battle blocks have no unexplained bytes, no overlaps, every SJIS run in exe/OVER/BAT_OVER is
     extracted or waived (waivers listed with reasons). Findings in scripts.md / battle.md §Exe extraction.
-- **Next (phase 5, engine spike + marker build):** renderer patch for ASCII/VWF (font.md: half-width bytes are
-  skipped; control letters b h m r w z collide with ASCII letters, so the EN encoding must remap them or use
-  another code range); trace the font page source; marker build replacing every string with `[id]` (full-width
-  Latin works without engine changes) to find non-text strings and measure box widths (width gate). Insertion
-  must: repack each event pool within its bounds (`pools` in each JSON; command data follows the pool), rewrite
-  ptrs; battle blocks within their sectors; exe strings in place up to `max` or relocate via ptrs/lui.
-- **Open questions for later phases:** where the other font pages come from (font.md); the exe 「…」 quotes
-  (no reference found, maybe unused: the marker build will tell); effect of control letters `b m r w`; the u16
+  - Phase 5 so far (font.md §Renderer detail / §VWF, windows.md): one string renderer 0x80102D90; font TIM = 4 bit-
+    plane glyph pages; VWF hook `asm/vwf.asm` (armips, code+tables in trap-tested free RAM 0x8016D740) + English
+    glyphs made from the game's full-width Latin cells (`tools/font.py`: encode, widths, `width_px`, `glyphs`,
+    `--preview`); lowercase encoded at 0xA1-0xBA because b h m r w z are colour/font-mode control letters.
+    `tools/insert.py` (en / marker / `--qa ID=TEXT` / `--only` bisect; events + battle repacked, exe + overlay in
+    place) wired into `build.py [--marker] [--qa ..] [--only ..] [--out ..]`; `tests/test_insert.py`.
+    Event-window glyph slots raised 80 → 140 per window (`tools/slots.py`, verified word patches). Probes:
+    `tools/lua/strings.lua` (which string pointer each box draws), `slots.lua`, `windows.lua`, `tools/debug/trap.py`.
+    Dialogue budget measured: 240 px/line, speaker + 3 lines, 140 glyphs (windows.md).
+- **Next (finish phase 5):** (1) rebuild the full marker with 140 slots and tour: chapter-intro scroll, choices,
+  battle quotes (map05/battle05), intermission menus, status pages, save screen + labels, option, game over,
+  credits; anything still Japanese = unextracted text, odd markers = non-text strings (exclude them from
+  insertion). (2) Measure every remaining windows.md row with `--qa` rulers (exe fields: px budget from the next
+  thing on the row). (3) **Pool budget**: event pools are full with the JP (ev000: 0 bytes slack), so decide before
+  phase 6: grow/relocate event blocks (test: pad a block by 0x1000, boot its event; the slot after the block in
+  RAM looked like a load heap) or give translators per-pool byte budgets. Battle string areas are full too
+  (markers had to be ≤ JP length). (4) Speaker names: insert keeps the JP `speaker`; add a names map
+  (glossary-driven) before phase 7. (5) mcard titles (exe region `mcard`) stay Shift-JIS full-width (BIOS shows
+  them). (6) A width/glyph lint (`width_px`, `glyphs`) for phase 6/7.
+- **Open questions for later phases:** the exe 「…」 quotes
+  (no reference found, maybe unused: the marker build will tell); the u16
   table before each intro scroll (line timing?); whether event blocks can grow (scripts.md §Free space); whether the dev
   loading card BAT_TIM 0x45A000 is ever shown; the chapter-card picker / branch flags for cards 1 and 5 (debug.md);
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the

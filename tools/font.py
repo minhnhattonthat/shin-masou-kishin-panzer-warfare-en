@@ -131,6 +131,37 @@ def patch_tim(d, off, exe):
     return bytes(d)
 
 
+_WIDTHS = None
+
+
+def width_px(text, tree="work/disc/tree"):
+    """Pen advance of one line of English script text in px (sum of VWF widths; SJIS characters 12)."""
+    global _WIDTHS
+    if _WIDTHS is None:
+        t = Path(tree)
+        _WIDTHS = tables((t / "BAT_TIM.BIN").read_bytes(), TIM_OFFS["BAT_TIM.BIN"], (t / "SLPS_023.19").read_bytes())[1]
+    b, n, i = encode(text), 0, 0
+    while i < len(b):
+        if sjis.is_lead(b[i]) and b[i] <= 0xEF:
+            n, i = n + 12, i + 2
+        else:
+            n, i = n + _WIDTHS[b[i]], i + 1
+    return n
+
+
+def glyphs(text):
+    """Sprite slots a string takes: every drawn character (spaces, newlines and control letters take none)."""
+    b, n, i = encode(text), 0, 0
+    while i < len(b):
+        if sjis.is_lead(b[i]) and b[i] <= 0xEF:
+            n += b[i:i + 2] not in (b"\x81\x40", b"\x82\x40")
+            i += 2
+        else:
+            n += b[i] not in (0x00, 0x0A, 0x20) and chr(b[i]) not in CONTROL
+            i += 1
+    return n
+
+
 def tables_asm(code, width):
     """armips source for asm/vwf.asm's TABLES include (bytes 0x00-0xBF)."""
     n = 0xC0
