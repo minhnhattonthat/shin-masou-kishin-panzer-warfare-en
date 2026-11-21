@@ -9,8 +9,9 @@
     "0xED024"
    ],
    "jp": "　　　　　「魔装騎士」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Masou Knight",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECB94",
@@ -18,8 +19,9 @@
     "0xED028"
    ],
    "jp": "　　　　　　「神の腕」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: The Arm of God",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECBB4",
@@ -27,8 +29,9 @@
     "0xED02C"
    ],
    "jp": "　　　　　　　「予感」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Premonition",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECBD4",
@@ -36,8 +39,9 @@
     "0xED030"
    ],
    "jp": "　「むかいあう者たち」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Facing Each Other",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECBF4",
@@ -45,8 +49,9 @@
     "0xED034"
    ],
    "jp": "　　　「転げ落ちる石」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: The Tumbling Stone",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECC14",
@@ -54,8 +59,9 @@
     "0xED038"
    ],
    "jp": "　　　　　　　「運命」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Fate",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECC34",
@@ -63,8 +69,9 @@
     "0xED03C"
    ],
    "jp": "　「決闘！西方騎士隊」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Duel! Western Knights",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECC54",
@@ -72,8 +79,9 @@
     "0xED040"
    ],
    "jp": "　　　　「崩壊の序曲」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Prelude to Collapse",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECC74",
@@ -81,8 +89,9 @@
     "0xED044"
    ],
    "jp": "　　　「無謀と勇気と」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Recklessness and Courage",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECC94",
@@ -90,8 +99,9 @@
     "0xED048"
    ],
    "jp": "　　　　「王都への道」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: To the Royal Capital",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECCB4",
@@ -99,8 +109,9 @@
     "0xED04C"
    ],
    "jp": "　　　　　「魔装機神」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Masoukishin",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECCD4",
@@ -108,8 +119,9 @@
     "0xED050"
    ],
    "jp": "　　　　　　「アルマ」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Alma",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECCF4",
@@ -117,8 +129,9 @@
     "0xED054"
    ],
    "jp": "　　　　　　「陰と陽」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Yin and Yang",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECD14",
@@ -126,8 +139,9 @@
     "0xED058"
    ],
    "jp": "　　　　　「悪霊の森」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Forest of Evil Spirits",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECD34",
@@ -135,8 +149,9 @@
     "0xED05C"
    ],
    "jp": "「捨てられた者の叫び」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Cry of the Forsaken",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECD54",
@@ -144,8 +159,9 @@
     "0xED060"
    ],
    "jp": "　　　　　　「ダウス」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Daus",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECD74",
@@ -153,8 +169,9 @@
     "0xED064"
    ],
    "jp": "　　　　　　「回交点」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: The Crossing Point",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECD94",
@@ -162,8 +179,9 @@
     "0xED068"
    ],
    "jp": "　　　　　　　　「道」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: The Path",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECDB4",
@@ -171,8 +189,9 @@
     "0xED06C"
    ],
    "jp": "　　　　「裏切りの味」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Taste of Betrayal",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECDD4",
@@ -180,8 +199,9 @@
     "0xED070"
    ],
    "jp": "　　　「新たなる戦い」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: A New Battle",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECDF4",
@@ -189,8 +209,9 @@
     "0xED074"
    ],
    "jp": "　　　「秘められた力」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Hidden Power",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECE14",
@@ -198,8 +219,9 @@
     "0xED078"
    ],
    "jp": "　　　　　　　「決別」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Parting",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECE34",
@@ -207,8 +229,9 @@
     "0xED07C"
    ],
    "jp": "「虎の尾を踏む者たち」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Tread on a Tiger's Tail",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECE54",
@@ -216,8 +239,9 @@
     "0xED080"
    ],
    "jp": "　　　「荒野の七騎士」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Seven Wasteland Knights",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECE74",
@@ -225,8 +249,9 @@
     "0xED084"
    ],
    "jp": "　　　　　　　「解放」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Liberation",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECE94",
@@ -234,8 +259,9 @@
     "0xED088"
    ],
    "jp": "　　　　「カミチル闇」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Darkness Where Gods Fall",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECEB4",
@@ -243,8 +269,9 @@
     "0xED08C"
    ],
    "jp": "　「神でなく人として」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: As a Man, Not a God",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECED4",
@@ -252,8 +279,9 @@
     "0xED090"
    ],
    "jp": "　　　　「暗躍する影」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Shadows Moving in Secret",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECEF4",
@@ -261,8 +289,9 @@
     "0xED094"
    ],
    "jp": "　　　　　　　「砲声」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Cannon Fire",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECF14",
@@ -270,8 +299,9 @@
     "0xED098"
    ],
    "jp": "野望のはてるとき{h}　{z}前編{h}　{z}まで終了",
-   "en": "",
-   "max": 39
+   "en": "Clear: When Ambition Ends{h} {z}Part 1{h} {z}",
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "ov_ECF3C",
@@ -279,8 +309,9 @@
     "0xED09C"
    ],
    "jp": "野望のはてるとき{h}　{z}後編{h}　{z}まで終了",
-   "en": "",
-   "max": 39
+   "en": "Clear: When Ambition Ends{h} {z}Part 2{h} {z}",
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "ov_ECF64",
@@ -288,8 +319,9 @@
     "0xED0A0"
    ],
    "jp": "　　　　「宴の始まり」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: The Feast Begins",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECF84",
@@ -297,8 +329,9 @@
     "0xED0A4"
    ],
    "jp": "　　　　　「邪神降臨」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: Advent of the Evil God",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECFA4",
@@ -306,8 +339,9 @@
     "0xED0A8"
    ],
    "jp": "　　　　「最後の希望」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: The Last Hope",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECFC4",
@@ -315,8 +349,9 @@
     "0xED0AC"
    ],
    "jp": "　　　「輝ける明日へ」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear: To a Shining Tomorrow",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ECFE4",
@@ -324,8 +359,9 @@
     "0xED0B0"
    ],
    "jp": "　　　　　　　　　　」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear:",
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "ov_ED004",
@@ -333,8 +369,9 @@
     "0xED0B4"
    ],
    "jp": "　　　　　　　　　　」まで終了",
-   "en": "",
-   "max": 31
+   "en": "Clear:",
+   "max": 31,
+   "status": "done"
   }
  ]
 }

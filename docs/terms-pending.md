@@ -23,3 +23,11 @@ Stock defeat lines differ between batches (Keigo/Alma/Yen/Toto くっそぉっ�
   harmonise with a same-JP-different-EN consistency pass in review.
 Open questions: ● placeholder battle quotes kept as ● (font draws it); ev01C_5400 stray Greek glyph (Ι) in JP;
   ev179_1078 Duncan Lounsburg VII vs Malcolm (baby king); ev03E_2B8C Kansai line labelled Blacky.
+b070-b073 (exe/overlay): CONFLICTS with b067-b069 to settle: spirit 努力 Gain vs Effort, ド根性 True Grit vs Grit, 呪縛 Spellbind vs Bind;
+  weapons 真魔烈空斬 True Demon Gale Slash vs Hell Skycut, 天空斬 Sky Slash vs Skycut, 烈震気功斬 Quake Chi Slash vs Quake Slash,
+  アルトラファミリア Altra Familia vs Altra Familiar, ビルトライデント Bill vs Bil Trident; 反逆騎士 Rebel Knight vs Renegade;
+  monsters Resrug/Bemrug vs Reslug/Bemlug. One form each in glossary, then fix the losing lines (exe + battle quotes + events).
+Overlay save labels: 「X」まで終了 -> "Clear: X". exe blank (all full-width space) strings written "-": check in game.
+mcard titles exe_B4944..B4ADE written ASCII "Shin Masoukishin DATA01": status engine task (c) says they stay SJIS
+  full-width - phase 7 must convert or keep the JP; full-width needs <= 12 chars.
+LONG exe lines over JP bytes (relocate in phase 7): exe_054A4 054B0 05510 0551C 05540 0554C D1EB8 D1EE8 D2564-D2578.

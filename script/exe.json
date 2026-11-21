@@ -3987,63 +3987,69 @@
   {
    "id": "exe_0545C",
    "jp": "　マルコム",
-   "en": "",
+   "en": "Malcolm",
    "ptrs": [
     "0xC5508"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05468",
    "jp": "　　　乳母",
-   "en": "",
+   "en": "Nanny",
    "ptrs": [
     "0xC5504"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05474",
    "jp": "　ディソン",
-   "en": "",
+   "en": "Dison",
    "ptrs": [
     "0xC5500"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05480",
    "jp": "　ダンカン",
-   "en": "",
+   "en": "Duncan",
    "ptrs": [
     "0xC54FC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0548C",
    "jp": "　反逆騎士",
-   "en": "",
+   "en": "Rebel Knight",
    "ptrs": [
     "0xC54F4",
     "0xC54F8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05498",
    "jp": "　反逆兵士",
-   "en": "",
+   "en": "Rebel Soldier",
    "ptrs": [
     "0xC54EC",
     "0xC54F0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_054A4",
    "jp": "ラ軍　騎士",
-   "en": "",
+   "en": "Ragash Knight",
    "ptrs": [
     "0xC54DC",
     "0xC54E0",
@@ -4054,12 +4060,13 @@
     "0xC55F8",
     "0xC55FC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_054B0",
    "jp": "ラ軍　兵士",
-   "en": "",
+   "en": "Ragash Soldier",
    "ptrs": [
     "0xC54CC",
     "0xC54D0",
@@ -4070,116 +4077,128 @@
     "0xC55E8",
     "0xC55EC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_054BC",
    "jp": "　ルジェロ",
-   "en": "",
+   "en": "Ruggero",
    "ptrs": [
     "0xC54C8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_054C8",
    "jp": "アデノイド",
-   "en": "",
+   "en": "Adenoid",
    "ptrs": [
     "0xC54C4",
     "0xC55D8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_054D4",
    "jp": "　マギーア",
-   "en": "",
+   "en": "Magia",
    "ptrs": [
     "0xC54C0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_054E0",
    "jp": "　　キャリ",
-   "en": "",
+   "en": "Kyari",
    "ptrs": [
     "0xC54BC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_054EC",
    "jp": "　　ヤドラ",
-   "en": "",
+   "en": "Yadora",
    "ptrs": [
     "0xC54B8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_054F8",
    "jp": "　　ソッド",
-   "en": "",
+   "en": "Thodd",
    "ptrs": [
     "0xC54B4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05504",
    "jp": "　　　ミラ",
-   "en": "",
+   "en": "Mira",
    "ptrs": [
     "0xC54B0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05510",
    "jp": "ナ軍　騎士",
-   "en": "",
+   "en": "Natoure Knight",
    "ptrs": [
     "0xC54AC",
     "0xC55C0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0551C",
    "jp": "ナ軍　兵士",
-   "en": "",
+   "en": "Natoure Soldier",
    "ptrs": [
     "0xC54A8",
     "0xC55BC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05528",
    "jp": "　　　村人",
-   "en": "",
+   "en": "Villager",
    "ptrs": [
     "0xC54A0",
     "0xC54A4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05534",
    "jp": "　　民間兵",
-   "en": "",
+   "en": "Militiaman",
    "ptrs": [
     "0xC5498",
     "0xC549C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05540",
    "jp": "バ軍　騎士",
-   "en": "",
+   "en": "Vartzpheem Knight",
    "ptrs": [
     "0xC548C",
     "0xC5490",
@@ -4188,12 +4207,13 @@
     "0xC55A4",
     "0xC55A8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0554C",
    "jp": "バ軍　兵士",
-   "en": "",
+   "en": "Vartzpheem Soldier",
    "ptrs": [
     "0xC5480",
     "0xC5484",
@@ -4202,938 +4222,1038 @@
     "0xC5598",
     "0xC559C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05558",
    "jp": "バージェス",
-   "en": "",
+   "en": "Burgess",
    "ptrs": [
     "0xC547C",
     "0xC5590"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05564",
    "jp": "　ジェムス",
-   "en": "",
+   "en": "Jems",
    "ptrs": [
     "0xC5478"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05570",
    "jp": "　シャーナ",
-   "en": "",
+   "en": "Shana",
    "ptrs": [
     "0xC5474"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0557C",
    "jp": "　　シェス",
-   "en": "",
+   "en": "Shess",
    "ptrs": [
     "0xC5470"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05588",
    "jp": "ブラッキー",
-   "en": "",
+   "en": "Blacky",
    "ptrs": [
     "0xC546C",
     "0xC5580"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05594",
    "jp": "　ドロービ",
-   "en": "",
+   "en": "Drawbi",
    "ptrs": [
     "0xC5468"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_055A0",
    "jp": "　ヘレーナ",
-   "en": "",
+   "en": "Helena",
    "ptrs": [
     "0xC5464"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_055AC",
    "jp": "　フルカス",
-   "en": "",
+   "en": "Furcas",
    "ptrs": [
     "0xC5460"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_055B8",
    "jp": "　ベウマー",
-   "en": "",
+   "en": "Beumer",
    "ptrs": [
     "0xC545C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_055C4",
    "jp": "アルフレド",
-   "en": "",
+   "en": "Alfredo",
    "ptrs": [
     "0xC5458",
     "0xC556C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_055D0",
    "jp": "　ロセリニ",
-   "en": "",
+   "en": "Rossellini",
    "ptrs": [
     "0xC5454"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_055DC",
    "jp": "　ゼルドナ",
-   "en": "",
+   "en": "Zeldna",
    "ptrs": [
     "0xC5450"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_055E8",
    "jp": "　　　トト",
-   "en": "",
+   "en": "Toto",
    "ptrs": [
     "0xC544C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_055F4",
    "jp": "　　イェン",
-   "en": "",
+   "en": "Yen",
    "ptrs": [
     "0xC5448"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05600",
    "jp": "　　アルマ",
-   "en": "",
+   "en": "Alma",
    "ptrs": [
     "0xC5444"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0560C",
    "jp": "　　ケイゴ",
-   "en": "",
+   "en": "Keigo",
    "ptrs": [
     "0xC5440"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05618",
    "jp": "爆発　　　",
-   "en": "",
+   "en": "Explosion",
    "ptrs": [
     "0xC5660"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05624",
    "jp": "ノイズ　　",
-   "en": "",
+   "en": "Noise",
    "ptrs": [
     "0xC565C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05630",
    "jp": "パネル　　",
-   "en": "",
+   "en": "Panel",
    "ptrs": [
     "0xC5658"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0563C",
    "jp": "リーグ　　",
-   "en": "",
+   "en": "Rieg",
    "ptrs": [
     "0xC5654"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05648",
    "jp": "怨念　　　",
-   "en": "",
+   "en": "Grudge",
    "ptrs": [
     "0xC5650"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05654",
    "jp": "エディン　",
-   "en": "",
+   "en": "Edin",
    "ptrs": [
     "0xC5648"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05660",
    "jp": "レスルグ　",
-   "en": "",
+   "en": "Resrug",
    "ptrs": [
     "0xC5640"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0566C",
    "jp": "ベムルグ　",
-   "en": "",
+   "en": "Bemrug",
    "ptrs": [
     "0xC563C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05678",
    "jp": "ツァディ　",
-   "en": "",
+   "en": "Tsadi",
    "ptrs": [
     "0xC5634"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05684",
    "jp": "ドナール　",
-   "en": "",
+   "en": "Donar",
    "ptrs": [
     "0xC5630"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05690",
    "jp": "ナール　　",
-   "en": "",
+   "en": "Nar",
    "ptrs": [
     "0xC562C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0569C",
    "jp": "ゴーレム　",
-   "en": "",
+   "en": "Golem",
    "ptrs": [
     "0xC5628"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_056A8",
    "jp": "文官　　　",
-   "en": "",
+   "en": "Official",
    "ptrs": [
     "0xC5620",
     "0xC5624"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_056B4",
    "jp": "マルコム　",
-   "en": "",
+   "en": "Malcolm",
    "ptrs": [
     "0xC561C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_056C0",
    "jp": "乳母　　　",
-   "en": "",
+   "en": "Nanny",
    "ptrs": [
     "0xC5618"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_056CC",
    "jp": "ディソン　",
-   "en": "",
+   "en": "Dison",
    "ptrs": [
     "0xC5614"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_056D8",
    "jp": "ダンカン　",
-   "en": "",
+   "en": "Duncan",
    "ptrs": [
     "0xC5610"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_056E4",
    "jp": "反逆騎士　",
-   "en": "",
+   "en": "Rebel Knight",
    "ptrs": [
     "0xC5608",
     "0xC560C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_056F0",
    "jp": "反逆兵士　",
-   "en": "",
+   "en": "Rebel Soldier",
    "ptrs": [
     "0xC5600",
     "0xC5604"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_056FC",
    "jp": "ルジェロ　",
-   "en": "",
+   "en": "Ruggero",
    "ptrs": [
     "0xC55DC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05708",
    "jp": "マギーア　",
-   "en": "",
+   "en": "Magia",
    "ptrs": [
     "0xC55D4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05714",
    "jp": "キャリ　　",
-   "en": "",
+   "en": "Kyari",
    "ptrs": [
     "0xC55D0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05720",
    "jp": "ヤドラ　　",
-   "en": "",
+   "en": "Yadora",
    "ptrs": [
     "0xC55CC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0572C",
    "jp": "ソッド　　",
-   "en": "",
+   "en": "Thodd",
    "ptrs": [
     "0xC55C8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05738",
    "jp": "ミラ　　　",
-   "en": "",
+   "en": "Mira",
    "ptrs": [
     "0xC55C4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05744",
    "jp": "村人　　　",
-   "en": "",
+   "en": "Villager",
    "ptrs": [
     "0xC55B4",
     "0xC55B8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05750",
    "jp": "民間兵　　",
-   "en": "",
+   "en": "Militiaman",
    "ptrs": [
     "0xC55AC",
     "0xC55B0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0575C",
    "jp": "ジェムス　",
-   "en": "",
+   "en": "Jems",
    "ptrs": [
     "0xC558C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05768",
    "jp": "シャーナ　",
-   "en": "",
+   "en": "Shana",
    "ptrs": [
     "0xC5588"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05774",
    "jp": "シェス　　",
-   "en": "",
+   "en": "Shess",
    "ptrs": [
     "0xC5584"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05780",
    "jp": "ドロービ　",
-   "en": "",
+   "en": "Drawbi",
    "ptrs": [
     "0xC557C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0578C",
    "jp": "ヘレーナ　",
-   "en": "",
+   "en": "Helena",
    "ptrs": [
     "0xC5578"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05798",
    "jp": "フルカス　",
-   "en": "",
+   "en": "Furcas",
    "ptrs": [
     "0xC5574"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_057A4",
    "jp": "ベウマー　",
-   "en": "",
+   "en": "Beumer",
    "ptrs": [
     "0xC5570"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_057B0",
    "jp": "ロセリニ　",
-   "en": "",
+   "en": "Rossellini",
    "ptrs": [
     "0xC5568"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_057BC",
    "jp": "ゼルドナ　",
-   "en": "",
+   "en": "Zeldna",
    "ptrs": [
     "0xC5564"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_057C8",
    "jp": "トト　　　",
-   "en": "",
+   "en": "Toto",
    "ptrs": [
     "0xC5560"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_057D4",
    "jp": "イェン　　",
-   "en": "",
+   "en": "Yen",
    "ptrs": [
     "0xC555C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_057E0",
    "jp": "アルマ　　",
-   "en": "",
+   "en": "Alma",
    "ptrs": [
     "0xC5558"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_057EC",
    "jp": "ケイゴ　　",
-   "en": "",
+   "en": "Keigo",
    "ptrs": [
     "0xC5554"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_057F8",
    "jp": "{h}１６　自己溶解",
-   "en": "",
+   "en": "{h}16 Self-Melt",
    "ptrs": [
     "0xC596C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_05808",
    "jp": "{h}０９　破壊光線",
-   "en": "",
+   "en": "{h}09 Havoc Beam",
    "ptrs": [
     "0xC5954",
     "0xC5968"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_05818",
    "jp": "{h}１６　かぎ爪",
-   "en": "",
+   "en": "{h}16 Claws",
    "ptrs": [
     "0xC594C",
     "0xC5960"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_05828",
    "jp": "{h}０３　重力光線",
-   "en": "",
+   "en": "{h}03 Gravity Ray",
    "ptrs": [
     "0xC5940"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_05838",
    "jp": "{h}０４　ウィンドストーム",
-   "en": "",
+   "en": "{h}04 Windstorm",
    "ptrs": [
     "0xC593C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05850",
    "jp": "{h}０５　カーズ",
-   "en": "",
+   "en": "{h}05 Curse",
    "ptrs": [
     "0xC592C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_05860",
    "jp": "{h}１６　体当たり",
-   "en": "",
+   "en": "{h}16 Body Slam",
    "ptrs": [
     "0xC5924"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_05870",
    "jp": "{h}０３　怪光線",
-   "en": "",
+   "en": "{h}03 Hex Ray",
    "ptrs": [
     "0xC5900",
     "0xC5914"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_05880",
    "jp": "{h}１６　噛みつき",
-   "en": "",
+   "en": "{h}16 Bite",
    "ptrs": [
     "0xC58FC",
     "0xC5910",
     "0xC5938"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_05890",
    "jp": "{h}０２　腐食液",
-   "en": "",
+   "en": "{h}02 Acid",
    "ptrs": [
     "0xC58F0",
     "0xC5928",
     "0xC5950",
     "0xC5964"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_058A0",
    "jp": "{h}０４　おたけび",
-   "en": "",
+   "en": "{h}04 War Cry",
    "ptrs": [
     "0xC58D8",
     "0xC58EC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_058B0",
    "jp": "{h}１４　かぎ爪",
-   "en": "",
+   "en": "{h}14 Claws",
    "ptrs": [
     "0xC58D4",
     "0xC58E8"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_058C0",
    "jp": "{h}１０　カオスノヴァ",
-   "en": "",
+   "en": "{h}10 Chaos Nova",
    "ptrs": [
     "0xC58CC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_058D4",
    "jp": "{h}０９　アカシックバスター",
-   "en": "",
+   "en": "{h}09 Akashic Buster",
    "ptrs": [
     "0xC58C8"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_058F0",
    "jp": "{h}１６　バニティスラッシャー",
-   "en": "",
+   "en": "{h}16 Vanity Slasher",
    "ptrs": [
     "0xC58C0"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_0590C",
    "jp": "{h}０４　ギガバースト",
-   "en": "",
+   "en": "{h}04 Giga Burst",
    "ptrs": [
     "0xC58B8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05920",
    "jp": "{h}０４　オメガスプレッド",
-   "en": "",
+   "en": "{h}04 Omega Spread",
    "ptrs": [
     "0xC58B0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05938",
    "jp": "{h}０５　チェインアームズ",
-   "en": "",
+   "en": "{h}05 Chain Arms",
    "ptrs": [
     "0xC58A4",
     "0xC58AC",
     "0xC5980"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05950",
    "jp": "{h}０９　アストラル・カノン",
-   "en": "",
+   "en": "{h}09 Astral Cannon",
    "ptrs": [
     "0xC58A0",
     "0xC597C"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_0596C",
    "jp": "{h}０５　ハイパレドリー",
-   "en": "",
+   "en": "{h}05 Hyper Paredory",
    "ptrs": [
     "0xC589C",
     "0xC5978"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05984",
    "jp": "{h}１６　デスチャージ",
-   "en": "",
+   "en": "{h}16 Death Charge",
    "ptrs": [
     "0xC5898",
     "0xC5974"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05998",
    "jp": "{h}０９　ギガブラスターカノン",
-   "en": "",
+   "en": "{h}09 Giga Blaster Cannon",
    "ptrs": [
     "0xC5888"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_059B4",
    "jp": "{h}０９　ウェーブスマッシャー",
-   "en": "",
+   "en": "{h}09 Wave Smasher",
    "ptrs": [
     "0xC5868",
     "0xC587C",
     "0xC588C",
     "0xC58C4"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_059D0",
    "jp": "{h}０９　？メガブラスターカノン",
-   "en": "",
+   "en": "{h}09 ?Mega Blaster Cannon",
    "ptrs": [
     "0xC5864"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_059F0",
    "jp": "{h}０５　？パレドリー",
-   "en": "",
+   "en": "{h}05 ?Paredory",
    "ptrs": [
     "0xC5860"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05A04",
    "jp": "{h}１６　パワータックル",
-   "en": "",
+   "en": "{h}16 Power Tackle",
    "ptrs": [
     "0xC585C",
     "0xC5870",
     "0xC5884"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05A1C",
    "jp": "{h}１２　真魔烈空斬",
-   "en": "",
+   "en": "{h}12 True Demon Gale Slash",
    "ptrs": [
     "0xC5854"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05A30",
    "jp": "{h}０５　カオスパレドリー",
-   "en": "",
+   "en": "{h}05 Chaos Paredory",
    "ptrs": [
     "0xC5850"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05A48",
    "jp": "{h}１１　バニティリッパー",
-   "en": "",
+   "en": "{h}11 Vanity Ripper",
    "ptrs": [
     "0xC584C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05A60",
    "jp": "{h}０９　アストラルバスター",
-   "en": "",
+   "en": "{h}09 Astral Buster",
    "ptrs": [
     "0xC5848",
     "0xC58B4"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05A7C",
    "jp": "{h}１２　烈震気功斬",
-   "en": "",
+   "en": "{h}12 Quake Chi Slash",
    "ptrs": [
     "0xC5844"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05A90",
    "jp": "{h}０５　パレドリー",
-   "en": "",
+   "en": "{h}05 Paredory",
    "ptrs": [
     "0xC5840",
     "0xC5874"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05AA4",
    "jp": "{h}１１　プラズマセイバー",
-   "en": "",
+   "en": "{h}11 Plasma Saber",
    "ptrs": [
     "0xC5838"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05ABC",
    "jp": "{h}１１　ギルソード",
-   "en": "",
+   "en": "{h}11 Gil Sword",
    "ptrs": [
     "0xC5814",
     "0xC5824"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05AD0",
    "jp": "{h}１４　カウンターチャージ",
-   "en": "",
+   "en": "{h}14 Counter Charge",
    "ptrs": [
     "0xC5808"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05AEC",
    "jp": "{h}０２　スマートボマー",
-   "en": "",
+   "en": "{h}02 Smart Bomber",
    "ptrs": [
     "0xC5804",
     "0xC583C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05B04",
    "jp": "{h}１１　ヘビィギルブレード",
-   "en": "",
+   "en": "{h}11 Heavy Gil Blade",
    "ptrs": [
     "0xC57FC"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05B20",
    "jp": "{h}１３　パイルランサー",
-   "en": "",
+   "en": "{h}13 Pile Lancer",
    "ptrs": [
     "0xC57E8"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05B38",
    "jp": "{h}０４　ウェブバスター",
-   "en": "",
+   "en": "{h}04 Web Buster",
    "ptrs": [
     "0xC57E4",
     "0xC57F8"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05B50",
    "jp": "{h}０４　アクア・スプラッシャー",
-   "en": "",
+   "en": "{h}04 Aqua Splasher",
    "ptrs": [
     "0xC57DC",
     "0xC582C"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_05B70",
    "jp": "{h}１３　ウェグスピア",
-   "en": "",
+   "en": "{h}13 Weg Spear",
    "ptrs": [
     "0xC57C0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05B84",
    "jp": "{h}０２　カロリックブイ",
-   "en": "",
+   "en": "{h}02 Caloric Buoy",
    "ptrs": [
     "0xC57BC",
     "0xC5820"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05B9C",
    "jp": "{h}０４　エア・トーネード",
-   "en": "",
+   "en": "{h}04 Air Tornado",
    "ptrs": [
     "0xC57B4"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05BB4",
    "jp": "{h}０９　メガブラスターカノン",
-   "en": "",
+   "en": "{h}09 Mega Blaster Cannon",
    "ptrs": [
     "0xC57B0",
     "0xC57D8",
@@ -5143,260 +5263,287 @@
     "0xC5834",
     "0xC5878"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05BD0",
    "jp": "{h}１１　スラッシャーネイル",
-   "en": "",
+   "en": "{h}11 Slasher Nail",
    "ptrs": [
     "0xC57AC"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05BEC",
    "jp": "{h}１１　ブラスアタック",
-   "en": "",
+   "en": "{h}11 Brass Attack",
    "ptrs": [
     "0xC5798"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05C04",
    "jp": "{h}００　パルスクラスター",
-   "en": "",
+   "en": "{h}00 Pulse Cluster",
    "ptrs": [
     "0xC5794",
     "0xC57A8"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05C1C",
    "jp": "{h}０３　ブラスターカノン",
-   "en": "",
+   "en": "{h}03 Blaster Cannon",
    "ptrs": [
     "0xC578C",
     "0xC579C",
     "0xC57C4",
     "0xC5818"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05C34",
    "jp": "{h}１１　ギルブレード",
-   "en": "",
+   "en": "{h}11 Gil Blade",
    "ptrs": [
     "0xC5788",
     "0xC57D4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05C48",
    "jp": "{h}１１　スパイクメイス",
-   "en": "",
+   "en": "{h}11 Spike Mace",
    "ptrs": [
     "0xC5774"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05C60",
    "jp": "{h}０２　カロリックボム",
-   "en": "",
+   "en": "{h}02 Caloric Bomb",
    "ptrs": [
     "0xC5770",
     "0xC5784",
     "0xC57D0",
     "0xC5810"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05C78",
    "jp": "{h}００　パルスバルカン",
-   "en": "",
+   "en": "{h}00 Pulse Vulcan",
    "ptrs": [
     "0xC576C",
     "0xC5780",
     "0xC580C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05C90",
    "jp": "{h}１４　ナックルパート",
-   "en": "",
+   "en": "{h}14 Knuckle Part",
    "ptrs": [
     "0xC575C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05CA8",
    "jp": "{h}０４　ソニックウェーブ",
-   "en": "",
+   "en": "{h}04 Sonic Wave",
    "ptrs": [
     "0xC5758"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05CC0",
    "jp": "{h}１３　ミッドハンマー",
-   "en": "",
+   "en": "{h}13 Mid Hammer",
    "ptrs": [
     "0xC5734",
     "0xC5748"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05CD8",
    "jp": "{h}０９　バスターカノン",
-   "en": "",
+   "en": "{h}09 Buster Cannon",
    "ptrs": [
     "0xC5710",
     "0xC5724"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05CF0",
    "jp": "{h}１１　ロングソード",
-   "en": "",
+   "en": "{h}11 Long Sword",
    "ptrs": [
     "0xC570C",
     "0xC5720"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05D04",
    "jp": "{h}１４　ロケットブロー",
-   "en": "",
+   "en": "{h}14 Rocket Blow",
    "ptrs": [
     "0xC5700"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05D1C",
    "jp": "{h}０２　ブリジットカノン",
-   "en": "",
+   "en": "{h}02 Bridget Cannon",
    "ptrs": [
     "0xC56FC"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05D34",
    "jp": "{h}１４　パワーナックル",
-   "en": "",
+   "en": "{h}14 Power Knuckle",
    "ptrs": [
     "0xC56F8"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05D4C",
    "jp": "{h}０２　ブリジットガン",
-   "en": "",
+   "en": "{h}02 Bridget Gun",
    "ptrs": [
     "0xC56F4"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05D64",
    "jp": "{h}０９　ツヴァイルミネセンス",
-   "en": "",
+   "en": "{h}09 Zwei Luminescence",
    "ptrs": [
     "0xC56EC"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05D80",
    "jp": "{h}０３　アインラール",
-   "en": "",
+   "en": "{h}03 Ein Rahl",
    "ptrs": [
     "0xC56E8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05D94",
    "jp": "{h}１１　フレイムスラッシュ",
-   "en": "",
+   "en": "{h}11 Flame Slash",
    "ptrs": [
     "0xC56D8"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05DB0",
    "jp": "{h}０９　ストライクドラグーン",
-   "en": "",
+   "en": "{h}09 Strike Dragoon",
    "ptrs": [
     "0xC56D4"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05DCC",
    "jp": "{h}１１　バルディッシュ",
-   "en": "",
+   "en": "{h}11 Bardiche",
    "ptrs": [
     "0xC56D0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05DE4",
    "jp": "{h}０２　ドラグショット",
-   "en": "",
+   "en": "{h}02 Drag Shot",
    "ptrs": [
     "0xC56CC"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05DFC",
    "jp": "{h}１２　天空斬",
-   "en": "",
+   "en": "{h}12 Sky Slash",
    "ptrs": [
     "0xC56C4"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_05E0C",
    "jp": "{h}０３　アートバスター",
-   "en": "",
+   "en": "{h}03 Art Buster",
    "ptrs": [
     "0xC56C0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05E24",
    "jp": "{h}１１　ロングセイバー",
-   "en": "",
+   "en": "{h}11 Long Saber",
    "ptrs": [
     "0xC56BC",
     "0xC56E4"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05E3C",
    "jp": "{h}０２　シールプロッド",
-   "en": "",
+   "en": "{h}02 Seal Prod",
    "ptrs": [
     "0xC56B8",
     "0xC56E0",
@@ -5404,131 +5551,145 @@
     "0xC5730",
     "0xC5744"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05E54",
    "jp": "{h}１５　スペシャルアタック",
-   "en": "",
+   "en": "{h}15 Special Attack",
    "ptrs": [
     "0xC56B4"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05E70",
    "jp": "{h}０８　エレメンタルバスター",
-   "en": "",
+   "en": "{h}08 Elemental Buster",
    "ptrs": [
     "0xC56B0"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05E8C",
    "jp": "{h}０５　アルトラファミリア",
-   "en": "",
+   "en": "{h}05 Altra Familia",
    "ptrs": [
     "0xC56AC"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05EA8",
    "jp": "{h}１４　ブーストナックル",
-   "en": "",
+   "en": "{h}14 Boost Knuckle",
    "ptrs": [
     "0xC56A8"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05EC0",
    "jp": "{h}０７　ハイドロプレッシャー",
-   "en": "",
+   "en": "{h}07 Hydro Pressure",
    "ptrs": [
     "0xC569C"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05EDC",
    "jp": "{h}１３　ビルトライデント",
-   "en": "",
+   "en": "{h}13 Bill Trident",
    "ptrs": [
     "0xC5694"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05EF4",
    "jp": "{h}０６　ドラグーンバスター",
-   "en": "",
+   "en": "{h}06 Dragoon Buster",
    "ptrs": [
     "0xC568C"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05F10",
    "jp": "{h}１２　メギドスラッシャー",
-   "en": "",
+   "en": "{h}12 Megiddo Slasher",
    "ptrs": [
     "0xC5688"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05F2C",
    "jp": "{h}１１　グラントマホーク",
-   "en": "",
+   "en": "{h}11 Gran Tomahawk",
    "ptrs": [
     "0xC5680"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05F44",
    "jp": "{h}１７　アカシックドライブ",
-   "en": "",
+   "en": "{h}17 Akashic Drive",
    "ptrs": [
     "0xC5678"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_05F60",
    "jp": "{h}１２　真・天空斬",
-   "en": "",
+   "en": "{h}12 True Sky Slash",
    "ptrs": [
     "0xC5674"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05F74",
    "jp": "{h}０５　ファミリアレス",
-   "en": "",
+   "en": "{h}05 Familiaress",
    "ptrs": [
     "0xC5670",
     "0xC5684",
     "0xC5698"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05F8C",
    "jp": "{h}１１　サイ・ブレード",
-   "en": "",
+   "en": "{h}11 Cy-Blade",
    "ptrs": [
     "0xC566C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_05FA4",
    "jp": "{h}０１　アートカノン",
-   "en": "",
+   "en": "{h}01 Art Cannon",
    "ptrs": [
     "0xC5668",
     "0xC567C",
@@ -5536,2798 +5697,3148 @@
     "0xC56A4",
     "0xC571C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_A72E8",
    "jp": "靭 ",
-   "en": "",
+   "en": "Tough",
    "ptrs": [
     "0xAC4B0"
    ],
-   "max": 3
+   "max": 3,
+   "status": "done"
   },
   {
    "id": "exe_ACFD4",
    "jp": "閃き",
-   "en": "",
+   "en": "Alert",
    "lui": [
     "0x377C0",
     "0x38DF0",
     "0x394E0"
    ],
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_ACFDF",
    "jp": "　{h}１{z}回だけ、敵の攻撃を完全に回避します（必中優先）",
-   "en": "",
+   "en": "Fully evades the next {h}1{z} enemy attack (Strike overrides)",
    "lui": [
     "0x37E54"
    ],
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD032",
    "jp": "集中",
-   "en": "",
+   "en": "Focus",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD03D",
    "jp": "　{h}１タ－ン{z}の間だけ、命中率と回避率が{h}３０{z}％{h}アップ{z}します",
-   "en": "",
+   "en": "For {h}1 turn{z}, hit and evasion {h}rise{z} by {h}30{z}%",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD090",
    "jp": "根性",
-   "en": "",
+   "en": "Guts",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD09B",
    "jp": "　自分の{h}ＨＰ{z}を{h}１／３{z}分、回復します",
-   "en": "",
+   "en": "Restores {h}1/3{z} of your own {h}HP{z}",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD0EE",
    "jp": "努力",
-   "en": "",
+   "en": "Gain",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD0F9",
    "jp": "　{h}１{z}回だけ、撃墜後にもらえる経験値が{h}２{z}倍になります",
-   "en": "",
+   "en": "EXP earned for your next {h}1{z} kill is {h}x2{z}",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD14C",
    "jp": "必中",
-   "en": "",
+   "en": "Strike",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD157",
    "jp": "　{h}１{z}回だけ、命中率を{h}１００{z}％にします",
-   "en": "",
+   "en": "Raises hit rate to {h}100{z}% for {h}1{z} attack",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD1AA",
    "jp": "信頼",
-   "en": "",
+   "en": "Trust",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD1B5",
    "jp": "　指定した味方{h}ユニット１{z}体の{h}ＨＰ{z}を{h}１／３{z}分、回復します",
-   "en": "",
+   "en": "Restores {h}1/3{z} of the {h}HP{z} of {h}1 ally unit{z} you choose",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD208",
    "jp": "鉄壁",
-   "en": "",
+   "en": "Iron Wall",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD213",
    "jp": "　{h}１タ－ン{z}の間だけ、自分の装甲が{h}２{z}倍になります",
-   "en": "",
+   "en": "For {h}1 turn{z}, your armor is {h}x2{z}",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD266",
    "jp": "熱血",
-   "en": "",
+   "en": "Valor",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD271",
    "jp": "　{h}１{z}回だけ、敵にあたえる{h}ダメ－ジ{z}が{h}２{z}倍になります",
-   "en": "",
+   "en": "Your next {h}1{z} attack deals {h}x2{z} {h}damage{z}",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD2C4",
    "jp": "ド根性",
-   "en": "",
+   "en": "True Grit",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD2CF",
    "jp": "　自分の{h}ＨＰ{z}を完全に回復します",
-   "en": "",
+   "en": "Fully restores your own {h}HP{z}",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD322",
    "jp": "Ｐ回復",
-   "en": "",
+   "en": "Prana Heal",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD32D",
    "jp": "　自分の減少した{h}プラ－ナ{z}を少しだけ回復します",
-   "en": "",
+   "en": "Restores a little of your spent {h}Prana{z}",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD380",
    "jp": "呪縛",
-   "en": "",
+   "en": "Spellbind",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD38B",
    "jp": "指定した敵{h}ユニット１{z}体を、{h}１タ－ン{z}の間だけ移動不能にします",
-   "en": "",
+   "en": "Leaves {h}1 enemy unit{z} you choose unable to move for {h}1 turn{z}",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD3DE",
    "jp": "魂",
-   "en": "",
+   "en": "Soul",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD3E9",
    "jp": "　{h}１{z}回だけ、敵に与える{h}ダメ－ジ{z}が{h}３{z}倍になります",
-   "en": "",
+   "en": "Your next {h}1{z} attack deals {h}x3{z} {h}damage{z}",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD43C",
    "jp": "撹乱",
-   "en": "",
+   "en": "Disrupt",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD447",
    "jp": "{h}１タ－ン{z}の間だけ、敵の命中率を{h}１／２{z}にします（必中優先）",
-   "en": "",
+   "en": "For {h}1 turn{z}, enemy hit rates fall to {h}1/2{z} (Strike overrides)",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD49A",
    "jp": "友情",
-   "en": "",
+   "en": "Friendship",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD4A5",
    "jp": "　すべての味方{h}ユニット{z}の{h}ＨＰ{z}を{h}１／２{z}分、回復します",
-   "en": "",
+   "en": "Restores {h}1/2{z} of the {h}HP{z} of all allied {h}units{z}",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD4F8",
    "jp": "愛",
-   "en": "",
+   "en": "Love",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD503",
    "jp": "　すべての味方{h}ユニット{z}の{h}ＨＰ{z}を完全に回復します",
-   "en": "",
+   "en": "Fully restores the {h}HP{z} of all allied {h}units{z}",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD5B4",
    "jp": "{h}？？？{z}",
-   "en": "",
+   "en": "{h}???{z}",
    "region": "spirit",
-   "max": 10
+   "max": 10,
+   "status": "done"
   },
   {
    "id": "exe_AD5BF",
    "jp": "未習得精神コマンドです",
-   "en": "",
+   "en": "This spirit command has not been learned yet.",
    "region": "spirit",
-   "max": 78
+   "max": 78,
+   "status": "done"
   },
   {
    "id": "exe_AD684",
    "jp": "　　ゴーレムをすべて破壊する。　　　",
-   "en": "",
+   "en": "Destroy all Golems.",
    "lui": [
     "0x3C230",
     "0x3C270"
    ],
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD6A9",
    "jp": "　　ダウスの魔物をすべて倒す。　　　",
-   "en": "",
+   "en": "Defeat all monsters of Daus.",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD6CE",
    "jp": "　　　　敵を全滅させる。　　　　　　",
-   "en": "",
+   "en": "Wipe out all enemies.",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD6F3",
    "jp": "　　　試合を勝ち進む事。　　　　　　",
-   "en": "",
+   "en": "Keep winning your matches.",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD718",
    "jp": "　　　　　ソッドを倒す。　　　　　　",
-   "en": "",
+   "en": "Defeat Thodd.",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD73D",
    "jp": "　　　　　ミラを倒す。　　　　　　　",
-   "en": "",
+   "en": "Defeat Mira.",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD762",
    "jp": "　　　　セルドナを倒す。　　　　　　",
-   "en": "",
+   "en": "Defeat Zeldna.",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD787",
    "jp": "　　プラーナボムが爆発する前に、　　",
-   "en": "",
+   "en": "Before the Prana Bomb explodes,",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD7AC",
    "jp": "　　４機のドガリニを同時に倒す。　　",
-   "en": "",
+   "en": "defeat all 4 Dogarini at once.",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD7D1",
    "jp": "　　　　アデノイドを倒す。　　　　　",
-   "en": "",
+   "en": "Defeat Adenoid.",
    "region": "objective",
-   "max": 38
+   "max": 38,
+   "status": "done"
   },
   {
    "id": "exe_AD7F8",
    "jp": "　　　　ケイゴが倒される。　　　　　",
-   "en": "",
+   "en": "Keigo is defeated.",
    "lui": [
     "0x3C384",
     "0x3C3A0"
    ],
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD81D",
    "jp": "　ケイゴまたはアルマが倒される。　　",
-   "en": "",
+   "en": "Keigo or Alma is defeated.",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD842",
    "jp": "　            なし　　　　　　　　　",
-   "en": "",
+   "en": "None",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD867",
    "jp": "　　　魔装機神が破壊される。　　　　",
-   "en": "",
+   "en": "A Masoukishin is destroyed.",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD88C",
    "jp": "      魔装機神または、　　　　　　　",
-   "en": "",
+   "en": "A Masoukishin or",
    "region": "objective",
-   "max": 36
+   "max": 36,
+   "status": "done"
   },
   {
    "id": "exe_AD8B1",
    "jp": "　　　ティルウェスが破壊される。 　 ",
-   "en": "",
+   "en": "Tilwes is destroyed.",
    "region": "objective",
-   "max": 38
+   "max": 38,
+   "status": "done"
   },
   {
    "id": "exe_B3930",
    "jp": "メモリーカード１はフォーマットされていません\nフォーマットしてもよろしいですか？",
-   "en": "",
+   "en": "Memory Card 1 is not formatted.\nFormat it now?",
    "ptrs": [
     "0xB4648"
    ],
-   "max": 79
+   "max": 79,
+   "status": "done"
   },
   {
    "id": "exe_B3980",
    "jp": "メモリーカード１は壊れています\n別のメモリーカードをセットしてください",
-   "en": "",
+   "en": "Memory Card 1 is damaged.\nPlease insert another memory card.",
    "ptrs": [
     "0xB4650"
    ],
-   "max": 71
+   "max": 71,
+   "status": "done"
   },
   {
    "id": "exe_B39C8",
    "jp": "空きブロックが足りません\n別のメモリーカードをセットするか、メモリー\nカード管理画面で不要なデータを消してください",
-   "en": "",
+   "en": "Not enough free blocks.\nInsert another memory card, or delete\nunneeded data in the card manager screen.",
    "ptrs": [
     "0xB4658"
    ],
-   "max": 115
+   "max": 115,
+   "status": "done"
   },
   {
    "id": "exe_B3A3C",
    "jp": "すでにメモリーカード上にファイルが存在します\n上書きしてよろしいですか？",
-   "en": "",
+   "en": "A file already exists on the memory card.\nOverwrite it?",
    "ptrs": [
     "0xB4660"
    ],
-   "max": 71
+   "max": 71,
+   "status": "done"
   },
   {
    "id": "exe_B3A84",
    "jp": "データの書き込みに失敗しました",
-   "en": "",
+   "en": "Failed to save the data.",
    "ptrs": [
     "0xB4668"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B3AA4",
    "jp": "フォーマットに失敗しました",
-   "en": "",
+   "en": "Formatting failed.",
    "ptrs": [
     "0xB4670"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_B3AC0",
    "jp": "メモリーカード１にはデータがありません\n別のメモリーカードをセットしてください",
-   "en": "",
+   "en": "Memory Card 1 has no data.\nPlease insert another memory card.",
    "ptrs": [
     "0xB4678"
    ],
-   "max": 79
+   "max": 79,
+   "status": "done"
   },
   {
    "id": "exe_B3B10",
    "jp": "メモリーカード１の読み込みに失敗しました",
-   "en": "",
+   "en": "Failed to read Memory Card 1.",
    "ptrs": [
     "0xB4680"
    ],
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_B3B3C",
    "jp": "メモリーカード差込口１に\nメモリーカードがセットされていません",
-   "en": "",
+   "en": "No memory card is inserted\nin memory card slot 1.",
    "ptrs": [
     "0xB4688"
    ],
-   "max": 63
+   "max": 63,
+   "status": "done"
   },
   {
    "id": "exe_B3B7C",
    "jp": "メモリーカード差込口を選んでください",
-   "en": "",
+   "en": "Select a memory card slot.",
    "ptrs": [
     "0xB4690"
    ],
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_B3BA4",
    "jp": "セーブしてよろしいですか？",
-   "en": "",
+   "en": "Do you want to save?",
    "ptrs": [
     "0xB4698"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_B3BC0",
    "jp": "チェックしています\nメモリーカード、コントローラの抜き差しや\nディスクカバーを開けたりしないでください",
-   "en": "",
+   "en": "Checking...\nDo not remove the memory card or\ncontroller, or open the disc cover.",
    "ptrs": [
     "0xB46A0"
    ],
-   "max": 103
+   "max": 103,
+   "status": "done"
   },
   {
    "id": "exe_B3C28",
    "jp": "データを読み込んでいます\nメモリーカード、コントローラの抜き差しや\nディスクカバーを開けたりしないでください",
-   "en": "",
+   "en": "Loading data...\nDo not remove the memory card or\ncontroller, or open the disc cover.",
    "ptrs": [
     "0xB46A8"
    ],
-   "max": 107
+   "max": 107,
+   "status": "done"
   },
   {
    "id": "exe_B3C94",
    "jp": "データを書き込んでいます\nメモリーカード、コントローラの抜き差しや\nディスクカバーを開けたりしないでください",
-   "en": "",
+   "en": "Saving data...\nDo not remove the memory card or\ncontroller, or open the disc cover.",
    "ptrs": [
     "0xB46B0"
    ],
-   "max": 107
+   "max": 107,
+   "status": "done"
   },
   {
    "id": "exe_B3D00",
    "jp": "フォーマットしています\nメモリーカード、コントローラの抜き差しや\nディスクカバーを開けたりしないでください",
-   "en": "",
+   "en": "Formatting...\nDo not remove the memory card or\ncontroller, or open the disc cover.",
    "ptrs": [
     "0xB46B8"
    ],
-   "max": 107
+   "max": 107,
+   "status": "done"
   },
   {
    "id": "exe_B3D6C",
    "jp": "データの書き込みは終了しました",
-   "en": "",
+   "en": "Finished saving data.",
    "ptrs": [
     "0xB46C0"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B3D8C",
    "jp": "メモリーカード１には\nシステムデータがありません\n作成しますか？",
-   "en": "",
+   "en": "Memory Card 1 has\nno system data.\nCreate it?",
    "ptrs": [
     "0xB46C8"
    ],
-   "max": 63
+   "max": 63,
+   "status": "done"
   },
   {
    "id": "exe_B3DCC",
    "jp": "メモリーカード１のチェックに失敗しました",
-   "en": "",
+   "en": "Failed to check Memory Card 1.",
    "ptrs": [
     "0xB46D0"
    ],
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_B3DF8",
    "jp": "戦闘経過の状態を\nメモリーカード１にセーブしますか？\nセーブすると前のシステムデータは失われます",
-   "en": "",
+   "en": "Save your battle progress\nto Memory Card 1?\nThe old system data will be lost.",
    "ptrs": [
     "0xB46D8"
    ],
-   "max": 95
+   "max": 95,
+   "status": "done"
   },
   {
    "id": "exe_B3E58",
    "jp": "メモリーカード１にはゲームデータがありません",
-   "en": "",
+   "en": "Memory Card 1 has no game data.",
    "ptrs": [
     "0xB46E0"
    ],
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_B3E88",
    "jp": "データの読み込みが終了しました",
-   "en": "",
+   "en": "Finished loading data.",
    "ptrs": [
     "0xB46E8"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B3EA8",
    "jp": "メモリーカード１には\nシステムデータがありません",
-   "en": "",
+   "en": "Memory Card 1 has\nno system data.",
    "ptrs": [
     "0xB46F0"
    ],
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_B3ED8",
    "jp": "フォーマットは終了しました",
-   "en": "",
+   "en": "Format complete.",
    "ptrs": [
     "0xB46F8"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_B3EF4",
    "jp": "メモリーカード１のシステムデータは壊れています",
-   "en": "",
+   "en": "Memory Card 1 system data is corrupted.",
    "ptrs": [
     "0xB4700"
    ],
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_B3F24",
    "jp": "メモリーカード１にはシステムデータが\nないため、戦闘経過をセーブできません\nシステムデータを作成しますか？",
-   "en": "",
+   "en": "Memory Card 1 has no system data,\nso battle progress can't be saved.\nCreate system data?",
    "ptrs": [
     "0xB4708"
    ],
-   "max": 107
+   "max": 107,
+   "status": "done"
   },
   {
    "id": "exe_B3F90",
    "jp": "メモリーカード１には\nシステムデータがありません",
-   "en": "",
+   "en": "Memory Card 1 has\nno system data.",
    "ptrs": [
     "0xB4710"
    ],
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_B3FC0",
    "jp": "メモリーカード１のゲームデータは壊れています",
-   "en": "",
+   "en": "Memory Card 1 game data is corrupted.",
    "ptrs": [
     "0xB4718"
    ],
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_B3FF0",
    "jp": "メモリーカード１はフォーマットされていません",
-   "en": "",
+   "en": "Memory Card 1 is not formatted.",
    "ptrs": [
     "0xB4720"
    ],
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_B4020",
    "jp": "メモリーカード１には\n途中経過がセーブされていません",
-   "en": "",
+   "en": "Memory Card 1 has\nno saved progress.",
    "ptrs": [
     "0xB4728"
    ],
-   "max": 55
+   "max": 55,
+   "status": "done"
   },
   {
    "id": "exe_B4058",
    "jp": "メモリーカードがフォーマットされていません。\nフォーマットしても、よろしいですか？",
-   "en": "",
+   "en": "The memory card is not formatted.\nFormat it now?",
    "ptrs": [
     "0xB4738"
    ],
-   "max": 83
+   "max": 83,
+   "status": "done"
   },
   {
    "id": "exe_B40AC",
    "jp": "メモリーカードが壊れています。\n別のメモリーカードをセットして下さい。",
-   "en": "",
+   "en": "The memory card is damaged.\nPlease insert another memory card.",
    "ptrs": [
     "0xB4740"
    ],
-   "max": 71
+   "max": 71,
+   "status": "done"
   },
   {
    "id": "exe_B40F4",
    "jp": "空きブロックが足りません\n別のメモリーカードをセットするか、メモリー\nカード管理画面で不要なデータを消して下さい",
-   "en": "",
+   "en": "Not enough free blocks.\nInsert another memory card, or delete\nunneeded data in the card manager screen.",
    "ptrs": [
     "0xB4748"
    ],
-   "max": 111
+   "max": 111,
+   "status": "done"
   },
   {
    "id": "exe_B4164",
    "jp": "すでにメモリーカード上にファイルが存在します。\n上書きして、よろしいですか？",
-   "en": "",
+   "en": "A file already exists on the memory card.\nOverwrite it?",
    "ptrs": [
     "0xB4750"
    ],
-   "max": 75
+   "max": 75,
+   "status": "done"
   },
   {
    "id": "exe_B41B0",
    "jp": "データの書きこみに失敗しました…",
-   "en": "",
+   "en": "Failed to save the data...",
    "ptrs": [
     "0xB4758"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_B41D4",
    "jp": "フォーマットに失敗しました…",
-   "en": "",
+   "en": "Formatting failed...",
    "ptrs": [
     "0xB4760"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B41F4",
    "jp": "メモリーカード２にデータがありません。\nメモリーカードをセットして下さい。",
-   "en": "",
+   "en": "Memory Card 2 has no data.\nPlease insert a memory card.",
    "ptrs": [
     "0xB4768"
    ],
-   "max": 75
+   "max": 75,
+   "status": "done"
   },
   {
    "id": "exe_B4240",
    "jp": "メモリーカード２の読み込みに失敗しました。",
-   "en": "",
+   "en": "Failed to read Memory Card 2.",
    "ptrs": [
     "0xB4770"
    ],
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_B426C",
    "jp": "メモリーカードがありません。\nメモリーカードをスロット２にセットして下さい",
-   "en": "",
+   "en": "No memory card found.\nPlease insert one into slot 2.",
    "ptrs": [
     "0xB4778"
    ],
-   "max": 75
+   "max": 75,
+   "status": "done"
   },
   {
    "id": "exe_B42B8",
    "jp": "メモリーカード差込口を選んでください。",
-   "en": "",
+   "en": "Select a memory card slot.",
    "ptrs": [
     "0xB4780"
    ],
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_B42E0",
    "jp": "セーブしてよろしいですか？",
-   "en": "",
+   "en": "Do you want to save?",
    "ptrs": [
     "0xB4788"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_B42FC",
    "jp": "チェックしています\nメモリーカード、コントローラのぬきさしや\nディスクカバーをあけたりしないでください！",
-   "en": "",
+   "en": "Checking...\nDo not remove the memory card or\ncontroller, or open the disc cover!",
    "ptrs": [
     "0xB4790"
    ],
-   "max": 103
+   "max": 103,
+   "status": "done"
   },
   {
    "id": "exe_B4364",
    "jp": "データを読みこんでいます\nメモリーカード、コントローラのぬきさしや\nディスクカバーをあけたりしないでください！",
-   "en": "",
+   "en": "Loading data...\nDo not remove the memory card or\ncontroller, or open the disc cover!",
    "ptrs": [
     "0xB4798"
    ],
-   "max": 111
+   "max": 111,
+   "status": "done"
   },
   {
    "id": "exe_B43D4",
    "jp": "データを書きこんでいます\nメモリーカード、コントローラのぬきさしや\nディスクカバーをあけたりしないでください！",
-   "en": "",
+   "en": "Saving data...\nDo not remove the memory card or\ncontroller, or open the disc cover!",
    "ptrs": [
     "0xB47A0"
    ],
-   "max": 111
+   "max": 111,
+   "status": "done"
   },
   {
    "id": "exe_B4444",
    "jp": "フォーマットしています\nメモリーカード、コントローラのぬきさしや\nディスクカバーをあけたりしないでください！",
-   "en": "",
+   "en": "Formatting...\nDo not remove the memory card or\ncontroller, or open the disc cover!",
    "ptrs": [
     "0xB47A8"
    ],
-   "max": 107
+   "max": 107,
+   "status": "done"
   },
   {
    "id": "exe_B44B0",
    "jp": "データの書きこみが終了しました",
-   "en": "",
+   "en": "Finished saving data.",
    "ptrs": [
     "0xB47B0"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B44D0",
    "jp": "メモリーカード２にシステムデータがありません。\n作成いたしますか？",
-   "en": "",
+   "en": "Memory Card 2 has no system data.\nCreate it?",
    "ptrs": [
     "0xB47B8"
    ],
-   "max": 67
+   "max": 67,
+   "status": "done"
   },
   {
    "id": "exe_B4514",
    "jp": "メモリーカード２のチェックに失敗しました",
-   "en": "",
+   "en": "Failed to check Memory Card 2.",
    "ptrs": [
     "0xB47C0"
    ],
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_B4540",
    "jp": "途中経過をメモリーカード２にセーブしますか？",
-   "en": "",
+   "en": "Save your progress to Memory Card 2?",
    "ptrs": [
     "0xB47C8"
    ],
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_B4570",
    "jp": "メモリーカード２にステージデータがありません",
-   "en": "",
+   "en": "Memory Card 2 has no stage data.",
    "ptrs": [
     "0xB47D0"
    ],
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_B45A0",
    "jp": "データの読み込みが終了しました",
-   "en": "",
+   "en": "Finished loading data.",
    "ptrs": [
     "0xB47D8"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B45C0",
    "jp": "メモリーカード２にシステムデータがありません",
-   "en": "",
+   "en": "Memory Card 2 has no system data.",
    "ptrs": [
     "0xB47E0"
    ],
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_B45F0",
    "jp": "フォーマットが終了しました",
-   "en": "",
+   "en": "Format complete.",
    "ptrs": [
     "0xB47E8"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_B460C",
    "jp": "メモリーカード２のシステムデータが壊れています",
-   "en": "",
+   "en": "Memory Card 2 system data is corrupted.",
    "ptrs": [
     "0xB47F0"
    ],
-   "max": 48
+   "max": 48,
+   "status": "done"
   },
   {
    "id": "exe_B4944",
    "jp": "まそうきしんのセーブ・データです。",
-   "en": "",
+   "en": "Masoukishin save data.",
    "region": "mcard",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_B4968",
    "jp": "真・魔装機神システム",
-   "en": "",
+   "en": "Shin Masoukishin System",
    "lui": [
     "0x65690"
    ],
    "region": "mcard",
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_B4980",
    "jp": "真・魔装機神ＤＡＴＡ０１",
-   "en": "",
+   "en": "Shin Masoukishin DATA01",
    "lui": [
     "0x653C0"
    ],
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B4999",
    "jp": "真・魔装機神ＤＡＴＡ０２",
-   "en": "",
+   "en": "Shin Masoukishin DATA02",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B49B2",
    "jp": "真・魔装機神ＤＡＴＡ０３",
-   "en": "",
+   "en": "Shin Masoukishin DATA03",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B49CB",
    "jp": "真・魔装機神ＤＡＴＡ０４",
-   "en": "",
+   "en": "Shin Masoukishin DATA04",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B49E4",
    "jp": "真・魔装機神ＤＡＴＡ０５",
-   "en": "",
+   "en": "Shin Masoukishin DATA05",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B49FD",
    "jp": "真・魔装機神ＤＡＴＡ０６",
-   "en": "",
+   "en": "Shin Masoukishin DATA06",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B4A16",
    "jp": "真・魔装機神ＤＡＴＡ０７",
-   "en": "",
+   "en": "Shin Masoukishin DATA07",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B4A2F",
    "jp": "真・魔装機神ＤＡＴＡ０８",
-   "en": "",
+   "en": "Shin Masoukishin DATA08",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B4A48",
    "jp": "真・魔装機神ＤＡＴＡ０９",
-   "en": "",
+   "en": "Shin Masoukishin DATA09",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B4A61",
    "jp": "真・魔装機神ＤＡＴＡ１０",
-   "en": "",
+   "en": "Shin Masoukishin DATA10",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B4A7A",
    "jp": "真・魔装機神ＤＡＴＡ１１",
-   "en": "",
+   "en": "Shin Masoukishin DATA11",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B4A93",
    "jp": "真・魔装機神ＤＡＴＡ１２",
-   "en": "",
+   "en": "Shin Masoukishin DATA12",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B4AAC",
    "jp": "真・魔装機神ＤＡＴＡ１３",
-   "en": "",
+   "en": "Shin Masoukishin DATA13",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B4AC5",
    "jp": "真・魔装機神ＤＡＴＡ１４",
-   "en": "",
+   "en": "Shin Masoukishin DATA14",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B4ADE",
    "jp": "真・魔装機神ＤＡＴＡ１５",
-   "en": "",
+   "en": "Shin Masoukishin DATA15",
    "region": "mcard",
-   "max": 24
+   "max": 24,
+   "status": "done"
   },
   {
    "id": "exe_B5E40",
    "jp": "ＤＡＴＡ　０１",
-   "en": "",
+   "en": "DATA 01",
    "ptrs": [
     "0xB5F30"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5E50",
    "jp": "ＤＡＴＡ　０２",
-   "en": "",
+   "en": "DATA 02",
    "ptrs": [
     "0xB5F34"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5E60",
    "jp": "ＤＡＴＡ　０３",
-   "en": "",
+   "en": "DATA 03",
    "ptrs": [
     "0xB5F38"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5E70",
    "jp": "ＤＡＴＡ　０４",
-   "en": "",
+   "en": "DATA 04",
    "ptrs": [
     "0xB5F3C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5E80",
    "jp": "ＤＡＴＡ　０５",
-   "en": "",
+   "en": "DATA 05",
    "ptrs": [
     "0xB5F40"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5E90",
    "jp": "ＤＡＴＡ　０６",
-   "en": "",
+   "en": "DATA 06",
    "ptrs": [
     "0xB5F44"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5EA0",
    "jp": "ＤＡＴＡ　０７",
-   "en": "",
+   "en": "DATA 07",
    "ptrs": [
     "0xB5F48"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5EB0",
    "jp": "ＤＡＴＡ　０８",
-   "en": "",
+   "en": "DATA 08",
    "ptrs": [
     "0xB5F4C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5EC0",
    "jp": "ＤＡＴＡ　０９",
-   "en": "",
+   "en": "DATA 09",
    "ptrs": [
     "0xB5F50"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5ED0",
    "jp": "ＤＡＴＡ　１０",
-   "en": "",
+   "en": "DATA 10",
    "ptrs": [
     "0xB5F54"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5EE0",
    "jp": "ＤＡＴＡ　１１",
-   "en": "",
+   "en": "DATA 11",
    "ptrs": [
     "0xB5F58"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5EF0",
    "jp": "ＤＡＴＡ　１２",
-   "en": "",
+   "en": "DATA 12",
    "ptrs": [
     "0xB5F5C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5F00",
    "jp": "ＤＡＴＡ　１３",
-   "en": "",
+   "en": "DATA 13",
    "ptrs": [
     "0xB5F60"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5F10",
    "jp": "ＤＡＴＡ　１４",
-   "en": "",
+   "en": "DATA 14",
    "ptrs": [
     "0xB5F64"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5F20",
    "jp": "ＤＡＴＡ　１５",
-   "en": "",
+   "en": "DATA 15",
    "ptrs": [
     "0xB5F68"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5F6C",
    "jp": "魔装騎士　まで",
-   "en": "",
+   "en": "Masou Knight",
    "ptrs": [
     "0xB6200"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5F7C",
    "jp": "神の腕　まで",
-   "en": "",
+   "en": "The Arm of God",
    "ptrs": [
     "0xB6204"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B5F8C",
    "jp": "予感　まで",
-   "en": "",
+   "en": "Premonition",
    "ptrs": [
     "0xB6208"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_B5F98",
    "jp": "むかいあう者たち　まで",
-   "en": "",
+   "en": "Facing Each Other",
    "ptrs": [
     "0xB620C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_B5FB0",
    "jp": "転げ落ちる石　まで",
-   "en": "",
+   "en": "The Tumbling Stone",
    "ptrs": [
     "0xB6210"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B5FC4",
    "jp": "運命　まで",
-   "en": "",
+   "en": "Fate",
    "ptrs": [
     "0xB6214"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_B5FD0",
    "jp": "決闘！西方騎士隊　まで",
-   "en": "",
+   "en": "Duel! Western Knights",
    "ptrs": [
     "0xB6218"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_B5FE8",
    "jp": "崩壊の序曲　まで",
-   "en": "",
+   "en": "Prelude to Collapse",
    "ptrs": [
     "0xB621C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B5FFC",
    "jp": "無謀と勇気と　まで",
-   "en": "",
+   "en": "Recklessness and Courage",
    "ptrs": [
     "0xB6220"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B6010",
    "jp": "王都への道　まで",
-   "en": "",
+   "en": "To the Royal Capital",
    "ptrs": [
     "0xB6224"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B6024",
    "jp": "魔装機神　まで",
-   "en": "",
+   "en": "Masoukishin",
    "ptrs": [
     "0xB6228"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B6034",
    "jp": "アルマ　まで",
-   "en": "",
+   "en": "Alma",
    "ptrs": [
     "0xB622C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B6044",
    "jp": "陰と陽　まで",
-   "en": "",
+   "en": "Yin and Yang",
    "ptrs": [
     "0xB6230"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B6054",
    "jp": "悪霊の森　まで",
-   "en": "",
+   "en": "Forest of Evil Spirits",
    "ptrs": [
     "0xB6234"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B6064",
    "jp": "捨てられた者の叫び　まで",
-   "en": "",
+   "en": "Cry of the Forsaken",
    "ptrs": [
     "0xB6238"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_B6080",
    "jp": "ダウス　まで",
-   "en": "",
+   "en": "Daus",
    "ptrs": [
     "0xB623C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B6090",
    "jp": "回交点　まで",
-   "en": "",
+   "en": "The Crossing Point",
    "ptrs": [
     "0xB6240"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B60A0",
    "jp": "道　まで",
-   "en": "",
+   "en": "The Path",
    "ptrs": [
     "0xB6244"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_B60AC",
    "jp": "裏切りの味　まで",
-   "en": "",
+   "en": "Taste of Betrayal",
    "ptrs": [
     "0xB6248"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B60C0",
    "jp": "新たなる戦い　まで",
-   "en": "",
+   "en": "A New Battle",
    "ptrs": [
     "0xB624C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B60D4",
    "jp": "秘められた力　まで",
-   "en": "",
+   "en": "Hidden Power",
    "ptrs": [
     "0xB6250"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B60E8",
    "jp": "決別　まで",
-   "en": "",
+   "en": "Parting",
    "ptrs": [
     "0xB6254"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_B60F4",
    "jp": "虎の尾を踏む者たち　まで",
-   "en": "",
+   "en": "Tread on a Tiger's Tail",
    "ptrs": [
     "0xB6258"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_B6110",
    "jp": "荒野の七騎士　まで",
-   "en": "",
+   "en": "Seven Wasteland Knights",
    "ptrs": [
     "0xB625C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B6124",
    "jp": "解放　まで",
-   "en": "",
+   "en": "Liberation",
    "ptrs": [
     "0xB6260"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_B6130",
    "jp": "カミチル闇　まで",
-   "en": "",
+   "en": "Darkness Where Gods Fall",
    "ptrs": [
     "0xB6264"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B6144",
    "jp": "神でなく人として　まで",
-   "en": "",
+   "en": "As a Man, Not a God",
    "ptrs": [
     "0xB6268"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_B615C",
    "jp": "暗躍する影　まで",
-   "en": "",
+   "en": "Shadows Moving in Secret",
    "ptrs": [
     "0xB626C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B6170",
    "jp": "砲声　まで",
-   "en": "",
+   "en": "Cannon Fire",
    "ptrs": [
     "0xB6270"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_B617C",
    "jp": "野望のはてるとき前編　まで",
-   "en": "",
+   "en": "When Ambition Ends, Part 1",
    "ptrs": [
     "0xB6274"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_B6198",
    "jp": "野望のはてるとき後編　まで",
-   "en": "",
+   "en": "When Ambition Ends, Part 2",
    "ptrs": [
     "0xB6278"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_B61B4",
    "jp": "宴の始まり　まで",
-   "en": "",
+   "en": "The Feast Begins",
    "ptrs": [
     "0xB627C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B61C8",
    "jp": "邪神降臨　まで",
-   "en": "",
+   "en": "Advent of the Evil God",
    "ptrs": [
     "0xB6280"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_B61D8",
    "jp": "最後の希望　まで",
-   "en": "",
+   "en": "The Last Hope",
    "ptrs": [
     "0xB6284"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B61EC",
    "jp": "輝ける明日へ　まで",
-   "en": "",
+   "en": "To a Shining Tomorrow",
    "ptrs": [
     "0xB6288"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_B76D4",
    "jp": "　　　　操者",
-   "en": "",
+   "en": "Pilot",
    "lui": [
     "0x762D8",
     "0x7697C",
     "0x76E60"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7702",
    "jp": "　　　　　　",
-   "en": "",
+   "en": "-",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7730",
    "jp": "　　　魔装機",
-   "en": "",
+   "en": "Masouki",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B775E",
    "jp": "　　　　武器",
-   "en": "",
+   "en": "Weapon",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B778C",
    "jp": "ＨＰ／ＭＡＸ",
-   "en": "",
+   "en": "HP/MAX",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B77BA",
    "jp": "　　　　　　",
-   "en": "",
+   "en": "-",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B77E8",
    "jp": "　　ダメージ",
-   "en": "",
+   "en": "Damage",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7816",
    "jp": "　　プラーナ",
-   "en": "",
+   "en": "Prana",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7844",
    "jp": "　攻／Ｈ／防",
-   "en": "",
+   "en": "Atk/Hit/Def",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7872",
    "jp": "　　　　　　",
-   "en": "",
+   "en": "-",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B78A0",
    "jp": "　　　　　　",
-   "en": "",
+   "en": "-",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B78CE",
    "jp": "動作　防御時",
-   "en": "",
+   "en": "Action: Defending",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B78FC",
    "jp": "先　　　　　",
-   "en": "",
+   "en": "First",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B792A",
    "jp": "反　　　　　",
-   "en": "",
+   "en": "Counter",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7958",
    "jp": "燃　　　　　",
-   "en": "",
+   "en": "Burn",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7986",
    "jp": "電　　　　　",
-   "en": "",
+   "en": "Shock",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B79B4",
    "jp": "Ｃ　　　　　",
-   "en": "",
+   "en": "C",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B79E2",
    "jp": "破　　　　　",
-   "en": "",
+   "en": "Break",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7A10",
    "jp": "方　　　　　",
-   "en": "",
+   "en": "Facing",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7A3E",
    "jp": "ステージ地形",
-   "en": "",
+   "en": "Stage Terrain",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7A6C",
    "jp": "　　　　　　",
-   "en": "",
+   "en": "-",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_B7A9A",
    "jp": "　　レイヤー",
-   "en": "",
+   "en": "Layer",
    "region": "status",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C3DC8",
    "jp": "「一撃でしとめてみせる！」",
-   "en": "",
+   "en": "One blow is all I need!",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C3DE4",
    "jp": "「くっ、かすっただけだっ！」",
-   "en": "",
+   "en": "Ngh, it only grazed me!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C3E04",
    "jp": "「力押しなら・・・負けはしない！」",
-   "en": "",
+   "en": "In raw power... I won't lose!",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C3E28",
    "jp": "「オレが負けたのか！？」",
-   "en": "",
+   "en": "Have I been beaten!?",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C3E44",
    "jp": "「うわああぁぁっ！！」",
-   "en": "",
+   "en": "Waaaaaah!!",
    "region": "quote",
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_C3E5C",
    "jp": "「うかつなぁっ！」",
-   "en": "",
+   "en": "Careless!",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C3E70",
    "jp": "「見える！！」",
-   "en": "",
+   "en": "I can see it!!",
    "region": "quote",
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_C3E80",
    "jp": "「落ちろォォォォォッ！！」",
-   "en": "",
+   "en": "Go doooooown!!",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C3E9C",
    "jp": "「はあああぁぁぁっ！！」",
-   "en": "",
+   "en": "Haaaaaah!!",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C3EB8",
    "jp": "「邪魔なんだよっ！！」",
-   "en": "",
+   "en": "Out of my way!!",
    "region": "quote",
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_C3ED0",
    "jp": "「気合を入れないと、あたしは殺れないよ！！」",
-   "en": "",
+   "en": "You'll need more fire than that to kill me!!",
    "region": "quote",
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_C3F00",
    "jp": "「ちょっとあんたっ！！　卑怯だよ！！」",
-   "en": "",
+   "en": "Hey, you!! That's dirty!!",
    "region": "quote",
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_C3F28",
    "jp": "「よくもやってくれたなっ！！」",
-   "en": "",
+   "en": "You'll pay for that!!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C3F48",
    "jp": "「ぬあっ、まっまずいっ！！」",
-   "en": "",
+   "en": "Nwah! Th-this is bad!!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C3F68",
    "jp": "「うがーっ、今のはちょっと利いたぜ！！」",
-   "en": "",
+   "en": "Grraah! Okay, that one stung!!",
    "region": "quote",
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_C3F94",
    "jp": "「ふっ、うぐっ」",
-   "en": "",
+   "en": "Hmph... ugh!",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C3FA8",
    "jp": "「直撃？！」",
-   "en": "",
+   "en": "Direct hit!?",
    "region": "quote",
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_C3FB8",
    "jp": "「ぬふっ、最後の意地をかけての悪あがきか？」",
-   "en": "",
+   "en": "Heh, one last stubborn struggle, is it?",
    "region": "quote",
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_C3FE8",
    "jp": "「天空剣！！」",
-   "en": "",
+   "en": "Sky Sword!!",
    "region": "quote",
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_C3FF8",
    "jp": "「クルーアロー」",
-   "en": "",
+   "en": "Cruel Arrow",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C400C",
    "jp": "「うわーっ、だっだめだーっ」",
-   "en": "",
+   "en": "Waaah! I-I can't take it!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C402C",
    "jp": "「うわっ、くそっ、しんご、しっかりやってくれ」",
-   "en": "",
+   "en": "Whoa, damn! Shingo, get it together!",
    "region": "quote",
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_C405C",
    "jp": "「ぬあっ、こいつはぶが悪いぜ」",
-   "en": "",
+   "en": "Gah! The odds ain't good!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C407C",
    "jp": "「やれやれ、この程度か」",
-   "en": "",
+   "en": "Geez, is that all?",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C4098",
    "jp": "「そこだっ」",
-   "en": "",
+   "en": "There!",
    "region": "quote",
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_C40A8",
    "jp": "「・・・・・・」",
-   "en": "",
+   "en": "...",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C40BC",
    "jp": "「はー、届かんっ」",
-   "en": "",
+   "en": "Haah, can't reach!",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C40D0",
    "jp": "「いやーっ、私のガンダムがっ！！」",
-   "en": "",
+   "en": "Noooo, my Gundam!!",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C40F4",
    "jp": "「コウ、いつ僕から俺に乗り換えたの？」",
-   "en": "",
+   "en": "Kou, when did you start talking tough?",
    "region": "quote",
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_C411C",
    "jp": "「男って本当にっ」",
-   "en": "",
+   "en": "Men, honestly!",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C4130",
    "jp": "「お姉様っ、あれを使うわっ」",
-   "en": "",
+   "en": "Big sister, I'm using that!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C4150",
    "jp": "「そんな、ここまでなの…」",
-   "en": "",
+   "en": "No... is this the end...?",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C416C",
    "jp": "「気をつけて、薔薇には刺があるのよ」",
-   "en": "",
+   "en": "Careful, roses have thorns, you know.",
    "region": "quote",
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_C4194",
    "jp": "「やるっ、けど、私達は、負けるわけにはいかないの！！」",
-   "en": "",
+   "en": "Not bad! But we can't afford to lose!!",
    "region": "quote",
-   "max": 55
+   "max": 55,
+   "status": "done"
   },
   {
    "id": "exe_C41CC",
    "jp": "「当たるもんですかっ」",
-   "en": "",
+   "en": "As if you'd hit me!",
    "region": "quote",
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_C41E4",
    "jp": "「この程度の攻撃、効くもんかっ」",
-   "en": "",
+   "en": "An attack like that won't work!",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C4208",
    "jp": "「くーっやっばー、こんなに強いなんて予想外だったわ」",
-   "en": "",
+   "en": "Ugh, yikes! I never expected you to be this strong!",
    "region": "quote",
-   "max": 55
+   "max": 55,
+   "status": "done"
   },
   {
    "id": "exe_C4240",
    "jp": "「無駄よ、そんな攻撃効くもんですかっ」",
-   "en": "",
+   "en": "Useless! As if that would work on me!",
    "region": "quote",
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_C4268",
    "jp": "「ふふふ、効かないのよねーっ」",
-   "en": "",
+   "en": "Hehehe, didn't even tickle!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C4288",
    "jp": "「ひょうまさんの脳波が乱れています。このままではコンバイン出来ません！！」",
-   "en": "",
+   "en": "Hyoma-san's brainwaves are unstable. We can't combine like this!!",
    "region": "quote",
-   "max": 75
+   "max": 75,
+   "status": "done"
   },
   {
    "id": "exe_C42D4",
    "jp": "「おわーああああ」",
-   "en": "",
+   "en": "Whoaaaaah!",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C42E8",
    "jp": "「我が科学力を甘く見るでない！！」",
-   "en": "",
+   "en": "Don't underestimate my science!!",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C430C",
    "jp": "「んっ、エネルギーが切れただと？」",
-   "en": "",
+   "en": "Hm? Out of energy, you say?",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C4330",
    "jp": "「撃てーっ」",
-   "en": "",
+   "en": "Fire!",
    "region": "quote",
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_C4340",
    "jp": "「各砲座、しっかり狙えっ！！」",
-   "en": "",
+   "en": "All guns, aim carefully!!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C4360",
    "jp": "「隔壁下ろせ！！、消火班出動！！」",
-   "en": "",
+   "en": "Seal bulkheads!! Fire crews, go!!",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C4384",
    "jp": "「こいつで決めてやる！！」",
-   "en": "",
+   "en": "This'll finish it!!",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C43A0",
    "jp": "「やるっ、さすがはっ」",
-   "en": "",
+   "en": "Not bad, as expected!",
    "region": "quote",
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_C43B8",
    "jp": "「非力なんだよ」",
-   "en": "",
+   "en": "You're too weak.",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C43CC",
    "jp": "「とどめっ！！」",
-   "en": "",
+   "en": "Finishing blow!!",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C43E0",
    "jp": "「ブラック・ホール・キャノーンッ」",
-   "en": "",
+   "en": "Black Hole Cannooon!",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C4404",
    "jp": "「この程度で、やられるかよっ！！」",
-   "en": "",
+   "en": "As if this could finish me!!",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C4428",
    "jp": "「そこっ」",
-   "en": "",
+   "en": "There!",
    "region": "quote",
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_C4434",
    "jp": "「だっ、だいじょうぶ。かすっただけだ」",
-   "en": "",
+   "en": "I-I'm okay. It just grazed me.",
    "region": "quote",
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_C445C",
    "jp": "「そんなにシロッコの所に戻りたいのか？」",
-   "en": "",
+   "en": "You want to go back to Scirocco that badly?",
    "region": "quote",
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_C4488",
    "jp": "「しっかりしてください、エマリー艦長代理。あなたがそんなことでどうするんですか？」",
-   "en": "",
+   "en": "Pull yourself together, Acting Captain Emary! You can't be like this!",
    "region": "quote",
-   "max": 83
+   "max": 83,
+   "status": "done"
   },
   {
    "id": "exe_C44DC",
    "jp": "「パプテマス様のためにも、私は勝たなくてはならないのっ」",
-   "en": "",
+   "en": "For Paptimus-sama's sake too, I have to win!",
    "region": "quote",
-   "max": 59
+   "max": 59,
+   "status": "done"
   },
   {
    "id": "exe_C4518",
    "jp": "「このままでは、私はやられる。敵の意思が固まって、私を襲うっ」",
-   "en": "",
+   "en": "Like this, I'll lose. Their will is massing against me!",
    "region": "quote",
-   "max": 63
+   "max": 63,
+   "status": "done"
   },
   {
    "id": "exe_C4558",
    "jp": "「ダ、ダメージは？、だいじょうぶ」",
-   "en": "",
+   "en": "D-Damage? ...It's okay.",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C457C",
    "jp": "「まあ、こんなものかしらねえぇ」",
-   "en": "",
+   "en": "Well, I suppose that'll do, hmm.",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C45A0",
    "jp": "「ロフッ、ロフなんでしょう？、返事をして！！」",
-   "en": "",
+   "en": "Rof! That's you, Rof, isn't it? Answer me!!",
    "region": "quote",
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_C45D0",
    "jp": "「エレクトロ・ダーットッ」",
-   "en": "",
+   "en": "Electro Daaart!",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C45EC",
    "jp": "「うわー、あ、あかんこのままやともたんっ」",
-   "en": "",
+   "en": "Waah, n-no good! Can't hold out like this!",
    "region": "quote",
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_C4618",
    "jp": "「見てみー、コンバトラーは無敵やで！！」",
-   "en": "",
+   "en": "See that? Combattler's unbeatable!!",
    "region": "quote",
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_C4644",
    "jp": "「戦いは好みませんが、しかたありませんわね」",
-   "en": "",
+   "en": "I dislike fighting, but it can't be helped.",
    "region": "quote",
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_C4674",
    "jp": "「無駄な抵抗はおよしなさい」",
-   "en": "",
+   "en": "Cease your futile resistance.",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C4694",
    "jp": "「ふふふ、ダメです。宇宙は平和なのですから」",
-   "en": "",
+   "en": "Hehe, no. Space is at peace now, after all.",
    "region": "quote",
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_C46C4",
    "jp": "「どかないとーっ」",
-   "en": "",
+   "en": "Get out of the way!",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C46D8",
    "jp": "「かわせたっ？」",
-   "en": "",
+   "en": "Did I dodge it?",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C46EC",
    "jp": "「あ、あたし、結婚考えてませんから」",
-   "en": "",
+   "en": "I-I'm not thinking about marriage!",
    "region": "quote",
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_C4714",
    "jp": "「お兄ちゃん、待ってて！！」",
-   "en": "",
+   "en": "Big brother, wait for me!!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C4734",
    "jp": "「もー、許さないんだから！！」",
-   "en": "",
+   "en": "Ugh, I won't forgive you!!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C4754",
    "jp": "「あーっ、うっ、どうしよう」",
-   "en": "",
+   "en": "Ah! Ugh, what do I do?",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C4774",
    "jp": "「ふふふふふふふ、あはははははは」",
-   "en": "",
+   "en": "Hehehehehehe, ahahahahaha",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C4798",
    "jp": "「くうっ、私の？？？だというのか？」",
-   "en": "",
+   "en": "Ngh! Are you saying it's my ????",
    "region": "quote",
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_C47C0",
    "jp": "「当たらんよ、貴公の腕では無理だよ」",
-   "en": "",
+   "en": "You won't hit me. Not with your skill.",
    "region": "quote",
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_C47E8",
    "jp": "「のう、くっ、いかんっ、このままではっ」",
-   "en": "",
+   "en": "Nngh, kh, no good, at this rate...!",
    "region": "quote",
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_C4814",
    "jp": "「ふっ、無駄なこと」",
-   "en": "",
+   "en": "Hmph, how futile.",
    "region": "quote",
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_C482C",
    "jp": "「ギジェと俺、どこが違うか、アマデデ様に知ってもらう必要がある」",
-   "en": "",
+   "en": "Amadede-sama needs to see how Gije and I differ.",
    "region": "quote",
-   "max": 67
+   "max": 67,
+   "status": "done"
   },
   {
    "id": "exe_C4870",
    "jp": "「落とせよ」",
-   "en": "",
+   "en": "Take it down!",
    "region": "quote",
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_C4880",
    "jp": "「当たりはせんよ」",
-   "en": "",
+   "en": "You won't hit me.",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C4894",
    "jp": "「せっかく減った人口です。これ以上増やさずに優良な人種だけ残します。人類の存続のために地球圏を汚さないためです。そのためには先導は少ない方がよいかと」",
-   "en": "",
+   "en": "The population is finally down. Keep it so; let only superior races remain, for humanity and a clean Earth Sphere. So, the fewer leaders the better.",
    "region": "quote",
-   "max": 151
+   "max": 151,
+   "status": "done"
   },
   {
    "id": "exe_C492C",
    "jp": "「このーっ、いつまでもいい気になるなよ！！」",
-   "en": "",
+   "en": "Grr! Don't think you can gloat forever!!",
    "region": "quote",
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_C495C",
    "jp": "「どこ狙ってるんだよっ」",
-   "en": "",
+   "en": "Where are you aiming!?",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C4978",
    "jp": "「ふっ腰抜けが、そんなに遠くからじゃないと、攻撃できないってか？」",
-   "en": "",
+   "en": "Hmph, coward! Can't attack unless you're that far away?",
    "region": "quote",
-   "max": 67
+   "max": 67,
+   "status": "done"
   },
   {
    "id": "exe_C49BC",
    "jp": "「ブレイク」",
-   "en": "",
+   "en": "Break",
    "region": "quote",
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_C49CC",
    "jp": "「ルーザー」",
-   "en": "",
+   "en": "Loser",
    "region": "quote",
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_C49DC",
    "jp": "「ジュデッカ」",
-   "en": "",
+   "en": "Judecca",
    "region": "quote",
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_C49EC",
    "jp": "「言うなよ、何で僕なんだよ、もういやだよっ」",
-   "en": "",
+   "en": "Don't say it! Why me!? I've had enough!",
    "region": "quote",
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_C4A1C",
    "jp": "「ガッ、だ、ダメだっ」",
-   "en": "",
+   "en": "Gah! N-no good!",
    "region": "quote",
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_C4A34",
    "jp": "「だっ、だいじょうぶ、なのか…」",
-   "en": "",
+   "en": "A-am I... all right...?",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C4A58",
    "jp": "「プラズマ・カッターッ」",
-   "en": "",
+   "en": "Plasma Cutterrr!",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C4A74",
    "jp": "「なんだと、この私が？」",
-   "en": "",
+   "en": "What? Someone like me?",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C4A90",
    "jp": "「ちっ、この私に当てるとは、只者ではないなっ」",
-   "en": "",
+   "en": "Tch, you hit me? You're no ordinary pilot!",
    "region": "quote",
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_C4AC0",
    "jp": "「邪魔よっ！！」",
-   "en": "",
+   "en": "Out of my way!!",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C4AD4",
    "jp": "「バッカじゃないの？」",
-   "en": "",
+   "en": "Are you stupid?",
    "region": "quote",
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_C4AEC",
    "jp": "「なにも言わないで、分かってるわ、私はエヴァに乗るしかないのよ…」",
-   "en": "",
+   "en": "Don't say a thing. I know. I have to pilot the Eva...",
    "region": "quote",
-   "max": 67
+   "max": 67,
+   "status": "done"
   },
   {
    "id": "exe_C4B30",
    "jp": "「ターゲットロック、発射！！」",
-   "en": "",
+   "en": "Target locked, fire!!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C4B50",
    "jp": "「私が死んでも替わりはいるわ」",
-   "en": "",
+   "en": "If I die, I can be replaced.",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C4B70",
    "jp": "「何泣いてるの？、ごめんなさい。こういうときどんな顔すれば良いのかわからないの」",
-   "en": "",
+   "en": "Why are you crying? I'm sorry. I don't know what face to make at times like this.",
    "region": "quote",
-   "max": 83
+   "max": 83,
+   "status": "done"
   },
   {
    "id": "exe_C4BC4",
    "jp": "「一撃でしとめてみせる！」",
-   "en": "",
+   "en": "One blow is all I need!",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C4BE0",
    "jp": "「くっ、かすっただけだっ！」",
-   "en": "",
+   "en": "Ngh, it only grazed me!",
    "region": "quote",
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_C4C00",
    "jp": "「力押しなら・・・負けはしない！」",
-   "en": "",
+   "en": "In raw power... I won't lose!",
    "region": "quote",
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_C4C24",
    "jp": "「オレが負けたのか！？」",
-   "en": "",
+   "en": "Have I been beaten!?",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C4C40",
    "jp": "「うわああぁぁっ！！」",
-   "en": "",
+   "en": "Waaaaaah!!",
    "region": "quote",
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_C4C58",
    "jp": "「うかつなぁっ！」",
-   "en": "",
+   "en": "Careless!",
    "region": "quote",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_C4C6C",
    "jp": "「見える！！」",
-   "en": "",
+   "en": "I can see it!!",
    "region": "quote",
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_C4C7C",
    "jp": "「落ちろォォォォォッ！！」",
-   "en": "",
+   "en": "Go doooooown!!",
    "region": "quote",
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_C4C98",
    "jp": "「はあああぁぁぁっ！！」",
-   "en": "",
+   "en": "Haaaaaah!!",
    "region": "quote",
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_D1E38",
    "jp": "ランス",
-   "en": "",
+   "en": "Lance",
    "ptrs": [
     "0xA7CF0"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E40",
    "jp": "カーズ",
-   "en": "",
+   "en": "Curse",
    "ptrs": [
     "0xA7CDC"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E48",
    "jp": "怪光線",
-   "en": "",
+   "en": "Hex Ray",
    "ptrs": [
     "0xA7CD4"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E50",
    "jp": "腐食液",
-   "en": "",
+   "en": "Acid",
    "ptrs": [
     "0xA7CCC"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E58",
    "jp": "天空斬",
-   "en": "",
+   "en": "Sky Slash",
    "ptrs": [
     "0xA7BE8"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E60",
    "jp": "精霊",
-   "en": "",
+   "en": "Spirit",
    "ptrs": [
     "0xA8920",
     "0xA8A34"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E68",
    "jp": "リーグ",
-   "en": "",
+   "en": "Rieg",
    "ptrs": [
     "0xA8910"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E70",
    "jp": "怨念",
-   "en": "",
+   "en": "Grudge",
    "ptrs": [
     "0xA890C",
     "0xA8A20"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E78",
    "jp": "ナール",
-   "en": "",
+   "en": "Nar",
    "ptrs": [
     "0xA88E8",
     "0xA8AE4"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E80",
    "jp": "文官",
-   "en": "",
+   "en": "Official",
    "ptrs": [
     "0xA88DC",
     "0xA88E0",
     "0xA89F0",
     "0xA89F4"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E88",
    "jp": "乳母",
-   "en": "",
+   "en": "Nanny",
    "ptrs": [
     "0xA88D4",
     "0xA89E8"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E90",
    "jp": "キャリ",
-   "en": "",
+   "en": "Kyari",
    "ptrs": [
     "0xA888C"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1E98",
    "jp": "ヤドラ",
-   "en": "",
+   "en": "Yadora",
    "ptrs": [
     "0xA8888"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1EA0",
    "jp": "ソッド",
-   "en": "",
+   "en": "Thodd",
    "ptrs": [
     "0xA8884"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1EA8",
    "jp": "ミラ",
-   "en": "",
+   "en": "Mira",
    "ptrs": [
     "0xA8880"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1EB0",
    "jp": "村人",
-   "en": "",
+   "en": "Villager",
    "ptrs": [
     "0xA8870",
     "0xA8874",
     "0xA8984",
     "0xA8988"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1EB8",
    "jp": "民間兵",
-   "en": "",
+   "en": "Militiaman",
    "ptrs": [
     "0xA8868",
     "0xA886C",
     "0xA8B08",
     "0xA8BE8"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1EC0",
    "jp": "シェス",
-   "en": "",
+   "en": "Shess",
    "ptrs": [
     "0xA8840"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1EC8",
    "jp": "トト",
-   "en": "",
+   "en": "Toto",
    "ptrs": [
     "0xA881C"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1ED0",
    "jp": "イェン",
-   "en": "",
+   "en": "Yen",
    "ptrs": [
     "0xA8818"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1ED8",
    "jp": "アルマ",
-   "en": "",
+   "en": "Alma",
    "ptrs": [
     "0xA8814"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1EE0",
    "jp": "ケイゴ",
-   "en": "",
+   "en": "Keigo",
    "ptrs": [
     "0xA8810",
     "0xA891C"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1EE8",
    "jp": "神の腕",
-   "en": "",
+   "en": "Arm of God",
    "ptrs": [
     "0xA8B14",
     "0xA8BF4"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1EF0",
    "jp": "騎馬隊",
-   "en": "",
+   "en": "Cavalry",
    "ptrs": [
     "0xA8B04",
     "0xA8BE4"
    ],
-   "max": 51
+   "max": 51,
+   "status": "done"
   },
   {
    "id": "exe_D1F40",
    "jp": "識別",
-   "en": "",
+   "en": "Identify",
    "lui": [
     "0x3CB38"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1F48",
    "jp": "終了",
-   "en": "",
+   "en": "End",
    "lui": [
     "0x3CB60"
    ],
-   "max": 8
+   "max": 8,
+   "status": "done"
   },
   {
    "id": "exe_D1F88",
    "jp": "{h}１",
-   "en": "",
+   "en": "{h}1",
    "lui": [
     "0x5E19C"
    ],
-   "max": 3
+   "max": 3,
+   "status": "done"
   },
   {
    "id": "exe_D1F8C",
    "jp": "{h}０",
-   "en": "",
+   "en": "{h}0",
    "lui": [
     "0x5E1B8"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D1F98",
    "jp": "　",
-   "en": "",
+   "en": "-",
    "lui": [
     "0x65DC0"
    ],
-   "max": 3
+   "max": 3,
+   "status": "done"
   },
   {
    "id": "exe_D1F9C",
    "jp": "なし",
-   "en": "",
+   "en": "None",
    "lui": [
     "0x66730"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D2564",
    "jp": "闇",
-   "en": "",
+   "en": "Dark",
    "ptrs": [
     "0xB50BC"
    ],
-   "max": 3
+   "max": 3,
+   "status": "done"
   },
   {
    "id": "exe_D2568",
    "jp": "炎",
-   "en": "",
+   "en": "Fire",
    "ptrs": [
     "0xB50B8"
    ],
-   "max": 3
+   "max": 3,
+   "status": "done"
   },
   {
    "id": "exe_D256C",
    "jp": "大地",
-   "en": "",
+   "en": "Earth",
    "ptrs": [
     "0xB50B4"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D2574",
    "jp": "水",
-   "en": "",
+   "en": "Water",
    "ptrs": [
     "0xB50B0"
    ],
-   "max": 3
+   "max": 3,
+   "status": "done"
   },
   {
    "id": "exe_D2578",
    "jp": "風",
-   "en": "",
+   "en": "Wind",
    "ptrs": [
     "0xB50AC"
    ],
-   "max": 3
+   "max": 3,
+   "status": "done"
   },
   {
    "id": "exe_D257C",
    "jp": "なし",
-   "en": "",
+   "en": "None",
    "ptrs": [
     "0xB50A8"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D296C",
    "jp": "水中",
-   "en": "",
+   "en": "Underwater",
    "ptrs": [
     "0xB84B0"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D2974",
    "jp": "地上",
-   "en": "",
+   "en": "Ground",
    "ptrs": [
     "0xB84AC"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D297C",
    "jp": "空中",
-   "en": "",
+   "en": "Air",
    "ptrs": [
     "0xB84A8"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D2984",
    "jp": "被弾",
-   "en": "",
+   "en": "Hit",
    "ptrs": [
     "0xB84C8"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D298C",
    "jp": "防御",
-   "en": "",
+   "en": "Defend",
    "ptrs": [
     "0xB84C0"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D2994",
    "jp": "回避",
-   "en": "",
+   "en": "Evade",
    "ptrs": [
     "0xB84B4"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D299C",
    "jp": "砂地",
-   "en": "",
+   "en": "Sand",
    "ptrs": [
     "0xB84F0"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D29A4",
    "jp": "荒地",
-   "en": "",
+   "en": "Badland",
    "ptrs": [
     "0xB84EC"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D29AC",
    "jp": "沼",
-   "en": "",
+   "en": "Bog",
    "ptrs": [
     "0xB84E0"
    ],
-   "max": 3
+   "max": 3,
+   "status": "done"
   },
   {
    "id": "exe_D29B0",
    "jp": "海の上",
-   "en": "",
+   "en": "Sea",
    "ptrs": [
     "0xB84DC"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D29B8",
    "jp": "川の上",
-   "en": "",
+   "en": "River",
    "ptrs": [
     "0xB84D8"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D29C0",
    "jp": "道、橋",
-   "en": "",
+   "en": "Road/Bridge",
    "ptrs": [
     "0xB84D4"
    ],
-   "max": 7
+   "max": 7,
+   "status": "done"
   },
   {
    "id": "exe_D29C8",
    "jp": "平地",
-   "en": "",
+   "en": "Plains",
    "ptrs": [
     "0xB84CC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   }
  ]
 }
