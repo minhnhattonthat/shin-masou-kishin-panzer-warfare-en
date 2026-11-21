@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "tools"))
 from check_rom import check  # noqa: E402
 import font  # noqa: E402
+import gfx  # noqa: E402
 import insert  # noqa: E402
 import slots  # noqa: E402
 
@@ -54,6 +55,8 @@ def patch(tree, mode, qa, only=None, log=None):
     subprocess.run([ROOT / "tools/armips/armips.exe", ROOT / "asm/vwf.asm", "-strequ", "EXE", tree / "SLPS_023.19",
                     "-strequ", "TABLES", tables], check=True)
     insert.log_diff(log, "SLPS_023.19", exe, (tree / "SLPS_023.19").read_bytes(), "armips")
+    if mode == "en":
+        gfx.apply(tree, log)  # graphics-text redraws, gfx/<group>.tsv
     return changed
 
 

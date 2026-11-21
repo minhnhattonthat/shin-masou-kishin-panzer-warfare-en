@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import batquote  # noqa: E402
 import font  # noqa: E402
+import gfx  # noqa: E402
 import insert  # noqa: E402
 import over  # noqa: E402
 import slots  # noqa: E402
@@ -83,9 +84,11 @@ def main():
     bad = run("SLPS_023.19", a.orig, a.tree, exe_ranges(rd("SLPS_023.19")), a.writes)
     bad |= run("OVER.BIN", a.orig, a.tree, over_ranges(rd("OVER.BIN")), a.writes)
     bad |= run("BAT_OVER.BIN", a.orig, a.tree, [(len(rd("BAT_OVER.BIN")), 1 << 30)], a.writes)  # quotes appended
-    for n, off in font.TIM_OFFS.items():  # the VWF glyph cells: inside the first font TIM only
-        bad |= run(n, a.orig, a.tree, [(off, off + FONT_TIM)], a.writes)
-    checked = {"SLPS_023.19", "OVER.BIN", "BAT_OVER.BIN", *font.TIM_OFFS}
+    g = gfx.ranges(a.orig)  # graphics-text redraws: the pixel block of every copy of a redrawn TIM
+    for n in sorted(set(font.TIM_OFFS) | set(g)):  # VWF glyph cells: inside the first font TIM only
+        off = font.TIM_OFFS.get(n)
+        bad |= run(n, a.orig, a.tree, ([(off, off + FONT_TIM)] if off is not None else []) + g.get(n, []), a.writes)
+    checked = {"SLPS_023.19", "OVER.BIN", "BAT_OVER.BIN", *font.TIM_OFFS, *g}
     for p in sorted(a.orig.rglob("*")):
         rel = p.relative_to(a.orig).as_posix()
         if p.is_file() and rel not in checked and p.read_bytes() != (a.tree / rel).read_bytes():
