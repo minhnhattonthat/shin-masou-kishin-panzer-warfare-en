@@ -1,0 +1,32 @@
+# Event scripts (OVER.BIN sectors 0x000-0x19F)
+
+Tool: `tools/over.py OVER.BIN` (block list, message commands).
+
+## Blocks — verified
+- 35 blocks; sector list in the exe (disc.md). Each block header: byte 0 small, bytes 1-3 = 0, bytes 8-11 = `06 00 00 00`.
+- Every block loads at RAM **0x801C2518** (verified: RAM dump during the first event, block 0 = file 0x0-0x8000 at
+  0x801C2518; state `work/states/event1_start.sstate`). Largest block 0x18D-0x1A0 = 0x9800 bytes. What lies after the
+  slot in RAM (the hard size limit) is not yet known: check before growing a block.
+
+## Text pool — verified
+- Encoding: plain **Shift-JIS** (cp932), full-width; decoded strings match the screen (Zeldona's lecture, frame
+  `work/qa/ng4/f000400.png`).
+- Each block has one contiguous text pool after the command header area (block 0: 0x1420-0x4688). Strings are
+  `speaker\n` + `　line\n` (up to 2-3 lines, each starting with a full-width space) + `\n` terminator(s), then NUL
+  padding to a 4-byte boundary. Narration has an empty speaker (string begins with `\n`). Thought lines use （…）.
+- `【…】` appears in choice text (e.g. `【最初の選択にもどる】`).
+- 7640 strings in the 35 pools, ~338 KB.
+
+## Pointers — verified
+- Commands are 16 bytes: u16 op, u16 a, u32 b, u32 c, u32 d. Strings are referenced by absolute RAM pointer
+  (0x801C2518 + offset in block) in word c:
+  - op 0x0384 (high half 0/1/2 = variant, e.g. portrait side): message; word b = flags (0x80 seen). 7619 strings.
+  - op 0x0001: choice / alternate message (21 strings), pointer also in word c.
+- So the whole pool can be repacked and every pointer rewritten; nothing else points into the pool (coverage script:
+  every string start in every pool is reached by one of the two ops).
+- Two pointer words sit just before each pool (block 0: 0x1418 → 0x801C38B0, 0x801C38E0, into the command area):
+  not text; leave them.
+
+## Box size (from screenshots)
+- Dialogue box: speaker line + up to 2-3 body lines, ~17-19 full-width glyphs (~12 px each) per line in a ~250 px box.
+  Width gate still to be measured in phase 5.
