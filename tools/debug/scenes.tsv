@@ -1,0 +1,124 @@
+name	stage	how	wait	frames	keys	note
+title	1	title	400	5000	6 start;200 -	title menu START/LOAD/CONTINUE
+title_load	1	title	400	6000	6 start;200 -;6 right;40 -;6 circle;900 -	title LOAD: memory-card screen (blank card: no data)
+title_continue	1	title	400	6000	6 start;200 -;6 right;40 -;6 right;40 -;6 circle;900 -	title CONTINUE (battle suspend data)
+intermission	5	force:14	900	4500		intermission after stage 5 (forced mode 14)
+im_save	5	force:14	900	5500	6 circle;600 -	intermission SAVE: memory-card screen
+im_save_confirm	5	force:14	900	6000	6 circle;600 -;6 circle;200 -	SAVE > NEW DATA: confirm box
+im_load	5	force:14	900	5500	6 down;40 -;6 circle;600 -	intermission LOAD (blank card: no data message)
+im_status_pilot	5	force:14	900	6000	6 down;40 -;6 down;40 -;6 circle;200 -;6 circle;300 -	STATUS > Keigo: pilot page
+im_status_mech	5	force:14	900	6000	6 down;40 -;6 down;40 -;6 circle;200 -;6 circle;300 -;6 right;150 -	STATUS > Keigo: mech page
+im_status_weapons	5	force:14	900	6000	6 down;40 -;6 down;40 -;6 circle;200 -;6 circle;300 -;6 right;150 -;6 right;150 -	STATUS > Keigo: attacks page
+im_next	5	force:14	900	6500	6 down;40 -;6 down;40 -;6 down;40 -;6 circle;900 -	intermission NEXT
+option	1	force:21	300	4500		option screen (forced mode 21)
+gameover	1	force:12	400	4500		Game Over (forced mode 12)
+credits	35	force:29	1500	6000		ending staff roll (forced mode 29)
+credits_late	35	force:29	5000	9500		staff roll, later page
+battle05	5	battle	600	20000		stage 5 enemy-phase battle animation with quotes
+card_k01	1	card:1	40	14000		card 1 再試験 (no stage warp shows it: branch card) in stage 1's card slot
+card_k05	1	card:5	40	14000		card 5 (no stage warp shows it: branch card) in stage 1's card slot
+ev01	1	event	1200	5000		stage 1 opening event
+card01	1	card	40	14000		stage 1 chapter card
+map01	1	map	700	16000		stage 1 battle map (its run also proves ev/card)
+ev02	2	event	1200	5000		stage 2 opening event
+card02	2	card	40	14000		stage 2 chapter card
+map02	2	map	700	16000		stage 2 battle map (its run also proves ev/card)
+ev03	3	event	1200	5000		stage 3 opening event
+card03	3	card	40	14000		stage 3 chapter card
+map03	3	map	700	16000		stage 3 battle map (its run also proves ev/card)
+ev04	4	event	1200	5000		stage 4 opening event
+card04	4	card	40	14000		stage 4 chapter card
+map04	4	map	700	16000		stage 4 battle map (its run also proves ev/card)
+ev05	5	event	1200	5000		stage 5 opening event
+card05	5	card	40	14000		stage 5 chapter card
+map05	5	map	700	16000		stage 5 battle map (its run also proves ev/card)
+ev06	6	event	1200	5000		stage 6 opening event
+card06	6	card	40	14000		stage 6 chapter card
+map06	6	map	700	16000		stage 6 battle map (its run also proves ev/card)
+ev07	7	event	1200	5000		stage 7 opening event
+card07	7	card	40	14000		stage 7 chapter card
+map07	7	map	700	16000		stage 7 battle map (its run also proves ev/card)
+ev08	8	event	1200	5000		stage 8 opening event
+card08	8	card	40	14000		stage 8 chapter card
+map08	8	map	700	16000		stage 8 battle map (its run also proves ev/card)
+ev09	9	event	1200	5000		stage 9 opening event
+card09	9	card	40	14000		stage 9 chapter card
+map09	9	map	700	16000		stage 9 battle map (its run also proves ev/card)
+ev10	10	event	1200	5000		stage 10 opening event
+card10	10	card	40	14000		stage 10 chapter card
+map10	10	map	700	16000		stage 10 battle map (its run also proves ev/card)
+ev11	11	event	1200	5000		stage 11 opening event
+card11	11	card	40	14000		stage 11 chapter card
+map11	11	map	700	16000		stage 11 battle map (its run also proves ev/card)
+ev12	12	event	1200	5000		stage 12 opening event
+card12	12	card	40	14000		stage 12 chapter card
+map12	12	map	700	16000		stage 12 battle map (its run also proves ev/card)
+ev13	13	event	1200	5000		stage 13 opening event
+card13	13	card	40	14000		stage 13 chapter card
+map13	13	map	700	16000		stage 13 battle map (its run also proves ev/card)
+ev14	14	event	1200	5000		stage 14 opening event
+card14	14	card	40	14000		stage 14 chapter card
+map14	14	map	700	16000		stage 14 battle map (its run also proves ev/card)
+ev15	15	event	1200	5000		stage 15 opening event
+card15	15	card	40	14000		stage 15 chapter card
+map15	15	map	700	16000		stage 15 battle map (its run also proves ev/card)
+ev16	16	event	1200	5000		stage 16 opening event
+card16	16	card	40	14000		stage 16 chapter card
+map16	16	map	700	16000		stage 16 battle map (its run also proves ev/card)
+ev17	17	event	1200	5000		stage 17 opening event
+card17	17	card	40	14000		stage 17 chapter card
+map17	17	map	700	16000		stage 17 battle map (its run also proves ev/card)
+ev18	18	event	1200	5000		stage 18 opening event
+card18	18	card	40	14000		stage 18 chapter card
+map18	18	map	700	16000		stage 18 battle map (its run also proves ev/card)
+ev19	19	event	1200	5000		stage 19 opening event
+card19	19	card	40	14000		stage 19 chapter card
+map19	19	map	700	16000		stage 19 battle map (its run also proves ev/card)
+ev20	20	event	1200	5000		stage 20 opening event
+card20	20	card	40	14000		stage 20 chapter card
+map20	20	map	700	16000		stage 20 battle map (its run also proves ev/card)
+ev21	21	event	1200	5000		stage 21 opening event
+card21	21	card	40	14000		stage 21 chapter card
+map21	21	map	700	16000		stage 21 battle map (its run also proves ev/card)
+ev22	22	event	1200	5000		stage 22 opening event
+card22	22	card	40	14000		stage 22 chapter card
+map22	22	map	700	16000		stage 22 battle map (its run also proves ev/card)
+ev23	23	event	1200	5000		stage 23 opening event
+card23	23	card	40	14000		stage 23 chapter card
+map23	23	map	700	16000		stage 23 battle map (its run also proves ev/card)
+ev24	24	event	1200	5000		stage 24 opening event
+card24	24	card	40	14000		stage 24 chapter card
+map24	24	map	700	16000		stage 24 battle map (its run also proves ev/card)
+ev25	25	event	1200	5000		stage 25 opening event
+card25	25	card	40	14000		stage 25 chapter card
+map25	25	map	700	16000		stage 25 battle map (its run also proves ev/card)
+ev26	26	event	1200	5000		stage 26 opening event
+card26	26	card	40	14000		stage 26 chapter card
+map26	26	map	700	16000		stage 26 battle map (its run also proves ev/card)
+ev27	27	event	1200	5000		stage 27 opening event
+card27	27	card	40	14000		stage 27 chapter card
+map27	27	map	700	16000		stage 27 battle map (its run also proves ev/card)
+ev28	28	event	1200	5000		stage 28 opening event
+card28	28	card	40	14000		stage 28 chapter card
+map28	28	map	700	16000		stage 28 battle map (its run also proves ev/card)
+ev29	29	event	1200	5000		stage 29 opening event
+card29	29	card	40	14000		stage 29 chapter card
+map29	29	map	700	16000		stage 29 battle map (its run also proves ev/card)
+ev30	30	event	1200	5000		stage 30 opening event
+card30	30	card	40	14000		stage 30 chapter card
+map30	30	map	700	16000		stage 30 battle map (its run also proves ev/card)
+ev31	31	event	1200	5000		stage 31 opening event
+card31	31	card	40	14000		stage 31 chapter card
+map31	31	map	700	16000		stage 31 battle map (its run also proves ev/card)
+ev32	32	event	1200	5000		stage 32 opening event
+card32	32	card	40	14000		stage 32 chapter card
+map32	32	map	700	16000		stage 32 battle map (its run also proves ev/card)
+ev33	33	event	1200	5000		stage 33 opening event
+card33	33	card	40	14000		stage 33 chapter card
+map33	33	map	700	16000		stage 33 battle map (its run also proves ev/card)
+ev34	34	event	1200	5000		stage 34 opening event
+card34	34	card	40	14000		stage 34 chapter card
+map34	34	map	700	16000		stage 34 battle map (its run also proves ev/card)
+ev35	35	event	1200	5000		stage 35 opening event
+card35	35	card	40	14000		stage 35 chapter card
+map35	35	map	700	16000		stage 35 battle map (its run also proves ev/card)
