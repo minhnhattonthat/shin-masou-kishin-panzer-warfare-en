@@ -11,9 +11,13 @@ ap.add_argument("--out", required=True)
 ap.add_argument("--per", type=int, default=48)
 ap.add_argument("--cols", type=int, default=8)
 ap.add_argument("--thumb", default="160x120")
+ap.add_argument("--unique", action="store_true", help="skip byte-identical copies (first offset kept)")
 a = ap.parse_args()
 tw, th = map(int, a.thumb.split("x"))
 files = sorted(Path(a.dir).glob("*.png"))
+if a.unique:
+    seen = set()
+    files = [f for f in files if not (f.read_bytes() in seen or seen.add(f.read_bytes()))]
 for page in range(0, len(files), a.per):
     chunk = files[page:page + a.per]
     rows = (len(chunk) + a.cols - 1) // a.cols

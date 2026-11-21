@@ -27,6 +27,19 @@ Tool: `tools/over.py OVER.BIN` (block list, message commands).
 - Two pointer words sit just before each pool (block 0: 0x1418 → 0x801C38B0, 0x801C38E0, into the command area):
   not text; leave them.
 
+## Free space — candidates (guess until a trap test passes)
+- Event slot: RAM dump during event 1 (`work/qa/ev_ram`, block 0 = 0x8000 bytes) shows OVER.BIN 0xDD800-0xE8800
+  (sector 0x1BB+, mostly data, few `jr ra`) loaded right after the block at 0x801CA518-0x801D5518, then zeros to
+  ~0x801E2000 (where battle quote slots 0x801D79EC / 0x801DA5A0 live during battles). Guess: a load heap that
+  follows the event block, so a block may grow if that follow-on load is placed by size; else the hard limit is the
+  largest block (0x9800). **Test in phase 4/5**: pad block 0 by 0x1000, rebuild, boot event 1, compare shots.
+- Repacking a pool never moves the command area: pools come after the commands and only op 0x384/0x0001 words
+  point into them.
+- Exe zero runs (candidates only, may be live BSS-like buffers): file 0xC7F40-0xC8580 (0x640), 0xCB135-0xCC1A0
+  (0x106B), tail 0xD29DC-0xD3000 (0x624, RAM 0x801781DC-0x80178800 = end of exe image).
+- Disc: OVER.BIN / BAT_OVER.BIN blocks are addressed by u16 sector tables in the exe (disc.md), so a grown block
+  means rewriting the tables; files can grow on disc because mkpsxiso relays the layout (LBA-based states go stale).
+
 ## Box size (from screenshots)
 - Dialogue box: speaker line + up to 2-3 body lines, ~17-19 full-width glyphs (~12 px each) per line in a ~250 px box.
   Width gate still to be measured in phase 5.
