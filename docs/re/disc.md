@@ -1,7 +1,7 @@
 # Disc layout (SLPS-02319)
 
-Raw MODE2/2352, one data track; rebuilt by `dumpsxiso -x work/disc/tree -s work/disc/layout.xml` +
-`mkpsxiso -y layout.xml` (run in `work/disc`): **verified** byte-identical (sha1 e0b0a78b…) on 2026-11-21.
+Raw MODE2/2352, one data track; `build.py` unpacks with `dumpsxiso -x tree -s layout.xml` and repacks with
+`mkpsxiso -y layout.xml` (both run in `build/disc`): byte-identical (sha1 e0b0a78b…), held by `tests/test_identity.py`.
 `tools/disc_ls.py IMAGE` lists LBAs.
 
 | File | LBA | Size | Contents |

@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 3. Identity build next (phase 2 debug tool done 2026-11-21). Last build: none yet.
+- **Phase:** 4. Extract next (phase 3 identity build done 2026-11-21). Last build: 2026-11-21, `build/smk_en.bin`
+  sha1 e0b0a78b… (= original, no edits yet).
 - **Done:**
   - Step 0: repo set up; PCSX-Redux + SCPH-5500 in `tools/`, mkpsxiso 2.30, armips 0.11.0; original boots (`--smoke`
     ok), Start press works, Lua probe logs; pre-commit rejects a failing test; guard hook blocks `sed -i`.
@@ -17,8 +18,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
     game over, staff roll); title/LOAD/CONTINUE by keys; branch cards 1 and 5 by TIM injection (`card:K`).
     Sweep result: see "Warp sweep" below. Game-written save fixture `tools/debug/saves/stage05_intermission.mcd`
     (title > LOAD lands in the intermission, no error).
-- **Next (phase 3, identity build):** `build.py` that unpacks (dumpsxiso) and repacks (mkpsxiso) the disc with no
-  edits, checked by a test that the rebuilt .bin sha1 equals `rom.sha1`; then phase 4 (extract to `script/`).
+  - Phase 3 identity build: `build.py` = `check_rom` → `unpack()` (dumpsxiso into `build/disc/`, fresh each run) →
+    `repack()` (mkpsxiso → `build/smk_en.bin/.cue`). `tests/test_identity.py` unpacks + repacks into
+    `build/identity/` and asserts the sha1 equals `rom.sha1` (in Check, ~3 s; skipped without the dump). File edits
+    go between unpack and repack in `build.main()`.
+- **Next (phase 4, extract):** extract event scripts, battle quotes and exe strings (formats in `docs/re/`) to
+  `script/` JSON with a roundtrip test (re-encoding every string gives the original bytes) and full text-range
+  coverage; then phase 5 (font/renderer spike + marker build).
 - **Open questions for later phases:** where the other font pages come from (font.md); the reader of the exe 「…」
   quotes; control letters `b h m r w z`; whether event blocks can grow (scripts.md §Free space); whether the dev
   loading card BAT_TIM 0x45A000 is ever shown; the chapter-card picker / branch flags for cards 1 and 5 (debug.md);
