@@ -23,13 +23,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `<out>/sheets/`). JP tour done: `work/qa/tour_jp` (35/35, 596 sheets). EN tour not yet run on the current build
   (run it, then `qa_gate.py init work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin`, chunks of
   30, visual-qa agents with `docs/visual-qa-brief.md`, up to 4 at a time).
-  **New bug (3):** ev01 tour, map player phase, weapon list (攻撃技): EN shows a column of garbage tiles right of
-  the list, the list window half drawn and the DATA panel's HIT label missing; JP at the same frame is clean
-  (`work/tmp/cmp.png` from work/qa/tour_try/f019960.png vs work/qa/tour_jp/ev01/f019960.png). Deterministic repro:
-  `emu.py build/smk_en.cue --state-in work/states/weapon_list_pre.sstate --mash 40 --mash-key circle` (state at
-  frame 19500 of the ev01 KEEP=1 run, made on build 87c51b59's predecessor b05f04a4 text; garbage at +460). Likely
-  the glyph-slot overflow of open bug (1) (weapon names longer than the JP: "Seal Prod" 8 glyphs, "Mid Hammer" 9
-  vs 7): find the list's slot bases (tools/lua/slots.lua) and re-base like slots.py WORDS.
+  **Bug (3) fixed** (commit ffac57d): the map weapon list's garbage column / half window / missing HIT label was
+  not glyph slots (the list uses a running slot counter from 0) but `exe_A72E8` 靭: bytes `90 78 20 00` of a 12-byte
+  sprite-record table that the extractor took for a string; insert moved and zeroed it. `extract.NOT_TEXT` skips it
+  (swept every other short pointer string: all real text). Found with `tools/bisect_ids.py` (build with listed ids
+  kept JP) + `tools/debug/bug3_check.py` (cold boot ev01 KEEP=1 to f10500, scores the garbage column).
+  Play session `work/play/confirm` (state `work/states/ev01_map_p1.sstate`, f9950 of ev01 KEEP=1): player attack
+  (command menu, target, map confirm 0010), battle, end turn, enemy-phase counter screen (0015): all clean.
   Phase-7 review fixes (2026-11-22, H:\translation\.harness\reviews\...-phase7.md, all 7 Important + 4 Minor):
   (1) fixed-field alignment: `insert.align` re-pads exe/overlay fields like the JP (leading = right, both = centre)
   within the slot's bytes (D16). (2) HUD bug fixed: battle labels had 8 glyph slots each (bases 0/8/0x10/0x18);
@@ -115,8 +115,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
     measured box, glyph slots, stub last lines, byte max; `--final` fails untranslated lines. insert: speaker
     names from glossary.md Characters, msg newline padding, scroll centring. Tour: remaining Japanese on screen is
     all graphics (G6 option, G9 status labels/skills/spirits, G18 credits); no odd markers seen.
-- **Next (phase 8), in order:** (a) fix bug (3) weapon-list slots + open bug (1) attack-confirm slots (same
-  pattern), rebuild; (b) warp + zoom the unverified graphics screens above, fix; (c) EN tour + qa_gate + visual-QA
+- **Next (phase 8), in order:** (a) done (bugs 1-3 above); (b) warp + zoom the unverified graphics screens above
+  (map command menu + map confirm now seen clean in `work/play/confirm`), fix; (c) EN tour + qa_gate + visual-QA
   verdicts on every sheet (UI warp scenes too: add their scene.png sheets to the manifest); (d) the left-JP tiles
   and FMV mov01; (e) inkbox on choices/centred menus; (f) stress saves (needs `save.py` / unit record layout);
   (g) `textcover.py` (strings.lua logs STR <ram ptr>; build must emit build/strings.tsv with RAM addresses).
@@ -133,11 +133,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the
   warps reach every stage without saves; a forced intermission has zeroed stats, so menu stress values need RAM
   writes or the editor then.
-- **Open bugs:** (1) same glyph-slot pattern as the fixed HUD bug, not yet reachable by a warp: the attack-confirm
-  screen 0x8011C35C-0x8011C620 (pilot/mech 8 slots, weapon 16; English weapons up to 19 glyphs) — add a scene
-  (player-phase attack on a map warp), then re-base like `slots.py` WORDS (windows.md §Battle HUD slots). Also check
-  other screens' fixed slot bases on the phase-8 sheets (labels missing their first glyphs). (2) Not yet seen after
-  the HUD re-base: the map right after a battle (free-all 0x80103D34 should clear slots 0x70-0x87; confirm on a sheet).
+- **Open bugs:** none known. Closed 2026-11-22: (1) the fixed-slot screen 0x8011C178 (slots 0x180-0x1FF) is a
+  battle-test setup screen (labels 味方 右側 / 敵 左側, mode 11 state 0 of 0x8011A4F8); the real map confirm and
+  enemy-phase counter screens use the running counter (0x800C6Bxx) and slots 0x180-0x1FF stayed empty through a
+  whole battle (`work/qa/confirm_battle`): left as is. (2) map after a battle: clean (`work/play/confirm/0014.png`).
 - **Waiting on the user:** nothing.
 
 Warp sweep (original disc, 2026-11-21): `warp_all.py --states` 123/123 scenes reached from a cold boot, every
