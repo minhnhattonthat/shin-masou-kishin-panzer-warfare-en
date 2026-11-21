@@ -13,3 +13,6 @@ decision replaces one, mark the old one "replaced by D<n>" instead of deleting i
 | D5 | 2026-11-21 | Graphics text left in Japanese | none (default), list | Translate all (titles, menus, banners, cards); keep the Japanese logo only if no official English version exists. |
 | D6 | 2026-11-21 | Specs and plans | need approval, pre-approved | Pre-approved: keep going through checkpoints, report at the end. |
 | D7 | 2026-11-21 | Existing saves / memory cards | use user's, none | None provided; build the debug tool as usual. |
+| D8 | 2026-11-22 | Dialogue quote marks (the font has only closing ” ’) | keep "..." (looks closing-only), drop 「」 | Drop 「」 in dialogue (speaker label shows who talks); thoughts in (); 『』 terms capitalised, no quotes. Default chosen under D6 pre-approval. |
+| D9 | 2026-11-22 | Names with no official English | Hepburn, Akurasu wiki forms | Akurasu wiki forms where it has them (Vartzpheem, A-Zeluth, Zeldna, Thodd, Kurtz/Zants middle names), SRW official mecha names (Cybuster, Zamzeed, Granveil, Gaddess), else Hepburn. Extends D2. |
+| D10 | 2026-11-22 | Register | modern, archaic | Natural modern English, light medieval-military flavour; no thee/thou unless the JP is archaic. |

@@ -109,7 +109,8 @@ def test_pool_overflow_spills_past_the_block_end(tree):
     for ln in f["lines"]:
         if ln["id"] in big:
             o = struct.unpack_from("<I", blk, int(ln["ptrs"][0], 16))[0] - over.BASE
-            assert blk[o:blk.index(0, o)] == font.encode(ln["speaker"]) + b"\n" + b"W" * 150
+            spk = insert.speaker_names().get(ln["speaker"], ln["speaker"])
+            assert blk[o:blk.index(0, o)] == font.encode(spk) + b"\n" + b"W" * 150
     with pytest.raises(insert.Overflow):
         insert.insert(tree, ROOT / "script", "en", {k: "W" * 400 for k in big})
 
