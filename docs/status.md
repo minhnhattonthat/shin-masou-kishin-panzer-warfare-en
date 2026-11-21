@@ -13,15 +13,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
   rows), status (G9, 38), menus (G6 option + G16 intermission buttons, 23), battle (G12 + G13 16 reaction TIMs, 21),
   story (G1 prologue 5 pages, G15 caption, G14 loading + dev card, 8), credits (G18, 272 cells; roll = overlay 4
   cell table OVER 0x13F0). 462 rows, `gfx.py check` ok, build sha1 87c51b59…, Check 42 passed. In-game look
-  verified on intermission/status/option/credits (`work/qa/gfx_en`); NOT yet seen in game: map command menu +
-  battle-confirm (mapui), battle damage/reaction labels, prologue pages, ev01 caption, loading screen — warp/zoom
-  them first (agents worked offline; check sprite clipping of Ranged/Gnd/Sea/Luk, "Rear Melee" width, prologue
-  page placement, the caption CLUT). Left JP (D17): mapui 14 single-kanji spirit tiles (GRA5 0x11000 x62-160
+  verified on intermission/status/option/credits (`work/qa/gfx_en`). Seen in game 2026-11-22 (build after ffac57d):
+  map command menu, map confirm + enemy-phase counter screen incl. Battle Animation ON/OFF (`work/play/confirm`,
+  `work/play/noanim`), all 5 prologue pages (`work/qa/pro4z.png`, from state `work/states/newgame_fmv.sstate` = title >
+  START, run with no input; the text wrap at the top between pages is the JP's too), loading logo screen.
+  NOT seen: G12 damage labels (BAT_TIM 0x499800 sits in VRAM 832,0 through battle05 but no frame showed a label at
+  4-frame density, `work/qa/b05_dense`), G13 reaction cut-ins (never uploaded to VRAM in battle05 nor with Battle
+  Animation OFF), G15 caption (GRA5 0x76800 is in VRAM 768,256 from f2700 to f6600 of ev01 but never seen drawn).
+  Tool: `tools/debug/vram_find.py FILE OFF DUMPDIR` finds a TIM in ppudump.lua VRAM dumps. Look for these on the
+  EN tour sheets; if still unseen, waive them in the gate with that evidence. Left JP (D17): mapui 14 single-kanji spirit tiles (GRA5 0x11000 x62-160
   y33-62) and status 兵民騎官 tiles (x65-90 y80-100) — find where they show, then redraw; credits 摯 遺; T_TIM
   0x19D000 (dead sheet). G7 map label is pseudo-Latin (no row). G10 FMV mov01 subtitles: not started (jPSXdec).
   **Tour:** `tools/debug/tour.py` (warp each evNN with KEEP=1, mash circle, shot every 40, sheets in
-  `<out>/sheets/`). JP tour done: `work/qa/tour_jp` (35/35, 596 sheets). EN tour not yet run on the current build
-  (run it, then `qa_gate.py init work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin`, chunks of
+  `<out>/sheets/`). JP tour done: `work/qa/tour_jp` (35/35, 596 sheets). EN tour run 2026-11-22 on the build after
+  ffac57d into `work/qa/tour` (log `work/qa/tour_run.log`; manifest status below). Then `qa_gate.py init work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin`, chunks of
   30, visual-qa agents with `docs/visual-qa-brief.md`, up to 4 at a time).
   **Bug (3) fixed** (commit ffac57d): the map weapon list's garbage column / half window / missing HIT label was
   not glyph slots (the list uses a running slot counter from 0) but `exe_A72E8` 靭: bytes `90 78 20 00` of a 12-byte

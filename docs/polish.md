@@ -245,6 +245,7 @@ Tick a line when applied or rejected. Format: id (batch) - suggested English - r
 - [ ] ev179_1078 / exe_015DC - Duncan Lounsburg VII vs VI: source says ７世 and ６世; keep as is (source inconsistency), note only
 - [ ] exe all-blank strings written "-" - check in game (phase 8) that "-" shows where the JP showed blank
 - [x] mcard titles - translator wrote ASCII "Shin Masoukishin DATA01"; settled phase 7: kept Japanese (D14, script/keep_jp.txt)
+- [ ] exe_02C2C + exe_02C4C (phase 8 play, end-turn prompt): "All right, ending the turn. / Is that all right?" says "all right" twice; e.g. "Ending the turn, then. / Is that all right?"
 - [ ] exe_0131C / exe_05F74 Familialess - may read as "Familiares"; check SRW/Cybuster usage (D2) and settle in glossary
 - [ ] US spelling (glossary Style rule): favourable ev000_2FB0; colour ev000_31CC ev000_3228 ev086_16DC; defence ev000_38EC ev010_2194 ev010_24E4 ev05B_1200 ev078_66D8; recognise ev010_0A38; honour ev01C_5400 ev01C_558C; armour ev027_0B38 ev065_4550; realise ev090_4F8C
 - [ ] ev027_0C80 (b104) - The Arm of God's spirit pacts seem to follow One Machine, One Spirit, but that makes mass-producing Masouki hard. - C/I fix lines b102-b104 were never re-reviewed; current line stiff. Re-review the 46 fix ids in the polish pass
