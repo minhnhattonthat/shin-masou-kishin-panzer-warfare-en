@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　ラガーシュ王国軍　前線基地\n　（旧バルツフィーム王都）\n\n",
-   "en": ""
+   "en": "Ragash Royal Army Forward Base\n(Former Vartzpheem Royal Capital)",
+   "status": "done"
   },
   {
    "id": "ev0B8_06E4",
@@ -34,7 +35,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ソッドよ。\n　ナトゥーレ攻略は、\n　遅々として進まんではないか！\n",
-   "en": ""
+   "en": "Thodd! The conquest of Natoure is crawling\nalong at a snail's pace!",
+   "status": "done"
   },
   {
    "id": "ev0B8_0734",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　申しわけありません。\n\n\n",
-   "en": ""
+   "en": "My apologies.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0758",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ナトゥーレの魔装機神、\n　グランヴェールに\n　手こずっております。\n",
-   "en": ""
+   "en": "Natoure's Masoukishin, Granveil, is giving us\na great deal of trouble.",
+   "status": "done"
   },
   {
    "id": "ev0B8_07A4",
@@ -64,7 +68,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　いいわけはいい。\n\n\n",
-   "en": ""
+   "en": "I want no excuses.",
+   "status": "done"
   },
   {
    "id": "ev0B8_07C8",
@@ -74,7 +79,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ならば、\n　おまえの作っている新型魔装機は\n　どうなっておる？\n",
-   "en": ""
+   "en": "Then what of this new Masouki you are\nbuilding?",
+   "status": "done"
   },
   {
    "id": "ev0B8_0814",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Yes, sir.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0828",
@@ -94,7 +101,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そちらのほうは、\n　ダウス空間での最終試験を\n　残すのみです。\n",
-   "en": ""
+   "en": "That project lacks only its final test in Daus\nspace.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0870",
@@ -104,7 +112,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　だいたい、地上で使うものを\n　なぜ、ダウス空間内で\n　試験をする必要があるのだ。\n",
-   "en": ""
+   "en": "I fail to see why something meant for use\non the surface must be tested inside Daus\nspace at all.",
+   "status": "done"
   },
   {
    "id": "ev0B8_08D0",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　アデノイド様。\n　今開発中の魔装機は、\n　ただの魔装機ではありません。\n",
-   "en": ""
+   "en": "Adenoid-sama, the Masouki now under\ndevelopment is no ordinary Masouki.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0920",
@@ -124,7 +134,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　いずれ、魔装機神よりも優れた機体を\n　開発するためには\n　欠かせない試験なのです。\n",
-   "en": ""
+   "en": "This test is indispensable if we are one day\nto develop a machine superior to the\nMasoukishin.",
+   "status": "done"
   },
   {
    "id": "ev0B8_097C",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そこのところを\n　ご理解いただきたい。\n\n",
-   "en": ""
+   "en": "I would ask you to understand that.",
+   "status": "done"
   },
   {
    "id": "ev0B8_09B0",
@@ -144,7 +156,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　それにダウス内でのテストは、\n　本日行います。\n\n",
-   "en": ""
+   "en": "Furthermore, the test inside Daus will be\ncarried out today.",
+   "status": "done"
   },
   {
    "id": "ev0B8_09EC",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　明日には、\n　ご期待にそえるお答えができるかと。\n\n",
-   "en": ""
+   "en": "By tomorrow, I expect to have an answer\nthat will meet your expectations.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0A28",
@@ -164,7 +178,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　わかった。\n　その辺はおまえにまかせよう。\n\n",
-   "en": ""
+   "en": "Very well. I leave that matter in your hands.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0A64",
@@ -174,7 +189,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　期待してるぞ。\n\n\n",
-   "en": ""
+   "en": "I am counting on you.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0A84",
@@ -184,7 +200,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Yes, sir.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0A98",
@@ -194,7 +211,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（ソッドめ）\n\n\n",
-   "en": ""
+   "en": "(That Thodd...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_0AB4",
@@ -204,7 +222,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（あいかわらず\n　なにを考えているのか\n　わからんヤツだ……）\n",
-   "en": ""
+   "en": "(As ever, I cannot tell what goes on in that\nhead of his...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_0B00",
@@ -214,7 +233,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　魔重機の最終調整は、\n　どうなっている？\n\n",
-   "en": ""
+   "en": "What is the status of the Majuuki's final\nadjustments?",
+   "status": "done"
   },
   {
    "id": "ev0B8_0B34",
@@ -224,7 +244,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　調整作業のほうは完了しました。\n　いつでも出撃できます。\n\n",
-   "en": ""
+   "en": "The adjustments are complete, sir. It can\nsortie at any time.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0B80",
@@ -234,7 +255,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そうか。\n\n",
-   "en": ""
+   "en": "I see.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0B94",
@@ -244,7 +266,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　では、私も出撃する。\n　発進を急がせろ。\n\n",
-   "en": ""
+   "en": "Then I shall sortie as well. Hurry the launch.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0BC8",
@@ -254,7 +277,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　はっ！\n\n\n",
-   "en": ""
+   "en": "Sir!",
+   "status": "done"
   },
   {
    "id": "ev0B8_0BE4",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　発進準備、急げ！！\n\n\n",
-   "en": ""
+   "en": "Prepare for launch, on the double!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_0C0C",
@@ -274,7 +299,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　すげえ、\n　これがダウスの穴……。\n\n",
-   "en": ""
+   "en": "Wow, so this is the Pit of Daus...",
+   "status": "done"
   },
   {
    "id": "ev0B8_0C3C",
@@ -284,7 +310,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こんなとこに突入して、\n　大丈夫なのか……？\n\n",
-   "en": ""
+   "en": "Is it really safe to dive into a place like\nthis...?",
+   "status": "done"
   },
   {
    "id": "ev0B8_0C74",
@@ -294,7 +321,8 @@
    ],
    "speaker": "トト",
    "jp": "　あれ？\n　次元気流がおさまっている……。\n\n",
-   "en": ""
+   "en": "Huh? The dimensional current's died down...",
+   "status": "done"
   },
   {
    "id": "ev0B8_0CA8",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ということは、\n　今ならバルツフィームに\n　帰れるわけだ。\n",
-   "en": ""
+   "en": "Which means we can get back to\nVartzpheem right now.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0CEC",
@@ -314,7 +343,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　トト。\n　本当に大丈夫なの？\n\n\n",
-   "en": ""
+   "en": "Toto, is it really safe?",
+   "status": "done"
   },
   {
    "id": "ev0B8_0D14",
@@ -324,7 +354,8 @@
    ],
    "speaker": "トト",
    "jp": "　うん。\n　いつもここから帰ってたから、\n　大丈夫だと思うよ。\n",
-   "en": ""
+   "en": "Yeah. I always went home this way, so I\nthink it's fine.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0D58",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　トトや技師長が\n　使っていたようだから、\n　大丈夫でしょう。\n",
-   "en": ""
+   "en": "Toto and the Chief Engineer seem to have\nused it, so it should be fine.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0DA0",
@@ -344,7 +376,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それにトトがいっていた\n　次元気流は\n　発生していないようですよ。\n",
-   "en": ""
+   "en": "And that dimensional current Toto told us\nabout doesn't seem to be happening.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0DEC",
@@ -354,7 +387,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……そうね。\n　いきましょう！\n\n",
-   "en": ""
+   "en": "...You're right. Let's go!",
+   "status": "done"
   },
   {
    "id": "ev0B8_0E18",
@@ -364,7 +398,8 @@
    ],
    "speaker": "トト",
    "jp": "　じゃあ、\n　おいらが一番最初にいって\n　手本を見せてあげるよ。\n",
-   "en": ""
+   "en": "Okay, then I'll go first and show you how\nit's done.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0E60",
@@ -374,7 +409,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　待てよ。\n　隊長になんかあったら\n　たいへんだろ！\n",
-   "en": ""
+   "en": "Hold on. It'd be bad news if anything\nhappened to the captain!",
+   "status": "done"
   },
   {
    "id": "ev0B8_0E9C",
@@ -384,7 +420,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレが先にいく。\n\n\n",
-   "en": ""
+   "en": "I'll go first.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0EBC",
@@ -394,7 +431,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえは、\n　隊長の手伝いをしてくれ。\n\n",
-   "en": ""
+   "en": "You help the captain out.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0EF0",
@@ -404,7 +442,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ティルウェスの力じゃ、\n　つらいかもしれないしな。\n\n",
-   "en": ""
+   "en": "It might be rough going with only Tilwes's\npower.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0F30",
@@ -414,7 +453,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長。\n　じゃあ、先にいきます！\n\n",
-   "en": ""
+   "en": "Captain, I'll go on ahead, then!",
+   "status": "done"
   },
   {
    "id": "ev0B8_0F5C",
@@ -424,7 +464,8 @@
    ],
    "speaker": "トト",
    "jp": "　なんだよ、\n　急にカッコつけやがって！\n\n",
-   "en": ""
+   "en": "What the heck, acting all cool all of a\nsudden!",
+   "status": "done"
   },
   {
    "id": "ev0B8_0F8C",
@@ -434,7 +475,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　トト。\n　私も準備するわ。\n\n",
-   "en": ""
+   "en": "Toto, I'll get ready too.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0FB4",
@@ -444,7 +486,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたも\n　遅れないようにね。\n\n",
-   "en": ""
+   "en": "Make sure you don't fall behind either.",
+   "status": "done"
   },
   {
    "id": "ev0B8_0FE0",
@@ -454,7 +497,8 @@
    ],
    "speaker": "トト",
    "jp": "　ちょっと、ちょっと。\n　なんだよ、二人そろって……！\n\n",
-   "en": ""
+   "en": "Hey, hey, wait a sec. What's with you\ntwo...!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1020",
@@ -464,7 +508,8 @@
    ],
    "speaker": "トト",
    "jp": "　まったく……。\n\n\n",
-   "en": ""
+   "en": "Geez...",
+   "status": "done"
   },
   {
    "id": "ev0B8_103C",
@@ -474,7 +519,8 @@
    ],
    "speaker": "トト",
    "jp": "　これだから大人ってやつは……。\n\n\n",
-   "en": ""
+   "en": "That's grown-ups for ya...",
+   "status": "done"
   },
   {
    "id": "ev0B8_1068",
@@ -484,7 +530,8 @@
    ],
    "speaker": "トト",
    "jp": "　おっと、\n　おいらも準備しないと！\n\n",
-   "en": ""
+   "en": "Whoops, I'd better get ready too!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1094",
@@ -494,7 +541,8 @@
    ],
    "speaker": "トト",
    "jp": "（でも、\n　なんで次元気流が\n　発生してないんだろう……）\n",
-   "en": ""
+   "en": "(But how come the dimensional current isn't\nhappening...?)",
+   "status": "done"
   },
   {
    "id": "ev0B8_10D4",
@@ -504,7 +552,8 @@
    ],
    "speaker": "トト",
    "jp": "（ここしばらく、\n　ずっと発生していたのに……）\n\n",
-   "en": ""
+   "en": "(It's been going nonstop for a while now...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_110C",
@@ -514,7 +563,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　トト。\n　どこに向かえばいいんだ？\n\n",
-   "en": ""
+   "en": "Toto, which way do we go?",
+   "status": "done"
   },
   {
    "id": "ev0B8_113C",
@@ -524,7 +574,8 @@
    ],
    "speaker": "トト",
    "jp": "　そんなこともわからないのに\n　一番最初に飛び込んだのかよ。\n\n",
-   "en": ""
+   "en": "You jumped in first and you don't even\nknow that?",
+   "status": "done"
   },
   {
    "id": "ev0B8_1180",
@@ -534,7 +585,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うるさい！\n\n\n",
-   "en": ""
+   "en": "Shut up!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1198",
@@ -544,7 +596,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いいから、\n　どっちの方向へいけば……。\n\n",
-   "en": ""
+   "en": "Just tell me which direction to head...",
+   "status": "done"
   },
   {
    "id": "ev0B8_11CC",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……隊長。\n　プラーナの反応を確認しました！\n\n",
-   "en": ""
+   "en": "...Captain, I'm picking up a Prana reading!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1204",
@@ -564,7 +618,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　間違いなく魔装機の反応です！\n\n\n",
-   "en": ""
+   "en": "It's definitely a Masouki!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1230",
@@ -574,7 +629,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　魔装機？\n　こんなところで！？\n\n",
-   "en": ""
+   "en": "A Masouki? In a place like this!?",
+   "status": "done"
   },
   {
    "id": "ev0B8_125C",
@@ -584,7 +640,8 @@
    ],
    "speaker": "トト",
    "jp": "　にいちゃん！\n　あいつらか！？\n\n",
-   "en": ""
+   "en": "Big bro! Is it them!?",
+   "status": "done"
   },
   {
    "id": "ev0B8_1284",
@@ -594,7 +651,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（……魔装機神！\n　サイバスターにザムジード！？）\n\n",
-   "en": ""
+   "en": "(...The Masoukishin! Cybuster and\nZamzeed!?)",
+   "status": "done"
   },
   {
    "id": "ev0B8_12C0",
@@ -604,7 +662,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（次元気流で\n　封印していたはずなのになぜ……）\n\n",
-   "en": ""
+   "en": "(I sealed this place off with the dimensional\ncurrent. How did they...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_12FC",
@@ -614,7 +673,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（まさか、これも\n　サイバスターの力だというのか……）\n\n",
-   "en": ""
+   "en": "(Can this, too, be the power of\nCybuster...?)",
+   "status": "done"
   },
   {
    "id": "ev0B8_133C",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（うん……？）\n\n\n",
-   "en": ""
+   "en": "(Hm...?)",
+   "status": "done"
   },
   {
    "id": "ev0B8_1358",
@@ -634,7 +695,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（しかもプラーナの反応が\n　話に聞いているアルマと違う……）\n\n",
-   "en": ""
+   "en": "(And this Prana reading is not Alma's, from\nwhat I have heard...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_13A0",
@@ -644,7 +706,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（どういうことだ……？）\n\n\n",
-   "en": ""
+   "en": "(What is the meaning of this...?)",
+   "status": "done"
   },
   {
    "id": "ev0B8_13C4",
@@ -654,7 +717,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（……おもしろい！）\n\n\n",
-   "en": ""
+   "en": "(...How interesting!)",
+   "status": "done"
   },
   {
    "id": "ev0B8_13E4",
@@ -664,7 +728,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は、\n　ラガーシュ王国の\n　ソッド＝ジュストだ。\n",
-   "en": ""
+   "en": "I am Thodd Justo of the Kingdom of\nRagash.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1420",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（あ、あの魔装機は！）\n\n\n",
-   "en": ""
+   "en": "(Th-That Masouki!)",
+   "status": "done"
   },
   {
    "id": "ev0B8_1444",
@@ -684,7 +750,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（確か……！！）\n\n\n",
-   "en": ""
+   "en": "(I'm sure it's...!!)",
+   "status": "done"
   },
   {
    "id": "ev0B8_1460",
@@ -694,7 +761,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あ、あなたは……！？\n\n\n",
-   "en": ""
+   "en": "Y-You're...!?",
+   "status": "done"
   },
   {
    "id": "ev0B8_1484",
@@ -704,7 +772,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ほう、\n　覚えていてくれたようだな。\n\n",
-   "en": ""
+   "en": "Oh? So you remember me.",
+   "status": "done"
   },
   {
    "id": "ev0B8_14B4",
@@ -714,7 +783,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　アルマ＝グラム＝カーリナ。\n\n",
-   "en": ""
+   "en": "Alma Gram Karina.",
+   "status": "done"
   },
   {
    "id": "ev0B8_14DC",
@@ -724,7 +794,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなた、\n　なぜ、その名前を！？\n\n",
-   "en": ""
+   "en": "You... How do you know that name!?",
+   "status": "done"
   },
   {
    "id": "ev0B8_1508",
@@ -734,7 +805,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私の知らないことなどない……。\n\n\n",
-   "en": ""
+   "en": "There is nothing I do not know...",
+   "status": "done"
   },
   {
    "id": "ev0B8_1534",
@@ -744,7 +816,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……といいたいところだが、\n　その名前に関しては、\n　情報提供者がいてね。\n",
-   "en": ""
+   "en": "...or so I would like to say, but as for that\nname, I had an informant.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1588",
@@ -754,7 +827,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　情報提供者……！？\n\n\n",
-   "en": ""
+   "en": "An informant...!?",
+   "status": "done"
   },
   {
    "id": "ev0B8_15A8",
@@ -764,7 +838,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ルジェロという神官を\n　ご存じかな？\n\n",
-   "en": ""
+   "en": "Perhaps you know a priest by the name of\nRuggero?",
+   "status": "done"
   },
   {
    "id": "ev0B8_15D8",
@@ -774,7 +849,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ル、ルジェロ！\n　ま、まさか……！？\n\n",
-   "en": ""
+   "en": "R-Ruggero! It c-can't be...!?",
+   "status": "done"
   },
   {
    "id": "ev0B8_1608",
@@ -784,7 +860,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ヤドラとかいうやつも\n　同じようなことをいってたな……）\n\n",
-   "en": ""
+   "en": "(That Yadora guy said something like that\ntoo...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_164C",
@@ -794,7 +871,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……そうか、\n　そういうことだったのか）\n\n",
-   "en": ""
+   "en": "(...I see. So that's what was going on.)",
+   "status": "done"
   },
   {
    "id": "ev0B8_1680",
@@ -804,7 +882,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　まあ、そのおかげで、\n　バルツフィーム王国も\n　我々のものとなった。\n",
-   "en": ""
+   "en": "Well, thanks to him, the Kingdom of\nVartzpheem is now ours as well.",
+   "status": "done"
   },
   {
    "id": "ev0B8_16D0",
@@ -814,7 +893,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ど、どういうこと！？\n\n\n",
-   "en": ""
+   "en": "Wh-What do you mean!?",
+   "status": "done"
   },
   {
    "id": "ev0B8_16F4",
@@ -824,7 +904,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　もはや、地上に\n　バルツフィーム王国という名の\n　国家は存在しない。\n",
-   "en": ""
+   "en": "No nation by the name of the Kingdom of\nVartzpheem exists on the surface any\nlonger.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1744",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんだと……。\n\n\n",
-   "en": ""
+   "en": "What did you say...",
+   "status": "done"
   },
   {
    "id": "ev0B8_1760",
@@ -844,7 +926,8 @@
    ],
    "speaker": "トト",
    "jp": "　ええ！！\n\n\n",
-   "en": ""
+   "en": "Whaaat!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1774",
@@ -854,7 +937,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "..................",
+   "status": "done"
   },
   {
    "id": "ev0B8_1790",
@@ -864,7 +948,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そう、\n　貴様らがダウスにいるあいだ、\n　すべては終わった。\n",
-   "en": ""
+   "en": "Yes. While you were in Daus, it was\nall over.",
+   "status": "done"
   },
   {
    "id": "ev0B8_17D8",
@@ -874,7 +959,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　貴様らには、\n　もう帰る場所がないのだ。\n\n",
-   "en": ""
+   "en": "You no longer have anywhere to return to.",
+   "status": "done"
   },
   {
    "id": "ev0B8_180C",
@@ -884,7 +970,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ソッド！！\n\n\n",
-   "en": ""
+   "en": "Thodd!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1824",
@@ -894,7 +981,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そんなに\n　厳しい顔をしなくても……。\n\n",
-   "en": ""
+   "en": "There is no need to look so stern...",
+   "status": "done"
   },
   {
    "id": "ev0B8_1858",
@@ -904,7 +992,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　これも\n　歴史の必然というものだ。\n\n",
-   "en": ""
+   "en": "This, too, is simply the inevitability of\nhistory.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1888",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　さて、つまらない話は\n　このくらいにして……。\n\n",
-   "en": ""
+   "en": "Now, enough of this tedious talk...",
+   "status": "done"
   },
   {
    "id": "ev0B8_18C4",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は、\n　サイバスターの契約者と\n　話がしたいのだが？\n",
-   "en": ""
+   "en": "I would like a word with Cybuster's\ncontractor.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1904",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　契約者は、オレだ。\n\n\n",
-   "en": ""
+   "en": "The contractor is me.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1924",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ケイゴ＝フェルディナンだ！\n\n",
-   "en": ""
+   "en": "Keigo Ferdinand!",
+   "status": "done"
   },
   {
    "id": "ev0B8_194C",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ほほう。\n　貴様がサイバスターの契約者\n　というわけか……。\n",
-   "en": ""
+   "en": "Well, well. So you are Cybuster's\ncontractor...",
+   "status": "done"
   },
   {
    "id": "ev0B8_1994",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうだ。\n\n\n",
-   "en": ""
+   "en": "That's right.",
+   "status": "done"
   },
   {
    "id": "ev0B8_19AC",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　貴様みたいな人間には\n　なにをいってもムダそうだ。\n\n",
-   "en": ""
+   "en": "It seems words would be wasted on the\nlikes of you.",
+   "status": "done"
   },
   {
    "id": "ev0B8_19EC",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なにっ！\n\n\n",
-   "en": ""
+   "en": "What!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1A04",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　だから、\n　単刀直入にいおう。\n\n",
-   "en": ""
+   "en": "So I shall get straight to the point.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1A30",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　降伏しろ。\n\n\n",
-   "en": ""
+   "en": "Surrender.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1A48",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　魔装機神を差し出せば、\n　命はおろか、\n　これからの生活も保障しよう。\n",
-   "en": ""
+   "en": "Hand over the Masoukishin, and I will\nguarantee not only your lives, but your\nfutures as well.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1A98",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　どうだ？\n　意味のない戦いを続けても\n　仕方なかろう。\n",
-   "en": ""
+   "en": "Well? There is no sense in continuing a\nmeaningless fight.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1AD8",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ！\n\n\n",
-   "en": ""
+   "en": "Keigo!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1AF0",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "トト",
    "jp": "　にいちゃん！\n　こんなやつのいいなりに\n　なっちゃだめだぞ！！\n",
-   "en": ""
+   "en": "Big bro! Don't you go doing what this guy\nsays!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1B38",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　おまえらに用はない！\n\n\n",
-   "en": ""
+   "en": "I have no business with you people!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1B5C",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　用があるのは、\n　サイバスターの操者。\n\n\n",
-   "en": ""
+   "en": "My business is with Cybuster's pilot.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1B90",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ケイゴ＝フェルディナンだけ。\n\n\n",
-   "en": ""
+   "en": "Keigo Ferdinand alone.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1BBC",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　早く、\n　サイバスターを渡せ！\n\n",
-   "en": ""
+   "en": "Now, hand over Cybuster!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1BE8",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　一つ、聞きたいことがある。\n\n\n",
-   "en": ""
+   "en": "There's one thing I want to ask you.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1C10",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なんだ。\n\n\n",
-   "en": ""
+   "en": "What is it?",
+   "status": "done"
   },
   {
    "id": "ev0B8_1C28",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なぜ、\n　自分の国の国王を暗殺した！\n\n",
-   "en": ""
+   "en": "Why did you assassinate your own\ncountry's king!?",
+   "status": "done"
   },
   {
    "id": "ev0B8_1C58",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なぜ、人を簡単に……。\n\n\n",
-   "en": ""
+   "en": "How can you kill people so easily...",
+   "status": "done"
   },
   {
    "id": "ev0B8_1C7C",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そうか、貴様は\n　あの場にいたのか……。\n\n",
-   "en": ""
+   "en": "I see. So you were there that day...",
+   "status": "done"
   },
   {
    "id": "ev0B8_1CB0",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ならば、教えてやろう。\n\n\n",
-   "en": ""
+   "en": "Then allow me to enlighten you.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1CD4",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　民衆を操るには\n　世論を味方にする必要がある。\n\n",
-   "en": ""
+   "en": "To control the masses, one must have\npublic opinion on one's side.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1D10",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なにしろ、\n　民衆というものは、\n　世論というものに左右される。\n",
-   "en": ""
+   "en": "After all, the masses are swayed by what\nis called public opinion.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1D5C",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そのためには、理由が必要だ。\n\n\n",
-   "en": ""
+   "en": "And for that, a reason is needed.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1D88",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　国王一人が犠牲になるだけで\n　開戦の理由づけができるのだ。\n\n",
-   "en": ""
+   "en": "With the sacrifice of a single king, we\ngained a reason to go to war.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1DD0",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　非常に効率的だと思わんかね？\n\n\n",
-   "en": ""
+   "en": "Do you not find that remarkably efficient?",
+   "status": "done"
   },
   {
    "id": "ev0B8_1DFC",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　たった、それだけの理由で……！\n\n\n",
-   "en": ""
+   "en": "For a reason like that...!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1E28",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　陳腐ないい方で\n　あまり好きではないが\n　大義ということだよ。\n",
-   "en": ""
+   "en": "It is a trite expression and I do not much\ncare for it, but it is what one calls a just\ncause.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1E70",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　きさまっ！\n\n\n",
-   "en": ""
+   "en": "You bastard!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1E88",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　さて、答えを聞かせてくれ。\n\n\n",
-   "en": ""
+   "en": "Now, let me hear your answer.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1EB0",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえみたいなヤツに\n　サイバスターを\n　渡すわけにはいかない！\n",
-   "en": ""
+   "en": "I'm not handing Cybuster over to a guy\nlike you!",
+   "status": "done"
   },
   {
    "id": "ev0B8_1EFC",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　これまた、月並みなセリフだな。\n\n\n",
-   "en": ""
+   "en": "What a thoroughly ordinary thing to say.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1F28",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　まあ、どちらにせよ、\n　国王暗殺の裏を知っている人間を\n　生かしておくわけにはいかんな……。\n",
-   "en": ""
+   "en": "Well, either way, I cannot let anyone who\nknows the truth behind the king's\nassassination live...",
+   "status": "done"
   },
   {
    "id": "ev0B8_1F90",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ケイゴ＝フェルディナン。\n\n\n",
-   "en": ""
+   "en": "Keigo Ferdinand.",
+   "status": "done"
   },
   {
    "id": "ev0B8_1FB8",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　サイバスターとともに\n　この異空間で\n　永遠にさまようがいい！！\n",
-   "en": ""
+   "en": "You may wander this other dimension for\nall eternity, along with Cybuster!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_2004",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　全機、攻撃開始！！\n\n\n",
-   "en": ""
+   "en": "All units, commence attack!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_2024",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ルジェロからは、\n　操者がアルマだと聞いていたが\n　うまく契約できなかったようだな。\n",
-   "en": ""
+   "en": "Ruggero told me the pilot was Alma, but it\nseems she failed to form the contract.",
+   "status": "done"
   },
   {
    "id": "ev0B8_2084",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　今のバルツフィーム王家も\n　所詮はその程度か……。\n\n",
-   "en": ""
+   "en": "So the present royal house of Vartzpheem\namounts to no more than that...",
+   "status": "done"
   },
   {
    "id": "ev0B8_20C4",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うるさいっ！\n　おまえには関係ない！！\n\n",
-   "en": ""
+   "en": "Shut up! That's none of your business!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_20F8",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　しかもあげくに\n　貴様のような人間と\n　契約するとは……。\n",
-   "en": ""
+   "en": "And to top it off, it formed a contract with\nsomeone like you...",
+   "status": "done"
   },
   {
    "id": "ev0B8_213C",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　精霊のきまぐれさは、\n　予測できん。\n\n",
-   "en": ""
+   "en": "There is no predicting the whims of a spirit.",
+   "status": "done"
   },
   {
    "id": "ev0B8_216C",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　誰がサイバスターにふさわしいかは、\n　おまえが決めることじゃない！\n\n",
-   "en": ""
+   "en": "Who's worthy of Cybuster isn't for you to\ndecide!",
+   "status": "done"
   },
   {
    "id": "ev0B8_21BC",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こいつとオレで決めたんだ！\n\n\n",
-   "en": ""
+   "en": "This guy and I decided that together!",
+   "status": "done"
   },
   {
    "id": "ev0B8_21E4",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ならば、\n　精霊にそのことを\n　後悔させてやろう！\n",
-   "en": ""
+   "en": "Then I shall make the spirit regret that\nchoice!",
+   "status": "done"
   },
   {
    "id": "ev0B8_2220",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　死ね！！\n\n\n",
-   "en": ""
+   "en": "Die!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_2238",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うわっ？\n　な……なにが……一体……？\n\n",
-   "en": ""
+   "en": "Whoa!? Wh-What's... going on...?",
+   "status": "done"
   },
   {
    "id": "ev0B8_226C",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "トト",
    "jp": "　こ、これが次元気流だよっ！\n　飲み込まれるとマズイよ！\n\n",
-   "en": ""
+   "en": "Th-This is the dimensional current! We're in\ntrouble if it swallows us!",
+   "status": "done"
   },
   {
    "id": "ev0B8_22AC",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……といったって\n　この状態じゃ……！！\n\n",
-   "en": ""
+   "en": "...Easy for you to say, in a state like this...!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_22E0",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長！　大丈夫ですか！？\n\n\n",
-   "en": ""
+   "en": "Captain! Are you all right!?",
+   "status": "done"
   },
   {
    "id": "ev0B8_2308",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　くっ、だめ、\n　ティルウェスの力じゃ……。\n\n",
-   "en": ""
+   "en": "Ngh, it's no good... Tilwes doesn't have the\npower...",
+   "status": "done"
   },
   {
    "id": "ev0B8_2340",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長！！\n\n\n",
-   "en": ""
+   "en": "Captain!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_2358",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "トト",
    "jp": "　にいちゃん！\n　おいらもダメだ……。\n\n\n",
-   "en": ""
+   "en": "Big bro! I can't hold on either...",
+   "status": "done"
   },
   {
    "id": "ev0B8_2388",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　トト！！\n\n\n",
-   "en": ""
+   "en": "Toto!!",
+   "status": "done"
   },
   {
    "id": "ev0B8_23A0",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うわああっ……。\n\n\n",
-   "en": ""
+   "en": "Waaaaah...",
+   "status": "done"
   },
   {
    "id": "ev0B8_23C0",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　ソッド様っ！\n　おケガはありませんか……。\n\n",
-   "en": ""
+   "en": "Thodd-sama! Are you injured...?",
+   "status": "done"
   },
   {
    "id": "ev0B8_2400",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　大丈夫だ……。\n\n\n",
-   "en": ""
+   "en": "I am fine...",
+   "status": "done"
   },
   {
    "id": "ev0B8_241C",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　それより、\n　偵察部隊を編成させろ。\n\n",
-   "en": ""
+   "en": "More importantly, have a reconnaissance\nunit organized.",
+   "status": "done"
   },
   {
    "id": "ev0B8_244C",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　地上のどこかに、\n　サイバスターが現れるはずだ。\n\n",
-   "en": ""
+   "en": "Cybuster is bound to appear somewhere\non the surface.",
+   "status": "done"
   },
   {
    "id": "ev0B8_2488",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　あら、その役目、\n　あたしがやってあげようかい？\n\n",
-   "en": ""
+   "en": "Oh? How about I take that job off your\nhands?",
+   "status": "done"
   },
   {
    "id": "ev0B8_24C4",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……キャリか。\n\n\n",
-   "en": ""
+   "en": "...Kyari.",
+   "status": "done"
   },
   {
    "id": "ev0B8_24E0",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　あんたの下になってから、\n　ヒマでしょうがなくてね。\n\n",
-   "en": ""
+   "en": "Ever since I got put under you, I've been\nbored out of my skull.",
+   "status": "done"
   },
   {
    "id": "ev0B8_2520",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　どうしようかと\n　思っていたところだよ。\n\n",
-   "en": ""
+   "en": "I was just wondering what to do with\nmyself.",
+   "status": "done"
   },
   {
    "id": "ev0B8_2554",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……わかった。\n　部隊を編成して出撃しろ。\n\n",
-   "en": ""
+   "en": "...Very well. Organize a unit and sortie.",
+   "status": "done"
   },
   {
    "id": "ev0B8_258C",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ダウス周辺のどこかにいるはずだ。\n\n\n",
-   "en": ""
+   "en": "They should be somewhere in the vicinity\nof Daus.",
+   "status": "done"
   },
   {
    "id": "ev0B8_25BC",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　ふふん。\n　そうこなくっちゃね。\n\n",
-   "en": ""
+   "en": "Heh. Now that's more like it.",
+   "status": "done"
   },
   {
    "id": "ev0B8_25E8",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　しかし、うれしいねぇ。\n　いよいよ噂の魔装機神と\n　御対面かい。\n",
-   "en": ""
+   "en": "Gotta say, I'm thrilled. So I finally get to\nmeet these famous Masoukishin, huh?",
+   "status": "done"
   },
   {
    "id": "ev0B8_2634",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　キャリ。\n　ただ……手は出すな。\n\n\n",
-   "en": ""
+   "en": "Kyari. However... do not engage them.",
+   "status": "done"
   },
   {
    "id": "ev0B8_2660",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　わかったよ。\n\n\n",
-   "en": ""
+   "en": "Yeah, yeah, I got it.",
+   "status": "done"
   },
   {
    "id": "ev0B8_267C",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　けれど……。\n\n\n",
-   "en": ""
+   "en": "But...",
+   "status": "done"
   },
   {
    "id": "ev0B8_2698",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　万が一、\n　相手から仕掛けられたら、\n　逃げる気はないけどね……。\n",
-   "en": ""
+   "en": "If by some chance they come at me first,\nI'm not about to run away...",
+   "status": "done"
   },
   {
    "id": "ev0B8_26E4",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "..................",
+   "status": "done"
   },
   {
    "id": "ev0B8_2700",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　おっと。\n　冗談だよ、冗談。\n\n",
-   "en": ""
+   "en": "Whoops. Kidding, just kidding.",
+   "status": "done"
   },
   {
    "id": "ev0B8_2728",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　ヤツらを探し出せばいいんだろ。\n　いってくるよ。\n\n",
-   "en": ""
+   "en": "I just gotta find 'em, right? I'm off.",
+   "status": "done"
   },
   {
    "id": "ev0B8_2764",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(..................)",
+   "status": "done"
   },
   {
    "id": "ev0B8_2780",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（魔重機のデータは取れたが……）\n\n\n",
-   "en": ""
+   "en": "(I obtained the Majuuki's data, but...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_27AC",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（まさかサイバスターやザムジードが\n　ダウスから脱出できるとは……）\n\n",
-   "en": ""
+   "en": "(Who would have thought Cybuster and\nZamzeed could escape from Daus...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_27FC",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（これで魔装機神は３体……）\n\n\n",
-   "en": ""
+   "en": "(That makes three Masoukishin...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_2824",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（神の腕の解析を急がせるか……）\n\n\n",
-   "en": ""
+   "en": "(Perhaps I should hurry the analysis of the\nArm of God...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_2850",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down... not in a place like\nthis...",
+   "status": "done"
   },
   {
    "id": "ev0B8_2888",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、私は……。\n　ここまでというの……。\n\n",
-   "en": ""
+   "en": "Is this... is this as far as I go...?",
+   "status": "done"
   },
   {
    "id": "ev0B8_28C0",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "トト",
    "jp": "　うっそ！！\n　おいらがやられるなんてアリ……。\n\n",
-   "en": ""
+   "en": "No way!! Me, getting beaten? That's not\nallowed...",
+   "status": "done"
   },
   {
    "id": "ev0B8_28F8",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（な…………\n　なんということだ。\n　これほどの力を宿しているとは……）\n\n\n",
-   "en": ""
+   "en": "(Wh-- What is this? To think it holds such\npower...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_294C",
@@ -1764,7 +1938,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（破損した機体で次元気流に\n　巻き込まれてはマズイ）\n\n\n",
-   "en": ""
+   "en": "(Getting caught in the dimensional current\nwith a damaged machine would be unwise.)",
+   "status": "done"
   },
   {
    "id": "ev0B8_298C",
@@ -1774,7 +1949,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（仕方がない\n　いったん地上へ戻るか……）\n\n",
-   "en": ""
+   "en": "(It cannot be helped. I shall return to the\nsurface for now...)",
+   "status": "done"
   },
   {
    "id": "ev0B8_45F4",
@@ -1783,7 +1959,8 @@
     "0x48A4"
    ],
    "jp": "\n　そこには善も悪も存在しないのかもしれない\n\n　　　これまで正義と呼ばれていたはずの\n　　　　真実を全うせんとする行為の動機\n\n　　　　　それが権力者たちの我が身を\n　　　　　　守るために作り出した\n　　単なる方便に過ぎなかったとしたら……\n\n　　　　表世界と裏世界を繋ぐダウス\n\n　唯一歴史の暗部を知る運命を与えられた場所\n　　それは必然的に魔の吹き溜まりでもあった\n",
-   "en": ""
+   "en": "Perhaps neither good nor evil exists there\n\nThe motives of deeds done in truth's name,\ndeeds we have always called justice--\n\nWhat if they were nothing but a pretext\ndevised by those in power\nto protect themselves...\n\nDaus, linking the surface and the underworld\n\nAlone fated to know history's dark side,\nit was bound to be where evil gathers too",
+   "status": "done"
   },
   {
    "id": "ev0B8_475C",
@@ -1792,7 +1969,8 @@
     "0x48A8"
    ],
    "jp": "\n　　　捨て去られたものの魂が産み出しす\n　　恐るべき怨霊が騎士たちの行く手を阻む\n\n　　　　　　怯むわけにはいかない\n\n　　　　　　　恐れを知ることが\n　　　　　騎士にとって英雄への扉を\n　　　　　　開く鍵であればこそ\n\n　　　　　　　　精霊は守る\n　　　　自らを信ずる力強いものたちを\n　互いに交わした侵すべからず契約によって……\n\n",
-   "en": ""
+   "en": "The souls of those cast aside\ngive birth to dreadful wraiths\nthat block the knights' way\n\nThey cannot afford to flinch\n\nFor knowing fear\nis the key that opens\na knight's door to heroism\n\nThe spirits protect\nthe strong who believe in themselves\nby the inviolable contract they share...",
+   "status": "done"
   }
  ]
 }

@@ -24,7 +24,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ソッド様より\n　連絡があってな。\n\n",
-   "en": ""
+   "en": "I have received word from Thodd-sama.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0800",
@@ -34,7 +35,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　魔装機神の所在が確認された。\n\n\n",
-   "en": ""
+   "en": "The Masoukishin's whereabouts have been\nconfirmed.",
+   "status": "done"
   },
   {
    "id": "ev0CA_082C",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　現在、ナトゥーレに向けて\n　移動しているとのことだ。\n\n",
-   "en": ""
+   "en": "They are said to be heading for Natoure as\nwe speak.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0870",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ソッド様の部隊も向かっているが、\n　このままだとナトゥーレに\n　入国されてしまう。\n",
-   "en": ""
+   "en": "Thodd-sama's unit is on its way, but at this\nrate they will make it into Natoure.",
+   "status": "done"
   },
   {
    "id": "ev0CA_08D0",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ソッド様の部隊が到着するまで、\n　ヤツらを足止めし、\n　魔装機神どものとどめを刺すのだ。\n",
-   "en": ""
+   "en": "Until Thodd-sama's unit arrives, you are to\nhold them there and finish off those\nMasoukishin.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0934",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ア・ゼルスで１、２を争う\n　おまえの腕前。\n\n",
-   "en": ""
+   "en": "Your skill ranks among the very best in all\nA-Zeluth.",
+   "status": "done"
   },
   {
    "id": "ev0CA_096C",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　期待しておるぞ。\n\n\n",
-   "en": ""
+   "en": "I am counting on you.",
+   "status": "done"
   },
   {
    "id": "ev0CA_098C",
@@ -94,7 +101,8 @@
    ],
    "speaker": "",
    "jp": "　はいっ……。\n\n\n",
-   "en": ""
+   "en": "Yes...",
+   "status": "done"
   },
   {
    "id": "ev0CA_09A0",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　……そうだ。\n\n\n",
-   "en": ""
+   "en": "...Ah, yes.",
+   "status": "done"
   },
   {
    "id": "ev0CA_09BC",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　一つ、いい忘れたことが。\n\n\n",
-   "en": ""
+   "en": "There is one thing I forgot to mention.",
+   "status": "done"
   },
   {
    "id": "ev0CA_09E4",
@@ -124,7 +134,8 @@
    ],
    "speaker": "",
    "jp": "　なんでしょう？\n\n\n",
-   "en": ""
+   "en": "What is it?",
+   "status": "done"
   },
   {
    "id": "ev0CA_09FC",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　サイバスターの操者だが、\n　アルマではないらしい。\n\n",
-   "en": ""
+   "en": "It seems Cybuster's pilot is not Alma.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0A3C",
@@ -144,7 +156,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ケイゴ＝フェルディナン。\n\n\n",
-   "en": ""
+   "en": "Keigo Ferdinand.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0A64",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　そいつが\n　サイバスターの操者らしい。\n\n",
-   "en": ""
+   "en": "He is apparently the pilot of Cybuster.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0A98",
@@ -164,7 +178,8 @@
    ],
    "speaker": "",
    "jp": "（……ケイゴが！？）\n\n",
-   "en": ""
+   "en": "(...Keigo is!?)",
+   "status": "done"
   },
   {
    "id": "ev0CA_0AB0",
@@ -174,7 +189,8 @@
    ],
    "speaker": "",
    "jp": "（サイバスターの操者……）\n\n\n",
-   "en": ""
+   "en": "(Cybuster's pilot...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_0AD0",
@@ -184,7 +200,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　じゃあ、よろしく頼むぞ。\n\n\n",
-   "en": ""
+   "en": "Well then, I am counting on you.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0AF8",
@@ -194,7 +211,8 @@
    ],
    "speaker": "",
    "jp": "　……はい。\n\n\n",
-   "en": ""
+   "en": "...Yes.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0B0C",
@@ -204,7 +222,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　さて……。\n\n\n",
-   "en": ""
+   "en": "Now then...",
+   "status": "done"
   },
   {
    "id": "ev0CA_0B28",
@@ -214,7 +233,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ルジェロ、\n　魔装機神は無事だったらしいな。\n\n",
-   "en": ""
+   "en": "Ruggero, I hear the Masoukishin survived.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0B60",
@@ -224,7 +244,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ああ、連絡が入ってな。\n\n\n",
-   "en": ""
+   "en": "Yes, word has come in.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0B88",
@@ -234,7 +255,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　今、攻撃隊を向かわせた。\n\n\n",
-   "en": ""
+   "en": "I have just sent an attack unit after them.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0BB0",
@@ -244,7 +266,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　私も出撃させてくれ。\n\n\n",
-   "en": ""
+   "en": "Let me sortie as well.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0BD0",
@@ -254,7 +277,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　……出撃して、\n　アルマに一騎打ちを所望するか？\n\n",
-   "en": ""
+   "en": "...So you can sortie and demand a duel\nwith Alma?",
+   "status": "done"
   },
   {
    "id": "ev0CA_0C10",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　婚約者の仇を取るために。\n\n\n",
-   "en": ""
+   "en": "To avenge your fiance.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0C38",
@@ -274,7 +299,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "..................",
+   "status": "done"
   },
   {
    "id": "ev0CA_0C54",
@@ -284,7 +310,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　やめておけ。\n\n\n",
-   "en": ""
+   "en": "Forget it.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0C70",
@@ -294,7 +321,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　おまえの腕では、\n　勝ち目はない。\n\n",
-   "en": ""
+   "en": "With your skill, you have no chance of\nwinning.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0CA0",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　おまえは、\n　ここで待機していろ。\n\n",
-   "en": ""
+   "en": "You will stay here on standby.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0CD0",
@@ -314,7 +343,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ルジェロっ！！\n\n\n",
-   "en": ""
+   "en": "Ruggero!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_0CEC",
@@ -324,7 +354,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　アルマが……。\n\n\n",
-   "en": ""
+   "en": "Alma is...",
+   "status": "done"
   },
   {
    "id": "ev0CA_0D08",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　アルマが\n　生きているというのに……！？\n\n",
-   "en": ""
+   "en": "Even though Alma is alive...!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_0D3C",
@@ -344,7 +376,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "..................",
+   "status": "done"
   },
   {
    "id": "ev0CA_0D58",
@@ -354,7 +387,8 @@
    ],
    "speaker": "イェン",
    "jp": "　アルマ様。\n　申しわけありません。\n\n",
-   "en": ""
+   "en": "Alma-sama. I am truly sorry.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0D88",
@@ -364,7 +398,8 @@
    ],
    "speaker": "イェン",
    "jp": "　私の未熟な力ゆえ……。\n\n\n",
-   "en": ""
+   "en": "Because my strength was lacking...",
+   "status": "done"
   },
   {
    "id": "ev0CA_0DAC",
@@ -374,7 +409,8 @@
    ],
    "speaker": "イェン",
    "jp": "　お約束したにも関わらず、\n　バルツフィームを守ることが\n　できませんでした。\n",
-   "en": ""
+   "en": "Despite my promise, I was unable to\nprotect Vartzpheem.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0E04",
@@ -384,7 +420,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　イェン、\n　あなたが悪いわけではないわ。\n\n",
-   "en": ""
+   "en": "Yen, it isn't your fault.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0E38",
@@ -394,7 +431,8 @@
    ],
    "speaker": "イェン",
    "jp": "　アルマ様……。\n\n\n",
-   "en": ""
+   "en": "Alma-sama...",
+   "status": "done"
   },
   {
    "id": "ev0CA_0E54",
@@ -404,7 +442,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　でも、\n　バルツフィームが\n　占領されたのは……。\n",
-   "en": ""
+   "en": "But is it true that Vartzpheem was\noccupied...?",
+   "status": "done"
   },
   {
    "id": "ev0CA_0E90",
@@ -414,7 +453,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ええ、残念ながら事実です。\n\n\n",
-   "en": ""
+   "en": "Yes. Regrettably, it is true.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0EB8",
@@ -424,7 +464,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そう……。\n\n\n",
-   "en": ""
+   "en": "I see...",
+   "status": "done"
   },
   {
    "id": "ev0CA_0ED0",
@@ -434,7 +475,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　父は、いえ、\n　バージェス国王は……。\n\n",
-   "en": ""
+   "en": "And my father... I mean, King Burgess...",
+   "status": "done"
   },
   {
    "id": "ev0CA_0F04",
@@ -444,7 +486,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "..................",
+   "status": "done"
   },
   {
    "id": "ev0CA_0F20",
@@ -454,7 +497,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "..................",
+   "status": "done"
   },
   {
    "id": "ev0CA_0F3C",
@@ -464,7 +508,8 @@
    ],
    "speaker": "トト",
    "jp": "　なあ、ケイゴにいちゃん\n　あいついったい誰なんだい？\n\n",
-   "en": ""
+   "en": "Hey, big bro Keigo, who the heck is\nthat guy?",
+   "status": "done"
   },
   {
    "id": "ev0CA_0F7C",
@@ -474,7 +519,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　イェンという\n　ナトゥーレの騎士さ。\n\n",
-   "en": ""
+   "en": "A knight from Natoure, name of Yen.",
+   "status": "done"
   },
   {
    "id": "ev0CA_0FAC",
@@ -484,7 +530,8 @@
    ],
    "speaker": "トト",
    "jp": "　けっこう、いい男じゃない。\n　乗っている魔装機神もカッコいいし……。\n\n",
-   "en": ""
+   "en": "He's a pretty good-looking guy, huh. And\nthe Masoukishin he pilots is real cool too...",
+   "status": "done"
   },
   {
    "id": "ev0CA_0FFC",
@@ -494,7 +541,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうか？\n　そんなたいしたことないと思うけど。\n\n",
-   "en": ""
+   "en": "You think so? I don't think he's all that\ngreat.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1038",
@@ -504,7 +552,8 @@
    ],
    "speaker": "トト",
    "jp": "　いや、かっこいいよ。\n\n\n",
-   "en": ""
+   "en": "Nuh-uh, he's cool.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1058",
@@ -514,7 +563,8 @@
    ],
    "speaker": "トト",
    "jp": "　それに騎士なんだろ。\n\n\n",
-   "en": ""
+   "en": "And he's a knight, right?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1078",
@@ -524,7 +574,8 @@
    ],
    "speaker": "トト",
    "jp": "　女にもてるんだろうなあ。\n\n",
-   "en": ""
+   "en": "I bet the ladies love him.",
+   "status": "done"
   },
   {
    "id": "ev0CA_109C",
@@ -534,7 +585,8 @@
    ],
    "speaker": "トト",
    "jp": "　アルマねえちゃんも\n　けっこう、いい感じで話してるしさ。\n\n",
-   "en": ""
+   "en": "Sis Alma's hitting it off with him pretty\nwell, too.",
+   "status": "done"
   },
   {
    "id": "ev0CA_10E0",
@@ -544,7 +596,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　どう見たら、\n　いい感じに見えるんだ！\n\n",
-   "en": ""
+   "en": "How do you figure they're hitting it off!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1114",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレには、\n　重苦しい雰囲気にしか\n　感じられないけどな。\n",
-   "en": ""
+   "en": "All I'm getting is a really heavy,\ngloomy mood.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1158",
@@ -564,7 +618,8 @@
    ],
    "speaker": "トト",
    "jp": "　ははあ～ん。\n\n\n",
-   "en": ""
+   "en": "Ahaaa...",
+   "status": "done"
   },
   {
    "id": "ev0CA_1170",
@@ -574,7 +629,8 @@
    ],
    "speaker": "トト",
    "jp": "　さては、にいちゃん\n　アルマねえちゃんが取られそうなんで\n　妬いてるな。\n",
-   "en": ""
+   "en": "I get it, big bro. You're jealous 'cause he\nmight steal Sis Alma away!",
+   "status": "done"
   },
   {
    "id": "ev0CA_11C0",
@@ -584,7 +640,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なに、いってんだ！\n　おまえは！！\n\n",
-   "en": ""
+   "en": "What are you talking about, you!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_11F0",
@@ -594,7 +651,8 @@
    ],
    "speaker": "トト",
    "jp": "　ふ～ん、\n　ムキになるところは\n　ますます怪しい。\n",
-   "en": ""
+   "en": "Hmmm, getting all worked up just makes it\nlook even fishier.",
+   "status": "done"
   },
   {
    "id": "ev0CA_122C",
@@ -604,7 +662,8 @@
    ],
    "speaker": "トト",
    "jp": "　やっぱり、あの晩、\n　なんかあったな……。\n\n",
-   "en": ""
+   "en": "Knew it. Something did happen that night...",
+   "status": "done"
   },
   {
    "id": "ev0CA_1260",
@@ -614,7 +673,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　べ、別に……。\n\n\n",
-   "en": ""
+   "en": "N-Nothing happened...",
+   "status": "done"
   },
   {
    "id": "ev0CA_127C",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だいたい、\n　お、おまえ子供のくせに！！\n\n",
-   "en": ""
+   "en": "Anyway, y-you're just a kid!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_12B0",
@@ -634,7 +695,8 @@
    ],
    "speaker": "トト",
    "jp": "　へへ～んだ。\n\n\n",
-   "en": ""
+   "en": "Nyah nyah!",
+   "status": "done"
   },
   {
    "id": "ev0CA_12C8",
@@ -644,7 +706,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こ、このガキ！\n\n\n",
-   "en": ""
+   "en": "Wh-Why you little brat!",
+   "status": "done"
   },
   {
    "id": "ev0CA_12E4",
@@ -654,7 +717,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ、トト。\n　ふざけてないで、\n　ちょっとこっちにきて。\n",
-   "en": ""
+   "en": "Keigo, Toto. Stop fooling around and come\nover here a moment.",
+   "status": "done"
   },
   {
    "id": "ev0CA_132C",
@@ -664,7 +728,8 @@
    ],
    "speaker": "トト",
    "jp": "　は～い。\n\n\n",
-   "en": ""
+   "en": "Okaaay.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1340",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　お、おい。\n　ちょっと待て！\n\n",
-   "en": ""
+   "en": "H-Hey. Wait a sec!",
+   "status": "done"
   },
   {
    "id": "ev0CA_1368",
@@ -684,7 +750,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ！\n\n\n",
-   "en": ""
+   "en": "Keigo!",
+   "status": "done"
   },
   {
    "id": "ev0CA_1380",
@@ -694,7 +761,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　い、今いきますって！\n\n\n",
-   "en": ""
+   "en": "I-I'm coming, I said!",
+   "status": "done"
   },
   {
    "id": "ev0CA_13A4",
@@ -704,7 +772,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　イェンから状況を聞いてみたけれど\n　やっぱり、バルツフィームは……。\n\n",
-   "en": ""
+   "en": "I asked Yen about the situation, and\nVartzpheem really has...",
+   "status": "done"
   },
   {
    "id": "ev0CA_13F4",
@@ -714,7 +783,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　じゃあ、騎士隊のみんなは……。\n\n\n",
-   "en": ""
+   "en": "Then everyone in the Knights...",
+   "status": "done"
   },
   {
    "id": "ev0CA_1420",
@@ -724,7 +794,8 @@
    ],
    "speaker": "トト",
    "jp": "　おいらのじいちゃんは？\n\n\n",
-   "en": ""
+   "en": "What about my grandpa?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1444",
@@ -734,7 +805,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　王都が占領されたあと、\n　脱出した人もいるらしいけど……。\n\n",
-   "en": ""
+   "en": "Apparently some people escaped after the\nRoyal Capital was occupied, but...",
+   "status": "done"
   },
   {
    "id": "ev0CA_148C",
@@ -744,7 +816,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　詳しいことは……。\n\n\n",
-   "en": ""
+   "en": "The details are...",
+   "status": "done"
   },
   {
    "id": "ev0CA_14AC",
@@ -754,7 +827,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうですか……。\n\n\n",
-   "en": ""
+   "en": "I see...",
+   "status": "done"
   },
   {
    "id": "ev0CA_14CC",
@@ -764,7 +838,8 @@
    ],
    "speaker": "トト",
    "jp": "　……じいちゃん。\n\n\n",
-   "en": ""
+   "en": "...Grandpa.",
+   "status": "done"
   },
   {
    "id": "ev0CA_14E8",
@@ -774,7 +849,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　トト……。\n\n\n",
-   "en": ""
+   "en": "Toto...",
+   "status": "done"
   },
   {
    "id": "ev0CA_1500",
@@ -784,7 +860,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　トト、泣くなよ。\n　じいさんのことだ、\n　どっかで生きているって。\n",
-   "en": ""
+   "en": "Toto, don't cry. Knowing the old man, he's\nalive somewhere, I bet.",
+   "status": "done"
   },
   {
    "id": "ev0CA_154C",
@@ -794,7 +871,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　トト、元気を出して。\n\n\n",
-   "en": ""
+   "en": "Toto, cheer up.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1570",
@@ -804,7 +882,8 @@
    ],
    "speaker": "トト",
    "jp": "　……うん。\n\n\n",
-   "en": ""
+   "en": "...Okay.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1588",
@@ -814,7 +893,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……隊長。\n　じゃあ、どうしますか……？\n\n",
-   "en": ""
+   "en": "...Captain. So what do we do now...?",
+   "status": "done"
   },
   {
    "id": "ev0CA_15BC",
@@ -824,7 +904,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それで、\n　このあとのことなんだけど\n　ナトゥーレに向かおうと思うの。\n\n",
-   "en": ""
+   "en": "About that. As for what comes next, I'm\nthinking of heading to Natoure.",
+   "status": "done"
   },
   {
    "id": "ev0CA_160C",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ナトゥーレにですか？\n\n\n",
-   "en": ""
+   "en": "To Natoure?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1630",
@@ -844,7 +926,8 @@
    ],
    "speaker": "トト",
    "jp": "　ナトゥーレ……！？\n\n\n",
-   "en": ""
+   "en": "Natoure...!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1650",
@@ -854,7 +937,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ええ。\n　ほかにいくあてが\n　あるわけでもないし……。\n",
-   "en": ""
+   "en": "Yes. It's not as if we have anywhere else\nto go...",
+   "status": "done"
   },
   {
    "id": "ev0CA_1690",
@@ -864,7 +948,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それに\n　ナトゥーレのシャーナ王女が\n　私たちと話がしたいらしいわ。\n",
-   "en": ""
+   "en": "Besides, it seems Princess Shana of\nNatoure wants to speak with us.",
+   "status": "done"
   },
   {
    "id": "ev0CA_16E0",
@@ -874,7 +959,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……私たちってことは\n　オレと、トトも？\n\n",
-   "en": ""
+   "en": "...By us, you mean me and Toto too?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1714",
@@ -884,7 +970,8 @@
    ],
    "speaker": "イェン",
    "jp": "　その通り。\n\n\n",
-   "en": ""
+   "en": "Precisely.",
+   "status": "done"
   },
   {
    "id": "ev0CA_172C",
@@ -894,7 +981,8 @@
    ],
    "speaker": "イェン",
    "jp": "　こんな男に会っても\n　仕方がないと思うが……。\n\n",
-   "en": ""
+   "en": "Though I hardly see the point in her meeting\na man like this...",
+   "status": "done"
   },
   {
    "id": "ev0CA_1768",
@@ -904,7 +992,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　仕方がないって、\n　おまえなあ！！\n\n",
-   "en": ""
+   "en": "What do you mean, no point!? Why, you...!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_1798",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　よしなさい、ケイゴ。\n\n\n",
-   "en": ""
+   "en": "Enough, Keigo.",
+   "status": "done"
   },
   {
    "id": "ev0CA_17BC",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それよりどうするの？\n\n\n",
-   "en": ""
+   "en": "More importantly, what will you do?",
+   "status": "done"
   },
   {
    "id": "ev0CA_17E0",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは、\n　隊長についていきます。\n\n",
-   "en": ""
+   "en": "I'll follow you, Captain.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1810",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　トトは？\n\n",
-   "en": ""
+   "en": "And you, Toto?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1824",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "トト",
    "jp": "　おいらも一緒にいくよ。\n\n\n",
-   "en": ""
+   "en": "I'm coming too!",
+   "status": "done"
   },
   {
    "id": "ev0CA_1848",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　じゃあ、決まりね。\n\n\n",
-   "en": ""
+   "en": "Then it's settled.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1868",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　イェン。\n　ナトゥーレに向かいましょう。\n\n",
-   "en": ""
+   "en": "Yen, let's head for Natoure.",
+   "status": "done"
   },
   {
    "id": "ev0CA_189C",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "イェン",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Yes, my lady.",
+   "status": "done"
   },
   {
    "id": "ev0CA_18B0",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（隊長、大丈夫かな？）\n\n\n",
-   "en": ""
+   "en": "(Is the captain going to be okay?)",
+   "status": "done"
   },
   {
    "id": "ev0CA_18D4",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（だいぶ、\n　ムリをしているようだけど……）\n\n",
-   "en": ""
+   "en": "(She seems to be pushing herself pretty\nhard...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_190C",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（王都が占領されたってことは、\n　バージェス王だって\n　どうなったかわからないのに……）\n\n",
-   "en": ""
+   "en": "(With the Royal Capital occupied, there's no\ntelling what's happened to King Burgess,\neither...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_196C",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（それに\n　騎士隊のみんなの安否だって\n　心配だろうしな）\n",
-   "en": ""
+   "en": "(And she must be worried about whether\neveryone in the Knights is safe, too.)",
+   "status": "done"
   },
   {
    "id": "ev0CA_19B0",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ここは、やっぱり\n　オレがしっかりしないと……）\n\n",
-   "en": ""
+   "en": "(This is when I've really gotta hold it\ntogether...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_19EC",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……といってもな）\n\n\n",
-   "en": ""
+   "en": "(...Easier said than done, though.)",
+   "status": "done"
   },
   {
    "id": "ev0CA_1A0C",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（やっぱり、\n　アイツのほうがアレなのかな）\n\n",
-   "en": ""
+   "en": "(Maybe that guy's better at, y'know, that\nkind of thing after all.)",
+   "status": "done"
   },
   {
    "id": "ev0CA_1A44",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "トト",
    "jp": "　……にいちゃん。\n\n\n",
-   "en": ""
+   "en": "...Big bro.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1A60",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "トト",
    "jp": "　ケイゴにいちゃん！\n\n\n",
-   "en": ""
+   "en": "Big bro Keigo!",
+   "status": "done"
   },
   {
    "id": "ev0CA_1A80",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……トトか。\n\n\n",
-   "en": ""
+   "en": "...Oh, Toto.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1A9C",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "トト",
    "jp": "　なに、ボーっとしてるんだよ。\n\n\n",
-   "en": ""
+   "en": "What're you spacing out for?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1AC4",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　わりい、わりい。\n　で、なんだ？\n\n",
-   "en": ""
+   "en": "Sorry, sorry. So, what is it?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1AF0",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "トト",
    "jp": "　ナトゥーレまで、\n　あとどのくらいなの？\n\n",
-   "en": ""
+   "en": "How much farther is it to Natoure?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1B24",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ナトゥーレのことなら、\n　イェンに聞けばいいだろ？\n\n",
-   "en": ""
+   "en": "If you wanna know about Natoure, just ask\nYen, right?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1B64",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "トト",
    "jp": "　だって、あいつ、\n　おいらのことをニラむんだもん。\n\n",
-   "en": ""
+   "en": "But that guy keeps glaring at me!",
+   "status": "done"
   },
   {
    "id": "ev0CA_1BA0",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんか、\n　いたずらでも\n　したんじゃないのか？\n",
-   "en": ""
+   "en": "Didn't you pull some prank on him or\nsomething?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1BDC",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "トト",
    "jp": "　してないよ、そんなこと！\n\n\n",
-   "en": ""
+   "en": "I did not!",
+   "status": "done"
   },
   {
    "id": "ev0CA_1C00",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "トト",
    "jp": "　アイツ！\n　絶対、性格悪いね。\n\n",
-   "en": ""
+   "en": "That guy! He's got a totally rotten\npersonality.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1C28",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "イェン",
    "jp": "　失礼。\n\n\n",
-   "en": ""
+   "en": "Pardon me.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1C3C",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "イェン",
    "jp": "　人の話をするときは、\n　聞こえないところで\n　していただきたいものだな。\n",
-   "en": ""
+   "en": "When you speak of someone, I would\nprefer you did so where he cannot\nhear you.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1C90",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "トト",
    "jp": "　げ、やば！\n\n\n",
-   "en": ""
+   "en": "Uh-oh, busted!",
+   "status": "done"
   },
   {
    "id": "ev0CA_1CA8",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なあ、イェン。\n　トトの話は本当なのか？\n\n",
-   "en": ""
+   "en": "Hey, Yen. Is what Toto said true?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1CDC",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "イェン",
    "jp": "　キミは、\n　なんとも思わないのですか？\n\n",
-   "en": ""
+   "en": "Does it not trouble you at all?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1D10",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "イェン",
    "jp": "　彼みたいな子供が\n　魔装機神に乗っていることを……。\n\n",
-   "en": ""
+   "en": "That a child like him pilots a Masoukishin...",
+   "status": "done"
   },
   {
    "id": "ev0CA_1D50",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そりゃ、最初は驚いたけど……。\n\n",
-   "en": ""
+   "en": "Well, sure, I was surprised at first...",
+   "status": "done"
   },
   {
    "id": "ev0CA_1D7C",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　でも、\n　魔装機神と契約した以上、\n　こういったことも宿命なのかなって。\n",
-   "en": ""
+   "en": "But once you've made a contract with a\nMasoukishin, I figure this kind of thing is\njust fate.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1DD0",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "イェン",
    "jp": "　確かに先ほどの戦いぶりを見れば、\n　魔装機神を乗りこなしているのは\n　わかります。\n",
-   "en": ""
+   "en": "Certainly, judging by how he fought just\nnow, I can see he has mastered his\nMasoukishin.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1E2C",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "イェン",
    "jp": "　しかし、扱い方をまちがえれば、\n　国を、いや、世界をも滅ぼす悪魔にも\n　なりうることは周知のことでしょう。\n",
-   "en": ""
+   "en": "However, it is common knowledge that,\nmishandled, it could become a devil able to\ndestroy a nation--no, even the world.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1EA0",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "イェン",
    "jp": "　はたして、その魔装機神を\n　子供が扱ってもよいものかと\n　疑問を提起しただけです。\n",
-   "en": ""
+   "en": "I merely raised the question of whether\nsuch a Masoukishin should be in the hands\nof a child.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1EFC",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　トトは魔装機神を……。\n\n\n",
-   "en": ""
+   "en": "Toto would never take the Masoukishin...",
+   "status": "done"
   },
   {
    "id": "ev0CA_1F20",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ザムジードを\n　悪用したりしないよ。\n\n",
-   "en": ""
+   "en": "...he'd never use Zamzeed for evil.",
+   "status": "done"
   },
   {
    "id": "ev0CA_1F50",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "トト",
    "jp": "　おお、にいちゃん！\n　たまには、\n　いいこというじゃん！！\n",
-   "en": ""
+   "en": "Whoa, big bro! You say something good\nonce in a while!",
+   "status": "done"
   },
   {
    "id": "ev0CA_1F94",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　たまには……とはなんだ！\n\n\n",
-   "en": ""
+   "en": "What do you mean, once in a while!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1FBC",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "トト",
    "jp": "　だって、その通りだろ。\n\n\n",
-   "en": ""
+   "en": "Well, it's true, ain't it?",
+   "status": "done"
   },
   {
    "id": "ev0CA_1FE0",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんだと！\n\n\n",
-   "en": ""
+   "en": "Why, you...!",
+   "status": "done"
   },
   {
    "id": "ev0CA_1FF8",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……イェン、\n　ケイゴのいう通りよ。\n\n\n",
-   "en": ""
+   "en": "...Yen, Keigo is right.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2028",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　トトはそんな子じゃない。\n　それはわかってあげて。\n\n",
-   "en": ""
+   "en": "Toto isn't that kind of boy. Try to\nunderstand that about him, won't you?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2068",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev0CA_2084",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "イェン",
    "jp": "　フッ……。\n\n\n",
-   "en": ""
+   "en": "Heh...",
+   "status": "done"
   },
   {
    "id": "ev0CA_209C",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "イェン",
    "jp": "　どうやら、\n　私の負けのようですね。\n\n",
-   "en": ""
+   "en": "It seems I have lost this one.",
+   "status": "done"
   },
   {
    "id": "ev0CA_20CC",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "イェン",
    "jp": "　トト。\n　あなたを一人前の騎士として\n　扱いましょう。\n",
-   "en": ""
+   "en": "Toto. From now on, I shall treat you as a\nfull-fledged knight.",
+   "status": "done"
   },
   {
    "id": "ev0CA_210C",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "イェン",
    "jp": "　よろしく、トト。\n\n\n",
-   "en": ""
+   "en": "I look forward to fighting alongside\nyou, Toto.",
+   "status": "done"
   },
   {
    "id": "ev0CA_212C",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "トト",
    "jp": "　こっちこそ。\n\n\n",
-   "en": ""
+   "en": "Same here!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2144",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "トト",
    "jp": "　でへへ。\n　おいらのこと、騎士だってさ。\n\n",
-   "en": ""
+   "en": "Hehehe. He called me a knight!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2178",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（さっきまで、\n　文句いってたくせに……）\n\n",
-   "en": ""
+   "en": "(And he was griping about the guy just a\nminute ago...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_21AC",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ちょっと、ほめられると\n　すぐこれだ……）\n\n",
-   "en": ""
+   "en": "(Give him a little praise and look at him...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_21E4",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "トト",
    "jp": "　ねえ、イェン。\n　ナトゥーレは、まだなのかい？\n\n",
-   "en": ""
+   "en": "Hey, Yen. Aren't we in Natoure yet?",
+   "status": "done"
   },
   {
    "id": "ev0CA_221C",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "イェン",
    "jp": "　もう少しです。\n　それまで辛抱してください。\n\n",
-   "en": ""
+   "en": "Not much farther now. Please be patient\nuntil then.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2254",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "トト",
    "jp": "　わかった……。\n\n\n",
-   "en": ""
+   "en": "Okay...",
+   "status": "done"
   },
   {
    "id": "ev0CA_2270",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　待った、\n　敵のプラーナ反応だ！\n\n\n",
-   "en": ""
+   "en": "Wait, enemy Prana readings!",
+   "status": "done"
   },
   {
    "id": "ev0CA_229C",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうやら、\n　すんなり国境を越えさせては\n　もらえないようね。\n",
-   "en": ""
+   "en": "It seems they won't let us cross the\nborder so easily.",
+   "status": "done"
   },
   {
    "id": "ev0CA_22E4",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あの魔装機のシルエットは……！？\n\n\n",
-   "en": ""
+   "en": "That Masouki's silhouette...!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2314",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ジャメイム！？\n\n\n",
-   "en": ""
+   "en": "...Jameim!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2334",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "",
    "jp": "　久しぶりだな、ケイゴ。\n\n\n",
-   "en": ""
+   "en": "It's been a long time, Keigo.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2354",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ま、まさか！？\n\n\n",
-   "en": ""
+   "en": "...I-It can't be!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2374",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　そのまさかだよ。\n\n\n",
-   "en": ""
+   "en": "Oh, but it can.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2394",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　久しぶりだな、ケイゴ。\n\n\n",
-   "en": ""
+   "en": "It's been a long time, Keigo.",
+   "status": "done"
   },
   {
    "id": "ev0CA_23BC",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官……！？\n\n\n",
-   "en": ""
+   "en": "Instructor...!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_23D8",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ゼルドナ……。\n\n\n",
-   "en": ""
+   "en": "Zeldna...",
+   "status": "done"
   },
   {
    "id": "ev0CA_23F4",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ゼルドナ……？\n　閃剣のゼルドナか……！？\n\n",
-   "en": ""
+   "en": "Zeldna...? Zeldna the Flash Blade...!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_242C",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "トト",
    "jp": "　ねえ、誰！？\n\n\n",
-   "en": ""
+   "en": "Hey, who's that!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2444",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　生きていたんですね！！\n\n\n",
-   "en": ""
+   "en": "You're alive!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2468",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ケイゴ、元気そうだな。\n\n\n",
-   "en": ""
+   "en": "You look well, Keigo.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2490",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　でも、どうして……！？\n\n\n",
-   "en": ""
+   "en": "But why...!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_24B4",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　どうして、あなたが！！\n\n\n",
-   "en": ""
+   "en": "Why you, of all people!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_24D8",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　進むべき道が\n　違ったということだ。\n\n",
-   "en": ""
+   "en": "Our paths simply turned out to be\ndifferent.",
+   "status": "done"
   },
   {
    "id": "ev0CA_250C",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ケイゴ、悪く思うなよ！\n\n\n",
-   "en": ""
+   "en": "Keigo, don't hold this against me!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2534",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官！！\n\n\n",
-   "en": ""
+   "en": "Instructor!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_254C",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官！\n　なぜなんです！\n\n",
-   "en": ""
+   "en": "Instructor! Why!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2570",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官と\n　戦わなければいけないわけを……。\n\n",
-   "en": ""
+   "en": "Why I have to fight you, Instructor...",
+   "status": "done"
   },
   {
    "id": "ev0CA_25A8",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　理由を教えてください！\n\n\n",
-   "en": ""
+   "en": "Please, tell me the reason!",
+   "status": "done"
   },
   {
    "id": "ev0CA_25CC",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　……おまえが敵だからだ。\n\n\n",
-   "en": ""
+   "en": "...Because you are my enemy.",
+   "status": "done"
   },
   {
    "id": "ev0CA_25F4",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　いったはずだ。\n　戦場では、\n　敵と味方しかいないことを。\n",
-   "en": ""
+   "en": "I told you, didn't I? On the battlefield, there\nare only enemies and allies.",
+   "status": "done"
   },
   {
    "id": "ev0CA_263C",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　戦場で戦う理由は、\n　ただそれだけだ！\n\n",
-   "en": ""
+   "en": "That is the one and only reason to fight on\na battlefield!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2670",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官！！\n\n\n",
-   "en": ""
+   "en": "Instructor!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2688",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　けぇっ！\n　閃剣のゼルドナも、\n　たいしたことねえな！！\n",
-   "en": ""
+   "en": "Heh! Zeldna the Flash Blade ain't so hot\nafter all!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_26CC",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……なにを！？\n\n\n",
-   "en": ""
+   "en": "...What!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_26E8",
@@ -1764,7 +1938,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　まったくよ！\n　お涙ちょうだいは、\n　戦場じゃあ似合わねぇんだよ！！\n",
-   "en": ""
+   "en": "I mean, come on! Tearjerkin' reunions don't\nbelong on the battlefield, ya hear!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2738",
@@ -1774,7 +1949,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　もたもたしてっと、\n　ゼルドナみてえに\n　やられっちまうぞぉ！\n",
-   "en": ""
+   "en": "Keep dawdlin' and you'll get taken out just\nlike Zeldna did!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2780",
@@ -1784,7 +1960,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　ひゃぁっはっはっは！\n\n\n",
-   "en": ""
+   "en": "Hyaaahahahaha!",
+   "status": "done"
   },
   {
    "id": "ev0CA_27A4",
@@ -1794,7 +1971,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんだとー！！\n\n\n",
-   "en": ""
+   "en": "What did you say!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_27C0",
@@ -1804,7 +1982,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ、落ち着いて！\n\n\n",
-   "en": ""
+   "en": "Keigo, calm down!",
+   "status": "done"
   },
   {
    "id": "ev0CA_27E4",
@@ -1814,7 +1993,8 @@
    ],
    "speaker": "トト",
    "jp": "　にいちゃん！\n　しっかりしろよ！！\n\n",
-   "en": ""
+   "en": "Big bro! Get a grip!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2810",
@@ -1824,7 +2004,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ケイゴ。\n　敵の挑発にのってはいけません！\n\n",
-   "en": ""
+   "en": "Keigo. You must not rise to the\nenemy's bait!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2848",
@@ -1834,7 +2015,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……くそっ！\n\n\n",
-   "en": ""
+   "en": "...Damn it!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2864",
@@ -1844,7 +2026,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　く、くそ……。\n　……教官……なんで……。\n\n",
-   "en": ""
+   "en": "D-Damn it... ...Instructor... why...",
+   "status": "done"
   },
   {
    "id": "ev0CA_289C",
@@ -1854,7 +2037,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ケイゴ……。\n\n\n",
-   "en": ""
+   "en": "...Keigo...",
+   "status": "done"
   },
   {
    "id": "ev0CA_28BC",
@@ -1864,7 +2048,8 @@
    ],
    "speaker": "トト",
    "jp": "　にいちゃん……。\n\n\n",
-   "en": ""
+   "en": "Big bro...",
+   "status": "done"
   },
   {
    "id": "ev0CA_28D8",
@@ -1874,7 +2059,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev0CA_28F4",
@@ -1884,7 +2070,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……教官……）\n\n\n",
-   "en": ""
+   "en": "(...Instructor...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_2910",
@@ -1894,7 +2081,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……なぜ、\n　ラガーシュなんかに……）\n\n",
-   "en": ""
+   "en": "(...Why go over to Ragash, of all places...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_2944",
@@ -1904,7 +2092,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……なぜ、あなたと\n　戦わなくっちゃいけないんです！）\n\n",
-   "en": ""
+   "en": "(...Why do I have to fight you!?)",
+   "status": "done"
   },
   {
    "id": "ev0CA_2988",
@@ -1914,7 +2103,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……教えてください……）\n\n\n",
-   "en": ""
+   "en": "(...Please, tell me...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_29B0",
@@ -1924,7 +2114,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ゼルドナ教官っ！\n\n\n",
-   "en": ""
+   "en": "Instructor Zeldna!",
+   "status": "done"
   },
   {
    "id": "ev0CA_29D0",
@@ -1934,7 +2125,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（……やはり、通常の魔装機では、\n　魔装機神には対抗できぬか……）\n\n",
-   "en": ""
+   "en": "(...As I thought, ordinary Masouki cannot\nstand against the Masoukishin...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_2A1C",
@@ -1944,7 +2136,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　マギーア、キャリ！\n\n\n",
-   "en": ""
+   "en": "Magia, Kyari!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2A3C",
@@ -1954,7 +2147,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　お呼びでしょうか？\n\n\n",
-   "en": ""
+   "en": "You called, sir?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2A60",
@@ -1964,7 +2158,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　なんだい、\n　急に呼び出したりして。\n\n",
-   "en": ""
+   "en": "What is it, calling us out all of a sudden?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2A90",
@@ -1974,7 +2169,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　やっと、おまえたちに\n　役だってもらうときがきた。\n\n",
-   "en": ""
+   "en": "At last, the time has come for you two to\nbe of use.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2AD0",
@@ -1984,7 +2180,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　ふん。\n　こないだは、\n　確かに失敗したけど……。\n",
-   "en": ""
+   "en": "Hmph. Sure, we blew it last time...",
+   "status": "done"
   },
   {
    "id": "ev0CA_2B0C",
@@ -1994,7 +2191,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　今までは、\n　役立っていなかったような\n　いいぐさだね。\n",
-   "en": ""
+   "en": "But you make it sound like we've been\nuseless all along.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2B50",
@@ -2004,7 +2202,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev0CA_2B6C",
@@ -2014,7 +2213,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　キャリ、よさないか。\n\n\n",
-   "en": ""
+   "en": "Kyari, that's enough.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2B90",
@@ -2024,7 +2224,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　わかったよ。\n　優等生に免じて、\n　黙って話を聞いてやるよ。\n",
-   "en": ""
+   "en": "Fine. For the honor student's sake, I'll shut\nup and listen.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2BD8",
@@ -2034,7 +2235,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev0CA_2BF4",
@@ -2044,7 +2246,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　おまえたちには、\n　ナトゥーレを強襲してもらいたい。\n\n",
-   "en": ""
+   "en": "I want you two to launch an assault on\nNatoure.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2C34",
@@ -2054,7 +2257,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　ナトゥーレを強襲する！？\n\n\n",
-   "en": ""
+   "en": "An assault on Natoure!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2C5C",
@@ -2064,7 +2268,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　ずいぶん、思い切った作戦だね。\n　いや、愚策というべきかな。\n\n",
-   "en": ""
+   "en": "That's a pretty bold plan. Or should I say a\nstupid one.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2CA4",
@@ -2074,7 +2279,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　あんたは、\n　わたしたちに\n　死ねといっているのかい。\n",
-   "en": ""
+   "en": "You telling us to go die, is that it?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2CE4",
@@ -2084,7 +2290,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　今さら命を惜しむとは、\n　たった一回の敗北で、ずいぶん、\n　おしとやかになったものだな。\n",
-   "en": ""
+   "en": "Clinging to your life now? A single defeat,\nand you have become remarkably demure.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2D48",
@@ -2094,7 +2301,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　なんだって！　\n\n\n",
-   "en": ""
+   "en": "What did you say!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2D64",
@@ -2104,7 +2312,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　あんたのムチャな策で、\n　命を落とすのはゴメンだと\n　いっているだけじゃないか！\n",
-   "en": ""
+   "en": "All I'm saying is I ain't about to die for one\nof your crazy schemes, no thanks!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2DC0",
@@ -2114,7 +2323,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　キャリ！\n\n\n",
-   "en": ""
+   "en": "Kyari!",
+   "status": "done"
   },
   {
    "id": "ev0CA_2DD8",
@@ -2124,7 +2334,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　フン……。\n\n\n",
-   "en": ""
+   "en": "Hmph...",
+   "status": "done"
   },
   {
    "id": "ev0CA_2DF0",
@@ -2134,7 +2345,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　ソッド様。\n\n\n",
-   "en": ""
+   "en": "Thodd-sama.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2E0C",
@@ -2144,7 +2356,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　確かに、\n　キャリのいうことにも\n　一理あります。\n",
-   "en": ""
+   "en": "Kyari does have a point.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2E4C",
@@ -2154,7 +2367,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　魔装機神と戦った部隊は、\n　ほとんどが壊滅しております。\n\n",
-   "en": ""
+   "en": "Nearly every unit that has engaged the\nMasoukishin has been wiped out, sir.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2E94",
@@ -2164,7 +2378,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　よほどの戦力を投入するか、\n　バルツフィーム攻略時のような\n　手でも打たない限りは……。\n",
-   "en": ""
+   "en": "Unless we commit overwhelming forces, or\nplay a hand like the one in the Vartzpheem\ncampaign...",
+   "status": "done"
   },
   {
    "id": "ev0CA_2EF8",
@@ -2174,7 +2389,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　マギーアよ、大丈夫だ。\n\n\n",
-   "en": ""
+   "en": "Do not worry, Magia.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2F1C",
@@ -2184,7 +2400,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　我々には、\n　魔装機神並の性能を\n　持った機体が完成した。\n",
-   "en": ""
+   "en": "We have completed a machine with\nperformance on par with a Masoukishin.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2F60",
@@ -2194,7 +2411,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　魔装機神並の機体！？\n\n\n",
-   "en": ""
+   "en": "A machine on par with a Masoukishin!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_2F84",
@@ -2204,7 +2422,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そうだ。\n\n\n",
-   "en": ""
+   "en": "Indeed.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2F9C",
@@ -2214,7 +2433,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　まあ、さしずめ\n　魔重機とでもいうべきか。\n\n",
-   "en": ""
+   "en": "Well, I suppose one might call it a Majuuki.",
+   "status": "done"
   },
   {
    "id": "ev0CA_2FD4",
@@ -2224,7 +2444,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　魔重機……。\n\n\n",
-   "en": ""
+   "en": "Majuuki...",
+   "status": "done"
   },
   {
    "id": "ev0CA_2FF0",
@@ -2234,7 +2455,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そうだ。\n　ただ、残念ながら、\n　並の魔装機操者では扱えん。\n",
-   "en": ""
+   "en": "Yes. Unfortunately, no ordinary Masouki\npilot can handle one.",
+   "status": "done"
   },
   {
    "id": "ev0CA_3038",
@@ -2244,7 +2466,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そこで、\n　おまえたちを\n　呼んだというわけだ。\n",
-   "en": ""
+   "en": "And that is why I summoned you two.",
+   "status": "done"
   },
   {
    "id": "ev0CA_3074",
@@ -2254,7 +2477,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　ふん、ほめたところで\n　なんにもでないよ。\n\n",
-   "en": ""
+   "en": "Hmph, flattery won't get you anything.",
+   "status": "done"
   },
   {
    "id": "ev0CA_30AC",
@@ -2264,7 +2488,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　フフフッ。\n　まあ、期待しているぞ。\n\n",
-   "en": ""
+   "en": "Heh heh heh. Well, I am counting on you.",
+   "status": "done"
   },
   {
    "id": "ev0CA_30DC",
@@ -2274,7 +2499,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　とりあえず魔装機神を\n　倒すのが目的だ。\n\n",
-   "en": ""
+   "en": "For now, the objective is to defeat the\nMasoukishin.",
+   "status": "done"
   },
   {
    "id": "ev0CA_3110",
@@ -2284,7 +2510,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　魔装機神さえ\n　倒してしまえば……。\n\n",
-   "en": ""
+   "en": "Once the Masoukishin are defeated...",
+   "status": "done"
   },
   {
    "id": "ev0CA_3140",
@@ -2294,7 +2521,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　あとは好き放題ってわけか。\n\n\n",
-   "en": ""
+   "en": "...we can do as we please, huh?",
+   "status": "done"
   },
   {
    "id": "ev0CA_3168",
@@ -2304,7 +2532,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　さて、じゃあ魔重機ってヤツを\n　見せてもらうおうかね。\n\n",
-   "en": ""
+   "en": "Well then, let's have a look at this Majuuki\nthing.",
+   "status": "done"
   },
   {
    "id": "ev0CA_31AC",
@@ -2314,7 +2543,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　いくよ、マギーア。\n\n\n",
-   "en": ""
+   "en": "Let's go, Magia.",
+   "status": "done"
   },
   {
    "id": "ev0CA_31CC",
@@ -2324,7 +2554,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　待て、キャリ……。\n\n\n",
-   "en": ""
+   "en": "Wait, Kyari...",
+   "status": "done"
   },
   {
    "id": "ev0CA_31F0",
@@ -2334,7 +2565,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　まったく……。\n\n\n",
-   "en": ""
+   "en": "Honestly...",
+   "status": "done"
   },
   {
    "id": "ev0CA_3210",
@@ -2344,7 +2576,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　マギーア、\n　作戦は、おまえにまかせる。\n\n",
-   "en": ""
+   "en": "Magia, I leave the operation in your hands.",
+   "status": "done"
   },
   {
    "id": "ev0CA_3244",
@@ -2354,7 +2587,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　以上だ。\n\n\n",
-   "en": ""
+   "en": "That is all.",
+   "status": "done"
   },
   {
    "id": "ev0CA_325C",
@@ -2364,7 +2598,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　かしこまりました。\n\n\n",
-   "en": ""
+   "en": "Understood, sir.",
+   "status": "done"
   },
   {
    "id": "ev0CA_3280",
@@ -2374,7 +2609,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（さて、魔装機神……）\n\n\n",
-   "en": ""
+   "en": "(Now then, the Masoukishin...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_32A4",
@@ -2384,7 +2620,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（そして、サイバスター）\n\n\n",
-   "en": ""
+   "en": "(And Cybuster.)",
+   "status": "done"
   },
   {
    "id": "ev0CA_32C8",
@@ -2394,7 +2631,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（確か、\n　ケイゴといったな……）\n\n",
-   "en": ""
+   "en": "(Keigo, I believe his name was...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_32F4",
@@ -2404,7 +2642,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（……どうする？）\n\n\n",
-   "en": ""
+   "en": "(...What will you do?)",
+   "status": "done"
   },
   {
    "id": "ev0CA_3314",
@@ -2414,7 +2653,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（フフフッ……）\n\n\n",
-   "en": ""
+   "en": "(Heh heh heh...)",
+   "status": "done"
   },
   {
    "id": "ev0CA_3330",
@@ -2424,7 +2664,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down... not here...",
+   "status": "done"
   },
   {
    "id": "ev0CA_3368",
@@ -2434,7 +2675,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、私は……。\n　ここまでというの……。\n\n",
-   "en": ""
+   "en": "I... I... Is this as far as I go...?",
+   "status": "done"
   },
   {
    "id": "ev0CA_33A0",
@@ -2444,7 +2686,8 @@
    ],
    "speaker": "イェン",
    "jp": "　このわたしが……。\n　やられるというのかっ！！\n\n",
-   "en": ""
+   "en": "Am I... truly to be defeated!?",
+   "status": "done"
   },
   {
    "id": "ev0CA_33DC",
@@ -2454,7 +2697,8 @@
    ],
    "speaker": "トト",
    "jp": "　うっそ！！\n　おいらがやられるなんてアリ……。\n\n",
-   "en": ""
+   "en": "No way!! Me getting beaten? That's so not\nfair...",
+   "status": "done"
   },
   {
    "id": "ev0CA_3414",
@@ -2464,7 +2708,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ケイゴ。\n　きょうのところは引き上げる。\n\n",
-   "en": ""
+   "en": "Keigo. I'll withdraw for today.",
+   "status": "done"
   },
   {
    "id": "ev0CA_344C",
@@ -2474,7 +2719,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　少しは魔装機を\n　扱えるようになったようだな。\n\n",
-   "en": ""
+   "en": "Looks like you've learned to handle a\nMasouki a little.",
+   "status": "done"
   },
   {
    "id": "ev0CA_3488",
@@ -2484,7 +2730,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　だが、憶えておけ！\n\n\n",
-   "en": ""
+   "en": "But remember this!",
+   "status": "done"
   },
   {
    "id": "ev0CA_34AC",
@@ -2494,7 +2741,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　戦場で、\n　自分の感情に流されるようでは……。\n\n",
-   "en": ""
+   "en": "If you let your emotions carry you away on\nthe battlefield...",
+   "status": "done"
   },
   {
    "id": "ev0CA_34E8",
@@ -2504,7 +2752,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　いつかそれが\n　命取りになるということを！\n\n",
-   "en": ""
+   "en": "...someday it will get you killed!",
+   "status": "done"
   },
   {
    "id": "ev0CA_3520",
@@ -2514,7 +2763,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官！！\n\n\n",
-   "en": ""
+   "en": "Instructor!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_3538",
@@ -2524,7 +2774,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　次に会うときは\n　覚悟しておけ……。\n\n",
-   "en": ""
+   "en": "The next time we meet, be ready...",
+   "status": "done"
   },
   {
    "id": "ev0CA_356C",
@@ -2534,7 +2785,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　いいな……。\n\n\n",
-   "en": ""
+   "en": "Understand...?",
+   "status": "done"
   },
   {
    "id": "ev0CA_3588",
@@ -2544,7 +2796,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ゼルドナ教官！！\n\n\n",
-   "en": ""
+   "en": "Instructor Zeldna!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_35A8",
@@ -2554,7 +2807,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　ちっ、オレとしたことが……。\n\n\n",
-   "en": ""
+   "en": "Tch, can't believe I...",
+   "status": "done"
   },
   {
    "id": "ev0CA_35D4",
@@ -2564,7 +2818,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　またしてもヤツらに！！\n\n\n",
-   "en": ""
+   "en": "Beaten by those punks again!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_35F8",
@@ -2574,7 +2829,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　魔装機神！\n\n\n",
-   "en": ""
+   "en": "Masoukishin!",
+   "status": "done"
   },
   {
    "id": "ev0CA_3610",
@@ -2584,7 +2840,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　今度は必ず倒してやるからな！！\n\n",
-   "en": ""
+   "en": "Next time I'm takin' ya down for sure!!",
+   "status": "done"
   },
   {
    "id": "ev0CA_5D6C",
@@ -2593,7 +2850,8 @@
     "0x5FE0"
    ],
    "jp": "　　　　　　光と闇が交差するとき\n　　　生まれしものは、憎しみだけなのか\n\n　　　　　相方の存在を否定しながら\n　　　　　　互いを縛って離さない\n　　　　　　　避け難い運命の鉄鎖\n\n　　　　　神々しい光への畏怖と憎悪\n　　　　　混沌で感じた危険な芳香\n\n　　　　回交点で出会った二つの存在が\n　　　　　　新たな道を求め動き出す\n\n",
-   "en": ""
+   "en": "When light and darkness cross,\nis hatred all that is born?\n\nEach denying the other's existence,\nthey bind one another, never letting go:\nthe inescapable iron chains of fate.\n\nAwe and hatred for a divine light;\na dangerous fragrance sensed in chaos.\n\nTwo beings who met at the Crossing Point\nset out in search of a new path.",
+   "status": "done"
   },
   {
    "id": "ev0CA_5EAC",
@@ -2602,7 +2860,8 @@
     "0x5FE4"
    ],
    "jp": "　　　　　　新しき闇の戦士は戦場へ\n\n　　交錯する思惑の中、破壊の代理人は悠然と\n　　　　己の命運を楽しもうとする……\n\n\n　　一方、短き回交の中で培った決意と信念\n\n　　　　　　　舞い戻った故郷で\n　　　　進むべき道を模索する希望の灯り\n\n　　　新たな道標を記し、その男の物語は\n　　　　　新たな章へと進展していく\n",
-   "en": ""
+   "en": "A new warrior of darkness takes the field.\n\nAmid tangled schemes, the agent of ruin\ncalmly sets out to savor his own fate...\n\n\nMeanwhile, the resolve and conviction\nforged in a brief crossing--\nback in the homeland they returned to,\na light of hope seeks the path ahead.\n\nMarking a new signpost, that man's story\nmoves on into a new chapter.",
+   "status": "done"
   }
  ]
 }

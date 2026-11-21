@@ -2,7 +2,15 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate: not started (phase 5 done 2026-11-22).
+- **Phase:** 6. Translate in progress (2026-11-22). Setup done: glossary seeded (Akurasu/SRW names, D8-D10),
+  `docs/synopsis.md`, `docs/style-reference.md`, `docs/translator-brief.md`, `docs/reviewer-brief.md`,
+  `tools/batches.py` (split/check/merge/terms; msg and battle quotes auto-wrapped, lint rules as the width check),
+  `tools/pairs.py` (reviewer pairs). 73 batches in `work/tl/` (b001-b013 battle quotes, b014-b067 events,
+  b067-b073 exe + overlay labels); outputs `work/tl/bNNN.out.tsv`. Merged into script/ = `git log`/`batches.py check`.
+  Resume: merge every passing .out.tsv (`batches.py merge bNNN`), translate missing batches with
+  `translate-retro-game:translator` ("Read docs/translator-brief.md and follow it for batches ..."), then review
+  (`pairs.py` → `translate-retro-game:reviewer`, reports in `work/qa/review/`), fix Critical/Important, Minors to
+  `docs/polish.md`.
   Last builds 2026-11-22: `build/smk_marker3` (wide marker + grown/relocated event blocks: 123/123 warps,
   `work/qa/marker3/summary.tsv`), `build/smk_torture` (ASCII torture boxes), `build/smk_qa` (battle-quote ruler).
 - **Done:**
@@ -48,9 +56,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     measured box, glyph slots, stub last lines, byte max; `--final` fails untranslated lines. insert: speaker
     names from glossary.md Characters, msg newline padding, scroll centring. Tour: remaining Japanese on screen is
     all graphics (G6 option, G9 status labels/skills/spirits, G18 credits); no odd markers seen.
-- **Next (phase 6):** set glossary register/voice, names (45 speakers → glossary Characters), punctuation (the font
-  has only closing ” ’: windows.md torture note), then batch translation per the skill (width limits from
-  windows.md; event text needs no byte budget). **Engine tasks before phase 7 insert** (insert.py; don't edit
+- **Next (phase 6):** finish translation + review (see Phase). **Engine tasks before phase 7 insert** (insert.py; don't edit
   while translators run): (a) battle quotes: RAM slot is 0xC60 bytes per set (slot table 0x800AB7B8), areas full;
   move the slots to free RAM during battle (candidate 0x801CB118-0x801D1D18, trap-test with `trap.py --from` and
   `tools/lua/loads.lua`) and relayout BAT_OVER like OVER; (b) exe strings longer than their JP bytes: relocate

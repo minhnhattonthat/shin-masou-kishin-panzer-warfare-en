@@ -27,6 +27,20 @@ def tree(tmp_path):
     return tmp_path
 
 
+@pytest.fixture(scope="module")
+def bare(tmp_path_factory):
+    """script/ with every English line blanked: these tests check insert mechanics, not the current translation
+    (battle-quote English overflows the RAM slot until the phase-7 relocation)."""
+    out = tmp_path_factory.mktemp("bare")
+    for p in (ROOT / "script").rglob("*.json"):
+        d = json.loads(p.read_text(encoding="utf-8"))
+        for ln in d["lines"]:
+            ln["en"] = ""
+        (out / p.relative_to(ROOT / "script")).parent.mkdir(parents=True, exist_ok=True)
+        (out / p.relative_to(ROOT / "script")).write_text(json.dumps(d, ensure_ascii=False), encoding="utf-8")
+    return out
+
+
 def event_blocks(tree):
     """Event blocks as the loader reads them: [t[i], t[i+1]) sectors of OVER.BIN from the exe's sector list."""
     ovr, exe = (tree / "OVER.BIN").read_bytes(), (tree / "SLPS_023.19").read_bytes()
@@ -58,9 +72,9 @@ def test_tables():
     assert font.tables(patched, font.TIM_OFFS["BAT_TIM.BIN"], exe) == (code, width)
 
 
-def test_en_mode_without_english_changes_only_the_layout(tree):
+def test_en_mode_without_english_changes_only_the_layout(tree, bare):
     orig = [(TREE / "OVER.BIN").read_bytes()[s:e] for s, e in over.blocks((TREE / "OVER.BIN").read_bytes())]
-    changed = insert.insert(tree, ROOT / "script", "en")
+    changed = insert.insert(tree, bare, "en")
     assert changed["BAT_OVER.BIN"] == 0
     assert event_blocks(tree) == orig  # moved to the end of OVER.BIN, same bytes
     ovr = (tree / "OVER.BIN").read_bytes()
@@ -100,10 +114,10 @@ def test_speaker_names(tmp_path):
     assert insert.speaker_names(g) == {"ケイゴ": "Keigo"}
 
 
-def test_pool_overflow_spills_past_the_block_end(tree):
+def test_pool_overflow_spills_past_the_block_end(tree, bare):
     f = json.loads((ROOT / "script/events/ev000.json").read_text(encoding="utf-8"))
     big = {ln["id"]: "W" * 150 for ln in f["lines"] if "speaker" in ln}  # far more than the pool holds
-    insert.insert(tree, ROOT / "script", "en", big)
+    insert.insert(tree, bare, "en", big)
     blk = event_blocks(tree)[0]
     assert 0x8000 < len(blk) <= insert.MAX_BLOCK
     for ln in f["lines"]:
@@ -112,12 +126,12 @@ def test_pool_overflow_spills_past_the_block_end(tree):
             spk = insert.speaker_names().get(ln["speaker"], ln["speaker"])
             assert blk[o:blk.index(0, o)] == font.encode(spk) + b"\n" + b"W" * 150
     with pytest.raises(insert.Overflow):
-        insert.insert(tree, ROOT / "script", "en", {k: "W" * 400 for k in big})
+        insert.insert(tree, bare, "en", {k: "W" * 400 for k in big})
 
 
-def test_qa_override_and_overflow(tree):
-    insert.insert(tree, ROOT / "script", "en", {"exe_00D38": "Astral Canon"})
+def test_qa_override_and_overflow(tree, bare):
+    insert.insert(tree, bare, "en", {"exe_00D38": "Astral Canon"})
     e = (tree / "SLPS_023.19").read_bytes()
     assert e[0xD38:0xD38 + 13] == font.encode("Astral Canon") + b"\0"
     with pytest.raises(insert.Overflow):
-        insert.insert(tree, ROOT / "script", "en", {"exe_00D38": "x" * 40})
+        insert.insert(tree, bare, "en", {"exe_00D38": "x" * 40})

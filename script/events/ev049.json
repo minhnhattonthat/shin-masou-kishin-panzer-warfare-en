@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　バルツフィーム王国\n　　西方騎士隊基地\n\n",
-   "en": ""
+   "en": "Kingdom of Vartzpheem\nWestern Knights Base",
+   "status": "done"
   },
   {
    "id": "ev049_0A7C",
@@ -34,7 +35,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（あれ以来、大規模な戦闘はないせいか、\n　基地内は一見、\n　穏やかな雰囲気に包まれていた……）\n",
-   "en": ""
+   "en": "(Maybe because there had been no\nlarge-scale fighting since then, the base\nseemed wrapped in a calm mood...)",
+   "status": "done"
   },
   {
    "id": "ev049_0AE4",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（それはおそらく、\n　ほとんどの人間が戦争というものを\n　実感しきれていない……）\n",
-   "en": ""
+   "en": "(Most likely, that's because hardly anyone\nhas truly grasped what war means...)",
+   "status": "done"
   },
   {
    "id": "ev049_0B40",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……そう、\n　なにかの間違いに決まっている）\n\n",
-   "en": ""
+   "en": "(...Yeah, it's got to be some kind of\nmistake.)",
+   "status": "done"
   },
   {
    "id": "ev049_0B78",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（なにしろ、オレ自身、\n　そういった気持ちがあるからだ）\n\n",
-   "en": ""
+   "en": "(After all, I feel the same way myself.)",
+   "status": "done"
   },
   {
    "id": "ev049_0BBC",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（そして、オレには\n　もう１つ気になることがある。\n　アルマ隊長のことだ）\n",
-   "en": ""
+   "en": "(And there's one more thing on my mind.\nCaptain Alma.)",
+   "status": "done"
   },
   {
    "id": "ev049_0C10",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（あの戦闘中に話していた操者は\n　いったい誰なのか？）\n\n",
-   "en": ""
+   "en": "(Who was that pilot she was talking to\nduring the battle?)",
+   "status": "done"
   },
   {
    "id": "ev049_0C50",
@@ -94,7 +101,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（そして、事故とは？）\n\n\n",
-   "en": ""
+   "en": "(And what accident?)",
+   "status": "done"
   },
   {
    "id": "ev049_0C74",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（それとなく副長やフルカスさんに\n　聞いてみたのだが\n　答えてはくれなかった……）\n",
-   "en": ""
+   "en": "(I casually asked the Vice-Captain and\nFurcas-san, but they wouldn't tell me...)",
+   "status": "done"
   },
   {
    "id": "ev049_0CD0",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（これからどうなるのか？\n　漠然としたなにかが\n　オレの心を捕らえていた……）\n",
-   "en": ""
+   "en": "(What's going to happen from here on?\nSomething vague had taken hold of my\nheart...)",
+   "status": "done"
   },
   {
    "id": "ev049_0D28",
@@ -124,7 +134,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ベウマー。\n　相談というのはいったい？\n\n",
-   "en": ""
+   "en": "Beumer. What is it you wanted to discuss?",
+   "status": "done"
   },
   {
    "id": "ev049_0D5C",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　実は、ケイゴのことなんですがね。\n\n\n",
-   "en": ""
+   "en": "Well, it's about Keigo, actually.",
+   "status": "done"
   },
   {
    "id": "ev049_0D8C",
@@ -144,7 +156,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴのこと……。\n\n\n",
-   "en": ""
+   "en": "About Keigo...",
+   "status": "done"
   },
   {
    "id": "ev049_0DAC",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　どうも、このあいだの戦闘以来、\n　悩んでいるようなんですよ。\n\n",
-   "en": ""
+   "en": "Seems like he's been brooding ever since\nthat last battle.",
+   "status": "done"
   },
   {
    "id": "ev049_0DF8",
@@ -164,7 +178,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そう……。\n\n\n",
-   "en": ""
+   "en": "I see...",
+   "status": "done"
   },
   {
    "id": "ev049_0E10",
@@ -174,7 +189,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　悩むほど繊細なやつでもないんですが、\n　ここしばらく、\n　いろいろありましたからね。\n",
-   "en": ""
+   "en": "He's not the sensitive type who broods\nmuch, but a lot's happened lately, you know.",
+   "status": "done"
   },
   {
    "id": "ev049_0E70",
@@ -184,7 +200,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　それとしきりと\n　隊長の昔のことを聞きたがって\n　いるんです。\n",
-   "en": ""
+   "en": "And he keeps asking about your past,\nCaptain.",
+   "status": "done"
   },
   {
    "id": "ev049_0EBC",
@@ -194,7 +211,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ケイゴと、\n　なにかあったんですか？\n\n",
-   "en": ""
+   "en": "Did something happen between you and\nKeigo?",
+   "status": "done"
   },
   {
    "id": "ev049_0EF0",
@@ -204,7 +222,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　い、いいえ……。\n\n\n",
-   "en": ""
+   "en": "N-No...",
+   "status": "done"
   },
   {
    "id": "ev049_0F10",
@@ -214,7 +233,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　そうですか……。\n\n\n",
-   "en": ""
+   "en": "I see...",
+   "status": "done"
   },
   {
    "id": "ev049_0F30",
@@ -224,7 +244,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ただ、これからのことを考えると\n　中途半端な気持ちで\n　戦いをさせるのは危険です。\n",
-   "en": ""
+   "en": "Still, thinking of what's ahead, it's\ndangerous to send him into battle with his\nheart only half in it.",
+   "status": "done"
   },
   {
    "id": "ev049_0F90",
@@ -234,7 +255,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　あいつは、\n　新米のくせに自在に魔装機を操り、\n　西方騎士隊の中核になりつつある。　\n",
-   "en": ""
+   "en": "He may be a rookie, but he handles a\nMasouki like it's nothing. He's becoming the\ncore of the Western Knights.",
+   "status": "done"
   },
   {
    "id": "ev049_0FF0",
@@ -244,7 +266,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　カンもいいし、度胸もいい。\n\n\n",
-   "en": ""
+   "en": "Good instincts, and plenty of guts.",
+   "status": "done"
   },
   {
    "id": "ev049_101C",
@@ -254,7 +277,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_1038",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ま、オレの見たところ、\n　近い将来、ヤツは一流の魔装騎士。\n\n",
-   "en": ""
+   "en": "Way I see it, before long he'll be a\nfirst-class Masou Knight.",
+   "status": "done"
   },
   {
    "id": "ev049_1080",
@@ -274,7 +299,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　いや、ヘタをすると隊長や\n　ナトゥーレのイェンのように\n　魔装機神操者だって夢じゃない。\n",
-   "en": ""
+   "en": "No, if things go his way, even becoming a\nMasoukishin pilot like you, Captain, or Yen\nof Natoure isn't a pipe dream.",
+   "status": "done"
   },
   {
    "id": "ev049_10E4",
@@ -284,7 +310,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……そう……ね。\n\n\n",
-   "en": ""
+   "en": "...Yes... I suppose.",
+   "status": "done"
   },
   {
    "id": "ev049_1104",
@@ -294,7 +321,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ありゃ？\n　なにかご不満でしたか？\n\n",
-   "en": ""
+   "en": "Huh? Something not to your liking?",
+   "status": "done"
   },
   {
    "id": "ev049_1134",
@@ -304,7 +332,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いいえ。\n　私も彼の実力は認めているつもりよ。\n　この前は、助けられてしまったし……。\n",
-   "en": ""
+   "en": "No. I do acknowledge his ability. He even\nsaved me the other day...",
+   "status": "done"
   },
   {
    "id": "ev049_1194",
@@ -314,7 +343,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……それに、\n　彼のいいたかったことも\n　わかっているわ。\n",
-   "en": ""
+   "en": "...And I understand what he was trying\nto say.",
+   "status": "done"
   },
   {
    "id": "ev049_11D8",
@@ -324,7 +354,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　でも……ね……。\n\n\n",
-   "en": ""
+   "en": "But... still...",
+   "status": "done"
   },
   {
    "id": "ev049_11F8",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　まあ、個人的なことはおいといて、\n　このまま、戦闘でヤツを\n　失いたくないんですよ。\n",
-   "en": ""
+   "en": "Well, personal stuff aside, I don't want to\nlose him in battle like this.",
+   "status": "done"
   },
   {
    "id": "ev049_1258",
@@ -344,7 +376,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　そこで、訓練を兼ねて、\n　実戦形式の模擬戦闘を行っては\n　どうかと思いましてね。\n",
-   "en": ""
+   "en": "So I was thinking, how about a mock battle\nin real combat format, as training?",
+   "status": "done"
   },
   {
    "id": "ev049_12B4",
@@ -354,7 +387,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そ、それは……。\n\n\n",
-   "en": ""
+   "en": "Th-That's...",
+   "status": "done"
   },
   {
    "id": "ev049_12D4",
@@ -364,7 +398,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　隊長、\n　いつまでもあのことを気にしても\n　仕方ありませんよ。\n",
-   "en": ""
+   "en": "Captain, there's no use worrying about that\nthing forever.",
+   "status": "done"
   },
   {
    "id": "ev049_1320",
@@ -374,7 +409,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　それに今は、戦争中なんです。\n　どんなことで命を落とすかわからない。\n\n",
-   "en": ""
+   "en": "Besides, we're at war now. There's no\ntelling what might get a man killed.",
+   "status": "done"
   },
   {
    "id": "ev049_1374",
@@ -384,7 +420,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_1390",
@@ -394,7 +431,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　戦場で命を落とさないように\n　こういった実戦形式の訓練も\n　必要でしょう。\n",
-   "en": ""
+   "en": "To keep from dying on the battlefield, we\nneed this kind of real combat training too.",
+   "status": "done"
   },
   {
    "id": "ev049_13E8",
@@ -404,7 +442,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_1404",
@@ -414,7 +453,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうね、わかったわ。\n\n\n",
-   "en": ""
+   "en": "All right. Understood.",
+   "status": "done"
   },
   {
    "id": "ev049_1428",
@@ -424,7 +464,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ありがとうございます。\n\n\n",
-   "en": ""
+   "en": "Thank you, ma'am.",
+   "status": "done"
   },
   {
    "id": "ev049_1450",
@@ -434,7 +475,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　それと、隊長もどうです？\n　たまには。\n\n",
-   "en": ""
+   "en": "And how about you, Captain? Join in\nfor once?",
+   "status": "done"
   },
   {
    "id": "ev049_1484",
@@ -444,7 +486,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は……遠慮するわ。\n\n",
-   "en": ""
+   "en": "I'll... pass.",
+   "status": "done"
   },
   {
    "id": "ev049_14A4",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　そうですか……。\n\n\n",
-   "en": ""
+   "en": "I see...",
+   "status": "done"
   },
   {
    "id": "ev049_14C4",
@@ -464,7 +508,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　じゃあ、\n　オレは準備があるんで。\n\n",
-   "en": ""
+   "en": "Well, I've got things to get ready.",
+   "status": "done"
   },
   {
    "id": "ev049_14F4",
@@ -474,7 +519,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_1510",
@@ -484,7 +530,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　そうだ隊長！\n　一つ、いい忘れてました。\n\n",
-   "en": ""
+   "en": "Oh, right, Captain! There's one thing I\nforgot to mention.",
+   "status": "done"
   },
   {
    "id": "ev049_1548",
@@ -494,7 +541,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　優勝者には、\n　一応、賞品を出そうと\n　思っているんですが……。\n",
-   "en": ""
+   "en": "I was thinking of giving the winner a prize,\nyou know...",
+   "status": "done"
   },
   {
    "id": "ev049_1594",
@@ -504,7 +552,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……わかったわ。\n　私から上のほうに伝えておきます。\n\n",
-   "en": ""
+   "en": "...Fine. I'll pass the word to the higher-ups.",
+   "status": "done"
   },
   {
    "id": "ev049_15D4",
@@ -514,7 +563,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　さすが、隊長。\n　話がわかってらっしゃる。\n\n",
-   "en": ""
+   "en": "That's our captain. You sure know how\nit is.",
+   "status": "done"
   },
   {
    "id": "ev049_160C",
@@ -524,7 +574,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　それでは……。\n\n\n",
-   "en": ""
+   "en": "Well then...",
+   "status": "done"
   },
   {
    "id": "ev049_162C",
@@ -534,7 +585,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_1648",
@@ -544,7 +596,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　……ベウマー。\n　どうだった。\n\n",
-   "en": ""
+   "en": "...Beumer. How did it go?",
+   "status": "done"
   },
   {
    "id": "ev049_1674",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　大丈夫。\n　バッチリ、バッチリ。\n\n",
-   "en": ""
+   "en": "No problem. All set, all set.",
+   "status": "done"
   },
   {
    "id": "ev049_16A4",
@@ -564,7 +618,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　そうか。\n\n\n",
-   "en": ""
+   "en": "Good.",
+   "status": "done"
   },
   {
    "id": "ev049_16BC",
@@ -574,7 +629,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　しかし、これで\n　ケイゴが元気になってくれると\n　いいんだけどな……。\n",
-   "en": ""
+   "en": "Still, I hope this'll get Keigo back on his\nfeet...",
+   "status": "done"
   },
   {
    "id": "ev049_1710",
@@ -584,7 +640,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　それもあるが、ベウマー。\n　わしは、ケイゴにこの戦いで\n　伝えたいことがあるのだ。\n",
-   "en": ""
+   "en": "That too, Beumer. But there is something I\nwant to teach Keigo through this fight.",
+   "status": "done"
   },
   {
    "id": "ev049_1770",
@@ -594,7 +651,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　お主、戦で最も重要なのは\n　なんだと思う？\n\n",
-   "en": ""
+   "en": "Tell me, what do you think matters most\nin war?",
+   "status": "done"
   },
   {
    "id": "ev049_17A8",
@@ -604,7 +662,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　技術か……あるいは判断力だな。\n　もっとも、そんなものは、\n　負け戦になっちまえば関係ねぇけどな。\n",
-   "en": ""
+   "en": "Skill... or maybe judgment. Not that any of\nthat matters once you're on the losing side.",
+   "status": "done"
   },
   {
    "id": "ev049_1818",
@@ -614,7 +673,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　では死に戦の場合、なんとする？\n\n\n",
-   "en": ""
+   "en": "Then, in a battle where death is certain,\nwhat would you do?",
+   "status": "done"
   },
   {
    "id": "ev049_1848",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　そりゃあ、気力振り絞って生き残るさ。\n　士気さえ保ってりゃ、なんとか\n　活路が見つかることもあるからな。\n",
-   "en": ""
+   "en": "Well, I'd dig deep and survive. Long as you\nkeep your morale up, sometimes you find a\nway out.",
+   "status": "done"
   },
   {
    "id": "ev049_18BC",
@@ -634,7 +695,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　……そういうことだ。\n\n\n",
-   "en": ""
+   "en": "...That is the point.",
+   "status": "done"
   },
   {
    "id": "ev049_18E0",
@@ -644,7 +706,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ん？\n\n\n",
-   "en": ""
+   "en": "Hm?",
+   "status": "done"
   },
   {
    "id": "ev049_18F4",
@@ -654,7 +717,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴは、\n　すべての要素が噛み合い、調和している。\n　これほど強いものは、そういない。\n",
-   "en": ""
+   "en": "In Keigo, every element meshes in harmony.\nFew are as strong as he is.",
+   "status": "done"
   },
   {
    "id": "ev049_1958",
@@ -664,7 +728,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　だが……ひとたび死地に赴いたとき、\n　最後にものをいうのはなにか。\n　実力以上の力が発揮できるのは何故か。\n",
-   "en": ""
+   "en": "But once he walks into the jaws of death,\nwhat counts in the end? Why can one draw\nout strength beyond one's ability?",
+   "status": "done"
   },
   {
    "id": "ev049_19D0",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_19F0",
@@ -684,7 +750,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　これからは、\n　彼らのような若い世代の時代だ。\n\n",
-   "en": ""
+   "en": "From now on, the age belongs to young\nones like them.",
+   "status": "done"
   },
   {
    "id": "ev049_1A2C",
@@ -694,7 +761,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　だが、不幸にも\n　戦が始まってしまった……。\n\n",
-   "en": ""
+   "en": "But, sadly, war has begun...",
+   "status": "done"
   },
   {
    "id": "ev049_1A68",
@@ -704,7 +772,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　だからせめて、\n　生き延びる方法を……。\n\n",
-   "en": ""
+   "en": "So at the very least, the way to stay alive...",
+   "status": "done"
   },
   {
    "id": "ev049_1AA0",
@@ -714,7 +783,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　生き抜く術を\n　彼らに伝えてやりたい……。\n\n",
-   "en": ""
+   "en": "I want to pass on to them the art of\nsurvival...",
+   "status": "done"
   },
   {
    "id": "ev049_1AD8",
@@ -724,7 +794,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_1AF8",
@@ -734,7 +805,8 @@
    ],
    "speaker": "シェス",
    "jp": "　それではただいまより、\n　模擬試合を行います！\n\n",
-   "en": ""
+   "en": "We will now begin the mock matches!",
+   "status": "done"
   },
   {
    "id": "ev049_1B34",
@@ -744,7 +816,8 @@
    ],
    "speaker": "シェス",
    "jp": "　勝ち抜き戦なので、\n　負けた時点で試合終了です。\n　がんばって上位をめざしてください！\n",
-   "en": ""
+   "en": "It's a knockout tournament, so once you\nlose, you're out. Do your best to reach\nthe top!",
+   "status": "done"
   },
   {
    "id": "ev049_1B94",
@@ -754,7 +827,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……どういうことです？\n　戦争中だっていうのに、こんな\n　遊びみたいなことしてて、いいんですか？\n",
-   "en": ""
+   "en": "...What's the meaning of this? We're at\nwar, and we're playing games like this? Is\nthat okay?",
+   "status": "done"
   },
   {
    "id": "ev049_1C00",
@@ -764,7 +838,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　まあまあ、\n　固いこというなよ。\n　気楽にやろうぜ！\n",
-   "en": ""
+   "en": "Now, now, don't be so uptight. Let's have\nsome fun!",
+   "status": "done"
   },
   {
    "id": "ev049_1C40",
@@ -774,7 +849,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　もっとも、だからといって手は抜かんぞ。\n　模擬のつもりでなく、\n　本気で戦わせてもらうからな。\n",
-   "en": ""
+   "en": "Mind you, that doesn't mean I'll go easy. I\nwon't treat it as a mock fight. I'll fight you\nin earnest.",
+   "status": "done"
   },
   {
    "id": "ev049_1CAC",
@@ -784,7 +860,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　でも、この組み合わせ……。\n\n\n",
-   "en": ""
+   "en": "But this bracket...",
+   "status": "done"
   },
   {
    "id": "ev049_1CD4",
@@ -794,7 +871,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ヘレーナさんたちに勝ったあと、\n　間違いなくフルカスさん。\n\n",
-   "en": ""
+   "en": "After I beat Helena-san and the others, it's\nFurcas-san for sure.",
+   "status": "done"
   },
   {
    "id": "ev049_1D1C",
@@ -804,7 +882,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　副長の一回戦は……隊長って、\n　不戦勝じゃないですか！\n　キタナイですよ！！\n",
-   "en": ""
+   "en": "And the Vice-Captain's first round is... the\ncaptain? That's a walkover! That's dirty!!",
+   "status": "done"
   },
   {
    "id": "ev049_1D74",
@@ -814,7 +893,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　まあまあ、\n　遊びなんだから……。\n\n",
-   "en": ""
+   "en": "Now, now, it's all just for fun...",
+   "status": "done"
   },
   {
    "id": "ev049_1DA4",
@@ -824,7 +904,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ケイゴさん、一回戦のお相手は、\n　ヘレーナさん、ドロービさん、\n　ブラッキーさんです！\n",
-   "en": ""
+   "en": "Keigo-san, your first-round opponents are\nHelena-san, Drawbi-san and Blacky-san!",
+   "status": "done"
   },
   {
    "id": "ev049_1E04",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　えーっ！？\n　１対３なんて……！！\n\n",
-   "en": ""
+   "en": "Whaaat!? Three against one...!!",
+   "status": "done"
   },
   {
    "id": "ev049_1E34",
@@ -844,7 +926,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　ゴチャゴチャと男らしくないねぇ。\n　こまかいこと気にしてると\n　出世できないよ。\n",
-   "en": ""
+   "en": "All that fussin' ain't very manly, ya know.\nSweat the small stuff and you'll never get\nahead.",
+   "status": "done"
   },
   {
    "id": "ev049_1E90",
@@ -854,7 +937,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　機体性能に差があるんだから、\n　この程度のことは当然でしょ。\n\n",
-   "en": ""
+   "en": "Our machines aren't as good as yours, so\nthis much is only fair, right?",
+   "status": "done"
   },
   {
    "id": "ev049_1EDC",
@@ -864,7 +948,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　ほな、ケイゴはん、いきまっせ。\n　覚悟してちょうだい！\n\n",
-   "en": ""
+   "en": "Right then, Keigo-han, here we come. Brace\nyourself!",
+   "status": "done"
   },
   {
    "id": "ev049_1F20",
@@ -874,7 +959,8 @@
    ],
    "speaker": "シェス",
    "jp": "　みなさん、準備はいいですか？\n\n\n",
-   "en": ""
+   "en": "Is everyone ready?",
+   "status": "done"
   },
   {
    "id": "ev049_1F4C",
@@ -884,7 +970,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　懐かしいねぇ。\n　あたしたちも新人の頃は、\n　こうやって鍛えられたもんさ。\n",
-   "en": ""
+   "en": "Brings back memories, huh. Back when we\nwere rookies, we got toughened up just\nlike this.",
+   "status": "done"
   },
   {
    "id": "ev049_1FA4",
@@ -894,7 +981,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　思えば、ボクたち、\n　特に念入りにかわいがられましたよね。\n\n",
-   "en": ""
+   "en": "Come to think of it, they gave us\nextra-special loving care, didn't they.",
+   "status": "done"
   },
   {
    "id": "ev049_1FF0",
@@ -904,7 +992,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　あれって……かわいがられてたんかな？\n　新兵イジメに\n　あっただけとちゃいまっか？\n",
-   "en": ""
+   "en": "Was that really... lovin' care? Wasn't it just\nplain hazin' the new recruits?",
+   "status": "done"
   },
   {
    "id": "ev049_2050",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　どっちでもいいじゃない。\n　今日は晴れてあたしたちの順番が\n　回ってきたんだからさぁ！\n",
-   "en": ""
+   "en": "Who cares! Today it's finally our turn, so\nthere!",
+   "status": "done"
   },
   {
    "id": "ev049_20B4",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　そうそう。\n　きょうは、びしっと\n　かわいがってあげるからね～ん。\n",
-   "en": ""
+   "en": "That's right. Today we'll give you some real\nloving caaare.",
+   "status": "done"
   },
   {
    "id": "ev049_2104",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　復讐するは我にあり。\n　……ちゅうことですな！\n\n",
-   "en": ""
+   "en": "Vengeance is mine... as the sayin' goes!",
+   "status": "done"
   },
   {
    "id": "ev049_2140",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんだかわかりませんけど……。\n\n",
-   "en": ""
+   "en": "I don't really get it, but...",
+   "status": "done"
   },
   {
    "id": "ev049_216C",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それじゃこっちも、\n　遠慮なくいかせてもらいますよ！\n",
-   "en": ""
+   "en": "In that case, I won't hold back either!",
+   "status": "done"
   },
   {
    "id": "ev049_21AC",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "シェス",
    "jp": "　それでは、一回戦始め！\n\n\n",
-   "en": ""
+   "en": "Now, first round, begin!",
+   "status": "done"
   },
   {
    "id": "ev049_21D0",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　はっ！\n　なかなかやるじゃないのさ。\n\n",
-   "en": ""
+   "en": "Ha! Not too shabby, are ya?",
+   "status": "done"
   },
   {
    "id": "ev049_2204",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ヘレーナさんこそ！\n\n\n",
-   "en": ""
+   "en": "Same to you, Helena-san!",
+   "status": "done"
   },
   {
    "id": "ev049_2224",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　どうやら、\n　まぐれで騎士試験に合格した\n　ってわけじゃなさそうだねぇ。\n",
-   "en": ""
+   "en": "Guess you didn't pass the knight exam by\ndumb luck after all, huh.",
+   "status": "done"
   },
   {
    "id": "ev049_2278",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_2294",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "シェス",
    "jp": "　一回戦の勝者は、ケイゴさん！\n　おめでとうございます！！\n\n",
-   "en": ""
+   "en": "The first-round winner is Keigo-san!\nCongratulations!!",
+   "status": "done"
   },
   {
    "id": "ev049_22D8",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　大丈夫ですか？\n　ヘレーナさん、ブラッキーさん、\n　それに、ドロービさんも……。\n",
-   "en": ""
+   "en": "Are you all right? Helena-san, Blacky-san,\nand Drawbi-san too...",
+   "status": "done"
   },
   {
    "id": "ev049_2334",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　くっ～！\n　天才のボクが\n　ド新人に負けるなんてっ！\n",
-   "en": ""
+   "en": "Ngggh! Me, a genius, losing to a total rookie!",
+   "status": "done"
   },
   {
    "id": "ev049_2378",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　も、もういっぺん、試合やろ。\n　もう一回やったら\n　勝てそうな気がするんや。\n",
-   "en": ""
+   "en": "L-Let's have one more match. I got a feelin'\nI could win if we went again.",
+   "status": "done"
   },
   {
    "id": "ev049_23D0",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　えーい！　おまえたち！\n　みっともないね！\n\n",
-   "en": ""
+   "en": "Enough! You two! How embarrassing!",
+   "status": "done"
   },
   {
    "id": "ev049_2408",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　見苦しい真似さらすんじゃないよ！\n\n\n",
-   "en": ""
+   "en": "Quit makin' such a sorry spectacle of\nyourselves!",
+   "status": "done"
   },
   {
    "id": "ev049_2438",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　ケイゴ。\n　あんたには負けたよ。\n　完敗さ。\n",
-   "en": ""
+   "en": "Keigo. You beat me. Fair and square.",
+   "status": "done"
   },
   {
    "id": "ev049_2470",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……すいません。\n\n\n",
-   "en": ""
+   "en": "...Sorry.",
+   "status": "done"
   },
   {
    "id": "ev049_2490",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　謝ることないじゃない。\n　あんたの勝ちなんだから。\n\n",
-   "en": ""
+   "en": "No need to apologize. You won, after all.",
+   "status": "done"
   },
   {
    "id": "ev049_24D0",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　ビシッと\n　胸を張ってればいいのさ。\n\n",
-   "en": ""
+   "en": "Just stand tall and puff out your chest.",
+   "status": "done"
   },
   {
    "id": "ev049_2504",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Okay.",
+   "status": "done"
   },
   {
    "id": "ev049_2518",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　おう、ケイゴ。\n　どうやら勝ち上がったようだな。\n\n",
-   "en": ""
+   "en": "Hey, Keigo. Looks like you made it through.",
+   "status": "done"
   },
   {
    "id": "ev049_2558",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ええ。\n　実戦形式なら負けませんよ。\n\n",
-   "en": ""
+   "en": "Yeah. In a real combat format, I won't lose.",
+   "status": "done"
   },
   {
    "id": "ev049_2588",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　その調子だ、といいたいところだが\n　次は、きついぞ。\n　相手はフルカスさんだからな。\n",
-   "en": ""
+   "en": "I'd like to say keep it up, but the next one's\ngonna be tough. You're up against\nFurcas-san.",
+   "status": "done"
   },
   {
    "id": "ev049_25E8",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴ、手かげんはせんからな。\n　思い切ってこい。\n\n",
-   "en": ""
+   "en": "Keigo, I won't go easy on you. Come at me\nwith everything you've got.",
+   "status": "done"
   },
   {
    "id": "ev049_2628",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こちらこそ。\n　望むところです！\n\n",
-   "en": ""
+   "en": "Same here. Bring it on!",
+   "status": "done"
   },
   {
    "id": "ev049_2654",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "（へぇ～\n　あの人が本気になるとはねぇ……）\n\n",
-   "en": ""
+   "en": "(Well, well... So he's actually gettin'\nserious...)",
+   "status": "done"
   },
   {
    "id": "ev049_268C",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "（これはちーっとばかり、\n　厄介な相手になりそうだよ）\n\n",
-   "en": ""
+   "en": "(This could turn out to be a teensy bit of a\ntough opponent.)",
+   "status": "done"
   },
   {
    "id": "ev049_26D0",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "シェス",
    "jp": "　続いて、二回戦で～す！\n\n\n",
-   "en": ""
+   "en": "Next up, the second rooound!",
+   "status": "done"
   },
   {
    "id": "ev049_26F4",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "シェス",
    "jp": "　両方とも一回戦を勝ち上がった\n　ケイゴさんとフルカスさんです！！\n\n",
-   "en": ""
+   "en": "Both winners of the first round: Keigo-san\nand Furcas-san!!",
+   "status": "done"
   },
   {
    "id": "ev049_2740",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（さすがフルカスさん\n　隙がない……）\n\n",
-   "en": ""
+   "en": "(Just what I'd expect of Furcas-san. No\nopenings...)",
+   "status": "done"
   },
   {
    "id": "ev049_2770",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴ！　ゼルドナの技は、\n　踏襲しているようだが、\n　いまひとつ、じゃな。\n",
-   "en": ""
+   "en": "Keigo! You seem to follow Zeldna's\ntechnique, but you're not quite there.",
+   "status": "done"
   },
   {
    "id": "ev049_27C8",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_27E4",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　あいつは騎士時代、\n　このわしを相手にしてさえも、\n　決して引けを取らぬほどの腕前だった。\n",
-   "en": ""
+   "en": "In his days as a knight, his skill was such\nthat he never fell behind, even against me.",
+   "status": "done"
   },
   {
    "id": "ev049_284C",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　一瞬にして間合いを詰め、\n　一気に攻撃を畳み掛ける……。\n『先の先』の見本のような攻撃じゃった。\n",
-   "en": ""
+   "en": "Close the distance in an instant, then\nunleash a flurry of blows... His attacks\nwere a model of Seizing the Initiative.",
+   "status": "done"
   },
   {
    "id": "ev049_28B8",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　そこから\n『閃剣のゼルドナ』の異名で\n　呼ばれるようになったわけじゃが……。\n",
-   "en": ""
+   "en": "And that is how he came to be called\nZeldna the Flash Blade...",
+   "status": "done"
   },
   {
    "id": "ev049_2910",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　その師の名を汚さぬよう\n　心してこい！\n\n",
-   "en": ""
+   "en": "So come at me with care not to sully your\nteacher's name!",
+   "status": "done"
   },
   {
    "id": "ev049_2944",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はいっ！\n\n\n",
-   "en": ""
+   "en": "Yes, sir!",
+   "status": "done"
   },
   {
    "id": "ev049_295C",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ケイゴさん、フルカスさん、\n　お二人とも頑張ってくださいね！\n\n",
-   "en": ""
+   "en": "Keigo-san, Furcas-san, good luck to\nyou both!",
+   "status": "done"
   },
   {
    "id": "ev049_29A4",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "シェス",
    "jp": "　それでは始め！\n\n\n",
-   "en": ""
+   "en": "Now, begin!",
+   "status": "done"
   },
   {
    "id": "ev049_29C0",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴ！！\n\n\n",
-   "en": ""
+   "en": "Keigo!!",
+   "status": "done"
   },
   {
    "id": "ev049_29DC",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　魔装機は、ただの乗り物ではない。\n　おまえの精神状態によって\n　その力は変化する。\n",
-   "en": ""
+   "en": "A Masouki is no mere vehicle. Its power\nchanges with your state of mind.",
+   "status": "done"
   },
   {
    "id": "ev049_2A3C",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　おまえがあせれば、\n　そのあせりは、\n　魔装機を通じて察せられる。\n",
-   "en": ""
+   "en": "If you grow impatient, that impatience can\nbe sensed through the Masouki.",
+   "status": "done"
   },
   {
    "id": "ev049_2A8C",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　いいか、機体との一体感を意識しろ。\n　それが、魔装機を乗りこなすコツだ。\n\n",
-   "en": ""
+   "en": "Listen, feel yourself as one with the\nmachine. That is the knack to mastering a\nMasouki.",
+   "status": "done"
   },
   {
    "id": "ev049_2AE4",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "シェス",
    "jp": "　二回戦の勝者は、ケイゴさんです！\n\n\n",
-   "en": ""
+   "en": "The second-round winner is Keigo-san!",
+   "status": "done"
   },
   {
    "id": "ev049_2B14",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　すいません、フルカスさん！\n　俺、夢中になっちゃって、\n　本気で打ち込んでしまって……。\n",
-   "en": ""
+   "en": "I'm sorry, Furcas-san! I got so carried\naway, I hit you for real...",
+   "status": "done"
   },
   {
    "id": "ev049_2B78",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　うむ。\n　それでよいのじゃ。\n　若者はそれくらい、元気がなくてはな。\n",
-   "en": ""
+   "en": "Mm. That is just as it should be. A young\nman ought to have that much spirit.",
+   "status": "done"
   },
   {
    "id": "ev049_2BC8",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴよ……。\n\n\n",
-   "en": ""
+   "en": "Keigo...",
+   "status": "done"
   },
   {
    "id": "ev049_2BE8",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……はい。\n\n\n",
-   "en": ""
+   "en": "...Yes, sir.",
+   "status": "done"
   },
   {
    "id": "ev049_2C00",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　戦に常勢なし、じゃ。\n\n\n",
-   "en": ""
+   "en": "In war, nothing stays the same.",
+   "status": "done"
   },
   {
    "id": "ev049_2C24",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　可と思えば進めばよい、\n　難と見れば退くがよい。\n\n",
-   "en": ""
+   "en": "When you see a chance, advance. When you\nsee trouble, withdraw.",
+   "status": "done"
   },
   {
    "id": "ev049_2C64",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　臨機応変、\n　そして拙速が肝要なのじゃ。\n\n",
-   "en": ""
+   "en": "Adapt to the moment, and act swiftly over\nperfectly. That is what matters.",
+   "status": "done"
   },
   {
    "id": "ev049_2C9C",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はいっ！\n　ありがとうございました。\n\n",
-   "en": ""
+   "en": "Yes, sir! Thank you very much.",
+   "status": "done"
   },
   {
    "id": "ev049_2CCC",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（ケイゴのやつ、\n　まさかフルカスさんを破るとは……）\n\n",
-   "en": ""
+   "en": "(I never thought Keigo would actually beat\nFurcas-san...)",
+   "status": "done"
   },
   {
    "id": "ev049_2D10",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（味方とはいえ、\n　末恐ろしいヤツだな）\n\n",
-   "en": ""
+   "en": "(He's on our side, but the kid's scary. Who\nknows what he'll become.)",
+   "status": "done"
   },
   {
    "id": "ev049_2D44",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（これは、気を抜かず\n　本気でいかないと\n　こちらがやられるな……）\n",
-   "en": ""
+   "en": "(I'd better not slack off. If I don't go all\nout, he'll take me down...)",
+   "status": "done"
   },
   {
    "id": "ev049_2D94",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "シェス",
    "jp": "　じゃあ、決勝戦です！\n\n\n",
-   "en": ""
+   "en": "And now, the final match!",
+   "status": "done"
   },
   {
    "id": "ev049_2DB8",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "シェス",
    "jp": "　対戦は\n　１、２回戦を勝ち抜いたケイゴさんと\n　２回戦だけ勝ったベウマーさんです。\n",
-   "en": ""
+   "en": "The match is between Keigo-san, who won\nboth the first and second rounds, and\nBeumer-san, who only won the second.",
+   "status": "done"
   },
   {
    "id": "ev049_2E14",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　シェス。\n　ずいぶん、\n　トゲのあるいいかたじゃない？\n",
-   "en": ""
+   "en": "Shess. Isn't that a little prickly of you?",
+   "status": "done"
   },
   {
    "id": "ev049_2E58",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "シェス",
    "jp": "　当たり前です。\n　自分だけ楽して勝とうなんて。\n\n",
-   "en": ""
+   "en": "Of course it is. Trying to win the easy way\nwhile everyone else works.",
+   "status": "done"
   },
   {
    "id": "ev049_2E94",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　やっぱ、わかる……。\n\n\n",
-   "en": ""
+   "en": "Figured you'd notice...",
+   "status": "done"
   },
   {
    "id": "ev049_2EB8",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "シェス",
    "jp": "　まったく……。\n\n",
-   "en": ""
+   "en": "Honestly...",
+   "status": "done"
   },
   {
    "id": "ev049_2ED4",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　さて、じゃあ始めるか。\n　お手やわらかに頼むぜ！\n\n",
-   "en": ""
+   "en": "Well, shall we get started? Go easy on\nme, huh!",
+   "status": "done"
   },
   {
    "id": "ev049_2F14",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　西方騎士隊の副長と一騎打ちなんて\n　そう機会が\n　あるもんじゃないですからね。\n",
-   "en": ""
+   "en": "It's not every day I get to go one-on-one\nwith the Vice-Captain of the Western\nKnights.",
+   "status": "done"
   },
   {
    "id": "ev049_2F6C",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　思い切りやらせてもらいます！\n\n\n",
-   "en": ""
+   "en": "I'm going all out!",
+   "status": "done"
   },
   {
    "id": "ev049_2F98",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "シェス",
    "jp": "　お二人とも力が入ってますね。\n\n\n",
-   "en": ""
+   "en": "You two are really fired up, aren't you.",
+   "status": "done"
   },
   {
    "id": "ev049_2FC4",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　よう、シェス！\n　どうだ、この際、勝ったほうと\n　おつきあいするってのは！\n",
-   "en": ""
+   "en": "Hey, Shess! While we're at it, how about\nyou go out with whoever wins!",
+   "status": "done"
   },
   {
    "id": "ev049_301C",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "シェス",
    "jp": "　なにが、この際ですか！\n　まじめにやってください。\n　まじめに！\n",
-   "en": ""
+   "en": "What do you mean, while we're at it!? Take\nthis seriously. Seriously!",
+   "status": "done"
   },
   {
    "id": "ev049_3068",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　つれないねぇ。\n\n\n",
-   "en": ""
+   "en": "Cold as ever, huh.",
+   "status": "done"
   },
   {
    "id": "ev049_3088",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "シェス",
    "jp": "　もう、試合を始めますよ！\n　準備をしてください！！\n\n",
-   "en": ""
+   "en": "Honestly, the match is starting! Get ready!!",
+   "status": "done"
   },
   {
    "id": "ev049_30C8",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "シェス",
    "jp": "　決勝戦は、\n　ケイゴさん対ベウマーさんです！！\n\n",
-   "en": ""
+   "en": "The final match is Keigo-san versus\nBeumer-san!!",
+   "status": "done"
   },
   {
    "id": "ev049_3104",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いきますよ、副長！\n\n\n",
-   "en": ""
+   "en": "Here I come, Vice-Captain!",
+   "status": "done"
   },
   {
    "id": "ev049_3124",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　よし、こい！\n\n\n",
-   "en": ""
+   "en": "All right, bring it!",
+   "status": "done"
   },
   {
    "id": "ev049_3140",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はあ、はあ……。\n\n\n",
-   "en": ""
+   "en": "Huff, huff...",
+   "status": "done"
   },
   {
    "id": "ev049_3160",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（なんてやつだ。\n　ヘレーナたちやフルカスさんを\n　破ったことでさらに力をつけている）\n",
-   "en": ""
+   "en": "(What a guy. Beating Helena's bunch and\nFurcas-san made him even stronger.)",
+   "status": "done"
   },
   {
    "id": "ev049_31C0",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（まさか、これほどのものとは……）\n\n\n",
-   "en": ""
+   "en": "(I never imagined he'd be this good...)",
+   "status": "done"
   },
   {
    "id": "ev049_31F0",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……どうしたんです、副長！\n　動きが止まってますよ。\n\n",
-   "en": ""
+   "en": "...What's wrong, Vice-Captain! You've\nstopped moving.",
+   "status": "done"
   },
   {
    "id": "ev049_3230",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（こいつなら\n　魔装機神を操ることも\n　できるかもしれん……な）\n",
-   "en": ""
+   "en": "(Maybe this kid could even pilot a\nMasoukishin...)",
+   "status": "done"
   },
   {
    "id": "ev049_327C",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（しかし、オレにも\n　西方騎士隊、副長としての\n　誇りがある……）\n",
-   "en": ""
+   "en": "(But I've got my pride too, as Vice-Captain\nof the Western Knights...)",
+   "status": "done"
   },
   {
    "id": "ev049_32C8",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　そう簡単に負けるわけには\n　いかないんだよ！\n\n",
-   "en": ""
+   "en": "I ain't gonna lose that easy!",
+   "status": "done"
   },
   {
    "id": "ev049_3304",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "シェス",
    "jp": "　すごい、ケイゴさん！\n　ベウマーさんを破るなんて！！\n\n",
-   "en": ""
+   "en": "Amazing, Keigo-san! You beat Beumer-san!!",
+   "status": "done"
   },
   {
    "id": "ev049_3344",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ふうっ、ふうっ……。\n　か、勝ったのか？\n　オレは……。\n",
-   "en": ""
+   "en": "Phew, phew... D-Did I... win?",
+   "status": "done"
   },
   {
    "id": "ev049_3388",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "シェス",
    "jp": "　そうですよ！\n　ケイゴさんの優勝です！！\n\n",
-   "en": ""
+   "en": "That's right! Keigo-san is the champion!!",
+   "status": "done"
   },
   {
    "id": "ev049_33BC",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　ほら、\n　なにボーッとしてるんだい。\n　ビシッとしな、ビシッと！\n",
-   "en": ""
+   "en": "C'mon, what're you spacin' out for? Snap\nto it, snap to it!",
+   "status": "done"
   },
   {
    "id": "ev049_3408",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　しかし、\n　副長が一騎打ちで負けるなんて\n　隊長とやったとき以来だね。\n",
-   "en": ""
+   "en": "Still, the last time the Vice-Captain lost a\none-on-one was when he fought the captain.",
+   "status": "done"
   },
   {
    "id": "ev049_345C",
@@ -1764,7 +1938,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　たいしたもんやで。\n\n\n",
-   "en": ""
+   "en": "That's somethin' else, I tell ya.",
+   "status": "done"
   },
   {
    "id": "ev049_3480",
@@ -1774,7 +1949,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　少しだけ、見直しましたよ～ん。\n\n\n",
-   "en": ""
+   "en": "I think a teeny bit better of you now,\nmm-hmm.",
+   "status": "done"
   },
   {
    "id": "ev049_34B0",
@@ -1784,7 +1960,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あ、ありがとうございます。\n\n\n",
-   "en": ""
+   "en": "Th-Thank you very much.",
+   "status": "done"
   },
   {
    "id": "ev049_34D8",
@@ -1794,7 +1971,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　やられたぜ、ケイゴ。\n　きょうのところは、完敗だ。\n\n",
-   "en": ""
+   "en": "You got me, Keigo. Today, it's a total loss\nfor me.",
+   "status": "done"
   },
   {
    "id": "ev049_3518",
@@ -1804,7 +1982,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　副長……。\n\n\n",
-   "en": ""
+   "en": "Vice-Captain...",
+   "status": "done"
   },
   {
    "id": "ev049_3530",
@@ -1814,7 +1993,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　まあ、負けたのは\n　ちょっと悔しいが、\n　頼もしい部下ができたもんだ。\n",
-   "en": ""
+   "en": "Well, losing stings a little, but I've got\nmyself one reliable subordinate.",
+   "status": "done"
   },
   {
    "id": "ev049_3584",
@@ -1824,7 +2004,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　これからも\n　この調子で頼むぜ。\n\n",
-   "en": ""
+   "en": "Keep it up from here on out.",
+   "status": "done"
   },
   {
    "id": "ev049_35B4",
@@ -1834,7 +2015,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　なっ！！\n\n\n",
-   "en": ""
+   "en": "Right, kid!!",
+   "status": "done"
   },
   {
    "id": "ev049_35CC",
@@ -1844,7 +2026,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ベウマー副長……。\n　ありがとうございました！！\n\n",
-   "en": ""
+   "en": "Vice-Captain Beumer... Thank you very\nmuch!!",
+   "status": "done"
   },
   {
    "id": "ev049_3608",
@@ -1854,7 +2037,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ケイゴさん！\n　こっち、こっち！！\n\n",
-   "en": ""
+   "en": "Keigo-san! Over here, over here!!",
+   "status": "done"
   },
   {
    "id": "ev049_3638",
@@ -1864,7 +2048,8 @@
    ],
    "speaker": "シェス",
    "jp": "　表彰式やりますよ！\n\n\n",
-   "en": ""
+   "en": "We're holding the award ceremony!",
+   "status": "done"
   },
   {
    "id": "ev049_3658",
@@ -1874,7 +2059,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　今、いきます！\n\n\n",
-   "en": ""
+   "en": "Coming!",
+   "status": "done"
   },
   {
    "id": "ev049_3674",
@@ -1884,7 +2070,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　負けず嫌いのおまえが\n　手を抜いてやるなんて\n　めずらしいな。\n",
-   "en": ""
+   "en": "Rare for a sore loser like you to hold back.",
+   "status": "done"
   },
   {
    "id": "ev049_36C0",
@@ -1894,7 +2081,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　フルカスさんには、\n　オレが手を抜いているように\n　見えましたか？\n",
-   "en": ""
+   "en": "Did it look to you like I was holding back,\nFurcas-san?",
+   "status": "done"
   },
   {
    "id": "ev049_3710",
@@ -1904,7 +2092,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　す、すると……。\n\n\n",
-   "en": ""
+   "en": "Th-Then you mean...",
+   "status": "done"
   },
   {
    "id": "ev049_3730",
@@ -1914,7 +2103,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ええ、間違いなく\n　きょうの結果は……。\n\n",
-   "en": ""
+   "en": "Yeah. No question about it, today's result...",
+   "status": "done"
   },
   {
    "id": "ev049_3768",
@@ -1924,7 +2114,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……まったく\n　たいしたヤツですよ。\n\n",
-   "en": ""
+   "en": "...He's really something, I tell you.",
+   "status": "done"
   },
   {
    "id": "ev049_379C",
@@ -1934,7 +2125,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　しかし、\n　これで大丈夫そうだな。\n\n",
-   "en": ""
+   "en": "Still, it seems he'll be all right now.",
+   "status": "done"
   },
   {
    "id": "ev049_37CC",
@@ -1944,7 +2136,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ええ、アイツは\n　オレたちが思っているほど\n　ヤワじゃなさそうです。\n",
-   "en": ""
+   "en": "Yeah. He's not as soft as we thought.",
+   "status": "done"
   },
   {
    "id": "ev049_381C",
@@ -1954,7 +2147,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ヤツなら\n　どんな、苦境でも\n　乗り越えられるでしょう。\n",
-   "en": ""
+   "en": "He'll get through any hardship, I'd bet.",
+   "status": "done"
   },
   {
    "id": "ev049_3860",
@@ -1964,7 +2158,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　となると心配なのは……。\n\n\n",
-   "en": ""
+   "en": "Which means the one to worry about is...",
+   "status": "done"
   },
   {
    "id": "ev049_3888",
@@ -1974,7 +2169,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　隊長ですね。\n\n\n",
-   "en": ""
+   "en": "The captain, right.",
+   "status": "done"
   },
   {
    "id": "ev049_38A4",
@@ -1984,7 +2180,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ただ、あの人の場合は、\n　もう自分で立ち直るしかない。\n\n",
-   "en": ""
+   "en": "But in her case, she's got to pull herself\nback up on her own.",
+   "status": "done"
   },
   {
    "id": "ev049_38E8",
@@ -1994,7 +2191,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　残念ながらオレたちに、\n　立ち直りのきっかけを\n　与えることはできないでしょう。\n",
-   "en": ""
+   "en": "Sadly, I don't think we can give her what\nshe needs to recover.",
+   "status": "done"
   },
   {
    "id": "ev049_3944",
@@ -2004,7 +2202,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_3964",
@@ -2014,7 +2213,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　可能性があるとすれば……。\n\n\n",
-   "en": ""
+   "en": "If anyone could...",
+   "status": "done"
   },
   {
    "id": "ev049_3990",
@@ -2024,7 +2224,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　やめておきましょう。\n　……ヤボな話です。\n\n",
-   "en": ""
+   "en": "Let's leave it there. ...Not my place to say.",
+   "status": "done"
   },
   {
    "id": "ev049_39C8",
@@ -2034,7 +2235,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_39E8",
@@ -2044,7 +2246,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　……なるほど、確かにな。\n\n\n",
-   "en": ""
+   "en": "...I see. Indeed, you may be right.",
+   "status": "done"
   },
   {
    "id": "ev049_3A10",
@@ -2054,7 +2257,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_3A2C",
@@ -2064,7 +2268,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ケイゴさん、ケイゴさん！\n\n\n",
-   "en": ""
+   "en": "Keigo-san, Keigo-san!",
+   "status": "done"
   },
   {
    "id": "ev049_3A54",
@@ -2074,7 +2279,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……シェ……ス……さん？\n\n\n",
-   "en": ""
+   "en": "...Shes...s...-san?",
+   "status": "done"
   },
   {
    "id": "ev049_3A7C",
@@ -2084,7 +2290,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ここは！？\n\n\n",
-   "en": ""
+   "en": "...Where am I!?",
+   "status": "done"
   },
   {
    "id": "ev049_3A98",
@@ -2094,7 +2301,8 @@
    ],
    "speaker": "シェス",
    "jp": "　……よかった。\n　気絶したままだったから、\n　心配したんですよ！\n",
-   "en": ""
+   "en": "...Thank goodness. You were out cold, so I\nwas worried!",
+   "status": "done"
   },
   {
    "id": "ev049_3AE4",
@@ -2104,7 +2312,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ベウマーさんたちは、\n　ほっとけば、目をさますとかいって\n　試合を続けちゃうし……。\n",
-   "en": ""
+   "en": "And Beumer-san and the others just said\nyou'd wake up if we left you be, and kept\non with the matches...",
+   "status": "done"
   },
   {
    "id": "ev049_3B44",
@@ -2114,7 +2323,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　試合！？\n　そうか負けたのか、オレ……。\n\n",
-   "en": ""
+   "en": "Matches!? Oh, right, I lost...",
+   "status": "done"
   },
   {
    "id": "ev049_3B78",
@@ -2124,7 +2334,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　そういうこと。\n\n\n",
-   "en": ""
+   "en": "That's about the size of it.",
+   "status": "done"
   },
   {
    "id": "ev049_3B98",
@@ -2134,7 +2345,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　まあ、惜しかったけどね。\n\n\n",
-   "en": ""
+   "en": "Well, it was a close one, though.",
+   "status": "done"
   },
   {
    "id": "ev049_3BC0",
@@ -2144,7 +2356,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　ケイゴはん。\n　その程度のウデじゃ、\n　戦場では生き残れまへんで。\n",
-   "en": ""
+   "en": "Keigo-han, with skills like that, ya won't\nmake it out of a real battlefield alive.",
+   "status": "done"
   },
   {
    "id": "ev049_3C10",
@@ -2154,7 +2367,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　ホント、明日からボクが\n　閃剣のゼルドナに代わって、\n　鍛え直してあげる。\n",
-   "en": ""
+   "en": "Really, starting tomorrow, I'll take over for\nZeldna the Flash Blade and train you up all\nover again.",
+   "status": "done"
   },
   {
    "id": "ev049_3C68",
@@ -2164,7 +2378,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　まあまあ、ワタシら相手に\n　ここまでやったんだ。\n\n",
-   "en": ""
+   "en": "Now, now, he did this well against the likes\nof us.",
+   "status": "done"
   },
   {
    "id": "ev049_3CA8",
@@ -2174,7 +2389,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　よしとしてやろうよ。\n\n\n",
-   "en": ""
+   "en": "Let's cut him some slack.",
+   "status": "done"
   },
   {
    "id": "ev049_3CCC",
@@ -2184,7 +2400,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_3CE8",
@@ -2194,7 +2411,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あ、そういえば\n　試合のほうは？\n\n",
-   "en": ""
+   "en": "Oh, by the way, how did the matches\nturn out?",
+   "status": "done"
   },
   {
    "id": "ev049_3D14",
@@ -2204,7 +2422,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　副長の優勝に決まってるだろ。\n　二人抜きで疲れ切った\n　フルカスさんをバッサリさ。\n",
-   "en": ""
+   "en": "The Vice-Captain won, of course.\nFurcas-san was worn out from takin' on\ntwo in a row, and he just cut him down.",
+   "status": "done"
   },
   {
    "id": "ev049_3D74",
@@ -2214,7 +2433,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　まったく、卑怯な男ですよ。\n\n\n",
-   "en": ""
+   "en": "Honestly, what a dirty player.",
+   "status": "done"
   },
   {
    "id": "ev049_3DA0",
@@ -2224,7 +2444,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　そうそう。\n\n\n",
-   "en": ""
+   "en": "Yeah, yeah.",
+   "status": "done"
   },
   {
    "id": "ev049_3DBC",
@@ -2234,7 +2455,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　誰が卑怯だって。\n\n\n",
-   "en": ""
+   "en": "Who's a dirty player?",
+   "status": "done"
   },
   {
    "id": "ev049_3DDC",
@@ -2244,7 +2466,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　副長！！\n\n\n",
-   "en": ""
+   "en": "Vice-Captain!!",
+   "status": "done"
   },
   {
    "id": "ev049_3DF4",
@@ -2254,7 +2477,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　人の悪口は\n　聞こえないところでいうもんだ。\n\n",
-   "en": ""
+   "en": "You're supposed to badmouth people\nwhere they can't hear you.",
+   "status": "done"
   },
   {
    "id": "ev049_3E30",
@@ -2264,7 +2488,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ケイゴ。\n　具合はどうだ？\n\n",
-   "en": ""
+   "en": "Keigo. How're you holding up?",
+   "status": "done"
   },
   {
    "id": "ev049_3E58",
@@ -2274,7 +2499,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……大丈夫です。\n\n\n",
-   "en": ""
+   "en": "...I'm fine.",
+   "status": "done"
   },
   {
    "id": "ev049_3E78",
@@ -2284,7 +2510,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　そうか、気分は？\n\n\n",
-   "en": ""
+   "en": "I see. And how're you feeling?",
+   "status": "done"
   },
   {
    "id": "ev049_3E98",
@@ -2294,7 +2521,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_3EB4",
@@ -2304,7 +2532,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　魔装機は、\n　自分の精神状態に左右される。\n\n",
-   "en": ""
+   "en": "A Masouki is swayed by your state\nof mind.",
+   "status": "done"
   },
   {
    "id": "ev049_3EEC",
@@ -2314,7 +2543,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　まさに今のおまえに\n　当てはまるだろ。\n\n",
-   "en": ""
+   "en": "That fits you right now to a T, doesn't it.",
+   "status": "done"
   },
   {
    "id": "ev049_3F20",
@@ -2324,7 +2554,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_3F3C",
@@ -2334,7 +2565,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　なにに\n　悩んでいるかはしらん。\n\n",
-   "en": ""
+   "en": "I don't know what's eating you.",
+   "status": "done"
   },
   {
    "id": "ev049_3F6C",
@@ -2344,7 +2576,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ただ、それを戦場に持ち込むな。\n　おまえがこれから先、\n　生き延びたいのならな。\n",
-   "en": ""
+   "en": "But don't bring it onto the battlefield. Not if\nyou want to stay alive from here on.",
+   "status": "done"
   },
   {
    "id": "ev049_3FC8",
@@ -2354,7 +2587,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……すいません。\n\n\n",
-   "en": ""
+   "en": "...Sorry.",
+   "status": "done"
   },
   {
    "id": "ev049_3FE8",
@@ -2364,7 +2598,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　まあ、若いうちは色々ある。\n\n\n",
-   "en": ""
+   "en": "Well, a lot goes on when you're young.",
+   "status": "done"
   },
   {
    "id": "ev049_4014",
@@ -2374,7 +2609,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　少しずつ、\n　自分なりに消化していくんだな。\n\n",
-   "en": ""
+   "en": "Work through it bit by bit, in your own way.",
+   "status": "done"
   },
   {
    "id": "ev049_4050",
@@ -2384,7 +2620,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_406C",
@@ -2394,7 +2631,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　い、痛ってぇ……。\n\n\n",
-   "en": ""
+   "en": "Oww, that hurts...",
+   "status": "done"
   },
   {
    "id": "ev049_408C",
@@ -2404,7 +2642,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ケイゴさん！\n　大丈夫ですか！！\n\n",
-   "en": ""
+   "en": "Keigo-san! Are you all right!?",
+   "status": "done"
   },
   {
    "id": "ev049_40B8",
@@ -2414,7 +2653,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ええ、なんとか……。\n\n\n",
-   "en": ""
+   "en": "Yeah, more or less...",
+   "status": "done"
   },
   {
    "id": "ev049_40DC",
@@ -2424,7 +2664,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴ、心に迷いがあると\n　こういった結果を招く。\n\n",
-   "en": ""
+   "en": "Keigo, doubt in your heart leads to results\nlike this.",
+   "status": "done"
   },
   {
    "id": "ev049_411C",
@@ -2434,7 +2675,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　戦場で迷いは命取りだ。\n　そのことを忘れるなよ。\n\n",
-   "en": ""
+   "en": "On the battlefield, hesitation is fatal. Don't\nyou forget that.",
+   "status": "done"
   },
   {
    "id": "ev049_415C",
@@ -2444,7 +2686,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Yes, sir.",
+   "status": "done"
   },
   {
    "id": "ev049_4170",
@@ -2454,7 +2697,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ケイゴ！\n　惜しかったな！！\n\n",
-   "en": ""
+   "en": "Keigo! That was close!!",
+   "status": "done"
   },
   {
    "id": "ev049_419C",
@@ -2464,7 +2708,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いいえ、まだまだです。\n　いい勉強になりました。\n\n",
-   "en": ""
+   "en": "No, I've still got a long way to go. It was a\ngood lesson.",
+   "status": "done"
   },
   {
    "id": "ev049_41D8",
@@ -2474,7 +2719,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　そうか。\n\n\n",
-   "en": ""
+   "en": "I see.",
+   "status": "done"
   },
   {
    "id": "ev049_41F0",
@@ -2484,7 +2730,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　しかし、いい顔になったな。\n\n\n",
-   "en": ""
+   "en": "Still, you've got a good look on your\nface now.",
+   "status": "done"
   },
   {
    "id": "ev049_421C",
@@ -2494,7 +2741,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　えっ！？\n\n\n",
-   "en": ""
+   "en": "Huh!?",
+   "status": "done"
   },
   {
    "id": "ev049_4234",
@@ -2504,7 +2752,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　最近のおまえは、心身とも迷いを\n　感じられたが、戦いのなかで\n　得るものがあったようだな。\n",
-   "en": ""
+   "en": "Lately, I could sense doubt in you, body and\nsoul, but looks like you gained something in\nthat fight.",
+   "status": "done"
   },
   {
    "id": "ev049_429C",
@@ -2514,7 +2763,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_42B8",
@@ -2524,7 +2774,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　まあ、難しいことを\n　いっても仕方がない。\n\n",
-   "en": ""
+   "en": "Well, no use getting all philosophical\nabout it.",
+   "status": "done"
   },
   {
    "id": "ev049_42F0",
@@ -2534,7 +2785,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ただ、今のその気持ちだけは\n　忘れるなよ。\n\n",
-   "en": ""
+   "en": "Just don't forget how you feel right now.",
+   "status": "done"
   },
   {
    "id": "ev049_4328",
@@ -2544,7 +2796,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はいっ！\n\n\n",
-   "en": ""
+   "en": "Yes, sir!",
+   "status": "done"
   },
   {
    "id": "ev049_4340",
@@ -2554,7 +2807,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　さてと、\n　それじゃあ、軽く運動してくるかな。\n\n",
-   "en": ""
+   "en": "Well then, guess I'll go get a little exercise.",
+   "status": "done"
   },
   {
    "id": "ev049_437C",
@@ -2564,7 +2818,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ケイゴ。\n　よく見ておけよ。\n\n",
-   "en": ""
+   "en": "Keigo. Watch closely.",
+   "status": "done"
   },
   {
    "id": "ev049_43A8",
@@ -2574,7 +2829,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　カッコつけて\n　ドジ踏まないでくださいね。\n\n",
-   "en": ""
+   "en": "Don't trip over your own feet showing\noff, okay?",
+   "status": "done"
   },
   {
    "id": "ev049_43E0",
@@ -2584,7 +2840,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　うるせえ！\n\n\n",
-   "en": ""
+   "en": "Shut up!",
+   "status": "done"
   },
   {
    "id": "ev049_43FC",
@@ -2594,7 +2851,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　うっひゃあ、あぶなかった……。\n\n\n",
-   "en": ""
+   "en": "Whoa, that was close...",
+   "status": "done"
   },
   {
    "id": "ev049_442C",
@@ -2604,7 +2862,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ケイゴ、大丈夫か！\n\n\n",
-   "en": ""
+   "en": "Keigo, you all right!?",
+   "status": "done"
   },
   {
    "id": "ev049_4450",
@@ -2614,7 +2873,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい、なんとか……。\n\n\n",
-   "en": ""
+   "en": "Yes, more or less...",
+   "status": "done"
   },
   {
    "id": "ev049_4474",
@@ -2624,7 +2884,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　しかし、強くなったな。\n　何回かヒヤッとしたぜ。\n\n",
-   "en": ""
+   "en": "Still, you've gotten strong. You had me\nsweating a few times there.",
+   "status": "done"
   },
   {
    "id": "ev049_44B4",
@@ -2634,7 +2895,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev049_44D0",
@@ -2644,7 +2906,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　どうした？\n　悔しいのか……。\n\n",
-   "en": ""
+   "en": "What's up? Sore about losing...?",
+   "status": "done"
   },
   {
    "id": "ev049_44FC",
@@ -2654,7 +2917,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……はい。\n\n\n",
-   "en": ""
+   "en": "...Yes.",
+   "status": "done"
   },
   {
    "id": "ev049_4514",
@@ -2664,7 +2928,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　まったく、生意気なヤツだぜ。\n\n\n",
-   "en": ""
+   "en": "Cocky little guy, ain't ya.",
+   "status": "done"
   },
   {
    "id": "ev049_4540",
@@ -2674,7 +2939,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　オレだって、\n　こう見えても\n　西方騎士隊の副長なんだぜ。\n",
-   "en": ""
+   "en": "Hey, I may not look it, but I'm the\nVice-Captain of the Western Knights,\ny'know.",
+   "status": "done"
   },
   {
    "id": "ev049_4588",
@@ -2684,7 +2950,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　入隊したばかりの新人に\n　負けるわけにいかないって。\n\n",
-   "en": ""
+   "en": "Can't go losing to some rookie who just\njoined up.",
+   "status": "done"
   },
   {
    "id": "ev049_45CC",
@@ -2694,7 +2961,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev049_45E8",
@@ -2704,7 +2972,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……ケイゴ。\n　今のその気持ちを忘れるなよ。\n\n",
-   "en": ""
+   "en": "...Keigo. Don't forget how you feel\nright now.",
+   "status": "done"
   },
   {
    "id": "ev049_4624",
@@ -2714,7 +2983,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………！？\n\n\n",
-   "en": ""
+   "en": "...!?",
+   "status": "done"
   },
   {
    "id": "ev049_4644",
@@ -2724,7 +2994,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　大切なのは、\n　次に勝とうとする気持ち。\n\n",
-   "en": ""
+   "en": "What matters is wanting to win next time.",
+   "status": "done"
   },
   {
    "id": "ev049_467C",
@@ -2734,7 +3005,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　生き延びるんだという\n　強い心だ。\n\n",
-   "en": ""
+   "en": "That, and a strong will to stay alive no\nmatter what.",
+   "status": "done"
   },
   {
    "id": "ev049_46AC",
@@ -2744,7 +3016,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　副長……。\n\n\n",
-   "en": ""
+   "en": "Vice-Captain...",
+   "status": "done"
   },
   {
    "id": "ev049_46C4",
@@ -2754,7 +3027,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　いいじゃねえか、\n　１回ぐらいオレに負けたって。\n\n",
-   "en": ""
+   "en": "So what if you lost to me once? No\nbig deal.",
+   "status": "done"
   },
   {
    "id": "ev049_4704",
@@ -2764,7 +3038,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　それを忘れなきゃ\n　おまえは、いつかオレに勝てるよ。\n\n",
-   "en": ""
+   "en": "Don't forget that feeling, and someday\nyou'll beat me, kid.",
+   "status": "done"
   },
   {
    "id": "ev049_4748",
@@ -2774,7 +3049,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ベウマー副長！\n\n\n",
-   "en": ""
+   "en": "Vice-Captain Beumer!",
+   "status": "done"
   },
   {
    "id": "ev049_4764",
@@ -2784,7 +3060,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　なんだ？\n\n\n",
-   "en": ""
+   "en": "What?",
+   "status": "done"
   },
   {
    "id": "ev049_477C",
@@ -2794,7 +3071,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ありがとうございました。\n\n\n",
-   "en": ""
+   "en": "Thank you very much, sir.",
+   "status": "done"
   },
   {
    "id": "ev049_47A4",
@@ -2804,7 +3082,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……よせよ。\n　照れるじゃねえか。\n\n",
-   "en": ""
+   "en": "...Knock it off. You're makin' me blush.",
+   "status": "done"
   },
   {
    "id": "ev049_47D4",
@@ -2814,7 +3093,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev049_47F0",
@@ -2824,7 +3104,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ベウマーさん。\n　優勝おめでとうございます。\n\n",
-   "en": ""
+   "en": "Beumer-san, congratulations on winning the\ntournament!",
+   "status": "done"
   },
   {
    "id": "ev049_4828",
@@ -2834,7 +3115,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ありがとうよ。\n　でも、ワリイな。\n\n",
-   "en": ""
+   "en": "Thanks, sweetheart. But hey, sorry\nabout that.",
+   "status": "done"
   },
   {
    "id": "ev049_4858",
@@ -2844,7 +3126,8 @@
    ],
    "speaker": "シェス",
    "jp": "　どうして？\n\n\n",
-   "en": ""
+   "en": "Sorry about what?",
+   "status": "done"
   },
   {
    "id": "ev049_4870",
@@ -2854,7 +3137,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　愛しのケイゴ様を\n　倒しちまって。\n\n",
-   "en": ""
+   "en": "For takin' down your beloved Keigo-sama.",
+   "status": "done"
   },
   {
    "id": "ev049_48A0",
@@ -2864,7 +3148,8 @@
    ],
    "speaker": "シェス",
    "jp": "　もう、ベウマーさんは\n　すぐそういうことを！！\n\n",
-   "en": ""
+   "en": "Honestly, Beumer-san, you're always saying\nthings like that!!",
+   "status": "done"
   },
   {
    "id": "ev049_48DC",
@@ -2874,7 +3159,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　だって、ほんとのことだろうが！！\n\n\n",
-   "en": ""
+   "en": "Well, it's the truth, ain't it!!",
+   "status": "done"
   },
   {
    "id": "ev049_490C",
@@ -2884,7 +3170,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ちょっと、待ちなさい！！\n\n\n",
-   "en": ""
+   "en": "Hey, hold it right there!!",
+   "status": "done"
   },
   {
    "id": "ev049_4934",
@@ -2894,7 +3181,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev049_4950",
@@ -2904,7 +3192,8 @@
    ],
    "speaker": "シェス",
    "jp": "　みなさん、表彰式を始め……。\n\n\n",
-   "en": ""
+   "en": "Everyone, the award ceremony is about to\nbeg...",
+   "status": "done"
   },
   {
    "id": "ev049_497C",
@@ -2914,7 +3203,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　さあ、酒だ酒だ！！\n\n\n",
-   "en": ""
+   "en": "Alright, bring on the booze!!",
+   "status": "done"
   },
   {
    "id": "ev049_49A0",
@@ -2924,7 +3214,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　やっぱり、ただ酒は\n　サイコーですな。\n\n",
-   "en": ""
+   "en": "Nothin' beats free booze, I tell ya.",
+   "status": "done"
   },
   {
    "id": "ev049_49D4",
@@ -2934,7 +3225,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　もう、ボク、\n　酔っぱらってま～す！\n\n",
-   "en": ""
+   "en": "Wheee, I'm all drunk already!",
+   "status": "done"
   },
   {
    "id": "ev049_4A08",
@@ -2944,7 +3236,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ちょ、ちょっと\n　そのお酒は\n　優勝者の賞品なんですよ！！\n",
-   "en": ""
+   "en": "H-hey, wait! That liquor is the winner's\nprize!!",
+   "status": "done"
   },
   {
    "id": "ev049_4A4C",
@@ -2954,7 +3247,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　どうせ、みんなの胃袋に\n　入ってしまえば一緒じゃ。\n\n",
-   "en": ""
+   "en": "Bah, it all ends up in everyone's stomachs\nanyway, eh.",
+   "status": "done"
   },
   {
    "id": "ev049_4A90",
@@ -2964,7 +3258,8 @@
    ],
    "speaker": "シェス",
    "jp": "　もう技師長まで！！\n\n\n",
-   "en": ""
+   "en": "Honestly, even you, Chief Engineer!!",
+   "status": "done"
   },
   {
    "id": "ev049_4AB0",
@@ -2974,7 +3269,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　賞品ってお酒だったんですか？\n\n\n",
-   "en": ""
+   "en": "The prize was liquor?",
+   "status": "done"
   },
   {
    "id": "ev049_4ADC",
@@ -2984,7 +3280,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　当たり前だろ。\n　こんなときには、コイツが一番。\n\n",
-   "en": ""
+   "en": "Well, duh. At times like this, nothin' beats\nthis stuff.",
+   "status": "done"
   },
   {
    "id": "ev049_4B1C",
@@ -2994,7 +3291,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　これじゃあ、誰が勝っても……。\n\n\n",
-   "en": ""
+   "en": "Then it wouldn't have mattered who won...",
+   "status": "done"
   },
   {
    "id": "ev049_4B48",
@@ -3004,7 +3302,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　まあ、こまかいことは\n　気にするな。\n　パーッといこうぜ、ケイゴ。\n",
-   "en": ""
+   "en": "Aw, don't sweat the small stuff. Let's live\nit up, Keigo!",
+   "status": "done"
   },
   {
    "id": "ev049_4B98",
@@ -3014,7 +3313,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まったく、この人たちは……。\n\n\n",
-   "en": ""
+   "en": "Honestly, these people...",
+   "status": "done"
   },
   {
    "id": "ev049_4BC4",
@@ -3024,7 +3324,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ケイゴ！\n\n\n",
-   "en": ""
+   "en": "Keigo!",
+   "status": "done"
   },
   {
    "id": "ev049_4BE0",
@@ -3034,7 +3335,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　アルフレードじいさん。\n　もう酔っぱらっているんですか。\n\n",
-   "en": ""
+   "en": "Old man Alfredo. Are you drunk already?",
+   "status": "done"
   },
   {
    "id": "ev049_4C24",
@@ -3044,7 +3346,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　なあに、この程度ではまだまだ。\n\n\n",
-   "en": ""
+   "en": "Bah, this much is nothing, my boy. Nothing\nat all.",
+   "status": "done"
   },
   {
    "id": "ev049_4C58",
@@ -3054,7 +3357,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ほら、もう足元が\n　ふらついてますよ。\n\n",
-   "en": ""
+   "en": "Look, you're already wobbling on your feet.",
+   "status": "done"
   },
   {
    "id": "ev049_4C8C",
@@ -3064,7 +3368,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　おお、スマンスマン。\n\n\n",
-   "en": ""
+   "en": "Oh, sorry, sorry.",
+   "status": "done"
   },
   {
    "id": "ev049_4CB4",
@@ -3074,7 +3379,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　しかし、あれじゃな。\n　こうやって、みんなで酒を飲んで\n　楽しくやるのも悪くないな。\n",
-   "en": ""
+   "en": "Still, you know... drinking together and\nhaving a good time like this isn't half\nbad, eh.",
+   "status": "done"
   },
   {
    "id": "ev049_4D18",
@@ -3084,7 +3390,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そういえば、\n　アルフレードじいさん\n　家族は……？\n",
-   "en": ""
+   "en": "Come to think of it, old man Alfredo, what\nabout your family...?",
+   "status": "done"
   },
   {
    "id": "ev049_4D58",
@@ -3094,7 +3401,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　家族……。\n\n\n",
-   "en": ""
+   "en": "My family...",
+   "status": "done"
   },
   {
    "id": "ev049_4D78",
@@ -3104,7 +3412,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　実は、ワシには\n　孫がおるんじゃが\n　行方不明になってしまってな……。\n",
-   "en": ""
+   "en": "Truth is, I have a grandson, but he's gone\nmissing, you see...",
+   "status": "done"
   },
   {
    "id": "ev049_4DD0",
@@ -3114,7 +3423,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　行方不明！？\n\n\n",
-   "en": ""
+   "en": "Missing!?",
+   "status": "done"
   },
   {
    "id": "ev049_4DEC",
@@ -3124,7 +3434,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（おい、絶対秘密じゃぞ）\n\n\n",
-   "en": ""
+   "en": "(Hey, this is top secret, you hear me?)",
+   "status": "done"
   },
   {
    "id": "ev049_4E18",
@@ -3134,7 +3445,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ああ……）\n\n\n",
-   "en": ""
+   "en": "(Yeah...)",
+   "status": "done"
   },
   {
    "id": "ev049_4E30",
@@ -3144,7 +3456,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（ワシは昔から\n　ダウスに興味を持っていてな）\n\n",
-   "en": ""
+   "en": "(I've been fascinated by Daus for years,\nyou see.)",
+   "status": "done"
   },
   {
    "id": "ev049_4E70",
@@ -3154,7 +3467,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ダウスに……！？）\n\n\n",
-   "en": ""
+   "en": "(By Daus...!?)",
+   "status": "done"
   },
   {
    "id": "ev049_4E90",
@@ -3164,7 +3478,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（ああ、それで孫と二人で\n　調査をしておったら\n　どえらい発見をしてしまったんじゃ！）\n",
-   "en": ""
+   "en": "(Yes, and while my grandson and I were\ninvestigating it, we made one whopper of a\ndiscovery!)",
+   "status": "done"
   },
   {
    "id": "ev049_4EF4",
@@ -3174,7 +3489,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……発見？）\n\n\n",
-   "en": ""
+   "en": "(...A discovery?)",
+   "status": "done"
   },
   {
    "id": "ev049_4F10",
@@ -3184,7 +3500,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（そうじゃ、実はダウスの穴は、\n　別の世界とつながっておる）\n\n",
-   "en": ""
+   "en": "(That's right. The truth is, the Pit of Daus\nis connected to another world.)",
+   "status": "done"
   },
   {
    "id": "ev049_4F5C",
@@ -3194,7 +3511,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（どうやら魔物たちはその世界から\n　現れるようなのじゃ）\n\n",
-   "en": ""
+   "en": "(And it seems the monsters come out of\nthat world, eh.)",
+   "status": "done"
   },
   {
    "id": "ev049_4FA4",
@@ -3204,7 +3522,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　別世界って……！？\n\n\n",
-   "en": ""
+   "en": "Another world...!?",
+   "status": "done"
   },
   {
    "id": "ev049_4FC4",
@@ -3214,7 +3533,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（バカもん、声が大きい）\n\n\n",
-   "en": ""
+   "en": "(You young fool, keep your voice down!)",
+   "status": "done"
   },
   {
    "id": "ev049_4FF0",
@@ -3224,7 +3544,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（で、そこの調査を孫のトトと二人で\n　しておったんじゃが……）\n\n",
-   "en": ""
+   "en": "(So my grandson Toto and I were\nexploring it together, but...)",
+   "status": "done"
   },
   {
    "id": "ev049_5040",
@@ -3234,7 +3555,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（それで行方不明に……）\n\n\n",
-   "en": ""
+   "en": "(And that's how he went missing...)",
+   "status": "done"
   },
   {
    "id": "ev049_5064",
@@ -3244,7 +3566,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（じゃあ、探しにいかなきゃ）\n\n\n",
-   "en": ""
+   "en": "(Then we have to go look for him.)",
+   "status": "done"
   },
   {
    "id": "ev049_508C",
@@ -3254,7 +3577,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（今はそれどころじゃないだろ）\n\n\n",
-   "en": ""
+   "en": "(Now's hardly the time for that.)",
+   "status": "done"
   },
   {
    "id": "ev049_50BC",
@@ -3264,7 +3588,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（まあ、それに頼もしいヤツが\n　ついているから多分、大丈夫じゃ）\n\n",
-   "en": ""
+   "en": "(Besides, he's got a trusty companion with\nhim, so he's probably fine.)",
+   "status": "done"
   },
   {
    "id": "ev049_510C",
@@ -3274,7 +3599,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（そのうち帰ってくるだろう）\n\n\n",
-   "en": ""
+   "en": "(He'll turn up one of these days.)",
+   "status": "done"
   },
   {
    "id": "ev049_513C",
@@ -3284,7 +3610,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev049_5158",
@@ -3294,7 +3621,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そんなことよりケイゴ！\n　ほらほら、きょうは飲みまくるぞ！！\n\n",
-   "en": ""
+   "en": "Never mind that, Keigo! Come on, tonight\nwe drink till we drop!!",
+   "status": "done"
   },
   {
    "id": "ev049_51A8",
@@ -3304,7 +3632,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　おまえさんも飲め！！\n\n\n",
-   "en": ""
+   "en": "You drink too, sonny!!",
+   "status": "done"
   },
   {
    "id": "ev049_51D0",
@@ -3314,7 +3643,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは飲めませんって！！\n\n\n",
-   "en": ""
+   "en": "I told you, I can't drink!!",
+   "status": "done"
   },
   {
    "id": "ev049_51F8",
@@ -3324,7 +3654,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ワシの酒が飲めない！？\n\n\n",
-   "en": ""
+   "en": "What!? You'd refuse a drink from ME!?",
+   "status": "done"
   },
   {
    "id": "ev049_5224",
@@ -3334,7 +3665,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……まったく。\n\n\n",
-   "en": ""
+   "en": "...Good grief.",
+   "status": "done"
   },
   {
    "id": "ev049_5240",
@@ -3344,7 +3676,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ベウマー。\n　どうだった隊長は？\n\n",
-   "en": ""
+   "en": "Beumer. How was the captain?",
+   "status": "done"
   },
   {
    "id": "ev049_5270",
@@ -3354,7 +3687,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　いや、ダメだ。\n　一人にしてくれってさ。\n\n",
-   "en": ""
+   "en": "Nope, no good. Says she wants to be left\nalone.",
+   "status": "done"
   },
   {
    "id": "ev049_52A8",
@@ -3364,7 +3698,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　……そうか。\n　ケイゴは、大丈夫そうだが、\n　アルマ隊長のほうは心配だな。\n",
-   "en": ""
+   "en": "...I see. Keigo seems to be all right, but I\nam worried about Captain Alma.",
+   "status": "done"
   },
   {
    "id": "ev049_5300",
@@ -3374,7 +3709,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……ああ。\n\n\n",
-   "en": ""
+   "en": "...Yeah.",
+   "status": "done"
   },
   {
    "id": "ev049_531C",
@@ -3384,7 +3720,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うわあああっ……。\n\n\n",
-   "en": ""
+   "en": "Waaaaugh...",
+   "status": "done"
   },
   {
    "id": "ev049_533C",
@@ -3394,7 +3731,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　し、しまった……。\n\n",
-   "en": ""
+   "en": "D-damn it...",
+   "status": "done"
   },
   {
    "id": "ev049_535C",
@@ -3404,7 +3742,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　……ま、まいった。\n\n\n",
-   "en": ""
+   "en": "...I-I yield.",
+   "status": "done"
   },
   {
    "id": "ev049_5380",
@@ -3414,7 +3753,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　いやぁん！\n\n",
-   "en": ""
+   "en": "Eek, no fair!",
+   "status": "done"
   },
   {
    "id": "ev049_5398",
@@ -3424,7 +3764,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　いやぁん！\n\n",
-   "en": ""
+   "en": "Eek, no fair!",
+   "status": "done"
   },
   {
    "id": "ev049_53B0",
@@ -3434,7 +3775,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　降参です！！\n\n\n",
-   "en": ""
+   "en": "I give up!!",
+   "status": "done"
   },
   {
    "id": "ev049_53CC",
@@ -3444,7 +3786,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　くうっ、くやしいっ！！\n\n\n",
-   "en": ""
+   "en": "Ngh, how frustrating!!",
+   "status": "done"
   },
   {
    "id": "ev049_8AD4",
@@ -3453,7 +3796,8 @@
     "0x8D7C"
    ],
    "jp": "\n　　　　　　　　　過去の過ち\n\n　　　　　その、たった一つの出来事が\n　　　　　すべてを狂わせることがある\n\n　　　　　その、たった一つの失敗が\n　　取り返しのつかないことになることがある\n\n　　　また、時に憎悪という感情を生み出し\n　　　　その感情は過ちを断罪するべく\n　　　　　　新たな過ちを発生させる\n\n　　　まるでその連鎖を楽しむがごとく……\n",
-   "en": ""
+   "en": "Past Mistakes\n\nA single event, just one,\ncan throw everything into chaos.\n\nA single failure, just one,\ncan become something beyond undoing.\n\nAnd at times it gives birth to hatred,\nand that hatred, to punish the mistake,\ngives rise to yet another mistake\n\nas if delighting in the chain itself...",
+   "status": "done"
   },
   {
    "id": "ev049_8C2C",
@@ -3462,7 +3806,8 @@
     "0x8D80"
    ],
    "jp": "\n　　　　　　戦場で出会った姉と妹\n\n　　　　　　この二人の奇異な再会は\n　　　　その言葉によってもたらされた\n\n　　　　なぜ、戦わなければならない\n　　　　　　……あなたが憎いから\n\n　　　なぜ、殺し合わなければならない\n　　　　　……あなたを許せないから\n\n　　　　　押し問答のような二人の存在\n絡み合った糸はもう元に戻ることはないのか……\n",
-   "en": ""
+   "en": "Two sisters who met on the battlefield\n\nTheir strange reunion\nwas brought about by these words:\n\nWhy must we fight?\n...Because I hate you.\n\nWhy must we kill each other?\n...Because I cannot forgive you.\n\nTwo souls locked in endless dispute\nCan these tangled threads never unwind...?",
+   "status": "done"
   }
  ]
 }

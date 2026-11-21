@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　ラガーシュ王国　軍司令部\n　（旧バルツフィーム王国　王都）\n\n",
-   "en": ""
+   "en": "Ragash Kingdom Military Command\n(formerly the Royal Capital of Vartzpheem)",
+   "status": "done"
   },
   {
    "id": "ev0F1_0FD4",
@@ -34,7 +35,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev0F1_0FF0",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　失礼いたします。\n\n\n",
-   "en": ""
+   "en": "Pardon the intrusion.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1010",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　だいぶ、苦労されているようですな。\n　ソッド様。\n\n",
-   "en": ""
+   "en": "You seem to be having quite a hard time of\nit, Thodd-sama.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1050",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なんの用だ。\n\n\n",
-   "en": ""
+   "en": "What do you want?",
+   "status": "done"
   },
   {
    "id": "ev0F1_106C",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　はい。\n　提案したいことがあります。\n\n",
-   "en": ""
+   "en": "Yes. I have a proposal to make.",
+   "status": "done"
   },
   {
    "id": "ev0F1_10A0",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　私に、魔装機神を\n　倒す策があるのですが\n　おまかせ願えないでしょうか？\n",
-   "en": ""
+   "en": "I have a plan to defeat the Masoukishin.\nWould you be so kind as to leave it to me?",
+   "status": "done"
   },
   {
    "id": "ev0F1_10F4",
@@ -94,7 +101,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ふん、どういう風の吹き回しだ。\n\n\n",
-   "en": ""
+   "en": "Hmph. What brought this on?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1120",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　策があるというのに\n　それを実行できないことに\n　耐えられないだけです。\n",
-   "en": ""
+   "en": "I simply cannot bear to have a plan and be\nunable to carry it out.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1174",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　私のいたバルツフィーム王国は\n　そういった国でした。\n\n",
-   "en": ""
+   "en": "The Kingdom of Vartzpheem, where I\nserved, was that sort of country.",
+   "status": "done"
   },
   {
    "id": "ev0F1_11B8",
@@ -124,7 +134,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　無策な人間たちが運営する国政に\n　嫌気がさしているところを\n　ソッド様に声をかけていただいた。\n",
-   "en": ""
+   "en": "I was sick of a government run by people\nwith no plans, and that was when you\nreached out to me, Thodd-sama.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1224",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　そのご恩を忘れたつもりは\n　ありませんが？\n\n",
-   "en": ""
+   "en": "I have not forgotten that debt, I\nassure you.",
+   "status": "done"
   },
   {
    "id": "ev0F1_125C",
@@ -144,7 +156,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なるほど、\n　バルツフィームの神というのは\n　機知に富んでいたようだな。\n",
-   "en": ""
+   "en": "I see. The gods of Vartzpheem were quite\nresourceful, it seems.",
+   "status": "done"
   },
   {
    "id": "ev0F1_12B0",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　私自身は、\n　神に興味などありません。\n\n",
-   "en": ""
+   "en": "I myself have no interest in gods.",
+   "status": "done"
   },
   {
    "id": "ev0F1_12E4",
@@ -164,7 +178,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　神というものは、\n　人間が生み出した妄想にすぎない。\n\n",
-   "en": ""
+   "en": "Gods are nothing more than delusions born\nof man.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1328",
@@ -174,7 +189,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　私はその妄想を使って\n　地位と名誉、そして富を\n　生み出していただけです。\n",
-   "en": ""
+   "en": "I merely used those delusions to produce\nstatus, honor, and wealth.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1380",
@@ -184,7 +200,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　バルツフィーム……。\n　……神に見捨てられた国と\n　いうわけか……。\n",
-   "en": ""
+   "en": "Vartzpheem... A nation forsaken by its\ngods, then...",
+   "status": "done"
   },
   {
    "id": "ev0F1_13D0",
@@ -194,7 +211,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　よかろう。\n　試してみるがいい。\n\n",
-   "en": ""
+   "en": "Very well. Try it, then.",
+   "status": "done"
   },
   {
    "id": "ev0F1_13FC",
@@ -204,7 +222,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ありがとうございます。\n\n\n",
-   "en": ""
+   "en": "Thank you very much.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1424",
@@ -214,7 +233,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　……そうですか。\n　やはり、ここでは……。\n\n",
-   "en": ""
+   "en": "...I see. So you will not stay here after all...",
+   "status": "done"
   },
   {
    "id": "ev0F1_145C",
@@ -224,7 +244,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1470",
@@ -234,7 +255,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　でも、シャーナ王女。\n　ナトゥーレがいやだとか\n　そういうことではないんです。\n",
-   "en": ""
+   "en": "But, Princess Shana, it's not as if I dislike\nNatoure or anything like that.",
+   "status": "done"
   },
   {
    "id": "ev0F1_14C8",
@@ -244,7 +266,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　仲間が苦しい思いをしているのを\n　放っておくことはできない……。\n\n",
-   "en": ""
+   "en": "I just can't leave my comrades to suffer...",
+   "status": "done"
   },
   {
    "id": "ev0F1_1514",
@@ -254,7 +277,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ただ、それだけなんです。\n\n\n",
-   "en": ""
+   "en": "That's all there is to it.",
+   "status": "done"
   },
   {
    "id": "ev0F1_153C",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だから、オレは\n　バルツフィーム解放軍のところへ\n　いきます。\n",
-   "en": ""
+   "en": "So I'm going to join the Vartzpheem\nLiberation Army.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1584",
@@ -274,7 +299,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　シャーナ王女には、\n　たいへん申しわけありませんが……。\n\n",
-   "en": ""
+   "en": "I'm truly sorry, Princess Shana...",
+   "status": "done"
   },
   {
    "id": "ev0F1_15C8",
@@ -284,7 +310,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　……自分の進むべき道を見つけた。\n\n\n",
-   "en": ""
+   "en": "...You have found the path you should take.",
+   "status": "done"
   },
   {
    "id": "ev0F1_15F8",
@@ -294,7 +321,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　そういうことですね。\n\n\n",
-   "en": ""
+   "en": "That is what this means, is it not?",
+   "status": "done"
   },
   {
    "id": "ev0F1_161C",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いいえ、\n　そんな難しいことではありません。\n\n",
-   "en": ""
+   "en": "No, it's nothing that complicated.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1654",
@@ -314,7 +343,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　仲間を救いにいきたい。\n　本当に、それだけなんです。\n\n",
-   "en": ""
+   "en": "I want to go save my comrades. Really,\nthat's all it is.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1694",
@@ -324,7 +354,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だから、もし\n　シャーナ王女の身になにかあったら\n　オレは、ここに戻ってきます。\n",
-   "en": ""
+   "en": "So if anything ever happens to you,\nPrincess Shana, I'll come back here.",
+   "status": "done"
   },
   {
    "id": "ev0F1_16F0",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　でも、今は\n　バルツフィームの仲間を\n　助けたいんです。\n",
-   "en": ""
+   "en": "But right now, I want to help my comrades\nfrom Vartzpheem.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1734",
@@ -344,7 +376,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev0F1_1754",
@@ -354,7 +387,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　わかりました、ケイゴ殿。\n　もう引き留めることはしません。\n\n",
-   "en": ""
+   "en": "I understand, Keigo-dono. I will not try to\nstop you any longer.",
+   "status": "done"
   },
   {
    "id": "ev0F1_179C",
@@ -364,7 +398,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　それと、今後も\n　バルツフィーム解放軍の方々とは\n　協力関係を続けさせてください。\n",
-   "en": ""
+   "en": "And, please, allow us to continue our\ncooperation with the Vartzpheem\nLiberation Army.",
+   "status": "done"
   },
   {
    "id": "ev0F1_17FC",
@@ -374,7 +409,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev0F1_1818",
@@ -384,7 +420,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　いかがでしょう。\n\n\n",
-   "en": ""
+   "en": "What do you say?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1838",
@@ -394,7 +431,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい、ありがとうございます！\n\n\n",
-   "en": ""
+   "en": "Yes! Thank you very much!",
+   "status": "done"
   },
   {
    "id": "ev0F1_1864",
@@ -404,7 +442,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　アルマ。\n　よい部下に恵まれましたね。\n\n",
-   "en": ""
+   "en": "Alma. You have been blessed with a fine\nsubordinate.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1898",
@@ -414,7 +453,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　え？\n\n\n",
-   "en": ""
+   "en": "Huh?",
+   "status": "done"
   },
   {
    "id": "ev0F1_18AC",
@@ -424,7 +464,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev0F1_18CC",
@@ -434,7 +475,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ありがとう。\n\n\n",
-   "en": ""
+   "en": "Thank you.",
+   "status": "done"
   },
   {
    "id": "ev0F1_18E8",
@@ -444,7 +486,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………？\n\n\n",
-   "en": ""
+   "en": "......?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1904",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　じゃあ、オレたちはいきます。\n\n\n",
-   "en": ""
+   "en": "Well then, we'll be going.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1930",
@@ -464,7 +508,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ほんとうに\n　ありがとうございました。\n\n",
-   "en": ""
+   "en": "Thank you so much, for everything.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1964",
@@ -474,7 +519,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev0F1_1980",
@@ -484,7 +530,8 @@
    ],
    "speaker": "イェン",
    "jp": "　シャーナ様。\n\n\n",
-   "en": ""
+   "en": "Shana-sama.",
+   "status": "done"
   },
   {
    "id": "ev0F1_199C",
@@ -494,7 +541,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　どうしたの、イェン。\n\n\n",
-   "en": ""
+   "en": "What is it, Yen?",
+   "status": "done"
   },
   {
    "id": "ev0F1_19C0",
@@ -504,7 +552,8 @@
    ],
    "speaker": "イェン",
    "jp": "　私も、アルマ様たちと\n　一緒にいかせてくださいませんか？\n\n",
-   "en": ""
+   "en": "Would you permit me to go with\nAlma-sama and the others?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1A04",
@@ -514,7 +563,8 @@
    ],
    "speaker": "イェン",
    "jp": "　いえ、\n　私も彼らとともにまいります！\n\n",
-   "en": ""
+   "en": "No--I am going with them!",
+   "status": "done"
   },
   {
    "id": "ev0F1_1A38",
@@ -524,7 +574,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………！？\n\n\n",
-   "en": ""
+   "en": "......!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1A58",
@@ -534,7 +585,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（……イェン）\n\n\n",
-   "en": ""
+   "en": "(...Yen.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_1A74",
@@ -544,7 +596,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　イェン！！\n\n\n",
-   "en": ""
+   "en": "Yen!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_1A90",
@@ -554,7 +607,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　……イェン。\n\n\n",
-   "en": ""
+   "en": "...Yen.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1AAC",
@@ -564,7 +618,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev0F1_1AC8",
@@ -574,7 +629,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　イェン、\n　なぜ、あなたが？\n\n",
-   "en": ""
+   "en": "Yen, why you?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1AF4",
@@ -584,7 +640,8 @@
    ],
    "speaker": "イェン",
    "jp": "　理由は申し上げられません。\n\n\n",
-   "en": ""
+   "en": "I cannot tell you my reason.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1B1C",
@@ -594,7 +651,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　り、理由もなくおまえを\n　旅立たせることなどできん！\n\n\n",
-   "en": ""
+   "en": "I-I cannot let you set off without a reason!",
+   "status": "done"
   },
   {
    "id": "ev0F1_1B60",
@@ -604,7 +662,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ジェムス。\n\n\n",
-   "en": ""
+   "en": "Jems.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1B7C",
@@ -614,7 +673,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　申しわけありません。\n　出すぎたマネを……。\n\n",
-   "en": ""
+   "en": "My apologies. I overstepped my place...",
+   "status": "done"
   },
   {
    "id": "ev0F1_1BB8",
@@ -624,7 +684,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　どうして、\n　答えられないのですか？\n\n",
-   "en": ""
+   "en": "Why is it that you cannot answer?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1BEC",
@@ -634,7 +695,8 @@
    ],
    "speaker": "イェン",
    "jp": "　いえ、正確に答えれば\n　わからないということです。\n\n",
-   "en": ""
+   "en": "No... To answer truthfully, I simply do\nnot know.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1C2C",
@@ -644,7 +706,8 @@
    ],
    "speaker": "イェン",
    "jp": "　自分にもなぜ、\n　こんな気持ちになったのか\n　わからないのです。\n",
-   "en": ""
+   "en": "I do not understand myself why I have\ncome to feel this way.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1C78",
@@ -654,7 +717,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ただ……。\n\n\n",
-   "en": ""
+   "en": "Only...",
+   "status": "done"
   },
   {
    "id": "ev0F1_1C90",
@@ -664,7 +728,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ただ？\n\n\n",
-   "en": ""
+   "en": "Only?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1CA8",
@@ -674,7 +739,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ただ、彼らとともに\n　戦わなければならない。\n\n",
-   "en": ""
+   "en": "Only that I must fight alongside them.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1CE0",
@@ -684,7 +750,8 @@
    ],
    "speaker": "イェン",
    "jp": "　そんな気がするのです。\n\n\n",
-   "en": ""
+   "en": "That is what I feel.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1D04",
@@ -694,7 +761,8 @@
    ],
    "speaker": "イェン",
    "jp": "　もちろんムリは\n　承知しております。\n\n",
-   "en": ""
+   "en": "Of course, I am well aware that I ask\ntoo much.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1D34",
@@ -704,7 +772,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_1D54",
@@ -714,7 +783,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_1D70",
@@ -724,7 +794,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　……やはり、変わりましたね。\n　イェン。\n\n",
-   "en": ""
+   "en": "...You have changed after all, Yen.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1DA8",
@@ -734,7 +805,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_1DC4",
@@ -744,7 +816,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ケイゴ殿に会う前のあなたなら\n　このようなことを\n　いわなかったでしょう。\n",
-   "en": ""
+   "en": "The Yen I knew before you met Keigo-dono\nwould never have said such a thing.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1E1C",
@@ -754,7 +827,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　わかりました。\n　認めましょう、イェン。\n　ただ……。\n",
-   "en": ""
+   "en": "Very well. You have my permission, Yen.\nHowever...",
+   "status": "done"
   },
   {
    "id": "ev0F1_1E60",
@@ -764,7 +838,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ただ？\n\n\n",
-   "en": ""
+   "en": "However?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1E74",
@@ -774,7 +849,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ナトゥーレが窮地に陥ったときは\n　必ず戻りなさい。\n\n",
-   "en": ""
+   "en": "Should Natoure ever be in peril, you must\nreturn without fail.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1EB4",
@@ -784,7 +860,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　よろしいですね。\n\n\n",
-   "en": ""
+   "en": "Is that understood?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1ED4",
@@ -794,7 +871,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ありがとうございます。\n\n\n",
-   "en": ""
+   "en": "I am deeply grateful.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1EF8",
@@ -804,7 +882,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ジェムス。\n　あなたもよろしいですね？\n\n",
-   "en": ""
+   "en": "Jems. You have no objection either, I\ntrust?",
+   "status": "done"
   },
   {
    "id": "ev0F1_1F2C",
@@ -814,7 +893,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　シャーナ様が\n　お認めになるのなら……。\n\n",
-   "en": ""
+   "en": "If Shana-sama gives her consent, then...",
+   "status": "done"
   },
   {
    "id": "ev0F1_1F64",
@@ -824,7 +904,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　イェン、気をつけて。\n　また無事にナトゥーレへ\n　戻ってくるのですよ。\n",
-   "en": ""
+   "en": "Take care, Yen. And come back safely to\nNatoure.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1FB8",
@@ -834,7 +915,8 @@
    ],
    "speaker": "イェン",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "I will.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1FCC",
@@ -844,7 +926,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ヤドラ。\n\n",
-   "en": ""
+   "en": "Yadora.",
+   "status": "done"
   },
   {
    "id": "ev0F1_1FE4",
@@ -854,7 +937,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　神様に謝まんなきゃならねえことは\n　たくさんあるが……。\n\n",
-   "en": ""
+   "en": "Sure, I got plenty I oughta apologize to God\nfor...",
+   "status": "done"
   },
   {
    "id": "ev0F1_2028",
@@ -864,7 +948,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　……背徳神官にザンゲしても\n　許してはもらえねえんじゃねえか。\n\n",
-   "en": ""
+   "en": "...but confessin' to a fallen priest like you\nain't gonna get me forgiven, is it?",
+   "status": "done"
   },
   {
    "id": "ev0F1_2074",
@@ -874,7 +959,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ふん、へらず口はあいかわらずだな。\n\n\n",
-   "en": ""
+   "en": "Hmph. As insolent a mouth as ever.",
+   "status": "done"
   },
   {
    "id": "ev0F1_20A8",
@@ -884,7 +970,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　作戦失敗が続いて、\n　ほされているところを\n　救ってやろうというのに。\n",
-   "en": ""
+   "en": "And here I am, offering to save you after\none failed operation after another left you\nout in the cold.",
+   "status": "done"
   },
   {
    "id": "ev0F1_20FC",
@@ -894,7 +981,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　へん、ありがたいこった。\n\n\n",
-   "en": ""
+   "en": "Heh. Ain't that real kind of ya.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2124",
@@ -904,7 +992,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　で、このオレさまに\n　なにをさせようってんだ。\n\n",
-   "en": ""
+   "en": "So what d'ya want yours truly to do?",
+   "status": "done"
   },
   {
    "id": "ev0F1_2160",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　目的地はまだ不明だが、\n　どうやら、魔装機神がそろって\n　ナトゥーレを出たらしい。\n",
-   "en": ""
+   "en": "Their destination is still unknown, but it\nseems the Masoukishin have left Natoure\ntogether.",
+   "status": "done"
   },
   {
    "id": "ev0F1_21C0",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　まあ、おそらく仲間のいる\n　バルツフィーム解放軍の元にでも\n　いくつもりだろう。\n",
-   "en": ""
+   "en": "Most likely they intend to join their\ncomrades in the Vartzpheem\nLiberation Army.",
+   "status": "done"
   },
   {
    "id": "ev0F1_221C",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　なるほど。\n　昔のよしみってやつか。\n\n",
-   "en": ""
+   "en": "Figures. For old times' sake, huh.",
+   "status": "done"
   },
   {
    "id": "ev0F1_224C",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　で、まさかオレ一人で\n　魔装機神を倒してこい\n　というつもりじゃないだろうな。\n",
-   "en": ""
+   "en": "So, you ain't tellin' me to go take down the\nMasoukishin all by my lonesome, are ya?",
+   "status": "done"
   },
   {
    "id": "ev0F1_22A4",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　まさか。\n\n",
-   "en": ""
+   "en": "Of course not.",
+   "status": "done"
   },
   {
    "id": "ev0F1_22BC",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　おまえ一人で勝てるほど\n　あまい相手ではないことぐらい\n　私だってわかっている。\n",
-   "en": ""
+   "en": "Even I know they are not so easy a foe\nthat you could beat them alone.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2318",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　それにおまえのへらず口を\n　ふさぐつもりなら、\n　もっと合理的に行うよ。\n",
-   "en": ""
+   "en": "Besides, if I wanted to shut that insolent\nmouth of yours, I would go about it more\nefficiently.",
+   "status": "done"
   },
   {
    "id": "ev0F1_236C",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　ちっ……。\n\n\n",
-   "en": ""
+   "en": "Tch...",
+   "status": "done"
   },
   {
    "id": "ev0F1_2384",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　今、ゼルドナとミラに\n　出撃の許可を出した。\n\n",
-   "en": ""
+   "en": "I have just given Zeldna and Mira\npermission to sortie.",
+   "status": "done"
   },
   {
    "id": "ev0F1_23C0",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ヤツらと一騎打ちをさせろ\n　というのでな。\n\n",
-   "en": ""
+   "en": "They asked to face those two in single\ncombat.",
+   "status": "done"
   },
   {
    "id": "ev0F1_23F8",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　一騎打ち！？\n\n",
-   "en": ""
+   "en": "Single combat!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_2410",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　また、好き好んで\n　そんな時代がかったものを……。\n",
-   "en": ""
+   "en": "Of all the old-fashioned crap to go lookin'\nfor...",
+   "status": "done"
   },
   {
    "id": "ev0F1_244C",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　騎士道かなんかしらんが\n　そんなものでメシが食えるとでも\n　思ってんのかねぇ。\n",
-   "en": ""
+   "en": "Chivalry or whatever, do they really think\nthat stuff puts food on the table?",
+   "status": "done"
   },
   {
    "id": "ev0F1_24A4",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　まあ、しかし……。\n\n",
-   "en": ""
+   "en": "Well, anyway...",
+   "status": "done"
   },
   {
    "id": "ev0F1_24C4",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　あんたが\n　そんなものに許可を出すとは\n　思わなかったな。\n",
-   "en": ""
+   "en": "Never figured you'd be the type to approve\nsomethin' like that.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2508",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　それも\n　神の御慈悲ってやつかい。\n\n",
-   "en": ""
+   "en": "That some kinda divine mercy, too?",
+   "status": "done"
   },
   {
    "id": "ev0F1_2538",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　私もおまえと同じでな。\n　騎士道とかに興味はない。\n\n",
-   "en": ""
+   "en": "I am the same as you. Chivalry and the like\nhold no interest for me.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2578",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ましてや、今さら\n　神の名を唱えられるとは\n　思えないがな。\n",
-   "en": ""
+   "en": "Still less could I invoke the name of God at\nthis late date.",
+   "status": "done"
   },
   {
    "id": "ev0F1_25C0",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　まあ、そんなことはいい。\n　許可を出したのは、\n　魔装機神を倒すためだ。\n",
-   "en": ""
+   "en": "But never mind that. I gave them\npermission in order to destroy the\nMasoukishin.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2614",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　魔装機神を倒す！？\n　どうやって？\n\n",
-   "en": ""
+   "en": "Destroy the Masoukishin!? How?",
+   "status": "done"
   },
   {
    "id": "ev0F1_2644",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　今までの結果からすると\n　おそらく、正面からまともに戦っても\n　勝ち目はないだろう。\n",
-   "en": ""
+   "en": "Judging by the results so far, we likely\nstand no chance fighting them head-on.",
+   "status": "done"
   },
   {
    "id": "ev0F1_26A4",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　だが、魔装機神に勝てなくとも\n　その操者につけ入る隙はある。\n\n",
-   "en": ""
+   "en": "But even if we cannot beat the Masoukishin,\ntheir pilots have weaknesses we can\nexploit.",
+   "status": "done"
   },
   {
    "id": "ev0F1_26F0",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　あの二人は、魔装機神の操者\n　アルマとケイゴに深いつながりがある。\n\n",
-   "en": ""
+   "en": "Those two have deep ties to the\nMasoukishin pilots, Alma and Keigo.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2740",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　おそらく、二人が一騎打ちを望めば、\n　ヤツらのことだ、それを受け、\n　正々堂々と戦うことになるだろう。\n",
-   "en": ""
+   "en": "If those two ask for a duel, then knowing\nthat lot, they will accept it and fight fair and\nsquare.",
+   "status": "done"
   },
   {
    "id": "ev0F1_27B4",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　正々堂々ねえ……。\n\n\n",
-   "en": ""
+   "en": "Fair and square, huh...",
+   "status": "done"
   },
   {
    "id": "ev0F1_27D4",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　確かに、\n　アンタのいう通りかもしれんが\n　それじゃあ、魔装機神は倒せないぜ。\n",
-   "en": ""
+   "en": "Sure, maybe you're right, but that ain't\ngonna take down the Masoukishin.",
+   "status": "done"
   },
   {
    "id": "ev0F1_282C",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　そのために、おまえを呼んだのだ。\n\n\n",
-   "en": ""
+   "en": "That is why I called for you.",
+   "status": "done"
   },
   {
    "id": "ev0F1_285C",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　おまえは、立ち会い人のフリをして\n　ヤツらについていけ。\n\n",
-   "en": ""
+   "en": "Go along with them, posing as a witness to\nthe duel.",
+   "status": "done"
   },
   {
    "id": "ev0F1_28A4",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　そして、一騎打ちのあと\n　強襲しろ。\n\n",
-   "en": ""
+   "en": "Then, once the duel is over, strike\nthem down.",
+   "status": "done"
   },
   {
    "id": "ev0F1_28D8",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　私の配下にある部隊には\n　出撃準備をさせてある。\n　好きに使え。\n",
-   "en": ""
+   "en": "I have the units under my command ready\nto sortie. Use them as you see fit.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2924",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　なるほど、\n　あんた、なかなか人を見る目がある。\n\n",
-   "en": ""
+   "en": "I get it. You sure know how to pick the\nright man.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2960",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　コイツは、オレ向きの作戦だな。\n　楽しませてもらおう。\n\n",
-   "en": ""
+   "en": "Now this is my kinda job. I'm gonna\nenjoy this.",
+   "status": "done"
   },
   {
    "id": "ev0F1_29A4",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　まあ、楽しむのはいいが、\n　自分の立場というのも\n　わきまえた方がいい。\n",
-   "en": ""
+   "en": "Enjoy it all you like, but you would do well\nto remember your position.",
+   "status": "done"
   },
   {
    "id": "ev0F1_29F8",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　わかってるよ。\n　もう、この次はねえ……。\n\n",
-   "en": ""
+   "en": "Yeah, I know. There ain't gonna be a next\ntime...",
+   "status": "done"
   },
   {
    "id": "ev0F1_2A30",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　……そういうことだろ。\n\n\n",
-   "en": ""
+   "en": "...That's what you're sayin', right?",
+   "status": "done"
   },
   {
    "id": "ev0F1_2A54",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "シェス",
    "jp": "　アルマ隊長、\n　プラーナ反応確認しました！\n　こちらに接近しています！！\n",
-   "en": ""
+   "en": "Captain Alma, Prana reading confirmed! It's\napproaching us!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_2AA8",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　プラーナ反応！？\n　数は！\n\n",
-   "en": ""
+   "en": "A Prana reading!? How many!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_2AD0",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "シェス",
    "jp": "　数は、かなり少ないようです……\n　……３機確認しました！\n\n",
-   "en": ""
+   "en": "There seem to be very few... I've confirmed\nthree units!",
+   "status": "done"
   },
   {
    "id": "ev0F1_2B14",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "イェン",
    "jp": "　３機だけとは\n　どういうつもりなんでしょう。\n\n",
-   "en": ""
+   "en": "Only three? What could they be planning?",
+   "status": "done"
   },
   {
    "id": "ev0F1_2B4C",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　わからないわ。\n　とりあえず相手の出方を待ちましょう。\n\n",
-   "en": ""
+   "en": "I don't know. For now, let's wait and see\nwhat they do.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2B90",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　シェス。\n　アルフレード技師長。\n　下がってて。\n",
-   "en": ""
+   "en": "Shess. Chief Engineer Alfredo. Stay back.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2BCC",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "シェス",
    "jp": "　了解。\n\n\n",
-   "en": ""
+   "en": "Roger.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2BE0",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　わかった、気をつけてな。\n\n\n",
-   "en": ""
+   "en": "Right. You be careful now, eh.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2C0C",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（あれは……ミラ……）\n\n\n",
-   "en": ""
+   "en": "(That's... Mira...)",
+   "status": "done"
   },
   {
    "id": "ev0F1_2C30",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（そしてゼルドナ……）\n\n\n",
-   "en": ""
+   "en": "(And Zeldna...)",
+   "status": "done"
   },
   {
    "id": "ev0F1_2C54",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（つらい戦いになりそうね……）\n\n\n",
-   "en": ""
+   "en": "(This is going to be a painful fight...)",
+   "status": "done"
   },
   {
    "id": "ev0F1_2C80",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ゼルドナ教官！！\n\n\n",
-   "en": ""
+   "en": "Instructor Zeldna!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_2CA0",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ケイゴ！\n　おまえと決着をつけにきた。\n\n",
-   "en": ""
+   "en": "Keigo! I've come to settle things with you.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2CD4",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　決着って……\n　……どういう意味です！\n\n",
-   "en": ""
+   "en": "Settle things... What do you mean by that!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_2D08",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　魔装機神操者となったおまえと\n　勝負がしたい。\n\n",
-   "en": ""
+   "en": "I want to test myself against you, now that\nyou're a Masoukishin pilot.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2D44",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　生死をかけたな……。\n\n\n",
-   "en": ""
+   "en": "A fight to the death...",
+   "status": "done"
   },
   {
    "id": "ev0F1_2D68",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官！\n　オレは、あなたと戦いたくないんだ！\n\n",
-   "en": ""
+   "en": "Instructor! I don't want to fight you!",
+   "status": "done"
   },
   {
    "id": "ev0F1_2DA0",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　教えてやっただろう。\n　戦場ではなにがあるかわからん。\n\n",
-   "en": ""
+   "en": "I taught you, didn't I? On the battlefield,\nanything can happen.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2DE4",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　非情に徹しろと。\n\n\n",
-   "en": ""
+   "en": "So be ruthless to the core.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2E04",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だからといって……。\n\n\n",
-   "en": ""
+   "en": "But even so...",
+   "status": "done"
   },
   {
    "id": "ev0F1_2E28",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ、忘れたの。\n　あなたは戦うことを選択したのよ。\n\n",
-   "en": ""
+   "en": "Keigo, have you forgotten? You chose to\nfight.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2E6C",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そして、\n　相手が戦いを望んでいる以上\n　逃げるわけにはいかない……。\n",
-   "en": ""
+   "en": "And as long as your opponent wants a\nfight, you can't run away from it...",
+   "status": "done"
   },
   {
    "id": "ev0F1_2EBC",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_2ED8",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたに戦うとは\n　どういうことか教えてあげるわ。\n\n",
-   "en": ""
+   "en": "I'll show you what it means to fight.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2F18",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　よく見ておきなさい。\n\n\n",
-   "en": ""
+   "en": "Watch closely.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2F3C",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "トト",
    "jp": "　アルマねえちゃん！\n\n\n",
-   "en": ""
+   "en": "Sis Alma!",
+   "status": "done"
   },
   {
    "id": "ev0F1_2F5C",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_2F78",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……アルマ隊長。\n\n\n",
-   "en": ""
+   "en": "...Captain Alma.",
+   "status": "done"
   },
   {
    "id": "ev0F1_2F98",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ミラ！\n\n\n",
-   "en": ""
+   "en": "Mira!",
+   "status": "done"
   },
   {
    "id": "ev0F1_2FAC",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたは、私が目的なんでしょ。\n\n\n",
-   "en": ""
+   "en": "It's me you're after, isn't it?",
+   "status": "done"
   },
   {
    "id": "ev0F1_2FD8",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　望み通り、相手をしてあげるわ。\n\n\n",
-   "en": ""
+   "en": "I'll take you on, just as you wanted.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3004",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それとも逃げるつもり？\n\n\n",
-   "en": ""
+   "en": "Or were you planning to run away?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3028",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　アルマ！！\n\n\n",
-   "en": ""
+   "en": "Alma!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_3040",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ゼルドナ、ヤドラ。\n　最初に私がやるわ。\n\n",
-   "en": ""
+   "en": "Zeldna, Yadora. I go first.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3074",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　手を出さないで。\n\n\n",
-   "en": ""
+   "en": "Don't interfere.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3090",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_30B0",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　はいはい。\n\n\n",
-   "en": ""
+   "en": "Yeah, yeah.",
+   "status": "done"
   },
   {
    "id": "ev0F1_30C8",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "（まったく、\n　とっとと始めろっての）\n\n\n",
-   "en": ""
+   "en": "(Geez, just hurry up and start already.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_30F8",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "（本番は、これからなんだからよ！）\n\n",
-   "en": ""
+   "en": "(The real show ain't even started yet!)",
+   "status": "done"
   },
   {
    "id": "ev0F1_3124",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　あなたのほうから\n　戦いを望んでくるとは\n　思わなかったわ、アルマ。\n",
-   "en": ""
+   "en": "I never thought you'd be the one to come\nasking for a fight, Alma.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3170",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　なにがあったかしらないけれど\n　きょうこそ、\n　すべての決着をつけさせてもらう。\n",
-   "en": ""
+   "en": "I don't know what happened to you, but\ntoday I will settle everything between us.",
+   "status": "done"
   },
   {
    "id": "ev0F1_31C8",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　戦う前に\n　聞きたいことがあるの、ミラ。\n\n",
-   "en": ""
+   "en": "Before we fight, there's something I want\nto ask you, Mira.",
+   "status": "done"
   },
   {
    "id": "ev0F1_31FC",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　今さら\n　なにをききたいというの？\n\n",
-   "en": ""
+   "en": "What could you possibly want to ask now?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3228",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなた、このあと\n　どうするつもり？\n\n",
-   "en": ""
+   "en": "What do you plan to do after this?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3258",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私を倒すために、\n　父を、故郷を、\n　そして平和を捨てたあなたは……。\n",
-   "en": ""
+   "en": "You threw away your father, your\nhomeland, and peace itself, all to\ndefeat me...",
+   "status": "done"
   },
   {
    "id": "ev0F1_32A8",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうやって、これから先\n　生きていくつもりなの。\n\n",
-   "en": ""
+   "en": "So how do you intend to go on living from\nhere on?",
+   "status": "done"
   },
   {
    "id": "ev0F1_32E4",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　……私は、おまえを倒せば\n　思い残すことなど……。\n\n",
-   "en": ""
+   "en": "...Once I've defeated you, I'll have no\nregrets left...",
+   "status": "done"
   },
   {
    "id": "ev0F1_3320",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　……なにもない……！\n\n\n",
-   "en": ""
+   "en": "...None at all...!",
+   "status": "done"
   },
   {
    "id": "ev0F1_3340",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……そう。\n\n\n",
-   "en": ""
+   "en": "...I see.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3358",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ごめんなさい。\n\n\n",
-   "en": ""
+   "en": "I'm sorry.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3374",
@@ -1764,7 +1938,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　……命乞いのつもり！？\n\n",
-   "en": ""
+   "en": "...Are you begging for your life!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3394",
@@ -1774,7 +1949,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いいえ、違うわ。\n\n\n",
-   "en": ""
+   "en": "No, that's not it.",
+   "status": "done"
   },
   {
    "id": "ev0F1_33B4",
@@ -1784,7 +1960,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたをそこまで\n　愚かな人間にしてしまった……。\n\n",
-   "en": ""
+   "en": "I made you into such a foolish person...",
+   "status": "done"
   },
   {
    "id": "ev0F1_33F4",
@@ -1794,7 +1971,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そのことに謝ったの。\n\n\n",
-   "en": ""
+   "en": "That's what I was apologizing for.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3418",
@@ -1804,7 +1982,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　なに！\n\n\n",
-   "en": ""
+   "en": "What!",
+   "status": "done"
   },
   {
    "id": "ev0F1_342C",
@@ -1814,7 +1993,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ミラ。\n　あなたがしていることは\n　結局、私と同じだわ。\n",
-   "en": ""
+   "en": "Mira. In the end, what you're doing is no\ndifferent from what I did.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3470",
@@ -1824,7 +2004,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　過去に縛られ、\n　まわりを見ようとしなかった……。\n\n",
-   "en": ""
+   "en": "Bound by the past, refusing to look at the\nworld around you...",
+   "status": "done"
   },
   {
    "id": "ev0F1_34B0",
@@ -1834,7 +2015,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……もっとも憎むべき私とね。\n\n\n",
-   "en": ""
+   "en": "...Just like me, the one you hate most of all.",
+   "status": "done"
   },
   {
    "id": "ev0F1_34DC",
@@ -1844,7 +2026,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_34F8",
@@ -1854,7 +2037,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ミラ、あなたは、この戦争で\n　あなたと同じように大切なものを\n　失った人を生み出しているのよ。\n",
-   "en": ""
+   "en": "Mira, in this war you are making more\npeople who've lost what they hold dear,\njust like you.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3560",
@@ -1864,7 +2048,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたは、その人たちに\n　なんと答えるの！\n\n",
-   "en": ""
+   "en": "What will you say to them!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3598",
@@ -1874,7 +2059,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　うるさい！！\n\n\n",
-   "en": ""
+   "en": "Shut up!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_35B0",
@@ -1884,7 +2070,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私もこの戦争で\n　大切なものをいくつか失ったわ。\n\n",
-   "en": ""
+   "en": "I've lost a number of precious things in this\nwar, too.",
+   "status": "done"
   },
   {
    "id": "ev0F1_35EC",
@@ -1894,7 +2081,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　でも、私にはまだ、\n　守るべき大切なものがある。\n\n",
-   "en": ""
+   "en": "But I still have something precious I must\nprotect.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3628",
@@ -1904,7 +2092,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　だから、あなたが\n　それを奪おうというのなら\n　私はあなたを許さない！！\n",
-   "en": ""
+   "en": "So if you try to take it from me, I will never\nforgive you!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_367C",
@@ -1914,7 +2103,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　く、そんな戯れ言！！\n\n\n",
-   "en": ""
+   "en": "Ngh... Such drivel!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_369C",
@@ -1924,7 +2114,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　あなたに、なにがわかるの！\n\n\n",
-   "en": ""
+   "en": "What would you know!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_36C4",
@@ -1934,7 +2125,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　すべてを失ったあなたに\n　守るべきものなんてあるものか！\n\n",
-   "en": ""
+   "en": "You've lost everything! How could you have\nanything left to protect!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3708",
@@ -1944,7 +2136,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あるわ。\n\n",
-   "en": ""
+   "en": "I do.",
+   "status": "done"
   },
   {
    "id": "ev0F1_371C",
@@ -1954,7 +2147,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私にも守りたいものができた……。\n\n\n",
-   "en": ""
+   "en": "I've found something I want to protect,\ntoo...",
+   "status": "done"
   },
   {
    "id": "ev0F1_374C",
@@ -1964,7 +2158,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたにも私の気持ちは\n　わかるはずよ。\n\n",
-   "en": ""
+   "en": "You of all people should understand how\nI feel.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3780",
@@ -1974,7 +2169,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　そ、そんなことは許さない！\n\n\n",
-   "en": ""
+   "en": "I-I won't allow it!",
+   "status": "done"
   },
   {
    "id": "ev0F1_37A8",
@@ -1984,7 +2180,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　おまえのような人殺しに！！\n\n\n",
-   "en": ""
+   "en": "Not for a murderer like you!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_37D0",
@@ -1994,7 +2191,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私が人殺しというなら\n　あなたはどうなの？\n\n",
-   "en": ""
+   "en": "If I'm a murderer, then what does that\nmake you?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3808",
@@ -2004,7 +2202,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　もっと、自分のことを見つめなさい！！\n\n\n",
-   "en": ""
+   "en": "Take a hard look at yourself!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_383C",
@@ -2014,7 +2213,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　私は……。\n\n\n",
-   "en": ""
+   "en": "I...",
+   "status": "done"
   },
   {
    "id": "ev0F1_3854",
@@ -2024,7 +2224,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　私は！\n\n\n",
-   "en": ""
+   "en": "I...!",
+   "status": "done"
   },
   {
    "id": "ev0F1_3868",
@@ -2034,7 +2235,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　私は、あなたを認めない！\n　あなたを認める人々も、\n　すべて許さないっ！\n",
-   "en": ""
+   "en": "I will never accept you!\nNor anyone who accepts you!\nI won't forgive a single one!",
+   "status": "done"
   },
   {
    "id": "ev0F1_38B8",
@@ -2044,7 +2246,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　私は、あなたを認めない！\n　あなたを認める人々も、\n　すべて許さないっ！\n",
-   "en": ""
+   "en": "I will never accept you! Nor anyone who\naccepts you! I won't forgive a single one\nof them!",
+   "status": "done"
   },
   {
    "id": "ev0F1_3908",
@@ -2054,7 +2257,8 @@
    ],
    "speaker": "トト",
    "jp": "　アルマねえちゃん！！\n\n\n",
-   "en": ""
+   "en": "Sis Alma!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_3928",
@@ -2064,7 +2268,8 @@
    ],
    "speaker": "イェン",
    "jp": "　アルマ様。\n\n\n",
-   "en": ""
+   "en": "Alma-sama.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3940",
@@ -2074,7 +2279,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ごめんなさい、\n　心配かけてしまって。\n\n",
-   "en": ""
+   "en": "I'm sorry for making you all worry.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3974",
@@ -2084,7 +2290,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　でも、大丈夫だから。\n\n\n",
-   "en": ""
+   "en": "But I'm all right now.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3998",
@@ -2094,7 +2301,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……隊長。\n\n\n",
-   "en": ""
+   "en": "...Captain.",
+   "status": "done"
   },
   {
    "id": "ev0F1_39B0",
@@ -2104,7 +2312,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　さあ、ケイゴ。\n　どうするの。\n\n",
-   "en": ""
+   "en": "Well, Keigo? What will you do?",
+   "status": "done"
   },
   {
    "id": "ev0F1_39DC",
@@ -2114,7 +2323,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　今の戦いが\n　あなたの前に待っているもの……。\n\n",
-   "en": ""
+   "en": "A fight like the one just now is what lies\nahead of you...",
+   "status": "done"
   },
   {
    "id": "ev0F1_3A18",
@@ -2124,7 +2334,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いえ、もっとつらいことが\n　待っているかもしれない。\n\n",
-   "en": ""
+   "en": "No, something even more painful may be\nwaiting for you.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3A58",
@@ -2134,7 +2345,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それでも戦うの？\n\n\n",
-   "en": ""
+   "en": "Will you still fight?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3A78",
@@ -2144,7 +2356,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_3A94",
@@ -2154,7 +2367,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　もし、できないというなら\n　私が代わりに……。\n\n\n",
-   "en": ""
+   "en": "If you say you can't do it, then I'll take your\nplace...",
+   "status": "done"
   },
   {
    "id": "ev0F1_3AD0",
@@ -2164,7 +2378,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私があなたを……。\n\n\n",
-   "en": ""
+   "en": "I'll fight in your stead...",
+   "status": "done"
   },
   {
    "id": "ev0F1_3AF0",
@@ -2174,7 +2389,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　大丈夫です、アルマ隊長。\n\n\n",
-   "en": ""
+   "en": "It's all right, Captain Alma.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3B18",
@@ -2184,7 +2400,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　自分でやります！\n\n\n",
-   "en": ""
+   "en": "I'll do it myself!",
+   "status": "done"
   },
   {
    "id": "ev0F1_3B38",
@@ -2194,7 +2411,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長が見せてくれた勇気を\n　ムダにするわけに\n　いかないですから。\n",
-   "en": ""
+   "en": "I can't let the courage you showed me go\nto waste, Captain.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3B84",
@@ -2204,7 +2422,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ケイゴ。\n\n\n",
-   "en": ""
+   "en": "...Keigo.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3BA0",
@@ -2214,7 +2433,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "（やはり、あいつらだけでは\n　倒せねえか……）\n\n",
-   "en": ""
+   "en": "(Figures. Those two can't take 'em down\nalone...)",
+   "status": "done"
   },
   {
    "id": "ev0F1_3BD8",
@@ -2224,7 +2444,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "（そろそろ、準備しとかねえと\n　オレもヤバイな）\n\n",
-   "en": ""
+   "en": "(Better get ready, or I'm gonna be in deep\ntrouble too.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_3C14",
@@ -2234,7 +2455,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官。\n　一つだけ教えてください。\n　なぜラガーシュに……。\n",
-   "en": ""
+   "en": "Instructor. Just tell me one thing. Why did\nyou go over to Ragash...?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3C5C",
@@ -2244,7 +2466,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　金だよ。\n\n\n",
-   "en": ""
+   "en": "Money.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3C74",
@@ -2254,7 +2477,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　金って……。\n　どうして、そんな！！\n\n",
-   "en": ""
+   "en": "Money...? Why would you, for something\nlike that!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3CA4",
@@ -2264,7 +2488,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　そんなもののためとでも\n　いいたいのか？\n\n",
-   "en": ""
+   "en": "Are you going to tell me it was for\nsomething so petty?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3CDC",
@@ -2274,7 +2499,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　では、逆に聞こう。\n\n\n",
-   "en": ""
+   "en": "Then let me ask you something in return.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3D00",
@@ -2284,7 +2510,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　オレがおまえに教えた戦い方や\n　そのサイバスターの力で\n　人の命を救うことができるのか。\n",
-   "en": ""
+   "en": "Can the way of fighting I taught you, or the\npower of that Cybuster, save a single\nhuman life?",
+   "status": "done"
   },
   {
    "id": "ev0F1_3D64",
@@ -2294,7 +2521,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　力は、所詮\n　破壊することしかできん。\n　人を救うことなどできないのだよ。\n",
-   "en": ""
+   "en": "In the end, power can only destroy. It\ncannot save anyone.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3DBC",
@@ -2304,7 +2532,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_3DD8",
@@ -2314,7 +2543,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_3DF8",
@@ -2324,7 +2554,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　娘が重い病に冒されてな。\n\n\n",
-   "en": ""
+   "en": "My daughter was stricken with a grave\nillness.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3E20",
@@ -2334,7 +2565,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　治療するためには\n　莫大な費用がかかる。\n\n",
-   "en": ""
+   "en": "Her treatment would have cost an\nenormous sum.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3E58",
@@ -2344,7 +2576,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　オレのような成り上がり騎士が\n　払えるような額ではなかった……。\n\n",
-   "en": ""
+   "en": "Far more than an upstart knight like me\ncould ever pay...",
+   "status": "done"
   },
   {
    "id": "ev0F1_3EA8",
@@ -2354,7 +2587,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　だから、オレは、\n　ルジェロの提案にのった。\n\n",
-   "en": ""
+   "en": "So I took Ruggero up on his offer.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3EE4",
@@ -2364,7 +2598,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　オレには、全世界の人間より\n　娘の命のほうが大切だった。\n\n",
-   "en": ""
+   "en": "To me, my daughter's life mattered more\nthan everyone else in the world.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3F2C",
@@ -2374,7 +2609,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だからって……。\n\n\n",
-   "en": ""
+   "en": "Even so...",
+   "status": "done"
   },
   {
    "id": "ev0F1_3F4C",
@@ -2384,7 +2620,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ふん、\n　そういうことをいえるのは、\n　当事者でないものの特権だ。\n",
-   "en": ""
+   "en": "Hmph. Only those who aren't in that\nposition have the luxury of saying so.",
+   "status": "done"
   },
   {
    "id": "ev0F1_3F9C",
@@ -2394,7 +2631,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　違う！\n\n\n",
-   "en": ""
+   "en": "That's not true!",
+   "status": "done"
   },
   {
    "id": "ev0F1_3FB0",
@@ -2404,7 +2642,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うまくいえないけど、\n　あなたはどこか間違っているはずだ！\n\n",
-   "en": ""
+   "en": "I can't put it into words, but somewhere,\nyou've got it wrong!",
+   "status": "done"
   },
   {
    "id": "ev0F1_3FF8",
@@ -2414,7 +2653,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　だから、いったろう。\n　善悪の問題ではない……\n　人の業というものだ。\n",
-   "en": ""
+   "en": "I told you. It's not a question of right and\nwrong... It's simply human nature.",
+   "status": "done"
   },
   {
    "id": "ev0F1_404C",
@@ -2424,7 +2664,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そんな言葉で！！\n\n\n",
-   "en": ""
+   "en": "Don't hide behind words like that!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_406C",
@@ -2434,7 +2675,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ここら辺でやめておこう。\n\n\n",
-   "en": ""
+   "en": "Let's leave it there.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4094",
@@ -2444,7 +2686,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　もう、おまえとオレでは\n　立場が違うのだ。\n\n",
-   "en": ""
+   "en": "You and I stand on opposite sides now.",
+   "status": "done"
   },
   {
    "id": "ev0F1_40CC",
@@ -2454,7 +2697,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　それにオレは、戦うことでしか\n　自分の力を示すことのできない男だ。\n\n",
-   "en": ""
+   "en": "Besides, I'm a man who can only prove his\nstrength by fighting.",
+   "status": "done"
   },
   {
    "id": "ev0F1_411C",
@@ -2464,7 +2708,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　だから、一度くらい\n　おまえと生死を\n　かけたやりとりというものを……。\n",
-   "en": ""
+   "en": "So just once, I wanted a real exchange with\nyou, with our lives on the line...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4170",
@@ -2474,7 +2719,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　……やってみたかった！\n\n\n",
-   "en": ""
+   "en": "...Just once, I wanted to try it!",
+   "status": "done"
   },
   {
    "id": "ev0F1_4198",
@@ -2484,7 +2730,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　いくぞ！\n\n\n",
-   "en": ""
+   "en": "Here I come!",
+   "status": "done"
   },
   {
    "id": "ev0F1_41B0",
@@ -2494,7 +2741,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うわああああ……！！\n\n\n",
-   "en": ""
+   "en": "Waaaaaah...!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_41D4",
@@ -2504,7 +2752,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……これが閃剣のゼルドナの力）\n\n\n",
-   "en": ""
+   "en": "(...So this is the power of Zeldna the Flash\nBlade.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_4200",
@@ -2514,7 +2763,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ケイゴ、魔装機神の力に頼りすぎだ。\n　もっと、自分の五感を使って\n　相手の先を読め。\n",
-   "en": ""
+   "en": "Keigo, you lean too hard on the\nMasoukishin. Use your own five senses and\nread your foe's next move.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4260",
@@ -2524,7 +2774,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（く、くそ……どうすれば）\n\n\n",
-   "en": ""
+   "en": "(D-Damn it... What do I do?)",
+   "status": "done"
   },
   {
    "id": "ev0F1_4288",
@@ -2534,7 +2785,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　戦いというものは\n　一瞬の判断で決まるといっただろう。\n\n",
-   "en": ""
+   "en": "I told you, didn't I? A battle is decided by a\nsplit-second judgment.",
+   "status": "done"
   },
   {
    "id": "ev0F1_42CC",
@@ -2544,7 +2796,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　おまえには、\n　まだ動きに迷いがある。\n\n",
-   "en": ""
+   "en": "There's still hesitation in your movements.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4300",
@@ -2554,7 +2807,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　そんなことで\n　これから先、戦い続けるつもりか！\n\n",
-   "en": ""
+   "en": "And you mean to keep fighting from here\non like that!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_4340",
@@ -2564,7 +2818,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まだだ！\n\n\n",
-   "en": ""
+   "en": "Not yet!",
+   "status": "done"
   },
   {
    "id": "ev0F1_4358",
@@ -2574,7 +2829,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは、負けない！！\n\n\n",
-   "en": ""
+   "en": "I won't lose!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_437C",
@@ -2584,7 +2840,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは……。\n\n\n",
-   "en": ""
+   "en": "I...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4398",
@@ -2594,7 +2851,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは\n　おまえを倒す！！\n\n",
-   "en": ""
+   "en": "I'm going to beat you!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_43C0",
@@ -2604,7 +2862,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そして……。\n\n\n",
-   "en": ""
+   "en": "And then...",
+   "status": "done"
   },
   {
    "id": "ev0F1_43DC",
@@ -2614,7 +2873,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そして……！！\n\n\n",
-   "en": ""
+   "en": "And then...!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_43F8",
@@ -2624,7 +2884,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　悪いがジャマするぜ。\n\n\n",
-   "en": ""
+   "en": "Sorry, but I'm cuttin' in.",
+   "status": "done"
   },
   {
    "id": "ev0F1_441C",
@@ -2634,7 +2895,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　なかなか感動的で\n　楽しませてもらったが……。\n\n\n",
-   "en": ""
+   "en": "Real touchin' stuff, and I sure enjoyed the\nshow, but...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4458",
@@ -2644,7 +2906,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　そろそろ、\n　前座は終わらせてもらわないと。\n\n",
-   "en": ""
+   "en": "It's about time the warm-up act\nwrapped up.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4490",
@@ -2654,7 +2917,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　あとが支えているからよ！！\n\n",
-   "en": ""
+   "en": "'Cause the main event's waitin' in line!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_44B8",
@@ -2664,7 +2928,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ケイゴ！！\n\n\n",
-   "en": ""
+   "en": "Keigo!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_44D4",
@@ -2674,7 +2939,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ゼルドナ教官！！\n\n\n",
-   "en": ""
+   "en": "Instructor Zeldna!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_44F4",
@@ -2684,7 +2950,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　死ねや！！\n\n",
-   "en": ""
+   "en": "Die!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_450C",
@@ -2694,7 +2961,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　きさまっ！！\n\n\n",
-   "en": ""
+   "en": "You bastard!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_4528",
@@ -2704,7 +2972,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　お～っと、\n　お怒りはごもっとも。\n\n",
-   "en": ""
+   "en": "Whoa there, I get why you're mad.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4558",
@@ -2714,7 +2983,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　だが、こっちにも\n　都合ってもんがあってな。\n\n",
-   "en": ""
+   "en": "But I got my own reasons, see.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4590",
@@ -2724,7 +2994,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　おい、そろそろやるぞ！\n\n\n",
-   "en": ""
+   "en": "Hey, time to get to work!",
+   "status": "done"
   },
   {
    "id": "ev0F1_45B4",
@@ -2734,7 +3005,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ティルウェス！！\n　バルツフィームの魔装機じゃないか！\n\n",
-   "en": ""
+   "en": "Tilwes!! Those are Vartzpheem Masouki!",
+   "status": "done"
   },
   {
    "id": "ev0F1_45F8",
@@ -2744,7 +3016,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　その通り。\n\n\n",
-   "en": ""
+   "en": "That's right.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4610",
@@ -2754,7 +3027,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　オレにも立場ってもんが\n　あってな……。\n\n",
-   "en": ""
+   "en": "See, I got my own position to think about...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4644",
@@ -2764,7 +3038,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　今は、\n　あんたの国にいたエラい神官の元で\n　働いているってわけよ。\n",
-   "en": ""
+   "en": "Right now, I'm workin' under that big-shot\npriest from your country.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4694",
@@ -2774,7 +3049,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　まあ、悲しい再会ってわけだが\n　覚悟してくれ。\n\n",
-   "en": ""
+   "en": "Sure, it's a sad little reunion, but get ready.",
+   "status": "done"
   },
   {
    "id": "ev0F1_46D0",
@@ -2784,7 +3060,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（ルジェロに\n　ついていったものたちのようね）\n\n\n",
-   "en": ""
+   "en": "(They must be the ones who followed\nRuggero.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_4708",
@@ -2794,7 +3071,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（かわいそうだけど……）\n\n\n",
-   "en": ""
+   "en": "(I feel sorry for them, but...)",
+   "status": "done"
   },
   {
    "id": "ev0F1_472C",
@@ -2804,7 +3082,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ！\n\n\n",
-   "en": ""
+   "en": "Keigo!",
+   "status": "done"
   },
   {
    "id": "ev0F1_4744",
@@ -2814,7 +3093,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　大丈夫。\n　わかっています。\n\n",
-   "en": ""
+   "en": "It's all right. I understand.",
+   "status": "done"
   },
   {
    "id": "ev0F1_476C",
@@ -2824,7 +3104,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは、こんなところで\n　立ち止まっているわけにいかない。\n\n",
-   "en": ""
+   "en": "I can't afford to stop in a place like this.",
+   "status": "done"
   },
   {
    "id": "ev0F1_47B4",
@@ -2834,7 +3115,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　今は、戦うだけです！\n\n\n",
-   "en": ""
+   "en": "Right now, all I can do is fight!",
+   "status": "done"
   },
   {
    "id": "ev0F1_47D8",
@@ -2844,7 +3126,8 @@
    ],
    "speaker": "イェン",
    "jp": "　アルマ様、よろしいのですか……。\n\n\n",
-   "en": ""
+   "en": "Alma-sama, is this truly all right...?",
+   "status": "done"
   },
   {
    "id": "ev0F1_4808",
@@ -2854,7 +3137,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ええ。\n　今さら、どうしようもないわ。\n\n",
-   "en": ""
+   "en": "Yes. There's nothing we can do for\nthem now.",
+   "status": "done"
   },
   {
    "id": "ev0F1_483C",
@@ -2864,7 +3148,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あれが\n　彼らの選んだ道なのだから……。\n\n\n",
-   "en": ""
+   "en": "This is the path they chose for\nthemselves...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4870",
@@ -2874,7 +3159,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_488C",
@@ -2884,7 +3170,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ……。\n\n\n",
-   "en": ""
+   "en": "Keigo...",
+   "status": "done"
   },
   {
    "id": "ev0F1_48A8",
@@ -2894,7 +3181,8 @@
    ],
    "speaker": "トト",
    "jp": "　ケイゴにいちゃん。\n\n\n",
-   "en": ""
+   "en": "Big bro Keigo.",
+   "status": "done"
   },
   {
    "id": "ev0F1_48C8",
@@ -2904,7 +3192,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。　\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_48E8",
@@ -2914,7 +3203,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……ゼルドナ教官）\n\n\n",
-   "en": ""
+   "en": "(...Instructor Zeldna.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_4908",
@@ -2924,7 +3214,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（オレ、戦い続けます）\n\n\n",
-   "en": ""
+   "en": "(I'm going to keep fighting.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_492C",
@@ -2934,7 +3225,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（教官のいう通り\n　力だけでは救えない人もいるでしょう）\n\n",
-   "en": ""
+   "en": "(Like you said, maybe there are people\npower alone can't save.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_4970",
@@ -2944,7 +3236,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（でも今は\n　オレが戦い続けることで\n　救える人がたくさんいます）\n",
-   "en": ""
+   "en": "(But right now, there are a lot of people I\ncan save by fighting on.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_49BC",
@@ -2954,7 +3247,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（だから……）\n\n\n",
-   "en": ""
+   "en": "(So...)",
+   "status": "done"
   },
   {
    "id": "ev0F1_49D8",
@@ -2964,7 +3258,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（だから、オレは戦い続けます）\n\n\n",
-   "en": ""
+   "en": "(So I'll keep on fighting.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_4A04",
@@ -2974,7 +3269,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（できの悪い生徒で……）\n\n\n",
-   "en": ""
+   "en": "(I was a lousy student...)",
+   "status": "done"
   },
   {
    "id": "ev0F1_4A28",
@@ -2984,7 +3280,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（教官から見たら\n　まだまだなんだろうけど、オレは……）\n\n",
-   "en": ""
+   "en": "(In your eyes I've still got a long way to go,\nbut I'm...)",
+   "status": "done"
   },
   {
    "id": "ev0F1_4A6C",
@@ -2994,7 +3291,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（オレは……）\n\n\n",
-   "en": ""
+   "en": "(I'm...)",
+   "status": "done"
   },
   {
    "id": "ev0F1_4A88",
@@ -3004,7 +3302,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（バルツフィームの騎士ですから）\n\n\n",
-   "en": ""
+   "en": "(I'm a knight of Vartzpheem, after all.)",
+   "status": "done"
   },
   {
    "id": "ev0F1_4AB4",
@@ -3014,7 +3313,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4AD4",
@@ -3024,7 +3324,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　シャーナ様。\n　本当によろしかったのですか？\n　彼らをいかせてしまって。\n",
-   "en": ""
+   "en": "Shana-sama. Was it truly wise to let\nthem go?",
+   "status": "done"
   },
   {
    "id": "ev0F1_4B28",
@@ -3034,7 +3335,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　しかもイェンまで……。\n\n\n",
-   "en": ""
+   "en": "And Yen with them, no less...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4B50",
@@ -3044,7 +3346,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　私は、この戦いを、\n　単なる侵略戦争ではないと、\n　考えています。\n",
-   "en": ""
+   "en": "I do not believe this is merely a war of\ninvasion.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4BA0",
@@ -3054,7 +3357,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　この世界の存在自体を揺るがしかねない\n　なにか邪悪な力を感じるのです。\n\n",
-   "en": ""
+   "en": "I sense some evil power at work, one that\ncould shake the very existence of this\nworld.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4BF4",
@@ -3064,7 +3368,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　その力を打ち破ることができるのは、\n　おそらく彼らだけでしょう。\n\n",
-   "en": ""
+   "en": "They are most likely the only ones who can\novercome that power.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4C44",
@@ -3074,7 +3379,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　私たちは、\n　彼らがその力に取り込まれぬよう\n　祈るしかありません。\n",
-   "en": ""
+   "en": "All we can do is pray that they are not\nswallowed up by it.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4C94",
@@ -3084,7 +3390,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4CB4",
@@ -3094,7 +3401,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　でも、そういった意味では\n　私は少し安心しています。\n\n",
-   "en": ""
+   "en": "But in that sense, I feel somewhat\nreassured.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4CF8",
@@ -3104,7 +3412,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　なぜです？\n\n\n",
-   "en": ""
+   "en": "Why is that?",
+   "status": "done"
   },
   {
    "id": "ev0F1_4D14",
@@ -3114,7 +3423,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　あのイェンが\n　初めて、自分の意志で\n　動こうとしているのです。\n",
-   "en": ""
+   "en": "For the first time, Yen is choosing to act\nof his own free will.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4D60",
@@ -3124,7 +3434,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　いわれてみれば確かに……。\n\n\n",
-   "en": ""
+   "en": "Now that you mention it, that is true...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4D8C",
@@ -3134,7 +3445,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　彼は確かに\n　すばらしい騎士です。\n\n",
-   "en": ""
+   "en": "He is without doubt a splendid knight.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4DBC",
@@ -3144,7 +3456,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　しかし今までは、\n　忠実に職務をこなす機械のようでした。\n\n",
-   "en": ""
+   "en": "But until now, he was like a machine that\nfaithfully carried out its duties.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4E04",
@@ -3154,7 +3467,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　それが今回の戦いや彼ら……。\n　特にケイゴ殿と出会うことで、なにか\n　彼なりに感じるものがあったのでしょう。\n",
-   "en": ""
+   "en": "This war and meeting them, especially\nKeigo-dono, must have stirred something in\nhim, in his own way.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4E7C",
@@ -3164,7 +3478,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　逆に彼らに感謝しなければ\n　ならないかもしれませんね。\n\n",
-   "en": ""
+   "en": "If anything, perhaps we should be grateful\nto them.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4EC0",
@@ -3174,7 +3489,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　なるほど。\n\n\n",
-   "en": ""
+   "en": "I see.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4EDC",
@@ -3184,7 +3500,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　正しき力と邪悪な力。\n　それを判断できるのは人だけです。\n\n",
-   "en": ""
+   "en": "Righteous power and evil power. Only\npeople can tell the two apart.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4F24",
@@ -3194,7 +3511,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　あの４人なら……。\n\n\n",
-   "en": ""
+   "en": "Those four...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4F48",
@@ -3204,7 +3522,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　今の４人ならきっと\n　この世界を正しい方向に\n　導いてくれるでしょう。\n",
-   "en": ""
+   "en": "Those four, as they are now, will surely lead\nthis world in the right direction.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4F9C",
@@ -3214,7 +3533,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　輝かしい未来へ……。\n\n\n",
-   "en": ""
+   "en": "Toward a shining future...",
+   "status": "done"
   },
   {
    "id": "ev0F1_4FC0",
@@ -3224,7 +3544,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　私はそう信じています。\n\n\n",
-   "en": ""
+   "en": "That is what I believe.",
+   "status": "done"
   },
   {
    "id": "ev0F1_4FE8",
@@ -3234,7 +3555,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_5008",
@@ -3244,7 +3566,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down in a place like this...",
+   "status": "done"
   },
   {
    "id": "ev0F1_5040",
@@ -3254,7 +3577,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、私は……。\n　ここまでというの……。\n\n",
-   "en": ""
+   "en": "I... I... Is this as far as I go...?",
+   "status": "done"
   },
   {
    "id": "ev0F1_5078",
@@ -3264,7 +3588,8 @@
    ],
    "speaker": "イェン",
    "jp": "　このわたしが……。\n　やられるというのかっ！！\n\n",
-   "en": ""
+   "en": "That I, of all people... could be defeated!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_50B4",
@@ -3274,7 +3599,8 @@
    ],
    "speaker": "トト",
    "jp": "　うっそ！！\n　おいらがやられるなんてアリ……。\n\n",
-   "en": ""
+   "en": "No way!! There's no way I could lose like...",
+   "status": "done"
   },
   {
    "id": "ev0F1_50EC",
@@ -3284,7 +3610,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたの負けよ。\n　ミラ。\n\n",
-   "en": ""
+   "en": "You've lost, Mira.",
+   "status": "done"
   },
   {
    "id": "ev0F1_5114",
@@ -3294,7 +3621,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ふん、ワザと私を\n　殺さなかったようだけど……。\n\n",
-   "en": ""
+   "en": "Hmph. It seems you spared my life on\npurpose, but...",
+   "status": "done"
   },
   {
    "id": "ev0F1_5150",
@@ -3304,7 +3632,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　……なにをしているの！\n　殺しなさい！\n　あの人と同じように、私を……！\n",
-   "en": ""
+   "en": "...What are you doing! Kill me! Kill me, the\nsame way you killed him...!",
+   "status": "done"
   },
   {
    "id": "ev0F1_51A0",
@@ -3314,7 +3643,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたは\n　なにをするつもりだったの？\n\n",
-   "en": ""
+   "en": "What were you trying to do?",
+   "status": "done"
   },
   {
    "id": "ev0F1_51D4",
@@ -3324,7 +3654,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　なにが欲しかったの？\n\n\n",
-   "en": ""
+   "en": "What was it you wanted?",
+   "status": "done"
   },
   {
    "id": "ev0F1_51F8",
@@ -3334,7 +3665,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　この今の状況は\n　あなたが望んだもの……。\n\n",
-   "en": ""
+   "en": "Is the way things are now what you wished\nfor...",
+   "status": "done"
   },
   {
    "id": "ev0F1_5230",
@@ -3344,7 +3676,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いえ、ルカが\n　望んだものだというの……。\n\n",
-   "en": ""
+   "en": "No... Is it what Luca would have wished\nfor...?",
+   "status": "done"
   },
   {
    "id": "ev0F1_5268",
@@ -3354,7 +3687,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　くっ……。\n\n\n",
-   "en": ""
+   "en": "Ngh...",
+   "status": "done"
   },
   {
    "id": "ev0F1_5280",
@@ -3364,7 +3698,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたの今まで行ってきたこと。\n　これからすべきこと。\n\n",
-   "en": ""
+   "en": "What you've done until now. What you must\ndo from here on.",
+   "status": "done"
   },
   {
    "id": "ev0F1_52C4",
@@ -3374,7 +3709,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それをよく考えなさい。\n\n\n",
-   "en": ""
+   "en": "Think about it carefully.",
+   "status": "done"
   },
   {
    "id": "ev0F1_52E8",
@@ -3384,7 +3720,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そして、それでも\n　私の前に立ちはだかるというのなら、\n　次は遠慮はしない。\n",
-   "en": ""
+   "en": "And if you still stand in my way after that, I\nwon't hold back next time.",
+   "status": "done"
   },
   {
    "id": "ev0F1_5340",
@@ -3394,7 +3731,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私の大切な人の\n　ジャマをするというのなら……。\n\n",
-   "en": ""
+   "en": "If you get in the way of the person who\nmatters to me...",
+   "status": "done"
   },
   {
    "id": "ev0F1_537C",
@@ -3404,7 +3742,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、あなたを斬ります。\n\n",
-   "en": ""
+   "en": "I will cut you down.",
+   "status": "done"
   },
   {
    "id": "ev0F1_53A0",
@@ -3414,7 +3753,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev0F1_53BC",
@@ -3424,7 +3764,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ゼルドナ教官！\n\n\n",
-   "en": ""
+   "en": "Instructor Zeldna!",
+   "status": "done"
   },
   {
    "id": "ev0F1_53D8",
@@ -3434,7 +3775,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ふふふ……おまえが……。\n　こんなに強くなっているとはな。\n\n",
-   "en": ""
+   "en": "Heh heh... I never thought you'd... have\ngrown this strong.",
+   "status": "done"
   },
   {
    "id": "ev0F1_5420",
@@ -3444,7 +3786,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……教官。\n\n\n",
-   "en": ""
+   "en": "...Instructor.",
+   "status": "done"
   },
   {
    "id": "ev0F1_5438",
@@ -3454,7 +3797,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　本当は、\n　手を抜くつもりだったが……。\n\n",
-   "en": ""
+   "en": "The truth is, I meant to go easy on you,\nbut...",
+   "status": "done"
   },
   {
    "id": "ev0F1_5470",
@@ -3464,7 +3808,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　今のおまえでは\n　同条件でやっても\n　勝てるかどうかわからん。\n",
-   "en": ""
+   "en": "The way you are now, I can't say I'd win\neven on equal terms.",
+   "status": "done"
   },
   {
    "id": "ev0F1_54BC",
@@ -3474,7 +3819,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　強くなったな、ケイゴ。\n\n\n",
-   "en": ""
+   "en": "You've grown strong, Keigo.",
+   "status": "done"
   },
   {
    "id": "ev0F1_54E4",
@@ -3484,7 +3830,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官……どうして。\n\n\n",
-   "en": ""
+   "en": "Instructor... Why?",
+   "status": "done"
   },
   {
    "id": "ev0F1_5504",
@@ -3494,7 +3841,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　娘は……。\n\n\n",
-   "en": ""
+   "en": "My daughter...",
+   "status": "done"
   },
   {
    "id": "ev0F1_5520",
@@ -3504,7 +3852,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　娘は\n　結局助からなかった……。\n\n",
-   "en": ""
+   "en": "In the end, my daughter couldn't be saved...",
+   "status": "done"
   },
   {
    "id": "ev0F1_5550",
@@ -3514,7 +3863,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　えっ……。\n\n\n",
-   "en": ""
+   "en": "Huh...?",
+   "status": "done"
   },
   {
    "id": "ev0F1_5568",
@@ -3524,7 +3874,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　そう、オレが……。\n\n\n",
-   "en": ""
+   "en": "That's right, I...",
+   "status": "done"
   },
   {
    "id": "ev0F1_558C",
@@ -3534,7 +3885,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　もう、オレが\n　生き続ける必要は、なくなった。\n\n",
-   "en": ""
+   "en": "I no longer have any reason to go on living.",
+   "status": "done"
   },
   {
    "id": "ev0F1_55C8",
@@ -3544,7 +3896,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　だから、せめて最後ぐらい……。\n\n\n",
-   "en": ""
+   "en": "So at least at the very end...",
+   "status": "done"
   },
   {
    "id": "ev0F1_55F8",
@@ -3554,7 +3907,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　騎士として\n　手強い相手と戦いたかった。\n\n",
-   "en": ""
+   "en": "I wanted to face a tough opponent as a\nknight.",
+   "status": "done"
   },
   {
    "id": "ev0F1_5630",
@@ -3564,7 +3918,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　戦うことしかできないオレには……。\n\n\n",
-   "en": ""
+   "en": "For a man like me, who can do nothing but\nfight...",
+   "status": "done"
   },
   {
    "id": "ev0F1_5664",
@@ -3574,7 +3929,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　文句のない相手だ。\n\n\n",
-   "en": ""
+   "en": "You were an opponent beyond reproach.",
+   "status": "done"
   },
   {
    "id": "ev0F1_5688",
@@ -3584,7 +3940,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そ、そんな……。\n\n\n",
-   "en": ""
+   "en": "N-No...",
+   "status": "done"
   },
   {
    "id": "ev0F1_56A8",
@@ -3594,7 +3951,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　おまえに会えてよかったよ。\n\n\n",
-   "en": ""
+   "en": "I'm glad I got to meet you.",
+   "status": "done"
   },
   {
    "id": "ev0F1_56D4",
@@ -3604,7 +3962,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　今思えば、\n　オレの人生も悪くないな……。\n\n",
-   "en": ""
+   "en": "Looking back now... my life wasn't so bad\nafter all...",
+   "status": "done"
   },
   {
    "id": "ev0F1_570C",
@@ -3614,7 +3973,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こ、こんなのが……。\n\n\n",
-   "en": ""
+   "en": "H-How could this...",
+   "status": "done"
   },
   {
    "id": "ev0F1_5730",
@@ -3624,7 +3984,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こんなのが\n　いいことあるわけないでしょう！！\n\n\n",
-   "en": ""
+   "en": "How could anything like this be a good\nthing!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_576C",
@@ -3634,7 +3995,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ゼルドナ教官！！\n\n\n",
-   "en": ""
+   "en": "Instructor Zeldna!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_578C",
@@ -3644,7 +4006,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　く、くそっ！\n　また、しても……。\n\n",
-   "en": ""
+   "en": "D-Damn it! Not again...",
+   "status": "done"
   },
   {
    "id": "ev0F1_57BC",
@@ -3654,7 +4017,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　う、うん！？\n　脱出できない！？\n\n",
-   "en": ""
+   "en": "Wh-What!? I can't get out!?",
+   "status": "done"
   },
   {
    "id": "ev0F1_57E8",
@@ -3664,7 +4028,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　あ、あつい！\n　た、助けてくれ！！\n\n",
-   "en": ""
+   "en": "H-Hot! S-Somebody help me!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_5818",
@@ -3674,7 +4039,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　オレは、まだ死にたくねえ！！\n\n\n",
-   "en": ""
+   "en": "I don't wanna die yet!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_5844",
@@ -3684,7 +4050,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　うっ！？\n　うおーーーーーっ！！\n\n",
-   "en": ""
+   "en": "Ugh!? Gwaaaaaaah!!",
+   "status": "done"
   },
   {
    "id": "ev0F1_8C30",
@@ -3693,7 +4060,8 @@
     "0x8EC0"
    ],
    "jp": "　　　　　　　　衝撃と動揺\n\n　　人は信じられない出来事に遭遇したとき\n　　　　必ず前者から後者へと移行する\n\n　　騎士たちが受けた衝撃は癒える間もなく\n　　　　　　若い心に動揺を呼んだ\n\n　　　ただ、心の揺れを押さえられるなら\n精霊は彼のものに力を与えなかったかもしれない\n\n　　揺れる心こそが契約の前提となるならば\n　精霊はこの先、彼らにどんな試練与えるのか\n",
-   "en": ""
+   "en": "Shock and Turmoil\n\nWhen people meet the unbelievable,\nthey always pass from the first to the next\n\nThe knights' shock had no time to heal\nbefore it stirred turmoil in young hearts\n\nYet had he stilled his wavering heart,\nthe spirit might not have lent him power\n\nIf a contract rests on a wavering heart,\nwhat trials will the spirit set them now?",
+   "status": "done"
   },
   {
    "id": "ev0F1_8D90",
@@ -3702,7 +4070,8 @@
     "0x8EC4"
    ],
    "jp": "　　　助け合い、そして求め合うべき力が\n　　　　互いを育てていくとは限らない\n\n　　それぞれが揺るぎなく存在することで\n　　初めて成り立つ関係というものもある\n\n　　　それは人の心でも同じなのだろうか\n\n　　　　　　　二人に必要なのは\n　　　　　　各々が力をつけること\n\n　　　若い二人の騎士はそう結論づけた……\n\n",
-   "en": ""
+   "en": "Strengths meant to aid and seek each other\ndo not always help each other grow\n\nSome bonds can only come to be\nwhen each one stands firm on its own\n\nIs the same true of the human heart?\n\nWhat the two of them needed\nwas for each to grow stronger\n\nSo the two young knights concluded...",
+   "status": "done"
   }
  ]
 }

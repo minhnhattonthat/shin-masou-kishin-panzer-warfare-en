@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　バルツフィーム王国\n　　王都\n\n",
-   "en": ""
+   "en": "Kingdom of Vartzpheem\nRoyal Capital",
+   "status": "done"
   },
   {
    "id": "ev05B_09C0",
@@ -34,7 +35,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ミラ。\n\n\n",
-   "en": ""
+   "en": "...Mira.",
+   "status": "done"
   },
   {
    "id": "ev05B_09D8",
@@ -44,7 +46,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev05B_09F4",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　また、あのときのことを\n　思い出していたのかね。\n\n",
-   "en": ""
+   "en": "Thinking about that day again, were you?",
+   "status": "done"
   },
   {
    "id": "ev05B_0A34",
@@ -64,7 +68,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ロセリニ神官長。\n　ごぶさたしております。\n\n",
-   "en": ""
+   "en": "...High Priest Rossellini. It has been far\ntoo long.",
+   "status": "done"
   },
   {
    "id": "ev05B_0A70",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　ひさしぶりですな、\n　アルマ様。\n\n",
-   "en": ""
+   "en": "It has been a while, Alma-sama.",
+   "status": "done"
   },
   {
    "id": "ev05B_0AA0",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　あまりお元気がないように\n　見えますが……？\n\n",
-   "en": ""
+   "en": "You don't seem to be in the best of\nspirits...?",
+   "status": "done"
   },
   {
    "id": "ev05B_0ADC",
@@ -94,7 +101,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いえ、もう大丈夫です。\n\n\n",
-   "en": ""
+   "en": "No, I'm all right now.",
+   "status": "done"
   },
   {
    "id": "ev05B_0B00",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　そうですか……。\n\n",
-   "en": ""
+   "en": "I see...",
+   "status": "done"
   },
   {
    "id": "ev05B_0B20",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　ところで\n　戦争中になんだが\n　ベウマーらは元気にしているかね？\n",
-   "en": ""
+   "en": "By the way, an odd thing to ask in wartime,\nbut are Beumer and the others\nkeeping well?",
+   "status": "done"
   },
   {
    "id": "ev05B_0B6C",
@@ -124,7 +134,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　はい。\n　みんな、元気にがんばっています。\n\n",
-   "en": ""
+   "en": "Yes. Everyone is well and doing their best.",
+   "status": "done"
   },
   {
    "id": "ev05B_0BA4",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　そうかね。\n\n\n",
-   "en": ""
+   "en": "Is that so.",
+   "status": "done"
   },
   {
    "id": "ev05B_0BC0",
@@ -144,7 +156,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　まあ、\n　あいつらがそう簡単に\n　死ぬわけないな。\n",
-   "en": ""
+   "en": "Well, those rascals aren't the sort to die so\neasily.",
+   "status": "done"
   },
   {
    "id": "ev05B_0C00",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　おっと、神官たるもの\n　死ぬなんて言葉を\n　軽々しく口にしてはいかんな。\n",
-   "en": ""
+   "en": "Oh dear, a man of the cloth oughtn't to\nspeak of dying so lightly, now.",
+   "status": "done"
   },
   {
    "id": "ev05B_0C54",
@@ -164,7 +178,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev05B_0C70",
@@ -174,7 +189,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　ところで、\n　きょうは、どうしてこちらに？\n\n",
-   "en": ""
+   "en": "And what brings you here today?",
+   "status": "done"
   },
   {
    "id": "ev05B_0CA8",
@@ -184,7 +200,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ええ、こちらで会議があるのですが、\n　早くついたので散歩がてら……。\n\n",
-   "en": ""
+   "en": "Well, there's a meeting here, but I arrived\nearly, so I thought I would take a walk...",
+   "status": "done"
   },
   {
    "id": "ev05B_0CF8",
@@ -194,7 +211,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……この場所で足をとめてしまった、\n　というところですかな。\n\n",
-   "en": ""
+   "en": "...and your feet stopped at this spot. Is\nthat it?",
+   "status": "done"
   },
   {
    "id": "ev05B_0D44",
@@ -204,7 +222,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev05B_0D60",
@@ -214,7 +233,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　まあ、あまり思いつめなさるな。\n　過ぎてしまったことを\n　いつまで悔やんでいても……。\n",
-   "en": ""
+   "en": "Now, don't brood so. Dwelling forever on\nwhat is past and done...",
+   "status": "done"
   },
   {
    "id": "ev05B_0DC4",
@@ -224,7 +244,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　なにかあれば、ご相談ください。\n　いつでもお力になりますぞ。\n\n",
-   "en": ""
+   "en": "If anything troubles you, do come and talk\nto me. I'll always be glad to help.",
+   "status": "done"
   },
   {
    "id": "ev05B_0E10",
@@ -234,7 +255,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ロセリニ神官長。\n\n\n",
-   "en": ""
+   "en": "...High Priest Rossellini.",
+   "status": "done"
   },
   {
    "id": "ev05B_0E34",
@@ -244,7 +266,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　実は、最近、ほとんどのことを\n　ルジェロが行ってくれていてな。\n\n",
-   "en": ""
+   "en": "Truth be told, these days Ruggero handles\nnearly everything for me.",
+   "status": "done"
   },
   {
    "id": "ev05B_0E80",
@@ -254,7 +277,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　私は、もう隠居したようなものじゃ。\n\n\n",
-   "en": ""
+   "en": "I'm practically retired already.",
+   "status": "done"
   },
   {
    "id": "ev05B_0EB4",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　だから、\n　ヒマを持て余しているというのが\n　現実でな。\n",
-   "en": ""
+   "en": "So the plain fact is, I have more free time\nthan I know what to do with.",
+   "status": "done"
   },
   {
    "id": "ev05B_0EF8",
@@ -274,7 +299,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　お話をうかがう時間は\n　たくさんありますぞ。\n\n",
-   "en": ""
+   "en": "I've plenty of time to hear you out, you see.",
+   "status": "done"
   },
   {
    "id": "ev05B_0F34",
@@ -284,7 +310,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ありがとうございます。\n\n\n",
-   "en": ""
+   "en": "...Thank you.",
+   "status": "done"
   },
   {
    "id": "ev05B_0F5C",
@@ -294,7 +321,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あ、そろそろ時間なので\n　失礼します。\n\n",
-   "en": ""
+   "en": "Oh, it's nearly time. Please excuse me.",
+   "status": "done"
   },
   {
    "id": "ev05B_0F90",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……そうですか。\n　それではまた……。\n\n",
-   "en": ""
+   "en": "...I see. Until next time, then...",
+   "status": "done"
   },
   {
    "id": "ev05B_0FC4",
@@ -314,7 +343,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ロセリニ神官長！\n\n\n",
-   "en": ""
+   "en": "High Priest Rossellini!",
+   "status": "done"
   },
   {
    "id": "ev05B_0FE4",
@@ -324,7 +354,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　うん……？\n\n\n",
-   "en": ""
+   "en": "Hm...?",
+   "status": "done"
   },
   {
    "id": "ev05B_1000",
@@ -334,7 +365,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ミラのことなんですが。\n\n\n",
-   "en": ""
+   "en": "...It's about Mira.",
+   "status": "done"
   },
   {
    "id": "ev05B_1028",
@@ -344,7 +376,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……いいえ、なんでもありません。\n　失礼いたします。\n\n\n",
-   "en": ""
+   "en": "...No, it's nothing. Please excuse me.",
+   "status": "done"
   },
   {
    "id": "ev05B_1068",
@@ -354,7 +387,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　アルマ様……。\n\n\n",
-   "en": ""
+   "en": "Alma-sama...",
+   "status": "done"
   },
   {
    "id": "ev05B_1088",
@@ -364,7 +398,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　……偵察部隊からの報告によると\n　敵部隊の増強は想像以上の早さで\n　行われているようだ。\n",
-   "en": ""
+   "en": "...According to our scouting units, the\nenemy is building up its forces faster than\nwe imagined.",
+   "status": "done"
   },
   {
    "id": "ev05B_10EC",
@@ -374,7 +409,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　大規模な攻勢作戦が\n　近いということですね。\n\n",
-   "en": ""
+   "en": "Meaning a large-scale offensive is near.",
+   "status": "done"
   },
   {
    "id": "ev05B_1124",
@@ -384,7 +420,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　そうだ。\n\n\n",
-   "en": ""
+   "en": "Precisely.",
+   "status": "done"
   },
   {
    "id": "ev05B_113C",
@@ -394,7 +431,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　我々も急いで戦力増強を行っているが、\n　相手の勢いには\n　追いついていけないというのが現状だ。\n",
-   "en": ""
+   "en": "We too are hurrying to reinforce, but the\nplain fact is that we cannot keep pace\nwith them.",
+   "status": "done"
   },
   {
    "id": "ev05B_11A8",
@@ -404,7 +442,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　しかも、『ダウスの魔物』に対しても\n　引き続き、警戒をしなければならん。\n\n",
-   "en": ""
+   "en": "Moreover, we must remain on guard\nagainst the Monsters of Daus as well.",
+   "status": "done"
   },
   {
    "id": "ev05B_1200",
@@ -414,7 +453,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　そこで、不本意ではあるが、\n　戦力が整うまで、各地の防衛を\n　強化することで方針がまとまったのだ。\n",
-   "en": ""
+   "en": "Therefore, reluctant as we are, it has been\ndecided to strengthen the defences in each\nregion until our forces are ready.",
+   "status": "done"
   },
   {
    "id": "ev05B_1270",
@@ -424,7 +464,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　なるほど、内容は理解しました。\n\n\n",
-   "en": ""
+   "en": "I see. I understand the situation.",
+   "status": "done"
   },
   {
    "id": "ev05B_129C",
@@ -434,7 +475,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それで西方騎士隊としては\n　どうすればよろしいのでしょうか？\n\n",
-   "en": ""
+   "en": "And what would you have the Western\nKnights do?",
+   "status": "done"
   },
   {
    "id": "ev05B_12E4",
@@ -444,7 +486,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　王都の西にある\n　アルデンヌ島の全部隊を移動し、\n　国境沿い全般に配備する。\n",
-   "en": ""
+   "en": "All units on Ardennes Island, west of the\nRoyal Capital, will be moved and deployed\nalong the entire border.",
+   "status": "done"
   },
   {
    "id": "ev05B_133C",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　君らには、\n　手薄となるアルデンヌ島を\n　守ってほしいのだ。\n",
-   "en": ""
+   "en": "We want you people to guard Ardennes\nIsland while it is left thinly defended.",
+   "status": "done"
   },
   {
    "id": "ev05B_1384",
@@ -464,7 +508,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そんな！\n\n\n",
-   "en": ""
+   "en": "What!?",
+   "status": "done"
   },
   {
    "id": "ev05B_139C",
@@ -474,7 +519,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あの島を制圧されたら、\n　王都へ直接攻撃が\n　可能となってしまいます。\n",
-   "en": ""
+   "en": "If that island falls, the enemy will be able to\nstrike the Royal Capital directly!",
+   "status": "done"
   },
   {
    "id": "ev05B_13EC",
@@ -484,7 +530,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　主力部隊が攻めてきたときに\n　我々の部隊だけで、\n　守りきれるかどうか……。\n",
-   "en": ""
+   "en": "If their main force attacks, I don't know\nwhether our unit alone can hold it...",
+   "status": "done"
   },
   {
    "id": "ev05B_1444",
@@ -494,7 +541,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それに、各部隊を\n　バラバラに配備したら、\n　各個撃破の可能性があります。\n",
-   "en": ""
+   "en": "Besides, scattering our units leaves them\nopen to being defeated one by one.",
+   "status": "done"
   },
   {
    "id": "ev05B_1498",
@@ -504,7 +552,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　大丈夫。敵の部隊は、\n　陸戦型の魔装機が中心だ。\n　\n",
-   "en": ""
+   "en": "Not to worry. The enemy forces are built\naround land-type Masouki.",
+   "status": "done"
   },
   {
    "id": "ev05B_14D8",
@@ -514,7 +563,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　アルデンヌ島へ攻め込むための\n　兵力はほとんどない。\n\n",
-   "en": ""
+   "en": "They have almost no troops capable of\nattacking Ardennes Island.",
+   "status": "done"
   },
   {
    "id": "ev05B_151C",
@@ -524,7 +574,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　しかし、だからといって\n　重要拠点である島を\n　無防備にするわけにもいかん。\n",
-   "en": ""
+   "en": "Even so, we cannot leave such a vital\nstronghold undefended.",
+   "status": "done"
   },
   {
    "id": "ev05B_1574",
@@ -534,7 +585,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　そこで、我が国の精鋭部隊である\n　西方騎士隊に守ってもらおうと\n　いうわけだ。\n",
-   "en": ""
+   "en": "Hence we would have the Western Knights,\nour nation's elite unit, guard it.",
+   "status": "done"
   },
   {
    "id": "ev05B_15D0",
@@ -544,7 +596,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　しかし……。\n\n\n",
-   "en": ""
+   "en": "But...",
+   "status": "done"
   },
   {
    "id": "ev05B_15EC",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　アルマ様！\n\n\n",
-   "en": ""
+   "en": "Alma-sama!",
+   "status": "done"
   },
   {
    "id": "ev05B_1608",
@@ -564,7 +618,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　この作戦は、\n　そちらにいるゼルドナ殿も\n　了承しているのだぞ。\n",
-   "en": ""
+   "en": "Zeldna-dono, seated right there, has\napproved this operation as well, you know.",
+   "status": "done"
   },
   {
    "id": "ev05B_1654",
@@ -574,7 +629,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev05B_1674",
@@ -584,7 +640,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ゼルドナも！？\n\n\n",
-   "en": ""
+   "en": "Zeldna too!?",
+   "status": "done"
   },
   {
    "id": "ev05B_1690",
@@ -594,7 +651,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　……アルマ様。\n\n\n",
-   "en": ""
+   "en": "...Alma-sama.",
+   "status": "done"
   },
   {
    "id": "ev05B_16B0",
@@ -604,7 +662,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　たしかに、\n　おっしゃるような事態が\n　あるかもしれん。\n",
-   "en": ""
+   "en": "Indeed, the situation you describe may well\ncome to pass.",
+   "status": "done"
   },
   {
    "id": "ev05B_16F4",
@@ -614,7 +673,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　が、我々としては\n　最善の策を練ったつもりだ。\n\n",
-   "en": ""
+   "en": "But we believe we have devised the best\nplan we could.",
+   "status": "done"
   },
   {
    "id": "ev05B_1730",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　どうか、ご了承いただきたい。\n\n\n",
-   "en": ""
+   "en": "I ask that you accept it.",
+   "status": "done"
   },
   {
    "id": "ev05B_175C",
@@ -634,7 +695,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev05B_1778",
@@ -644,7 +706,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……わかりました。\n『閃剣のゼルドナ』が\n　おっしゃられるのであれば……。\n",
-   "en": ""
+   "en": "...Very well. If Zeldna the Flash Blade\nsays so...",
+   "status": "done"
   },
   {
    "id": "ev05B_17CC",
@@ -654,7 +717,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　では、各部隊に連絡を取り、\n　取り急ぎ準備を。\n\n",
-   "en": ""
+   "en": "Then contact each unit and make your\npreparations at once.",
+   "status": "done"
   },
   {
    "id": "ev05B_1808",
@@ -664,7 +728,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……はい。\n\n\n",
-   "en": ""
+   "en": "...Yes.",
+   "status": "done"
   },
   {
    "id": "ev05B_1820",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　しかし、隊長\n　やっぱりオレたちだけでは\n　数が少なすぎます。\n",
-   "en": ""
+   "en": "Still, Captain, there's just too few of us on\nour own.",
+   "status": "done"
   },
   {
    "id": "ev05B_186C",
@@ -684,7 +750,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　これでは、攻撃してくれと\n　いっているようなものですよ。\n\n",
-   "en": ""
+   "en": "This is practically askin' them to come\nattack us, you know.",
+   "status": "done"
   },
   {
    "id": "ev05B_18B4",
@@ -694,7 +761,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　……ふむ。\n\n\n",
-   "en": ""
+   "en": "...Hmm.",
+   "status": "done"
   },
   {
    "id": "ev05B_18D0",
@@ -704,7 +772,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　仕方ないわ。\n　各部隊はみな国境付近全体の\n　警備にあてられているんだから。\n",
-   "en": ""
+   "en": "It can't be helped. Every other unit has been\nassigned to guard the whole border region.",
+   "status": "done"
   },
   {
    "id": "ev05B_1928",
@@ -714,7 +783,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　しかしですね……。\n\n\n",
-   "en": ""
+   "en": "But, Captain...",
+   "status": "done"
   },
   {
    "id": "ev05B_194C",
@@ -724,7 +794,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　副長、いいじゃない。\n　もし、敵がきても少数なんだろ。\n\n",
-   "en": ""
+   "en": "Aw, who cares, Vice-Captain. Even if the\nenemy shows, it'll only be a few of 'em,\nright?",
+   "status": "done"
   },
   {
    "id": "ev05B_1990",
@@ -734,7 +805,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　やってきたら、\n　各個撃破して……。\n\n",
-   "en": ""
+   "en": "If they show up, we just pick 'em off one\nby one...",
+   "status": "done"
   },
   {
    "id": "ev05B_19C4",
@@ -744,7 +816,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　手柄の立て放題！\n　……ってところですかね。\n\n",
-   "en": ""
+   "en": "And rack up all the glory we want! ...That's\nthe idea, right?",
+   "status": "done"
   },
   {
    "id": "ev05B_1A00",
@@ -754,7 +827,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　おまえたちは気楽でいいよ。\n　まったく……。\n\n",
-   "en": ""
+   "en": "Must be nice, bein' so carefree. Honestly...",
+   "status": "done"
   },
   {
    "id": "ev05B_1A3C",
@@ -764,7 +838,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev05B_1A58",
@@ -774,7 +849,8 @@
    ],
    "speaker": "シェス",
    "jp": "　……敵部隊が本島に接近しています。\n　数は……、数は……。\n　数えきれません！\n",
-   "en": ""
+   "en": "...Enemy units are approaching the main\nisland. Their numbers are... their numbers\nare... I can't count them all!",
+   "status": "done"
   },
   {
    "id": "ev05B_1AB0",
@@ -784,7 +860,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　ちょ、ちょっと、ちょっと！\n\n\n",
-   "en": ""
+   "en": "Wh-whoa, whoa, whoa!",
+   "status": "done"
   },
   {
    "id": "ev05B_1ADC",
@@ -794,7 +871,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　話が違いますよ！！\n\n",
-   "en": ""
+   "en": "That ain't what they told us!!",
+   "status": "done"
   },
   {
    "id": "ev05B_1AFC",
@@ -804,7 +882,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　ボク、出撃やめます！！\n\n",
-   "en": ""
+   "en": "I'm calling off my sortie!!",
+   "status": "done"
   },
   {
    "id": "ev05B_1B24",
@@ -814,7 +893,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ほら、きなすった。\n　ケイゴ、いくぞ！\n\n",
-   "en": ""
+   "en": "Well, here they come. Keigo, let's go!",
+   "status": "done"
   },
   {
    "id": "ev05B_1B58",
@@ -824,7 +904,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴ、ムリはするなよ。\n\n\n",
-   "en": ""
+   "en": "Keigo, don't push yourself too hard.",
+   "status": "done"
   },
   {
    "id": "ev05B_1B80",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はいっ！\n\n\n",
-   "en": ""
+   "en": "Yes, sir!",
+   "status": "done"
   },
   {
    "id": "ev05B_1B98",
@@ -844,7 +926,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　シェス！\n　全隊に出撃準備をさせて！！\n\n",
-   "en": ""
+   "en": "Shess! Get all units ready to sortie!!",
+   "status": "done"
   },
   {
    "id": "ev05B_1BCC",
@@ -854,7 +937,8 @@
    ],
    "speaker": "シェス",
    "jp": "　わかりました！\n\n\n",
-   "en": ""
+   "en": "Understood!",
+   "status": "done"
   },
   {
    "id": "ev05B_1BE8",
@@ -864,7 +948,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（……どういうこと？）\n\n\n",
-   "en": ""
+   "en": "(...What is going on?)",
+   "status": "done"
   },
   {
    "id": "ev05B_1C0C",
@@ -874,7 +959,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（偶然だというの\n　こんなときに……）\n\n",
-   "en": ""
+   "en": "(Am I to believe it's a coincidence, at a time\nlike this...?)",
+   "status": "done"
   },
   {
    "id": "ev05B_1C3C",
@@ -884,7 +970,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　なんだ！\n　あの奇妙な形をした魔装機は！？\n\n",
-   "en": ""
+   "en": "What the!? What's with those weird-lookin'\nMasouki!?",
+   "status": "done"
   },
   {
    "id": "ev05B_1C74",
@@ -894,7 +981,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　どうやら、ラガーシュの新型らしいな。\n　水中用、空中用といったところか。\n\n",
-   "en": ""
+   "en": "Ragash's new models, it would seem. Built\nfor water and for air, I'd say.",
+   "status": "done"
   },
   {
    "id": "ev05B_1CCC",
@@ -904,7 +992,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　じゃあ、ここを攻略するために……。\n\n\n",
-   "en": ""
+   "en": "So they made those just to take this\nplace...",
+   "status": "done"
   },
   {
    "id": "ev05B_1D00",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　どうやら、本気ってことか……。\n\n\n",
-   "en": ""
+   "en": "Looks like they mean business...",
+   "status": "done"
   },
   {
    "id": "ev05B_1D30",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……よしっ！　いくぞ！！）\n\n\n",
-   "en": ""
+   "en": "(...Alright! Here I go!!)",
+   "status": "done"
   },
   {
    "id": "ev05B_1D58",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　……ア……ルマ……。\n\n\n",
-   "en": ""
+   "en": "...Al...ma...",
+   "status": "done"
   },
   {
    "id": "ev05B_1D78",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ミラ…………！！\n\n\n",
-   "en": ""
+   "en": "Mira...!!",
+   "status": "done"
   },
   {
    "id": "ev05B_1D98",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　あなたにお別れをいいにきたわ。\n\n\n",
-   "en": ""
+   "en": "I've come to say goodbye to you.",
+   "status": "done"
   },
   {
    "id": "ev05B_1DC4",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　長かったけれど、\n　この日がきてしまうと\n　短かった気もするわ。\n",
-   "en": ""
+   "en": "It has been a long wait, yet now that the\nday has come, it almost feels short.",
+   "status": "done"
   },
   {
    "id": "ev05B_1E0C",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ミラ！！\n　違うの、あれは……！\n\n",
-   "en": ""
+   "en": "Mira!! You're wrong, that was...!",
+   "status": "done"
   },
   {
    "id": "ev05B_1E38",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　うるさい！\n　あなたのかわいい部下たちとともに\n　魂を浄化してあげるわ！！\n",
-   "en": ""
+   "en": "Silence! I'll purify your soul, along with all\nyour precious subordinates!!",
+   "status": "done"
   },
   {
    "id": "ev05B_1E8C",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ミラ！！\n\n\n",
-   "en": ""
+   "en": "Mira!!",
+   "status": "done"
   },
   {
    "id": "ev05B_1EA4",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（うん……！？\n　隊長、だれかと話をしている！？\n　白い魔装機、アイツか！！）\n",
-   "en": ""
+   "en": "(Huh...!? The captain's talking with\nsomeone!? That white Masouki... it's that\none!!)",
+   "status": "done"
   },
   {
    "id": "ev05B_1EFC",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ケイゴ！\n　なに、油断している。\n　敵は、すぐそこだぞ！！\n",
-   "en": ""
+   "en": "Keigo! What're you spacin' out for? The\nenemy's right there!!",
+   "status": "done"
   },
   {
    "id": "ev05B_1F44",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……は、はいっ！\n\n\n",
-   "en": ""
+   "en": "...Y-yes, sir!",
+   "status": "done"
   },
   {
    "id": "ev05B_1F64",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "シェス",
    "jp": "　敵らしき反応、接近中。\n\n",
-   "en": ""
+   "en": "Possible enemy readings, approaching.",
+   "status": "done"
   },
   {
    "id": "ev05B_1F88",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　へへへっ……！\n　やっと出番が回ってきたぜ！\n\n",
-   "en": ""
+   "en": "Hehehe...! Finally my turn's come around!",
+   "status": "done"
   },
   {
    "id": "ev05B_1FC0",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　ちっとはできるようだな、\n　西方騎士隊のヤツら。\n　そうでなくちゃ、面白くねぇ！\n",
-   "en": ""
+   "en": "Looks like you Western Knights punks can\nfight a little. Wouldn't be no fun otherwise!",
+   "status": "done"
   },
   {
    "id": "ev05B_201C",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　たっぷり遊ばせてもらうぜっ！！\n\n\n",
-   "en": ""
+   "en": "I'm gonna have myself a ball with ya!!",
+   "status": "done"
   },
   {
    "id": "ev05B_2048",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……みんな、大丈夫？\n\n\n",
-   "en": ""
+   "en": "...Is everyone all right?",
+   "status": "done"
   },
   {
    "id": "ev05B_206C",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ふうっ、やれやれ、\n　なんとか勝てたというところか……。\n\n",
-   "en": ""
+   "en": "Whew, geez... Guess we just barely pulled it\noff...",
+   "status": "done"
   },
   {
    "id": "ev05B_20B4",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　そうだな……。\n\n\n",
-   "en": ""
+   "en": "Indeed...",
+   "status": "done"
   },
   {
    "id": "ev05B_20D4",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　まったく、死ぬかと思ったよ。\n\n\n",
-   "en": ""
+   "en": "Man, I thought I was a goner.",
+   "status": "done"
   },
   {
    "id": "ev05B_2100",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　ヘレーナ様、\n　それはボクの台詞ですよ。\n",
-   "en": ""
+   "en": "Helena-sama, that's supposed to be my line.",
+   "status": "done"
   },
   {
    "id": "ev05B_2138",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　ふうっ～。\n\n\n",
-   "en": ""
+   "en": "Phewww.",
+   "status": "done"
   },
   {
    "id": "ev05B_2154",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうやら大丈夫みたいね。\n\n\n",
-   "en": ""
+   "en": "Looks like everyone's all right.",
+   "status": "done"
   },
   {
    "id": "ev05B_217C",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……よかった。\n\n",
-   "en": ""
+   "en": "...Thank goodness.",
+   "status": "done"
   },
   {
    "id": "ev05B_2198",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（隊長……）\n\n\n",
-   "en": ""
+   "en": "(Captain...)",
+   "status": "done"
   },
   {
    "id": "ev05B_21B0",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（あの白い魔装機とは\n　いったい、どんな関係なんだ？）\n",
-   "en": ""
+   "en": "(Just what is her connection to that white\nMasouki?)",
+   "status": "done"
   },
   {
    "id": "ev05B_21F0",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長！　あの……。\n\n\n",
-   "en": ""
+   "en": "Captain! Um...",
+   "status": "done"
   },
   {
    "id": "ev05B_2210",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうしたのケイゴ？\n\n\n",
-   "en": ""
+   "en": "What is it, Keigo?",
+   "status": "done"
   },
   {
    "id": "ev05B_2230",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "シェス",
    "jp": "　た、たいへんです！\n　アルデンヌ島が……。\n\n",
-   "en": ""
+   "en": "Th-this is bad! Ardennes Island is...",
+   "status": "done"
   },
   {
    "id": "ev05B_2268",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　シェス！！\n　どうした！？\n\n",
-   "en": ""
+   "en": "Shess!! What's wrong!?",
+   "status": "done"
   },
   {
    "id": "ev05B_2290",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ラ、ラガーシュによって\n　包囲されました！！\n\n",
-   "en": ""
+   "en": "I-it's been surrounded by Ragash!!",
+   "status": "done"
   },
   {
    "id": "ev05B_22C8",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "シェス",
    "jp": "　バルツフィーム王都からは、\n　撤退命令が……。\n\n",
-   "en": ""
+   "en": "And the Royal Capital of Vartzpheem has\nordered a retreat...",
+   "status": "done"
   },
   {
    "id": "ev05B_2304",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev05B_2320",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そんな、\n　オレたちは勝ったんですよね！？\n\n",
-   "en": ""
+   "en": "But... we won, didn't we!?",
+   "status": "done"
   },
   {
    "id": "ev05B_2358",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　副長！　フルカスさん！！\n\n\n",
-   "en": ""
+   "en": "Vice-Captain! Furcas-san!!",
+   "status": "done"
   },
   {
    "id": "ev05B_2380",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ケイゴ、落ち着け。\n　オレたちだけが勝ったって\n　ダメなんだよ。\n",
-   "en": ""
+   "en": "Keigo, calm down. It's no good if we're the\nonly ones who win.",
+   "status": "done"
   },
   {
    "id": "ev05B_23CC",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ケイゴさん……。\n\n\n",
-   "en": ""
+   "en": "Keigo-san...",
+   "status": "done"
   },
   {
    "id": "ev05B_23EC",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　隊長。\n　どうしますか！？\n\n",
-   "en": ""
+   "en": "Captain. What shall we do!?",
+   "status": "done"
   },
   {
    "id": "ev05B_2414",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いったん、\n　司令部に戻りましょう。\n\n",
-   "en": ""
+   "en": "Let's return to headquarters for now.",
+   "status": "done"
   },
   {
    "id": "ev05B_2444",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "",
    "jp": "　アルデンヌ島\n　　司令部\n\n",
-   "en": ""
+   "en": "Ardennes Island\nHeadquarters",
+   "status": "done"
   },
   {
    "id": "ev05B_2464",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "シェス",
    "jp": "　アルマ隊長！\n　ラガーシュより通信が入っています。\n\n",
-   "en": ""
+   "en": "Captain Alma! We're receiving a\ntransmission from Ragash.",
+   "status": "done"
   },
   {
    "id": "ev05B_24A4",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　つないでくれる。\n\n\n",
-   "en": ""
+   "en": "Put it through, please.",
+   "status": "done"
   },
   {
    "id": "ev05B_24C4",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "シェス",
    "jp": "　はい、画面に出します。\n\n\n",
-   "en": ""
+   "en": "Yes, putting it on screen.",
+   "status": "done"
   },
   {
    "id": "ev05B_24E8",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　アルデンヌ島の\n　バルツフィーム兵士諸君！\n\n",
-   "en": ""
+   "en": "Soldiers of Vartzpheem on Ardennes\nIsland!",
+   "status": "done"
   },
   {
    "id": "ev05B_2520",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私はラガーシュ王国、司令官\n　ソッド＝ジュスト。\n\n",
-   "en": ""
+   "en": "I am Thodd Justo, commander of the\nKingdom of Ragash.",
+   "status": "done"
   },
   {
    "id": "ev05B_255C",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　貴殿らの部隊は完全に壊滅状態にある。\n　もはや抵抗することは無意味だ。\n\n",
-   "en": ""
+   "en": "Your forces have been utterly crushed.\nFurther resistance is meaningless.",
+   "status": "done"
   },
   {
    "id": "ev05B_25B0",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　おとなしく投降し、\n　アルデンヌ島を明け渡すことを\n　希求する。\n",
-   "en": ""
+   "en": "I urge you to surrender quietly and hand\nover Ardennes Island.",
+   "status": "done"
   },
   {
    "id": "ev05B_25FC",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　さもなければ、\n　明朝、総攻撃を開始する。\n\n",
-   "en": ""
+   "en": "Otherwise, we will launch a full assault\nat dawn.",
+   "status": "done"
   },
   {
    "id": "ev05B_2634",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……繰り返……す……。\n\n\n",
-   "en": ""
+   "en": "...I re...peat...",
+   "status": "done"
   },
   {
    "id": "ev05B_2658",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "シェス",
    "jp": "　以上……です……。\n\n\n",
-   "en": ""
+   "en": "That's... all...",
+   "status": "done"
   },
   {
    "id": "ev05B_2678",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev05B_2694",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　くそっ！\n　なんてこった……。\n\n",
-   "en": ""
+   "en": "Damn! What a mess...",
+   "status": "done"
   },
   {
    "id": "ev05B_26C0",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev05B_26E0",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　どうなっちまうんだい\n　わたしらは！？\n\n",
-   "en": ""
+   "en": "What's gonna happen to us!?",
+   "status": "done"
   },
   {
    "id": "ev05B_2714",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　どうなってしまうんでしょ！\n\n\n",
-   "en": ""
+   "en": "Whatever is going to become of us!",
+   "status": "done"
   },
   {
    "id": "ev05B_2740",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　そんなのわからんって……。\n\n\n",
-   "en": ""
+   "en": "How should I know, I tell ya...",
+   "status": "done"
   },
   {
    "id": "ev05B_276C",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　司令官……ソッド……？\n　あれが、オレたちの……。\n\n",
-   "en": ""
+   "en": "Commander... Thodd...? So that's the man\nwe're...",
+   "status": "done"
   },
   {
    "id": "ev05B_27AC",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev05B_27C8",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down... not in a place like\nthis...",
+   "status": "done"
   },
   {
    "id": "ev05B_2800",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　しまった、少しムリをしすぎた！\n\n\n",
-   "en": ""
+   "en": "Oh no, I pushed it a little too far!",
+   "status": "done"
   },
   {
    "id": "ev05B_282C",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　戦闘区域外に待避します。\n\n\n",
-   "en": ""
+   "en": "Withdrawing from the combat area.",
+   "status": "done"
   },
   {
    "id": "ev05B_2854",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　くそっ、オレとしたことが……。\n\n\n",
-   "en": ""
+   "en": "Damn, how could I screw up like this...",
+   "status": "done"
   },
   {
    "id": "ev05B_2884",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　悪い！\n　戦闘区域から離脱する！！\n\n",
-   "en": ""
+   "en": "Sorry! I'm pullin' out of the combat area!!",
+   "status": "done"
   },
   {
    "id": "ev05B_28B4",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ダメージを受けすぎた……。\n\n\n",
-   "en": ""
+   "en": "I've taken too much damage...",
+   "status": "done"
   },
   {
    "id": "ev05B_28E0",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　戦闘区域から後退する！\n　すまん、あとは頼むぞ……。\n\n",
-   "en": ""
+   "en": "Falling back from the combat area! Sorry, I\nleave the rest to you...",
+   "status": "done"
   },
   {
    "id": "ev05B_2924",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　なんてこったい！\n　脱出するよ！！\n\n",
-   "en": ""
+   "en": "Aw, no way! I'm bailin' out!!",
+   "status": "done"
   },
   {
    "id": "ev05B_2954",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　脱出します！！\n\n\n",
-   "en": ""
+   "en": "Bailin' out, folks!!",
+   "status": "done"
   },
   {
    "id": "ev05B_2974",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　脱出しますよ！！\n　\n\n",
-   "en": ""
+   "en": "I'm escaping, OK!!",
+   "status": "done"
   },
   {
    "id": "ev05B_2998",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　くそ、機体が持たない！？\n\n\n",
-   "en": ""
+   "en": "Damn, my machine can't take any more!?",
+   "status": "done"
   },
   {
    "id": "ev05B_29BC",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　アルマ！\n　私は、あなたを絶対に許さない！！\n\n",
-   "en": ""
+   "en": "Alma! I will never forgive you!!",
+   "status": "done"
   },
   {
    "id": "ev05B_29F4",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　少し相手をなめすぎたか……。\n\n\n",
-   "en": ""
+   "en": "Guess I underestimated 'em a bit...",
+   "status": "done"
   },
   {
    "id": "ev05B_2A20",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　おい、次に会うときは\n　覚えとけよ！！\n\n",
-   "en": ""
+   "en": "Hey! Next time we meet, you're gonna pay!!",
+   "status": "done"
   },
   {
    "id": "ev05B_4B48",
@@ -1633,7 +1794,8 @@
     "0x4E1C"
    ],
    "jp": "　　　　　　　　　聞け……\n\n　　古参の兵士の嘆きを、歴戦の騎士のΘきを\n\n　　　『みな、よい若者であった』と……\n\n　　　　　　若さ故に己の力を過信し\n　　　　無意味に死に急いだ若人の悲鳴が\n　　　　今日も年老いた戦士を苛み続ける\n\n　　　　　力ずくでも留めておけば……\n　　　　逸る気持ちを押さえてやれば……\n　　　　あの若者も死なずにすんだのだ\n",
-   "en": ""
+   "en": "Listen...\n\nto the old soldier's grief, the veteran's sigh:\n\nThey were all such fine young men...\n\nYouths who, too sure of their own strength,\nrushed headlong to meaningless deaths--\ntheir screams torment the old warrior still.\n\nIf only I had held them back by force...\nIf only I had reined in their eagerness...\nthat boy would not have had to die.",
+   "status": "done"
   },
   {
    "id": "ev05B_4C9C",
@@ -1642,7 +1804,8 @@
     "0x4E20"
    ],
    "jp": "　　　　　　　鬼籍にさえ入らねば\n　　　　　一端の剣士にもなれたろう\n　　ともに酒を汲み交わすこともできたろう\n\n　　　まだ幼さを残した紅顔の死武者たちが\n　数多の戦に花を散らせた老兵の胸中に去来する\n　　　　　生き延びた責めを負うが故に\n　　　老いたものは諭さずにはいられない\n\n　　　　　　死闘を制する手だてを\n　　　　　　　戦神に愛される術を\n\n　　そして、我が身で学んだ幾多の過ちを……\n",
-   "en": ""
+   "en": "Had he not gone to his grave so soon,\nhe might have become a swordsman of note.\nWe might have shared a drink together.\n\nFallen youths, still rosy-cheeked children,\nhaunt the old soldier who saw so many fall,\nand burdened with the guilt of surviving,\nthe old cannot help but pass on to them\n\nthe means to win a battle to the death,\nthe art of being loved by the god of war,\n\nand every mistake learned the hard way...",
+   "status": "done"
   }
  ]
 }

@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　バルツフィーム共和国\n　　王都\n\n",
-   "en": ""
+   "en": "Republic of Vartzpheem\nRoyal Capital",
+   "status": "done"
   },
   {
    "id": "ev16B_0764",
@@ -34,7 +35,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（オレたちの戦いは\n　終わりを迎えた……）\n\n",
-   "en": ""
+   "en": "(Our battle had come to an end...)",
+   "status": "done"
   },
   {
    "id": "ev16B_0798",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（総帥アデノイドの死により\n　ラガーシュ王国内の反戦派が\n　非公式ながら停戦を申し入れてきたのだ）\n",
-   "en": ""
+   "en": "(With Supreme Commander Adenoid dead,\nthe anti-war faction within the Kingdom of\nRagash had unofficially offered a ceasefire.)",
+   "status": "done"
   },
   {
    "id": "ev16B_0804",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（そう、\n　王都奪回のほかに\n　もう一つ大きなものを手に入れた）\n",
-   "en": ""
+   "en": "(Yes, besides retaking the Royal Capital,\nwe had gained one more great thing.)",
+   "status": "done"
   },
   {
    "id": "ev16B_084C",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（オレたちは平和を……）\n\n\n",
-   "en": ""
+   "en": "(We had won back peace...)",
+   "status": "done"
   },
   {
    "id": "ev16B_0870",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……平和を取り戻したのだ！）\n\n\n",
-   "en": ""
+   "en": "(...We had won back peace!)",
+   "status": "done"
   },
   {
    "id": "ev16B_089C",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……もう一杯！\n\n\n",
-   "en": ""
+   "en": "...One more round!",
+   "status": "done"
   },
   {
    "id": "ev16B_08BC",
@@ -94,7 +101,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ちょっと、副長！\n　……じゃなかった……。\n\n",
-   "en": ""
+   "en": "Come on, Vice-Captain! ...I mean...",
+   "status": "done"
   },
   {
    "id": "ev16B_08F4",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ベウマー隊長、飲み過ぎですよ。\n\n\n",
-   "en": ""
+   "en": "Captain Beumer, you're drinking way\ntoo much.",
+   "status": "done"
   },
   {
    "id": "ev16B_0920",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　いいじゃねえか。\n　こんなときに飲まなくて\n　いつ飲むというんだよ。\n",
-   "en": ""
+   "en": "Aw, so what? If ya don't drink at a time like\nthis, when're ya gonna?",
+   "status": "done"
   },
   {
    "id": "ev16B_0970",
@@ -124,7 +134,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　きょうは\n　とことんいくぞ。\n\n",
-   "en": ""
+   "en": "Tonight, we're goin' all the way.",
+   "status": "done"
   },
   {
    "id": "ev16B_099C",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なに、いってるんですか！\n　もう帰りますよ。\n\n",
-   "en": ""
+   "en": "What are you talking about! We're going\nhome now.",
+   "status": "done"
   },
   {
    "id": "ev16B_09D4",
@@ -144,7 +156,8 @@
    ],
    "speaker": "シェス",
    "jp": "　そうですよ。\n　ベウマー隊長。\n\n",
-   "en": ""
+   "en": "That's right, Captain Beumer.",
+   "status": "done"
   },
   {
    "id": "ev16B_0A00",
@@ -154,7 +167,8 @@
    ],
    "speaker": "シェス",
    "jp": "　いくら戦闘がないといっても\n　お仕事はあるんですからね。\n\n",
-   "en": ""
+   "en": "There may not be any fighting, but you still\nhave work to do, you know.",
+   "status": "done"
   },
   {
    "id": "ev16B_0A44",
@@ -164,7 +178,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　固いこというなって。\n\n\n",
-   "en": ""
+   "en": "Aw, don't be such a stiff.",
+   "status": "done"
   },
   {
    "id": "ev16B_0A68",
@@ -174,7 +189,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ダメです！\n\n\n",
-   "en": ""
+   "en": "Absolutely not!",
+   "status": "done"
   },
   {
    "id": "ev16B_0A80",
@@ -184,7 +200,8 @@
    ],
    "speaker": "シェス",
    "jp": "　いきますよ！！\n\n\n",
-   "en": ""
+   "en": "Come along now!!",
+   "status": "done"
   },
   {
    "id": "ev16B_0A9C",
@@ -194,7 +211,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　おい、シェス！\n　引っ張るなよ！！\n\n",
-   "en": ""
+   "en": "Hey, Shess! Quit pullin' me!!",
+   "status": "done"
   },
   {
    "id": "ev16B_0ACC",
@@ -204,7 +222,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ふう、まいったな……。\n\n\n",
-   "en": ""
+   "en": "Phew, what a handful...",
+   "status": "done"
   },
   {
    "id": "ev16B_0AF0",
@@ -214,7 +233,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　でも、あんなうれしそうな\n　ベウマー隊長を見るのは\n　初めてですよ。\n",
-   "en": ""
+   "en": "But it's the first time I've seen Captain\nBeumer look that happy.",
+   "status": "done"
   },
   {
    "id": "ev16B_0B40",
@@ -224,7 +244,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いろいろと、\n　苦労があったんでしょう。\n\n",
-   "en": ""
+   "en": "He must have been through a great deal.",
+   "status": "done"
   },
   {
    "id": "ev16B_0B74",
@@ -234,7 +255,8 @@
    ],
    "speaker": "イェン",
    "jp": "　……それに\n　彼なりに期するものが\n　あったのでしょう。\n",
-   "en": ""
+   "en": "...And I suspect he had a resolve of\nhis own.",
+   "status": "done"
   },
   {
    "id": "ev16B_0BB8",
@@ -244,7 +266,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ラガーシュ軍の攻撃は\n　王都陥落後も続けられた……。\n\n",
-   "en": ""
+   "en": "Ragash's attacks continued even after the\nRoyal Capital fell...",
+   "status": "done"
   },
   {
    "id": "ev16B_0BF8",
@@ -254,7 +277,8 @@
    ],
    "speaker": "イェン",
    "jp": "　そういった苦しい状況でも\n　彼はあきらめず、ナトゥーレと交渉し、\n　人を集め、組織としてまとめた。\n",
-   "en": ""
+   "en": "Even in such hardship, he never gave up. He\nnegotiated with Natoure, gathered people\nand forged them into a real organization.",
+   "status": "done"
   },
   {
    "id": "ev16B_0C64",
@@ -264,7 +288,8 @@
    ],
    "speaker": "イェン",
    "jp": "　強い意志と忍耐。\n　それがなければ、あんなことは\n　できなかったでしょうね。\n",
-   "en": ""
+   "en": "Strong will and patience. Without them, he\ncould never have done it, I imagine.",
+   "status": "done"
   },
   {
    "id": "ev16B_0CBC",
@@ -274,7 +299,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_0CD8",
@@ -284,7 +310,8 @@
    ],
    "speaker": "トト",
    "jp": "　ふ～ん。\n　おっちゃんって\n　エライ人だったんだ。\n",
-   "en": ""
+   "en": "Hmmm. So the big guy's an important\nperson, huh.",
+   "status": "done"
   },
   {
    "id": "ev16B_0D14",
@@ -294,7 +321,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　でも、それはどうかしら？\n\n\n",
-   "en": ""
+   "en": "Though I wonder about that.",
+   "status": "done"
   },
   {
    "id": "ev16B_0D3C",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうだな、あの人の場合、\n　確かにエライ人とは\n　ちょっと違うような？\n",
-   "en": ""
+   "en": "Yeah, in his case, important person doesn't\nquite seem to fit, does it?",
+   "status": "done"
   },
   {
    "id": "ev16B_0D8C",
@@ -314,7 +343,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　なんかいったか？\n\n\n",
-   "en": ""
+   "en": "Ya say somethin'?",
+   "status": "done"
   },
   {
    "id": "ev16B_0DAC",
@@ -324,7 +354,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……いえ、なにも……。\n\n\n",
-   "en": ""
+   "en": "...No, nothing...",
+   "status": "done"
   },
   {
    "id": "ev16B_0DD0",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　もう、\n　しっかりしてくださいよ。\n\n",
-   "en": ""
+   "en": "Come on, pull yourself together.",
+   "status": "done"
   },
   {
    "id": "ev16B_0E00",
@@ -344,7 +376,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……ケイゴ。\n\n\n",
-   "en": ""
+   "en": "...Keigo.",
+   "status": "done"
   },
   {
    "id": "ev16B_0E1C",
@@ -354,7 +387,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんですか？\n\n\n",
-   "en": ""
+   "en": "What is it?",
+   "status": "done"
   },
   {
    "id": "ev16B_0E38",
@@ -364,7 +398,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　おまえ、隊長とは\n　どうなった？\n\n",
-   "en": ""
+   "en": "So, how're things with you and the captain?",
+   "status": "done"
   },
   {
    "id": "ev16B_0E68",
@@ -374,7 +409,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　どうなったって\n　なにがです。\n\n",
-   "en": ""
+   "en": "How're what things?",
+   "status": "done"
   },
   {
    "id": "ev16B_0E94",
@@ -384,7 +420,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ダウスから帰ってきたあと、\n　どうもおまえと隊長の関係は、\n　怪しいと思っていたんだ。\n",
-   "en": ""
+   "en": "Ever since you got back from Daus, I've\nhad a feelin' somethin's goin' on between\nyou and the captain.",
+   "status": "done"
   },
   {
    "id": "ev16B_0EF8",
@@ -394,7 +431,8 @@
    ],
    "speaker": "シェス",
    "jp": "　そうそう。\n　あたしもそう思います。\n\n",
-   "en": ""
+   "en": "Yes, yes! I think so too.",
+   "status": "done"
   },
   {
    "id": "ev16B_0F28",
@@ -404,7 +442,8 @@
    ],
    "speaker": "シェス",
    "jp": "　二人はどういう関係なんですか？\n\n\n",
-   "en": ""
+   "en": "So what exactly is going on between\nyou two?",
+   "status": "done"
   },
   {
    "id": "ev16B_0F54",
@@ -414,7 +453,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　へっ……！？\n\n\n",
-   "en": ""
+   "en": "Huh...!?",
+   "status": "done"
   },
   {
    "id": "ev16B_0F70",
@@ -424,7 +464,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ごまかすんじゃない！\n　オレたちのあいだに隠しごとは\n　なしだろ？\n",
-   "en": ""
+   "en": "Don't you dodge it! We don't keep secrets\nfrom each other, right?",
+   "status": "done"
   },
   {
    "id": "ev16B_0FC0",
@@ -434,7 +475,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なに、いってるんですか！\n　なにもありませんよ。\n\n",
-   "en": ""
+   "en": "What are you talking about! There's nothing\ngoing on.",
+   "status": "done"
   },
   {
    "id": "ev16B_0FFC",
@@ -444,7 +486,8 @@
    ],
    "speaker": "シェス",
    "jp": "　うそ。\n　あたしは、こう見えても\n　そういったことはよくわかるんです！\n",
-   "en": ""
+   "en": "Liar. I may not look it, but I can always tell\nabout these things!",
+   "status": "done"
   },
   {
    "id": "ev16B_104C",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　違うって！！\n\n\n",
-   "en": ""
+   "en": "It's not like that!!",
+   "status": "done"
   },
   {
    "id": "ev16B_1068",
@@ -464,7 +508,8 @@
    ],
    "speaker": "トト",
    "jp": "　まあ、二人のことは\n　おいらが一番よくわかってるけどね。\n\n",
-   "en": ""
+   "en": "Well, I know best what's goin' on with\nthose two, anyway.",
+   "status": "done"
   },
   {
    "id": "ev16B_10AC",
@@ -474,7 +519,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　トト！\n　おまえっ！！\n\n",
-   "en": ""
+   "en": "Toto! Why, you!!",
+   "status": "done"
   },
   {
    "id": "ev16B_10D0",
@@ -484,7 +530,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ケイゴさん！\n　もう、白状しなさい！！\n\n",
-   "en": ""
+   "en": "Keigo-san! Come on, confess!!",
+   "status": "done"
   },
   {
    "id": "ev16B_1104",
@@ -494,7 +541,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だから、なにもないって！！\n\n\n",
-   "en": ""
+   "en": "I'm telling you, there's nothing!!",
+   "status": "done"
   },
   {
    "id": "ev16B_112C",
@@ -504,7 +552,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長、イェン。\n　なんとかいってくださいよ！\n\n",
-   "en": ""
+   "en": "Captain, Yen. Say something, please!",
+   "status": "done"
   },
   {
    "id": "ev16B_1164",
@@ -514,7 +563,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_1180",
@@ -524,7 +574,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_119C",
@@ -534,7 +585,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　もうっ！！\n\n\n",
-   "en": ""
+   "en": "Oh, come on!!",
+   "status": "done"
   },
   {
    "id": "ev16B_11B4",
@@ -544,7 +596,8 @@
    ],
    "speaker": "",
    "jp": "　ラガーシュ王国\n　　王都\n\n",
-   "en": ""
+   "en": "Kingdom of Ragash\nRoyal Capital",
+   "status": "done"
   },
   {
    "id": "ev16B_11D4",
@@ -554,7 +607,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev16B_11F4",
@@ -564,7 +618,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（指導者を失い、\n　無様に逃げ帰ったあげく……）\n\n",
-   "en": ""
+   "en": "(Our leader lost, and after fleeing home in\ndisgrace...)",
+   "status": "done"
   },
   {
    "id": "ev16B_1230",
@@ -574,7 +629,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（……戦闘禁止とはな）\n\n\n",
-   "en": ""
+   "en": "(...fighting is now forbidden.)",
+   "status": "done"
   },
   {
    "id": "ev16B_1254",
@@ -584,7 +640,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（そんな軍隊になんの意味がある）\n\n\n",
-   "en": ""
+   "en": "(What meaning does such an army have?)",
+   "status": "done"
   },
   {
    "id": "ev16B_1284",
@@ -594,7 +651,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（戦うべき理由を他人にまかせ……）\n\n\n",
-   "en": ""
+   "en": "(Leaving the reasons to fight to others...)",
+   "status": "done"
   },
   {
    "id": "ev16B_12B4",
@@ -604,7 +662,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（戦うことだけを考えている男には\n　お似合いの結末だとでもいうのか……）\n\n",
-   "en": ""
+   "en": "(Is this the fitting end for a man who thinks\nonly of fighting...?)",
+   "status": "done"
   },
   {
    "id": "ev16B_1308",
@@ -614,7 +673,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev16B_1328",
@@ -624,7 +684,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　ふ～ん、\n　マギーアねぇ……。\n\n",
-   "en": ""
+   "en": "Hmm, so you're Magia...",
+   "status": "done"
   },
   {
    "id": "ev16B_1354",
@@ -634,7 +695,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　あんたみたいな優男に\n　軍人が務まるのかい？\n\n",
-   "en": ""
+   "en": "Can a pretty boy like you really cut it as a\nsoldier?",
+   "status": "done"
   },
   {
    "id": "ev16B_138C",
@@ -644,7 +706,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　逃げ出すんなら\n　今のうちだよ。\n\n",
-   "en": ""
+   "en": "If you're gonna run, now's your chance.",
+   "status": "done"
   },
   {
    "id": "ev16B_13B8",
@@ -654,7 +717,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　ふ～ん。\n　思ったよりやるもんだねぇ。\n\n",
-   "en": ""
+   "en": "Hmm. You're better than I figured.",
+   "status": "done"
   },
   {
    "id": "ev16B_13EC",
@@ -664,7 +728,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　あんたと組んでれば\n　死ぬことはなさそうだ。\n\n",
-   "en": ""
+   "en": "Partnered with you, looks like I won't be\ndying anytime soon.",
+   "status": "done"
   },
   {
    "id": "ev16B_1424",
@@ -674,7 +739,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　まあ、よろしく頼むよ。\n\n\n",
-   "en": ""
+   "en": "Well, I'm counting on you, partner.",
+   "status": "done"
   },
   {
    "id": "ev16B_1448",
@@ -684,7 +750,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　あんたは、いったいなんのために\n　戦っているんだい。\n\n",
-   "en": ""
+   "en": "Just what are you fighting for, anyway?",
+   "status": "done"
   },
   {
    "id": "ev16B_1488",
@@ -694,7 +761,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　愛国心とか忠誠心とか\n　いうんじゃないだろうね。\n\n",
-   "en": ""
+   "en": "Don't tell me it's patriotism or loyalty or\nsome such.",
+   "status": "done"
   },
   {
    "id": "ev16B_14C4",
@@ -704,7 +772,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　今どきそんなのはやんないよ。\n\n\n",
-   "en": ""
+   "en": "Nobody goes for that stuff these days.",
+   "status": "done"
   },
   {
    "id": "ev16B_14F0",
@@ -714,7 +783,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　黙ってりゃ、\n　いい男なんだけどね！！\n\n",
-   "en": ""
+   "en": "You'd be a real catch if you just kept your\nmouth shut!!",
+   "status": "done"
   },
   {
    "id": "ev16B_1524",
@@ -724,7 +794,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　約束だ。\n　忘れるなよ。\n\n",
-   "en": ""
+   "en": "It's a promise. Don't you forget it.",
+   "status": "done"
   },
   {
    "id": "ev16B_1548",
@@ -734,7 +805,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　……一緒に……お酒……。\n\n\n",
-   "en": ""
+   "en": "...Together... a drink...",
+   "status": "done"
   },
   {
    "id": "ev16B_1570",
@@ -744,7 +816,8 @@
    ],
    "speaker": "キャリ",
    "jp": "　……飲みにいかなきゃね……。\n\n\n",
-   "en": ""
+   "en": "...We still have to go drinking...",
+   "status": "done"
   },
   {
    "id": "ev16B_159C",
@@ -754,7 +827,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　戦うべき理由……。\n\n\n",
-   "en": ""
+   "en": "A reason to fight...",
+   "status": "done"
   },
   {
    "id": "ev16B_15C0",
@@ -764,7 +838,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　そうか、理由か……。\n\n\n",
-   "en": ""
+   "en": "I see, a reason...",
+   "status": "done"
   },
   {
    "id": "ev16B_15E4",
@@ -774,7 +849,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　戦う理由なら……。\n\n\n",
-   "en": ""
+   "en": "If it's a reason to fight...",
+   "status": "done"
   },
   {
    "id": "ev16B_1608",
@@ -784,7 +860,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　……ある！\n\n\n",
-   "en": ""
+   "en": "...then I have one!",
+   "status": "done"
   },
   {
    "id": "ev16B_1624",
@@ -794,7 +871,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　マギーア機、出るぞ。\n\n\n",
-   "en": ""
+   "en": "Magia's unit, moving out.",
+   "status": "done"
   },
   {
    "id": "ev16B_1648",
@@ -804,7 +882,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　マギーア様、ダメです。\n\n\n",
-   "en": ""
+   "en": "Magia-sama, you mustn't.",
+   "status": "done"
   },
   {
    "id": "ev16B_1674",
@@ -814,7 +893,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　出撃禁止命令が出ております。\n\n\n",
-   "en": ""
+   "en": "An order forbidding all sorties has been\nissued.",
+   "status": "done"
   },
   {
    "id": "ev16B_16A8",
@@ -824,7 +904,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　かまわん、\n　これは私自身の戦い。\n\n",
-   "en": ""
+   "en": "I don't care. This is my own battle.",
+   "status": "done"
   },
   {
    "id": "ev16B_16D8",
@@ -834,7 +915,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　いうなれば、私戦だ。\n\n\n",
-   "en": ""
+   "en": "A private war, you might say.",
+   "status": "done"
   },
   {
    "id": "ev16B_16FC",
@@ -844,7 +926,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　ジャマをするな！\n\n\n",
-   "en": ""
+   "en": "Stay out of my way!",
+   "status": "done"
   },
   {
    "id": "ev16B_171C",
@@ -854,7 +937,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　マ、マギーア様……。\n\n\n",
-   "en": ""
+   "en": "M-Magia-sama...",
+   "status": "done"
   },
   {
    "id": "ev16B_1748",
@@ -864,7 +948,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　……では、\n　我々も連れていってください。\n\n\n",
-   "en": ""
+   "en": "...Then please, take us with you.",
+   "status": "done"
   },
   {
    "id": "ev16B_1788",
@@ -874,7 +959,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　我々は、\n　まだ負けたわけではありません。\n\n",
-   "en": ""
+   "en": "We haven't been beaten yet.",
+   "status": "done"
   },
   {
    "id": "ev16B_17C8",
@@ -884,7 +970,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　バルツフィームのヤツらに\n　一矢でも……。\n\n",
-   "en": ""
+   "en": "If we could land even one blow on those\nVartzpheem bastards...",
+   "status": "done"
   },
   {
    "id": "ev16B_1808",
@@ -894,7 +981,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　やめておけ。\n　ムダ死にするだけだ。\n\n",
-   "en": ""
+   "en": "Don't. You'll only throw your lives away.",
+   "status": "done"
   },
   {
    "id": "ev16B_183C",
@@ -904,7 +992,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　マギーア様！！\n\n\n",
-   "en": ""
+   "en": "Magia-sama!!",
+   "status": "done"
   },
   {
    "id": "ev16B_1860",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_1880",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　……好きにしろ。\n\n\n",
-   "en": ""
+   "en": "...Suit yourselves.",
+   "status": "done"
   },
   {
    "id": "ev16B_18A0",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　マギーア様……。\n\n\n",
-   "en": ""
+   "en": "Magia-sama...",
+   "status": "done"
   },
   {
    "id": "ev16B_18C8",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　マギーア隊、出撃する！\n\n\n",
-   "en": ""
+   "en": "Magia's squad, moving out!",
+   "status": "done"
   },
   {
    "id": "ev16B_18F4",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "シェス",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_1910",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……敵が現れたって！？\n\n\n",
-   "en": ""
+   "en": "...Enemies have appeared!?",
+   "status": "done"
   },
   {
    "id": "ev16B_1934",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "シェス",
    "jp": "　現在、王都方面に\n　向かって接近中です！\n\n",
-   "en": ""
+   "en": "They're currently approaching, headed\ntoward the Royal Capital!",
+   "status": "done"
   },
   {
    "id": "ev16B_1968",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　でも、ラガーシュとは\n　交戦禁止ということで\n　話がついているはずよ。\n",
-   "en": ""
+   "en": "But it's supposed to be settled that there'll\nbe no fighting with Ragash.",
+   "status": "done"
   },
   {
    "id": "ev16B_19B8",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　相手はいったい？\n\n\n",
-   "en": ""
+   "en": "Who on earth are they?",
+   "status": "done"
   },
   {
    "id": "ev16B_19D8",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "シェス",
    "jp": "　わかりません。\n\n\n",
-   "en": ""
+   "en": "We don't know.",
+   "status": "done"
   },
   {
    "id": "ev16B_19F4",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ただ、偵察中の魔装機隊からは\n　敵魔装機隊と交戦中との連絡後……。\n\n",
-   "en": ""
+   "en": "All we know is that a Masouki squad on\npatrol reported engaging an enemy Masouki\nsquad, and after that...",
+   "status": "done"
   },
   {
    "id": "ev16B_1A44",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　撃破されたということ？\n\n\n",
-   "en": ""
+   "en": "You mean they were shot down?",
+   "status": "done"
   },
   {
    "id": "ev16B_1A68",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "シェス",
    "jp": "　おそらく……。\n\n\n",
-   "en": ""
+   "en": "Most likely...",
+   "status": "done"
   },
   {
    "id": "ev16B_1A84",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ベウマー隊長は？\n\n\n",
-   "en": ""
+   "en": "Where's Captain Beumer?",
+   "status": "done"
   },
   {
    "id": "ev16B_1AA4",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "シェス",
    "jp": "　それが\n　西方騎士隊の基地の状態を\n　見にいかれました……。\n",
-   "en": ""
+   "en": "Well, he went to check on the state of the\nWestern Knights' base...",
+   "status": "done"
   },
   {
    "id": "ev16B_1AEC",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうか……。\n\n\n",
-   "en": ""
+   "en": "I see...",
+   "status": "done"
   },
   {
    "id": "ev16B_1B08",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_1B24",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "イェン",
    "jp": "　王都に入り込まれては\n　厄介です。\n\n",
-   "en": ""
+   "en": "It would be troublesome if they got into the\nRoyal Capital.",
+   "status": "done"
   },
   {
    "id": "ev16B_1B54",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "イェン",
    "jp": "　我々だけで\n　出撃しましょう。\n\n",
-   "en": ""
+   "en": "Let us sortie on our own.",
+   "status": "done"
   },
   {
    "id": "ev16B_1B80",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうね。\n\n\n",
-   "en": ""
+   "en": "Yes, let's.",
+   "status": "done"
   },
   {
    "id": "ev16B_1B98",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　彼らがこちらに向かっているのなら\n　もう、そろそろ\n　王都付近に到達するころだわ。\n",
-   "en": ""
+   "en": "If they're heading this way, they should be\nreaching the area around the Royal Capital\nany time now.",
+   "status": "done"
   },
   {
    "id": "ev16B_1BF4",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "トト",
    "jp": "　出撃するの？\n\n\n",
-   "en": ""
+   "en": "Are we heading out?",
+   "status": "done"
   },
   {
    "id": "ev16B_1C0C",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……そうだな。\n\n\n",
-   "en": ""
+   "en": "...Yeah.",
+   "status": "done"
   },
   {
    "id": "ev16B_1C28",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いこう。\n\n\n",
-   "en": ""
+   "en": "Let's go.",
+   "status": "done"
   },
   {
    "id": "ev16B_1C40",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（……この数では\n　次の戦闘が最後になりそうだ）\n\n",
-   "en": ""
+   "en": "(...With these numbers, the next battle will\nlikely be our last.)",
+   "status": "done"
   },
   {
    "id": "ev16B_1C7C",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（最後ぐらい\n　魔装機神どもと戦いたかったが……）\n\n",
-   "en": ""
+   "en": "(At the end, at least, I'd hoped to fight the\nMasoukishin...)",
+   "status": "done"
   },
   {
    "id": "ev16B_1CBC",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　マギーア様っ！\n　敵部隊を確認！！\n\n",
-   "en": ""
+   "en": "Magia-sama! Enemy unit sighted!!",
+   "status": "done"
   },
   {
    "id": "ev16B_1CF4",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　まもなく接触します！！\n\n\n",
-   "en": ""
+   "en": "Contact imminent!!",
+   "status": "done"
   },
   {
    "id": "ev16B_1D20",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（……こ、このプラーナ反応は！！）\n\n\n",
-   "en": ""
+   "en": "(...Th-this Prana reading!!)",
+   "status": "done"
   },
   {
    "id": "ev16B_1D50",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（フッ、オレの運も\n　まだつきてはいないということか）\n\n\n",
-   "en": ""
+   "en": "(Heh. So my luck hasn't run out yet\nafter all.)",
+   "status": "done"
   },
   {
    "id": "ev16B_1D94",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（キャリ、おまえの仇）\n\n\n",
-   "en": ""
+   "en": "(Kyari, your vengeance...)",
+   "status": "done"
   },
   {
    "id": "ev16B_1DB8",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（オレが討つ！！）\n\n\n",
-   "en": ""
+   "en": "(I'll take it myself!!)",
+   "status": "done"
   },
   {
    "id": "ev16B_1DD8",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　お、おまえっ！\n\n\n",
-   "en": ""
+   "en": "Y-you!",
+   "status": "done"
   },
   {
    "id": "ev16B_1DF4",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　マ、マギーア！！\n\n\n",
-   "en": ""
+   "en": "M-Magia!!",
+   "status": "done"
   },
   {
    "id": "ev16B_1E14",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　ほう、\n　覚えていてくれて恐縮だよ。\n\n",
-   "en": ""
+   "en": "Oh? I'm honored that you remember me.",
+   "status": "done"
   },
   {
    "id": "ev16B_1E48",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　ケイゴ＝フェルディナン。\n\n\n",
-   "en": ""
+   "en": "Keigo Ferdinand.",
+   "status": "done"
   },
   {
    "id": "ev16B_1E70",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なぜ、こんなことを！\n\n\n",
-   "en": ""
+   "en": "Why are you doing this!",
+   "status": "done"
   },
   {
    "id": "ev16B_1E94",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ラガーシュとは\n　休戦中のはずだぞ！\n\n",
-   "en": ""
+   "en": "We're supposed to be in a ceasefire with\nRagash!",
+   "status": "done"
   },
   {
    "id": "ev16B_1EC4",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　これはオレ自身の戦いだ。\n\n\n",
-   "en": ""
+   "en": "This is my own battle.",
+   "status": "done"
   },
   {
    "id": "ev16B_1EEC",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　ラガーシュが\n　どうであろうと関係ない。\n\n\n",
-   "en": ""
+   "en": "What Ragash does has nothing to do\nwith it.",
+   "status": "done"
   },
   {
    "id": "ev16B_1F24",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　それにまだ\n　おまえたちとの決着がついていない。\n\n",
-   "en": ""
+   "en": "Besides, things between you and me are\nnot yet settled.",
+   "status": "done"
   },
   {
    "id": "ev16B_1F64",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　オレの戦いは\n　まだ終わっていないのだ。\n\n",
-   "en": ""
+   "en": "My battle is not over yet.",
+   "status": "done"
   },
   {
    "id": "ev16B_1F9C",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　やめろ！\n\n\n",
-   "en": ""
+   "en": "Stop it!",
+   "status": "done"
   },
   {
    "id": "ev16B_1FB4",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　これ以上戦って\n　なんの意味がある！\n\n",
-   "en": ""
+   "en": "What's the point of fighting any more!",
+   "status": "done"
   },
   {
    "id": "ev16B_1FE4",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　意味？\n\n\n",
-   "en": ""
+   "en": "The point?",
+   "status": "done"
   },
   {
    "id": "ev16B_1FFC",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　意味ならある。\n\n\n",
-   "en": ""
+   "en": "There is a point.",
+   "status": "done"
   },
   {
    "id": "ev16B_201C",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　おまえたちによって倒された\n　部下たちへのケジメ。\n\n",
-   "en": ""
+   "en": "To settle accounts for my men who fell\nto you.",
+   "status": "done"
   },
   {
    "id": "ev16B_205C",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　それに、おまえたちは\n　バルツフィーム王都への襲撃を\n　ジャマしようとしているのだ。\n",
-   "en": ""
+   "en": "And you are trying to stop our attack on\nthe Royal Capital of Vartzpheem.",
+   "status": "done"
   },
   {
    "id": "ev16B_20BC",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　戦う理由としては充分すぎるだろう。\n\n\n",
-   "en": ""
+   "en": "That is more than reason enough to fight.",
+   "status": "done"
   },
   {
    "id": "ev16B_20F0",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（……王都への襲撃！？）\n\n\n",
-   "en": ""
+   "en": "(...An attack on the Royal Capital!?)",
+   "status": "done"
   },
   {
    "id": "ev16B_2114",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "イェン",
    "jp": "（たったこれだけの戦力で……）\n\n\n",
-   "en": ""
+   "en": "(With so small a force as this...)",
+   "status": "done"
   },
   {
    "id": "ev16B_2140",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "トト",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev16B_215C",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　その戦力でなにができる！\n\n\n",
-   "en": ""
+   "en": "What can you do with a force like that!",
+   "status": "done"
   },
   {
    "id": "ev16B_2184",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ムダな血を流すだけだ！！\n\n\n",
-   "en": ""
+   "en": "You'll only shed blood for nothing!!",
+   "status": "done"
   },
   {
    "id": "ev16B_21AC",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　やめてくれ！\n\n\n",
-   "en": ""
+   "en": "Please, stop!",
+   "status": "done"
   },
   {
    "id": "ev16B_21C8",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　そんなことは、\n　おまえに関係なかろう。\n\n",
-   "en": ""
+   "en": "That is no concern of yours.",
+   "status": "done"
   },
   {
    "id": "ev16B_2200",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　それに\n　今のオレの望みはただ一つ。\n\n",
-   "en": ""
+   "en": "Besides, I have only one wish now.",
+   "status": "done"
   },
   {
    "id": "ev16B_2234",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　魔装機神を\n　この手で葬りさること！\n\n",
-   "en": ""
+   "en": "To bury the Masoukishin with my own\nhands!",
+   "status": "done"
   },
   {
    "id": "ev16B_2268",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　それだけだ！！\n\n\n",
-   "en": ""
+   "en": "That is all!!",
+   "status": "done"
   },
   {
    "id": "ev16B_2288",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　いくぞっ！！\n\n\n",
-   "en": ""
+   "en": "Here I come!!",
+   "status": "done"
   },
   {
    "id": "ev16B_22A4",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_22C0",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　最初から\n　勝ち目はないと\n　わかっていたはずなのに……。\n",
-   "en": ""
+   "en": "They must have known from the start that\nthey had no chance of winning...",
+   "status": "done"
   },
   {
    "id": "ev16B_2304",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "イェン",
    "jp": "　彼らにも信念というものが\n　あったのでしょう。\n\n",
-   "en": ""
+   "en": "They too must have had convictions of\ntheir own.",
+   "status": "done"
   },
   {
    "id": "ev16B_2340",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だからといって……！\n\n\n",
-   "en": ""
+   "en": "Even so...!",
+   "status": "done"
   },
   {
    "id": "ev16B_2364",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "トト",
    "jp": "　にいちゃん、やめなよ！\n\n\n",
-   "en": ""
+   "en": "Big bro, quit it!",
+   "status": "done"
   },
   {
    "id": "ev16B_2388",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くそっ……。\n\n\n",
-   "en": ""
+   "en": "Damn it...",
+   "status": "done"
   },
   {
    "id": "ev16B_23A4",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_23C0",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "イェン",
    "jp": "　……うんっ！？\n\n",
-   "en": ""
+   "en": "...Hm!?",
+   "status": "done"
   },
   {
    "id": "ev16B_23DC",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "トト",
    "jp": "　うわっ！！\n\n\n",
-   "en": ""
+   "en": "Whoa!!",
+   "status": "done"
   },
   {
    "id": "ev16B_23F4",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まさか！！\n\n\n",
-   "en": ""
+   "en": "It can't be!!",
+   "status": "done"
   },
   {
    "id": "ev16B_240C",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　部下だった男の\n　最後の舞台に登場するのは、\n　無粋とも思ったが……。\n",
-   "en": ""
+   "en": "I did think it tasteless to appear on the final\nstage of a man who was once my\nsubordinate...",
+   "status": "done"
   },
   {
    "id": "ev16B_245C",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私にも都合があってね。\n\n\n",
-   "en": ""
+   "en": "But I have my own affairs to see to.",
+   "status": "done"
   },
   {
    "id": "ev16B_2480",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ソッド！？\n\n\n",
-   "en": ""
+   "en": "Thodd!?",
+   "status": "done"
   },
   {
    "id": "ev16B_2498",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なかなか、\n　魅力的なドラマを見せてもらったよ。\n\n\n",
-   "en": ""
+   "en": "That was quite a charming drama you\nshowed me.",
+   "status": "done"
   },
   {
    "id": "ev16B_24D4",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ソッド、おまえっ！！\n\n\n",
-   "en": ""
+   "en": "Thodd, you!!",
+   "status": "done"
   },
   {
    "id": "ev16B_24F8",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　もっとも結末は\n　君たちも一緒にというほうが\n　私としては好みだが……。\n",
-   "en": ""
+   "en": "Though for my part, I would have preferred\nan ending in which you all went down with\nhim...",
+   "status": "done"
   },
   {
    "id": "ev16B_254C",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　しょせん、人の持つ力。\n\n\n",
-   "en": ""
+   "en": "The power of humans, after all.",
+   "status": "done"
   },
   {
    "id": "ev16B_2570",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　その限界というものを\n　再認識させてもらったよ。\n\n",
-   "en": ""
+   "en": "You have reminded me of its limits once\nagain.",
+   "status": "done"
   },
   {
    "id": "ev16B_25AC",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "イェン",
    "jp": "（……この男。\n　なにをいっているんだ）\n\n\n",
-   "en": ""
+   "en": "(...This man. What is he talking about?)",
+   "status": "done"
   },
   {
    "id": "ev16B_25E0",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "イェン",
    "jp": "（まるで\n　自分が人ではないような……）\n\n\n",
-   "en": ""
+   "en": "(He speaks as if he himself were not\nhuman...)",
+   "status": "done"
   },
   {
    "id": "ev16B_2614",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　望んだ結末でなく\n　残念だったな。\n\n",
-   "en": ""
+   "en": "Too bad it wasn't the ending you wanted.",
+   "status": "done"
   },
   {
    "id": "ev16B_2644",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それにラガーシュとは\n　平和条約を結ぶことになる。\n\n",
-   "en": ""
+   "en": "And we're going to sign a peace treaty with\nRagash.",
+   "status": "done"
   },
   {
    "id": "ev16B_2684",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ソッド！\n　おまえの野望はすべて\n　打ち砕いてやったぞ。\n",
-   "en": ""
+   "en": "Thodd! We've crushed every last one of\nyour ambitions.",
+   "status": "done"
   },
   {
    "id": "ev16B_26C8",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　野望？\n\n\n",
-   "en": ""
+   "en": "Ambitions?",
+   "status": "done"
   },
   {
    "id": "ev16B_26DC",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私が望むものは\n　そんな俗な言葉で\n　表現できるものではない。\n",
-   "en": ""
+   "en": "What I desire cannot be expressed in so\nvulgar a word.",
+   "status": "done"
   },
   {
    "id": "ev16B_2724",
@@ -1764,7 +1938,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　君らが行ったことは\n　私にとってはどうでもよいことだ。\n\n",
-   "en": ""
+   "en": "What you people have done is of no\nconsequence to me.",
+   "status": "done"
   },
   {
    "id": "ev16B_2768",
@@ -1774,7 +1949,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そんな負け惜しみを！\n\n\n",
-   "en": ""
+   "en": "That's just sour grapes!",
+   "status": "done"
   },
   {
    "id": "ev16B_278C",
@@ -1784,7 +1960,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　負け惜しみではない。\n\n\n",
-   "en": ""
+   "en": "It is not sour grapes.",
+   "status": "done"
   },
   {
    "id": "ev16B_27B0",
@@ -1794,7 +1971,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　宴はもう始まっている。\n\n\n",
-   "en": ""
+   "en": "The feast has already begun.",
+   "status": "done"
   },
   {
    "id": "ev16B_27D4",
@@ -1804,7 +1982,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　きょうは\n　そのための余興……。\n\n\n",
-   "en": ""
+   "en": "Today was merely the entertainment for it...",
+   "status": "done"
   },
   {
    "id": "ev16B_2800",
@@ -1814,7 +1993,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　この身を焦がし、\n　新たなる世界の幕開けを！！\n\n",
-   "en": ""
+   "en": "Let this body burn, and raise the curtain on\na new world!!",
+   "status": "done"
   },
   {
    "id": "ev16B_283C",
@@ -1824,7 +2004,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ゆくぞ！\n\n\n",
-   "en": ""
+   "en": "Here I come!",
+   "status": "done"
   },
   {
    "id": "ev16B_2854",
@@ -1834,7 +2015,8 @@
    ],
    "speaker": "トト",
    "jp": "　へ～んだ。\n　カッコつけてるくせに\n　全然、弱いじゃん。\n",
-   "en": ""
+   "en": "Hmph! For a guy who acts all cool, he was\nsuper weak.",
+   "status": "done"
   },
   {
    "id": "ev16B_2894",
@@ -1844,7 +2026,8 @@
    ],
    "speaker": "トト",
    "jp": "　やっぱり\n　トトさまの正義の力の前には……。\n\n",
-   "en": ""
+   "en": "I knew it. Before the power of justice of\nthe great Toto...",
+   "status": "done"
   },
   {
    "id": "ev16B_28CC",
@@ -1854,7 +2037,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　調子に乗り過ぎだ。\n\n\n",
-   "en": ""
+   "en": "You're getting way too carried away.",
+   "status": "done"
   },
   {
    "id": "ev16B_28EC",
@@ -1864,7 +2048,8 @@
    ],
    "speaker": "トト",
    "jp": "　いいじゃん。\n　これで平和になるんだろ？\n\n",
-   "en": ""
+   "en": "So what? This means there'll be peace now,\nright?",
+   "status": "done"
   },
   {
    "id": "ev16B_2920",
@@ -1874,7 +2059,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……だといいんだけれど……。\n\n\n",
-   "en": ""
+   "en": "...I hope so...",
+   "status": "done"
   },
   {
    "id": "ev16B_294C",
@@ -1884,7 +2070,8 @@
    ],
    "speaker": "イェン",
    "jp": "　それにしても、\n　ずいぶん、浮き世離れした\n　雰囲気を持った男でしたね。\n",
-   "en": ""
+   "en": "Even so, he was a man with a strangely\notherworldly air about him.",
+   "status": "done"
   },
   {
    "id": "ev16B_29A0",
@@ -1894,7 +2081,8 @@
    ],
    "speaker": "イェン",
    "jp": "　それに彼がいっていた言葉。\n\n\n",
-   "en": ""
+   "en": "And the words he spoke.",
+   "status": "done"
   },
   {
    "id": "ev16B_29C8",
@@ -1904,7 +2092,8 @@
    ],
    "speaker": "イェン",
    "jp": "　妙に気になります。\n\n\n",
-   "en": ""
+   "en": "They trouble me oddly.",
+   "status": "done"
   },
   {
    "id": "ev16B_29E8",
@@ -1914,7 +2103,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……確かに。\n\n\n",
-   "en": ""
+   "en": "...Indeed.",
+   "status": "done"
   },
   {
    "id": "ev16B_2A04",
@@ -1924,7 +2114,8 @@
    ],
    "speaker": "トト",
    "jp": "　でも、おいらたちは\n　ちゃんとやっつけたよ！\n\n",
-   "en": ""
+   "en": "But we beat him fair and square!",
+   "status": "done"
   },
   {
    "id": "ev16B_2A3C",
@@ -1934,7 +2125,8 @@
    ],
    "speaker": "トト",
    "jp": "　だから、\n　なにもできないじゃない。\n\n",
-   "en": ""
+   "en": "So he can't do anything now, right?",
+   "status": "done"
   },
   {
    "id": "ev16B_2A6C",
@@ -1944,7 +2136,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうなんだけどな……。\n\n\n",
-   "en": ""
+   "en": "That's true, but...",
+   "status": "done"
   },
   {
    "id": "ev16B_2A90",
@@ -1954,7 +2147,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_2AAC",
@@ -1964,7 +2158,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……隊……長……。\n\n\n",
-   "en": ""
+   "en": "...Cap... tain...",
+   "status": "done"
   },
   {
    "id": "ev16B_2ACC",
@@ -1974,7 +2169,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ！\n\n\n",
-   "en": ""
+   "en": "Keigo!",
+   "status": "done"
   },
   {
    "id": "ev16B_2AE4",
@@ -1984,7 +2180,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　なかなかその呼び方を\n　やめられないみたいね。\n\n",
-   "en": ""
+   "en": "It seems you just can't quit calling me that.",
+   "status": "done"
   },
   {
    "id": "ev16B_2B20",
@@ -1994,7 +2191,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いや、\n　そういうわけではなくて……。\n\n",
-   "en": ""
+   "en": "No, it's not that...",
+   "status": "done"
   },
   {
    "id": "ev16B_2B54",
@@ -2004,7 +2202,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんて呼べばいいのかなと思って……。\n\n\n",
-   "en": ""
+   "en": "I was just wondering what I should call\nyou...",
+   "status": "done"
   },
   {
    "id": "ev16B_2B88",
@@ -2014,7 +2213,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　フフフッ……。\n\n\n",
-   "en": ""
+   "en": "Hehehe...",
+   "status": "done"
   },
   {
    "id": "ev16B_2BA4",
@@ -2024,7 +2224,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　別にアルマでかまわないわよ。\n\n\n",
-   "en": ""
+   "en": "Alma is just fine, you know.",
+   "status": "done"
   },
   {
    "id": "ev16B_2BD0",
@@ -2034,7 +2235,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はあ……。\n\n\n",
-   "en": ""
+   "en": "Uh, okay...",
+   "status": "done"
   },
   {
    "id": "ev16B_2BE8",
@@ -2044,7 +2246,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それよりなにかしら？\n\n\n",
-   "en": ""
+   "en": "More importantly, what is it?",
+   "status": "done"
   },
   {
    "id": "ev16B_2C0C",
@@ -2054,7 +2257,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　え、いや、\n　なにをしているのかと思って……。\n\n",
-   "en": ""
+   "en": "Oh, um, I was just wondering what you\nwere doing...",
+   "status": "done"
   },
   {
    "id": "ev16B_2C48",
@@ -2064,7 +2268,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ここは……この風景は\n　お父さまが好きだったの……。\n\n",
-   "en": ""
+   "en": "This place... this view... Father loved it...",
+   "status": "done"
   },
   {
    "id": "ev16B_2C88",
@@ -2074,7 +2279,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　だから、\n　ここで供養してあげようと思って。\n\n",
-   "en": ""
+   "en": "So I thought I'd hold a memorial for\nhim here.",
+   "status": "done"
   },
   {
    "id": "ev16B_2CC0",
@@ -2084,7 +2290,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうだったんですか……。\n\n\n",
-   "en": ""
+   "en": "I see...",
+   "status": "done"
   },
   {
    "id": "ev16B_2CE8",
@@ -2094,7 +2301,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そんなに深刻に\n　ならなくても大丈夫よ。\n\n",
-   "en": ""
+   "en": "You don't have to look so serious. I'm all\nright.",
+   "status": "done"
   },
   {
    "id": "ev16B_2D1C",
@@ -2104,7 +2312,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたたちがいてくれたおかげで\n　だいぶ落ちついたから。\n\n",
-   "en": ""
+   "en": "Thanks to all of you being here, I've calmed\ndown a lot.",
+   "status": "done"
   },
   {
    "id": "ev16B_2D60",
@@ -2114,7 +2323,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_2D7C",
@@ -2124,7 +2334,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それにまだ、\n　戦いが終わったとは思えないの。\n\n",
-   "en": ""
+   "en": "Besides, I can't believe the fighting is\nover yet.",
+   "status": "done"
   },
   {
    "id": "ev16B_2DB8",
@@ -2134,7 +2345,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ソッドの言葉……ですね。\n\n\n",
-   "en": ""
+   "en": "You mean what Thodd said...",
+   "status": "done"
   },
   {
    "id": "ev16B_2DE0",
@@ -2144,7 +2356,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　きっと、\n　なにかがある……。\n\n",
-   "en": ""
+   "en": "There's something out there, I'm sure\nof it...",
+   "status": "done"
   },
   {
    "id": "ev16B_2E0C",
@@ -2154,7 +2367,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それが終わるまでは\n　悲しんではいられないわ。\n\n",
-   "en": ""
+   "en": "Until it's over, I can't afford to grieve.",
+   "status": "done"
   },
   {
    "id": "ev16B_2E48",
@@ -2164,7 +2378,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_2E64",
@@ -2174,7 +2389,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　やっぱり\n　すごいですね。\n\n",
-   "en": ""
+   "en": "You really are amazing...",
+   "status": "done"
   },
   {
    "id": "ev16B_2E8C",
@@ -2184,7 +2400,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長は……。\n\n\n",
-   "en": ""
+   "en": "Captain...",
+   "status": "done"
   },
   {
    "id": "ev16B_2EA8",
@@ -2194,7 +2411,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ほら、また。\n\n\n",
-   "en": ""
+   "en": "See, there you go again.",
+   "status": "done"
   },
   {
    "id": "ev16B_2EC4",
@@ -2204,7 +2422,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いつになったら\n　名前で呼んでくれるのかしら？\n\n",
-   "en": ""
+   "en": "I wonder when you'll start calling me by\nmy name?",
+   "status": "done"
   },
   {
    "id": "ev16B_2F00",
@@ -2214,7 +2433,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ふふふっ……。\n\n\n",
-   "en": ""
+   "en": "Hehehe...",
+   "status": "done"
   },
   {
    "id": "ev16B_2F1C",
@@ -2224,7 +2444,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_2F38",
@@ -2234,7 +2455,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_2F54",
@@ -2244,7 +2466,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……あ、あの、\n　聞きたいことがあるんです。\n\n",
-   "en": ""
+   "en": "...U-um, there's something I want to\nask you.",
+   "status": "done"
   },
   {
    "id": "ev16B_2F8C",
@@ -2254,7 +2477,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　聞きたいこと……？\n\n\n",
-   "en": ""
+   "en": "Something you want to ask...?",
+   "status": "done"
   },
   {
    "id": "ev16B_2FAC",
@@ -2264,7 +2488,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……どうして、\n　王位の座を断ったりしたんですか？\n\n",
-   "en": ""
+   "en": "...Why did you turn down the throne?",
+   "status": "done"
   },
   {
    "id": "ev16B_2FEC",
@@ -2274,7 +2499,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ああ、そのこと。\n\n\n",
-   "en": ""
+   "en": "Oh, that.",
+   "status": "done"
   },
   {
    "id": "ev16B_300C",
@@ -2284,7 +2510,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうね。\n　どうしてかしら。\n\n",
-   "en": ""
+   "en": "Let me see. Why did I, I wonder.",
+   "status": "done"
   },
   {
    "id": "ev16B_3034",
@@ -2294,7 +2521,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　どうしてって？\n\n\n",
-   "en": ""
+   "en": "What do you mean?",
+   "status": "done"
   },
   {
    "id": "ev16B_3050",
@@ -2304,7 +2532,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……う～ん。\n\n\n",
-   "en": ""
+   "en": "...Hmmm.",
+   "status": "done"
   },
   {
    "id": "ev16B_306C",
@@ -2314,7 +2543,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　たとえば\n　ダウスの世界にいったときに\n　小屋の中に日記があったでしょ。\n",
-   "en": ""
+   "en": "For instance, when we were in the world of\nDaus, there was that diary in the hut,\nremember?",
+   "status": "done"
   },
   {
    "id": "ev16B_30C0",
@@ -2324,7 +2554,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ええ。\n　でも、あれが正しいものかどうかは？\n\n",
-   "en": ""
+   "en": "Yes. But who knows whether what it said\nwas true?",
+   "status": "done"
   },
   {
    "id": "ev16B_30F8",
@@ -2334,7 +2565,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうね。\n　でも、正しいかもしれない。\n\n",
-   "en": ""
+   "en": "That's right. But it might be true.",
+   "status": "done"
   },
   {
    "id": "ev16B_312C",
@@ -2344,7 +2576,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どんな王朝だろうと、\n　多かれ、少なかれ、\n　利権争いは発生するものなの。\n",
-   "en": ""
+   "en": "In any dynasty, there will always be\nstruggles over power and privilege, to a\ngreater or lesser degree.",
+   "status": "done"
   },
   {
    "id": "ev16B_3180",
@@ -2354,7 +2587,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私が西方騎士隊の隊長を\n　やっていたのを妬ましいと\n　思っていた人もいたと思うわ。\n",
-   "en": ""
+   "en": "I'm sure there were people who envied me\nfor being captain of the Western Knights.",
+   "status": "done"
   },
   {
    "id": "ev16B_31DC",
@@ -2364,7 +2598,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　現に、\n　嫌がらせみたいなこともあったしね。\n\n",
-   "en": ""
+   "en": "In fact, I was even harassed now and then,\nyou know.",
+   "status": "done"
   },
   {
    "id": "ev16B_3214",
@@ -2374,7 +2609,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そんな！\n　隊長の力は……。\n\n",
-   "en": ""
+   "en": "That's awful! Your skill, Captain, is...",
+   "status": "done"
   },
   {
    "id": "ev16B_323C",
@@ -2384,7 +2620,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　人はいろいろな考え方をするわ。\n\n\n",
-   "en": ""
+   "en": "People see things in all sorts of ways.",
+   "status": "done"
   },
   {
    "id": "ev16B_3268",
@@ -2394,7 +2631,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたが私のことを\n　認めてくれるのはうれしいけれど。\n\n",
-   "en": ""
+   "en": "I'm glad that you think well of me, but...",
+   "status": "done"
   },
   {
    "id": "ev16B_32AC",
@@ -2404,7 +2642,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そう考えない人もいる。\n\n\n",
-   "en": ""
+   "en": "there are people who don't see it that way.",
+   "status": "done"
   },
   {
    "id": "ev16B_32D0",
@@ -2414,7 +2653,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_32EC",
@@ -2424,7 +2664,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　正直いって\n　そういったことに\n　嫌気がさしていたの。\n",
-   "en": ""
+   "en": "To be honest, I'd grown sick of all that.",
+   "status": "done"
   },
   {
    "id": "ev16B_332C",
@@ -2434,7 +2675,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　だから\n　そこから逃げ出した……。\n\n",
-   "en": ""
+   "en": "So I ran away from it...",
+   "status": "done"
   },
   {
    "id": "ev16B_335C",
@@ -2444,7 +2686,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたが思っているほど\n　あたしは強くないわ。\n\n",
-   "en": ""
+   "en": "I'm not as strong as you think I am.",
+   "status": "done"
   },
   {
    "id": "ev16B_3398",
@@ -2454,7 +2697,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そんな！\n\n\n",
-   "en": ""
+   "en": "That's not true!",
+   "status": "done"
   },
   {
    "id": "ev16B_33B0",
@@ -2464,7 +2708,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　本当よ。\n\n\n",
-   "en": ""
+   "en": "It's the truth.",
+   "status": "done"
   },
   {
    "id": "ev16B_33C8",
@@ -2474,7 +2719,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それにもう、強がらなくても\n　大丈夫かなと思って……。\n\n",
-   "en": ""
+   "en": "Besides, I thought I might not need to act\ntough anymore...",
+   "status": "done"
   },
   {
    "id": "ev16B_340C",
@@ -2484,7 +2730,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　だって\n　あなたが守ってくれるんでしょ？\n\n",
-   "en": ""
+   "en": "After all, you'll protect me, won't you?",
+   "status": "done"
   },
   {
    "id": "ev16B_3440",
@@ -2494,7 +2741,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いや、それは……。\n\n\n",
-   "en": ""
+   "en": "W-well, that's...",
+   "status": "done"
   },
   {
    "id": "ev16B_3460",
@@ -2504,7 +2752,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_347C",
@@ -2514,7 +2763,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_3498",
@@ -2524,7 +2774,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ふっ……。\n\n\n",
-   "en": ""
+   "en": "Heh...",
+   "status": "done"
   },
   {
    "id": "ev16B_34B0",
@@ -2534,7 +2785,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　冗談よ……。\n\n\n",
-   "en": ""
+   "en": "I'm only joking...",
+   "status": "done"
   },
   {
    "id": "ev16B_34CC",
@@ -2544,7 +2796,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_34E8",
@@ -2554,7 +2807,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それに\n　それだけじゃないわ。\n\n",
-   "en": ""
+   "en": "And that's not the only reason.",
+   "status": "done"
   },
   {
    "id": "ev16B_3514",
@@ -2564,7 +2818,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　新しい国家を誕生させようと\n　しているんだから、\n　古いしがらみは少ないほうがいい。\n",
-   "en": ""
+   "en": "We're trying to bring a new nation into\nbeing, so the fewer old ties holding it back,\nthe better.",
+   "status": "done"
   },
   {
    "id": "ev16B_3574",
@@ -2574,7 +2829,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それにミラのこともあるし。\n\n\n",
-   "en": ""
+   "en": "And then there's Mira, too.",
+   "status": "done"
   },
   {
    "id": "ev16B_359C",
@@ -2584,7 +2840,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_35B8",
@@ -2594,7 +2851,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ。\n\n\n",
-   "en": ""
+   "en": "Keigo.",
+   "status": "done"
   },
   {
    "id": "ev16B_35D0",
@@ -2604,7 +2862,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私ね、\n　本当に平和がきたら\n　旅に出ようと思うの。\n",
-   "en": ""
+   "en": "You know, once peace has truly come, I'm\nthinking of going on a journey.",
+   "status": "done"
   },
   {
    "id": "ev16B_3610",
@@ -2614,7 +2873,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私たちが守ろうとしている\n　この世界のことを\n　もっと知りたいのよ。\n",
-   "en": ""
+   "en": "I want to learn more about this world\nwe've been fighting to protect.",
+   "status": "done"
   },
   {
    "id": "ev16B_3660",
@@ -2624,7 +2884,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　もっと、いろいろなことを……。\n\n\n",
-   "en": ""
+   "en": "About so many more things...",
+   "status": "done"
   },
   {
    "id": "ev16B_368C",
@@ -2634,7 +2895,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あ、あの、その……。\n\n\n",
-   "en": ""
+   "en": "U-um, well, I...",
+   "status": "done"
   },
   {
    "id": "ev16B_36B0",
@@ -2644,7 +2906,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうしたの、\n　口ごもって……？\n\n",
-   "en": ""
+   "en": "What is it? Why are you mumbling...?",
+   "status": "done"
   },
   {
    "id": "ev16B_36DC",
@@ -2654,7 +2917,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレもいきます。\n\n\n",
-   "en": ""
+   "en": "I'll go too.",
+   "status": "done"
   },
   {
    "id": "ev16B_36FC",
@@ -2664,7 +2928,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いや、\n　連れていってください！\n\n",
-   "en": ""
+   "en": "No... please, take me with you!",
+   "status": "done"
   },
   {
    "id": "ev16B_3728",
@@ -2674,7 +2939,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あなたが見るものや聞くもの、\n　体験することを……。\n\n",
-   "en": ""
+   "en": "The things you see and hear, the things you\nexperience...",
+   "status": "done"
   },
   {
    "id": "ev16B_3768",
@@ -2684,7 +2950,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは、共有したいんです。\n\n\n",
-   "en": ""
+   "en": "I want to share them.",
+   "status": "done"
   },
   {
    "id": "ev16B_3790",
@@ -2694,7 +2961,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……二人で……。\n\n\n",
-   "en": ""
+   "en": "...The two of us...",
+   "status": "done"
   },
   {
    "id": "ev16B_37B0",
@@ -2704,7 +2972,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ダメですか？\n\n\n",
-   "en": ""
+   "en": "...Would that be all right?",
+   "status": "done"
   },
   {
    "id": "ev16B_37D0",
@@ -2714,7 +2983,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　…………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_37F0",
@@ -2724,7 +2994,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev16B_380C",
@@ -2734,7 +3005,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ありがとう。\n\n\n",
-   "en": ""
+   "en": "...Thank you.",
+   "status": "done"
   },
   {
    "id": "ev16B_382C",
@@ -2744,7 +3016,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（……ケイゴ……）\n\n\n",
-   "en": ""
+   "en": "(...Keigo...)",
+   "status": "done"
   },
   {
    "id": "ev16B_384C",
@@ -2754,7 +3027,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down... not here...",
+   "status": "done"
   },
   {
    "id": "ev16B_3884",
@@ -2764,7 +3038,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、私は……。\n　ここまでというの……。\n\n",
-   "en": ""
+   "en": "I... I... Is this as far as I go...?",
+   "status": "done"
   },
   {
    "id": "ev16B_38BC",
@@ -2774,7 +3049,8 @@
    ],
    "speaker": "イェン",
    "jp": "　このわたしが……。\n　やられるというのかっ！！\n\n",
-   "en": ""
+   "en": "I, of all people... Defeated!?",
+   "status": "done"
   },
   {
    "id": "ev16B_38F8",
@@ -2784,7 +3060,8 @@
    ],
    "speaker": "トト",
    "jp": "　うっそ！！\n　おいらがやられるなんてアリ……。\n\n",
-   "en": ""
+   "en": "No way!! Me, getting beaten? That's not\nfai...",
+   "status": "done"
   },
   {
    "id": "ev16B_3930",
@@ -2794,7 +3071,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　くっ……。\n\n\n",
-   "en": ""
+   "en": "Ngh...",
+   "status": "done"
   },
   {
    "id": "ev16B_394C",
@@ -2804,7 +3082,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　せめて、あと一太刀！　\n\n\n",
-   "en": ""
+   "en": "One more stroke, at least!",
+   "status": "done"
   },
   {
    "id": "ev16B_3974",
@@ -2814,7 +3093,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　うおおおおおおぉ……！！\n\n\n",
-   "en": ""
+   "en": "Raaaaaaagh...!!",
+   "status": "done"
   },
   {
    "id": "ev16B_399C",
@@ -2824,7 +3104,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　うおおおおおおぉ……。\n\n\n",
-   "en": ""
+   "en": "Graaaaaaagh...",
+   "status": "done"
   },
   {
    "id": "ev16B_67FC",
@@ -2833,7 +3114,8 @@
     "0x6ABC"
    ],
    "jp": "　　　　安堵の思いと開放感が戦士たちに\n　　　　　　希望の光を投げかける\n\n　　　だが、戦いは終わってはいなかった\n　　　光を遮る影が最後の審判を受けるため\n　　　　戦士たちの前にその威容を現した\n\n　　正と負、白と黒、正義と邪悪、法と混沌\n\n　　まったく噛み合うことのない主義と主張\n　　接点というものとは、程遠い二つの存在\n\n　今、最終闘争の幕が上がり、審判が下される\n",
-   "en": ""
+   "en": "Relief and a sense of freedom\ncast a light of hope upon the warriors\n\nBut the battle was not yet over\nThe shadow that blots out the light\nloomed before them to face the last judgment\n\nPlus, minus, white, black, good, evil, law, chaos\n\nCreeds and claims that can never mesh\nTwo beings that share no common ground\n\nNow the last battle begins, and judgment falls",
+   "status": "done"
   },
   {
    "id": "ev16B_6968",
@@ -2842,7 +3124,8 @@
     "0x6AC0"
    ],
    "jp": "　　　　　　　　　……終演\n\n　　　それは、刻を司る神だけが知っている\n　　　　　　　歴史という名の結末\n\n　両者のいずれかがそのときに優勢であるかを\n　　　　旭日の勢いを持たんとする力を\n\n　すべては自身の力を証明したものが勝者となり\n　　　その最後の舞台に立つことができる\n\n　　　　　　　それが戦いであり\n　　　　　歴史の真実というものなのだ\n",
-   "en": ""
+   "en": "...The final curtain\n\nThat is something only the god of time knows:\nthe ending that goes by the name of history\n\nWhich of the two will prevail at that moment,\nwhich power will rise like the morning sun\n\nWhoever proves his own strength is the victor\nand may stand upon that final stage\n\nThat is what battle is\nand that is the truth of history",
+   "status": "done"
   }
  ]
 }

@@ -24,7 +24,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　騎士というのは、\n　真の強さを理解しているものに\n　与えられる称号だ。\n",
-   "en": ""
+   "en": "Knighthood is a title granted to those who\nunderstand true strength.",
+   "status": "done"
   },
   {
    "id": "ev086_0580",
@@ -34,7 +35,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　強さにおぼれ、\n　戦いの中にすべてを\n　求めるようになってはならん。\n",
-   "en": ""
+   "en": "You must never drown in your own\nstrength and come to seek everything in\nbattle.",
+   "status": "done"
   },
   {
    "id": "ev086_05D0",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……教官。\n\n\n",
-   "en": ""
+   "en": "...Instructor.",
+   "status": "done"
   },
   {
    "id": "ev086_05E8",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ケイゴ、戦いが始まったら、\n　非情に徹しろ。\n\n",
-   "en": ""
+   "en": "Keigo, once a battle begins, be ruthless to\nthe core.",
+   "status": "done"
   },
   {
    "id": "ev086_0624",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　それができないとき、\n　その失敗の代償はおまえの命で\n　支払うこととなる。\n",
-   "en": ""
+   "en": "If you cannot, you will pay for that failure\nwith your life.",
+   "status": "done"
   },
   {
    "id": "ev086_067C",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ゼルドナ教官！\n\n\n",
-   "en": ""
+   "en": "...Instructor Zeldna!",
+   "status": "done"
   },
   {
    "id": "ev086_069C",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　自分と相手の能力を瞬時に判断しろ。\n\n\n",
-   "en": ""
+   "en": "Judge your abilities and your opponent's in\nan instant.",
+   "status": "done"
   },
   {
    "id": "ev086_06D0",
@@ -94,7 +101,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　そして、相手に勝つための方法を\n　その場で生み出せ。\n\n",
-   "en": ""
+   "en": "Then devise a way to beat him, right there\non the spot.",
+   "status": "done"
   },
   {
    "id": "ev086_0714",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　戦場で生き残るには、\n　それができんと話にならん。\n\n",
-   "en": ""
+   "en": "If you can't do that, you won't last a\nmoment on a battlefield.",
+   "status": "done"
   },
   {
    "id": "ev086_0754",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ゼルドナ教官！！\n\n\n",
-   "en": ""
+   "en": "Instructor Zeldna!!",
+   "status": "done"
   },
   {
    "id": "ev086_0774",
@@ -124,7 +134,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ケイゴ、死ぬなよ。\n\n\n",
-   "en": ""
+   "en": "Keigo. Don't die.",
+   "status": "done"
   },
   {
    "id": "ev086_0798",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官！\n　どこへいくんです！\n\n",
-   "en": ""
+   "en": "Instructor! Where are you going!?",
+   "status": "done"
   },
   {
    "id": "ev086_07C0",
@@ -144,7 +156,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ゼルドナ教官！\n\n\n",
-   "en": ""
+   "en": "Instructor Zeldna!",
+   "status": "done"
   },
   {
    "id": "ev086_07DC",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官！！\n\n\n",
-   "en": ""
+   "en": "Instructor!!",
+   "status": "done"
   },
   {
    "id": "ev086_07F4",
@@ -164,7 +178,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　う、う～ん\n\n\n",
-   "en": ""
+   "en": "Nnngh...",
+   "status": "done"
   },
   {
    "id": "ev086_080C",
@@ -174,7 +189,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……はっ！\n\n\n",
-   "en": ""
+   "en": "...Huh!",
+   "status": "done"
   },
   {
    "id": "ev086_0824",
@@ -184,7 +200,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こ、ここは……。\n\n\n",
-   "en": ""
+   "en": "Wh-Where am I...",
+   "status": "done"
   },
   {
    "id": "ev086_0844",
@@ -194,7 +211,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうだ……！\n\n",
-   "en": ""
+   "en": "That's right...!",
+   "status": "done"
   },
   {
    "id": "ev086_085C",
@@ -204,7 +222,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　たしか、サイバスターと話をして、\n　それから……。\n\n",
-   "en": ""
+   "en": "I was talking with Cybuster, and then...",
+   "status": "done"
   },
   {
    "id": "ev086_089C",
@@ -214,7 +233,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　フルカスさん！\n　アルフレードじいさん！\n\n",
-   "en": ""
+   "en": "Furcas-san! Old man Alfredo!",
+   "status": "done"
   },
   {
    "id": "ev086_08D0",
@@ -224,7 +244,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いない……！？\n\n\n",
-   "en": ""
+   "en": "They're not here...!?",
+   "status": "done"
   },
   {
    "id": "ev086_08EC",
@@ -234,7 +255,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はっ！\n　た、隊長！！\n\n",
-   "en": ""
+   "en": "Ah! C-Captain!!",
+   "status": "done"
   },
   {
    "id": "ev086_0910",
@@ -244,7 +266,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　大丈夫ですか！\n　アルマ隊長！\n\n",
-   "en": ""
+   "en": "Are you all right!? Captain Alma!",
+   "status": "done"
   },
   {
    "id": "ev086_093C",
@@ -254,7 +277,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ミ……。\n\n\n",
-   "en": ""
+   "en": "...Mi...",
+   "status": "done"
   },
   {
    "id": "ev086_0958",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長！\n\n\n",
-   "en": ""
+   "en": "Captain!",
+   "status": "done"
   },
   {
    "id": "ev086_096C",
@@ -274,7 +299,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ミラ。\n\n\n",
-   "en": ""
+   "en": "...Mira.",
+   "status": "done"
   },
   {
    "id": "ev086_0984",
@@ -284,7 +310,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　寝言か……。\n\n\n",
-   "en": ""
+   "en": "Talking in her sleep...",
+   "status": "done"
   },
   {
    "id": "ev086_09A0",
@@ -294,7 +321,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　どうやら大丈夫のようだな。\n\n\n",
-   "en": ""
+   "en": "Looks like she's okay.",
+   "status": "done"
   },
   {
    "id": "ev086_09C8",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　でも、ミラってだれだ……？\n\n",
-   "en": ""
+   "en": "But who's Mira...?",
+   "status": "done"
   },
   {
    "id": "ev086_09F0",
@@ -314,7 +343,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うわっ……！？\n\n\n",
-   "en": ""
+   "en": "Whoa...!?",
+   "status": "done"
   },
   {
    "id": "ev086_0A0C",
@@ -324,7 +354,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（そういえば、こうやって、\n　じっくりと顔を見るのは初めてだな）\n\n",
-   "en": ""
+   "en": "(Come to think of it, this is the first time\nI've really had a good look at her face.)",
+   "status": "done"
   },
   {
    "id": "ev086_0A58",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……きれいな顔しているんだな）\n\n",
-   "en": ""
+   "en": "(...She's actually really pretty.)",
+   "status": "done"
   },
   {
    "id": "ev086_0A84",
@@ -344,7 +376,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（これで、余計なことをいわなきゃ\n　もっといいんだけど……）\n\n",
-   "en": ""
+   "en": "(If only she didn't say all that extra stuff,\nshe'd be even better...)",
+   "status": "done"
   },
   {
    "id": "ev086_0ACC",
@@ -354,7 +387,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（でも考えてみりゃ、\n　王家の娘だもんな……）\n\n",
-   "en": ""
+   "en": "(But then again, she is a daughter of the\nroyal family...)",
+   "status": "done"
   },
   {
    "id": "ev086_0B04",
@@ -364,7 +398,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（オレとは、つり合わないか……）\n\n\n",
-   "en": ""
+   "en": "(Not exactly a match for a guy like me...)",
+   "status": "done"
   },
   {
    "id": "ev086_0B30",
@@ -374,7 +409,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……って、\n　なに考えてんだ、オレは！）\n\n",
-   "en": ""
+   "en": "(...Wait, what am I even thinking!?)",
+   "status": "done"
   },
   {
    "id": "ev086_0B64",
@@ -384,7 +420,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（そういえば、王家の娘なのに\n　どうして西方騎士隊の隊長なんて\n　やってんだろう）\n",
-   "en": ""
+   "en": "(Come to think of it, why would a royal\ndaughter be captain of the Western\nKnights?)",
+   "status": "done"
   },
   {
    "id": "ev086_0BC0",
@@ -394,7 +431,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（確かに精鋭部隊かもしれないけれど\n　死ぬことだってあるのにな……）\n",
-   "en": ""
+   "en": "(Sure, it may be an elite unit, but you can\nstill get killed...)",
+   "status": "done"
   },
   {
    "id": "ev086_0C0C",
@@ -404,7 +442,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（年だってオレとあまり\n　変わらないっていうのに……）\n\n",
-   "en": ""
+   "en": "(And she's not much older than me,\neither...)",
+   "status": "done"
   },
   {
    "id": "ev086_0C4C",
@@ -414,7 +453,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……いろいろ\n　苦労があったんだろうな）\n\n",
-   "en": ""
+   "en": "(...She must have been through a lot.)",
+   "status": "done"
   },
   {
    "id": "ev086_0C80",
@@ -424,7 +464,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（さっき寝言でいってたやつと\n　なにか関係があるのかな？）\n\n",
-   "en": ""
+   "en": "(Does it have something to do with\nwhoever she was talking about in her\nsleep?)",
+   "status": "done"
   },
   {
    "id": "ev086_0CC4",
@@ -434,7 +475,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　う、う～ん。\n\n\n",
-   "en": ""
+   "en": "Nnngh...",
+   "status": "done"
   },
   {
    "id": "ev086_0CE0",
@@ -444,7 +486,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……隊長！\n\n\n",
-   "en": ""
+   "en": "...Captain!",
+   "status": "done"
   },
   {
    "id": "ev086_0CF8",
@@ -454,7 +497,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ミラ、お願いだから……。\n\n\n",
-   "en": ""
+   "en": "...Mira, please...",
+   "status": "done"
   },
   {
    "id": "ev086_0D24",
@@ -464,7 +508,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　お願いだから、私を許して……。\n\n\n",
-   "en": ""
+   "en": "Please... forgive me...",
+   "status": "done"
   },
   {
    "id": "ev086_0D50",
@@ -474,7 +519,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長、しっかりしてください！\n\n\n",
-   "en": ""
+   "en": "Captain, snap out of it!",
+   "status": "done"
   },
   {
    "id": "ev086_0D7C",
@@ -484,7 +530,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長！！\n\n\n",
-   "en": ""
+   "en": "Captain!!",
+   "status": "done"
   },
   {
    "id": "ev086_0D94",
@@ -494,7 +541,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　う～ん……誰！？\n\n\n",
-   "en": ""
+   "en": "Nngh... Who's there!?",
+   "status": "done"
   },
   {
    "id": "ev086_0DB4",
@@ -504,7 +552,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレです。\n　ケイゴです。\n\n",
-   "en": ""
+   "en": "It's me. It's Keigo.",
+   "status": "done"
   },
   {
    "id": "ev086_0DDC",
@@ -514,7 +563,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ケイゴ！？\n\n\n",
-   "en": ""
+   "en": "...Keigo!?",
+   "status": "done"
   },
   {
    "id": "ev086_0DF8",
@@ -524,7 +574,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　よかった！\n\n\n",
-   "en": ""
+   "en": "Thank goodness!",
+   "status": "done"
   },
   {
    "id": "ev086_0E10",
@@ -534,7 +585,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うなされていたんで、\n　心配したんですよ。\n\n",
-   "en": ""
+   "en": "You were having a nightmare, so I got\nworried.",
+   "status": "done"
   },
   {
    "id": "ev086_0E48",
@@ -544,7 +596,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……あ、ありがとう。\n\n\n",
-   "en": ""
+   "en": "...Th-Thank you.",
+   "status": "done"
   },
   {
    "id": "ev086_0E6C",
@@ -554,7 +607,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……でも、さわっている手を\n　どけてくれないかしら？\n\n",
-   "en": ""
+   "en": "...But would you kindly take your hand\noff me?",
+   "status": "done"
   },
   {
    "id": "ev086_0EAC",
@@ -564,7 +618,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　え、あっ！\n　す、すいません。\n　悪気があったわけじゃ……。\n",
-   "en": ""
+   "en": "Huh? Ah! S-Sorry. I didn't mean anything\nby it...",
+   "status": "done"
   },
   {
    "id": "ev086_0EF4",
@@ -574,7 +629,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_0F10",
@@ -584,7 +640,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_0F2C",
@@ -594,7 +651,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……そ、それよりもここはどこ？\n　イクナァトの館にいたというのに……。\n\n",
-   "en": ""
+   "en": "...M-More importantly, where are we? We\nwere at the Iknaat Mansion just now...",
+   "status": "done"
   },
   {
    "id": "ev086_0F80",
@@ -604,7 +662,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それにフルカスや、\n　アルフレード技師長は\n　どこにいったの？\n",
-   "en": ""
+   "en": "And where did Furcas and Chief Engineer\nAlfredo go?",
+   "status": "done"
   },
   {
    "id": "ev086_0FC8",
@@ -614,7 +673,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それがオレもわからないんですよ。\n\n\n",
-   "en": ""
+   "en": "That's the thing, I don't know either.",
+   "status": "done"
   },
   {
    "id": "ev086_0FF8",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ヤドラのやつに\n　殺されそうになって……。\n",
-   "en": ""
+   "en": "Yadora was about to kill me...",
+   "status": "done"
   },
   {
    "id": "ev086_102C",
@@ -634,7 +695,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　サイバスターと話をしたところまでは\n　覚えているんですが……。\n\n",
-   "en": ""
+   "en": "I remember everything up until I talked with\nCybuster, but...",
+   "status": "done"
   },
   {
    "id": "ev086_1078",
@@ -644,7 +706,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……サイバスターと話を！？\n\n\n",
-   "en": ""
+   "en": "...You talked with Cybuster!?",
+   "status": "done"
   },
   {
    "id": "ev086_10A0",
@@ -654,7 +717,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなた、なにをいっているか\n　わかっているの！！\n\n",
-   "en": ""
+   "en": "Do you even understand what you're\nsaying!?",
+   "status": "done"
   },
   {
    "id": "ev086_10DC",
@@ -664,7 +728,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いや、隊長が気を失なったあと、\n　無我夢中でサイバスターに助けを\n　求めたら……。\n",
-   "en": ""
+   "en": "Well, after you passed out, Captain, I called\nto Cybuster for help without thinking, and\nthen...",
+   "status": "done"
   },
   {
    "id": "ev086_1138",
@@ -674,7 +739,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……求めたら……。\n\n\n",
-   "en": ""
+   "en": "...And then...",
+   "status": "done"
   },
   {
    "id": "ev086_1158",
@@ -684,7 +750,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうしたら、\n　契約がどうのとかいって……。\n\n",
-   "en": ""
+   "en": "And then it said something about a\ncontract...",
+   "status": "done"
   },
   {
    "id": "ev086_1190",
@@ -694,7 +761,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　契約！？\n　サイバスターと！？\n\n",
-   "en": ""
+   "en": "A contract!? With Cybuster!?",
+   "status": "done"
   },
   {
    "id": "ev086_11BC",
@@ -704,7 +772,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　だって、契約を行うのは、\n　私のはず、どうしてあなたが！！\n\n",
-   "en": ""
+   "en": "But I was the one who was supposed to\nform the contract! Why you!?",
+   "status": "done"
   },
   {
    "id": "ev086_1204",
@@ -714,7 +783,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　わかりませんよ！\n\n\n",
-   "en": ""
+   "en": "I don't know!",
+   "status": "done"
   },
   {
    "id": "ev086_1224",
@@ -724,7 +794,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ただ、あいつに話しかけたら\n　こんなことになってしまって……。\n\n",
-   "en": ""
+   "en": "All I did was talk to it, and this is what\nhappened...",
+   "status": "done"
   },
   {
    "id": "ev086_1270",
@@ -734,7 +805,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　勝手にそんなことをして\n　どうなるかわかっているの！！\n\n",
-   "en": ""
+   "en": "Do you have any idea what could happen\nwhen you do something like that on\nyour own!?",
+   "status": "done"
   },
   {
    "id": "ev086_12B4",
@@ -744,7 +816,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　仕方ないでしょう！\n　殺されるところだったんだから！！\n\n",
-   "en": ""
+   "en": "What else could I do!? I was about to get\nkilled!!",
+   "status": "done"
   },
   {
    "id": "ev086_12F8",
@@ -754,7 +827,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だいたい、隊長がちゃんと\n　契約していれば、こんなことには、\n　ならなかったんじゃないですか！\n",
-   "en": ""
+   "en": "Anyway, if you'd made the contract\nproperly, Captain, none of this would've\nhappened, would it!?",
+   "status": "done"
   },
   {
    "id": "ev086_1360",
@@ -764,7 +838,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　わ、私だって契約をしたかったわよ！\n　でも、できなかった……。\n\n",
-   "en": ""
+   "en": "I-I wanted to make the contract too, you\nknow! But I couldn't...",
+   "status": "done"
   },
   {
    "id": "ev086_13AC",
@@ -774,7 +849,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私がバルツフィームを守らなければ\n　いけないというのに……。\n\n",
-   "en": ""
+   "en": "When I'm the one who has to protect\nVartzpheem...",
+   "status": "done"
   },
   {
    "id": "ev086_13F4",
@@ -784,7 +860,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうすればいいのよ！\n\n\n",
-   "en": ""
+   "en": "What am I supposed to do!?",
+   "status": "done"
   },
   {
    "id": "ev086_1418",
@@ -794,7 +871,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_1434",
@@ -804,7 +882,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……なによ、突然……。\n\n\n",
-   "en": ""
+   "en": "...What is it, all of a sudden...",
+   "status": "done"
   },
   {
    "id": "ev086_1458",
@@ -814,7 +893,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長！\n　とりあえず、落ちついてください。\n\n",
-   "en": ""
+   "en": "Captain! Please, just calm down for now.",
+   "status": "done"
   },
   {
    "id": "ev086_1490",
@@ -824,7 +904,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まず、ここがどこで、\n　どうしたら抜け出せるかを\n　考えましょう。\n",
-   "en": ""
+   "en": "First, let's figure out where we are and\nhow we can get out of here.",
+   "status": "done"
   },
   {
    "id": "ev086_14DC",
@@ -834,7 +915,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_14F8",
@@ -844,7 +926,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……そうね、\n　ごめんなさい、取り乱したりして。\n\n",
-   "en": ""
+   "en": "...You're right. I'm sorry for losing my\ncomposure.",
+   "status": "done"
   },
   {
    "id": "ev086_1534",
@@ -854,7 +937,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたのいうとおり、\n　まず、これからどうするかを\n　考えるのが賢明だわ。\n",
-   "en": ""
+   "en": "As you say, the wise thing is to think about\nwhat we do next.",
+   "status": "done"
   },
   {
    "id": "ev086_1588",
@@ -864,7 +948,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長。\n　でも、いったいここは\n　どこなんですかね？\n",
-   "en": ""
+   "en": "Captain. But where on earth are we,\nanyway?",
+   "status": "done"
   },
   {
    "id": "ev086_15C8",
@@ -874,7 +959,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ア・ゼルスにこんなところ、\n　ありましたっけ？\n\n",
-   "en": ""
+   "en": "Was there ever a place like this on\nA-Zeluth?",
+   "status": "done"
   },
   {
    "id": "ev086_1604",
@@ -884,7 +970,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ア・ゼルスにはないところ！？\n\n\n",
-   "en": ""
+   "en": "...A place that isn't on A-Zeluth!?",
+   "status": "done"
   },
   {
    "id": "ev086_1634",
@@ -894,7 +981,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうだ！\n　そういえば、技師長が\n　こんなことをいってたわ。\n",
-   "en": ""
+   "en": "That's it! Now that I think of it, the Chief\nEngineer once told me something like this.",
+   "status": "done"
   },
   {
    "id": "ev086_167C",
@@ -904,7 +992,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ア・ゼルスには裏の世界があって、\n　ダウスの穴で私たちの世界と\n　つながっているって。\n",
-   "en": ""
+   "en": "He said A-Zeluth has an underworld, linked\nto our world through the Pit of Daus.",
+   "status": "done"
   },
   {
    "id": "ev086_16DC",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　その世界は、\n　空が不気味な色をしていて\n　まるで地獄のような光景だったそうよ。\n",
-   "en": ""
+   "en": "Apparently the sky in that world is an eerie\ncolour, and the whole place looks like\nsomething out of hell.",
+   "status": "done"
   },
   {
    "id": "ev086_1738",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　なんで、\n　そんな詳しく知っているのかと\n　尋ねたら、笑ってごまかしていたけど。\n",
-   "en": ""
+   "en": "When I asked him how he knew it in such\ndetail, he just laughed it off, though.",
+   "status": "done"
   },
   {
    "id": "ev086_1794",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ア・ゼルスの裏の世界……）\n\n\n",
-   "en": ""
+   "en": "(A-Zeluth's underworld...)",
+   "status": "done"
   },
   {
    "id": "ev086_17BC",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……オレも前に\n　それに関する話を\n　聞いたことがあるな……）\n",
-   "en": ""
+   "en": "(...I've heard a story about that before\ntoo...)",
+   "status": "done"
   },
   {
    "id": "ev086_1804",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（孫がどうのといっていたような\n　気がするんだけど……）\n\n",
-   "en": ""
+   "en": "(I think he said something about his\ngrandson...)",
+   "status": "done"
   },
   {
    "id": "ev086_1848",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　じゃあ、ここがもしかして、\n　その……。\n\n",
-   "en": ""
+   "en": "So, could this place be that...",
+   "status": "done"
   },
   {
    "id": "ev086_187C",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……うん！？\n\n\n",
-   "en": ""
+   "en": "...Huh!?",
+   "status": "done"
   },
   {
    "id": "ev086_1898",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あ、あれは！\n\n\n",
-   "en": ""
+   "en": "Th-That's...!",
+   "status": "done"
   },
   {
    "id": "ev086_18B4",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……どうしたの、ケイゴ！\n\n\n",
-   "en": ""
+   "en": "...What is it, Keigo!?",
+   "status": "done"
   },
   {
    "id": "ev086_18DC",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　静かに！\n\n\n",
-   "en": ""
+   "en": "Quiet!",
+   "status": "done"
   },
   {
    "id": "ev086_18F4",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長、ダウスの魔物です。\n　ほら！\n\n",
-   "en": ""
+   "en": "Captain, those are monsters from\nDaus. Look!",
+   "status": "done"
   },
   {
    "id": "ev086_1924",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ほんとだわ。\n　どうしてこんなところに。\n\n",
-   "en": ""
+   "en": "You're right. What are they doing in a place\nlike this?",
+   "status": "done"
   },
   {
    "id": "ev086_1958",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長、どこかに隠れていてください。\n\n\n",
-   "en": ""
+   "en": "Captain, please hide somewhere.",
+   "status": "done"
   },
   {
    "id": "ev086_1988",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレがサイバスターで……。\n\n\n",
-   "en": ""
+   "en": "I'll take them on with Cybuster...",
+   "status": "done"
   },
   {
    "id": "ev086_19B0",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ、待ちなさい！\n\n\n",
-   "en": ""
+   "en": "Keigo, wait!",
+   "status": "done"
   },
   {
    "id": "ev086_19D4",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　サイバスター、私を受け入れて。\n\n\n",
-   "en": ""
+   "en": "Cybuster, accept me.",
+   "status": "done"
   },
   {
    "id": "ev086_1A00",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私とともに戦って！\n\n",
-   "en": ""
+   "en": "Fight together with me!",
+   "status": "done"
   },
   {
    "id": "ev086_1A20",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_1A38",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　サイバスター！！\n\n\n",
-   "en": ""
+   "en": "Cybuster!!",
+   "status": "done"
   },
   {
    "id": "ev086_1A58",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長！　ムリです！！\n\n\n",
-   "en": ""
+   "en": "Captain! It's no use!!",
+   "status": "done"
   },
   {
    "id": "ev086_1A7C",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　魔装機神は、契約した操者しか\n　扱えないって知っているでしょう？\n\n",
-   "en": ""
+   "en": "You know a Masoukishin can only be\nhandled by the pilot it's contracted with,\nright?",
+   "status": "done"
   },
   {
    "id": "ev086_1AC8",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_1AE4",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　とにかく安全な場所に\n　避難していてください。\n\n",
-   "en": ""
+   "en": "Anyway, please take cover\nsomewhere safe.",
+   "status": "done"
   },
   {
    "id": "ev086_1B20",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　すぐに戻ります！\n\n\n",
-   "en": ""
+   "en": "I'll be right back!",
+   "status": "done"
   },
   {
    "id": "ev086_1B40",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　サイバスター、いくぞ！\n\n\n",
-   "en": ""
+   "en": "Cybuster, let's go!",
+   "status": "done"
   },
   {
    "id": "ev086_1B64",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まだ、くるか！\n\n\n",
-   "en": ""
+   "en": "There's more of them!?",
+   "status": "done"
   },
   {
    "id": "ev086_1B80",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　サイバスターの力を見せてやる！\n\n\n",
-   "en": ""
+   "en": "I'll show you what Cybuster can do!",
+   "status": "done"
   },
   {
    "id": "ev086_1BAC",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（すげえ、これが……）\n\n\n",
-   "en": ""
+   "en": "(Whoa, so this is...)",
+   "status": "done"
   },
   {
    "id": "ev086_1BD0",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……これが、\n　サイバスターの力なのか！）\n\n",
-   "en": ""
+   "en": "(...This is the power of Cybuster!)",
+   "status": "done"
   },
   {
    "id": "ev086_1C08",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（確かに神の化身と\n　いわれるだけのことはある）\n\n",
-   "en": ""
+   "en": "(No wonder they call it the incarnation of\na god.)",
+   "status": "done"
   },
   {
    "id": "ev086_1C44",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（でも、使い方によっては……）\n\n\n",
-   "en": ""
+   "en": "(But depending on how it's used...)",
+   "status": "done"
   },
   {
    "id": "ev086_1C70",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……隊長。\n\n\n",
-   "en": ""
+   "en": "...Captain.",
+   "status": "done"
   },
   {
    "id": "ev086_1C88",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_1CA4",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　どうしたんです、隊長？\n\n\n",
-   "en": ""
+   "en": "What's wrong, Captain?",
+   "status": "done"
   },
   {
    "id": "ev086_1CC8",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうして、どうして私じゃダメなの。\n\n\n",
-   "en": ""
+   "en": "Why... why can't it be me?",
+   "status": "done"
   },
   {
    "id": "ev086_1CF8",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長……。\n\n\n",
-   "en": ""
+   "en": "Captain...",
+   "status": "done"
   },
   {
    "id": "ev086_1D10",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_1D2C",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長、大丈夫です。\n\n\n",
-   "en": ""
+   "en": "Captain, it's all right.",
+   "status": "done"
   },
   {
    "id": "ev086_1D4C",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは……。\n\n\n",
-   "en": ""
+   "en": "I...",
+   "status": "done"
   },
   {
    "id": "ev086_1D68",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ケイゴ＝フェルディナンは……。\n\n\n",
-   "en": ""
+   "en": "I, Keigo Ferdinand...",
+   "status": "done"
   },
   {
    "id": "ev086_1D94",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あなたを信頼しています。\n\n\n",
-   "en": ""
+   "en": "...believe in you.",
+   "status": "done"
   },
   {
    "id": "ev086_1DBC",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そして、オレは、\n　西方騎士隊の騎士です。\n\n",
-   "en": ""
+   "en": "And I'm a knight of the Western Knights.",
+   "status": "done"
   },
   {
    "id": "ev086_1DF4",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　騎士は信頼する主君を裏切りません。\n\n\n",
-   "en": ""
+   "en": "A knight never betrays the lord he trusts.",
+   "status": "done"
   },
   {
    "id": "ev086_1E24",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　信頼する相手に対し、\n　忠誠をつくすものです。\n\n",
-   "en": ""
+   "en": "He gives his loyalty to the one he trusts.",
+   "status": "done"
   },
   {
    "id": "ev086_1E60",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だから、\n　オレはあなたを裏切りません。\n\n",
-   "en": ""
+   "en": "So I'll never betray you.",
+   "status": "done"
   },
   {
    "id": "ev086_1E94",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ずっと、\n　あなたのために戦います。\n\n",
-   "en": ""
+   "en": "I'll always fight for you.",
+   "status": "done"
   },
   {
    "id": "ev086_1EC4",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　これからも、\n　あなたのそばにいるから……。\n\n",
-   "en": ""
+   "en": "From now on, I'll stay by your side...",
+   "status": "done"
   },
   {
    "id": "ev086_1EFC",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……これじゃ、ダメですか？\n\n\n",
-   "en": ""
+   "en": "...Isn't that good enough?",
+   "status": "done"
   },
   {
    "id": "ev086_1F24",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_1F40",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_1F5C",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ふふふ……。\n\n\n",
-   "en": ""
+   "en": "Hehe...",
+   "status": "done"
   },
   {
    "id": "ev086_1F78",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　どうしたんですか？\n　隊長……。\n\n",
-   "en": ""
+   "en": "What is it? Captain...",
+   "status": "done"
   },
   {
    "id": "ev086_1FA4",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　なんか、\n　恋人を口説いてるような台詞ね。\n\n",
-   "en": ""
+   "en": "You know, that sounds like a line you'd use\nto woo a lover.",
+   "status": "done"
   },
   {
    "id": "ev086_1FDC",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……い、いやそんなつもりじゃ。\n\n\n",
-   "en": ""
+   "en": "...N-No, I didn't mean it like that.",
+   "status": "done"
   },
   {
    "id": "ev086_2008",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ちゃんと向き合って\n　あんなことをいわれたのは、\n　初めてだわ。\n",
-   "en": ""
+   "en": "That's the first time anyone has looked me\nin the eye and said something like that\nto me.",
+   "status": "done"
   },
   {
    "id": "ev086_2054",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうなんですか？\n　隊長だったら……。\n\n",
-   "en": ""
+   "en": "Really? But you're the Captain, so...",
+   "status": "done"
   },
   {
    "id": "ev086_2088",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……隊長だったら？\n\n\n",
-   "en": ""
+   "en": "...I'm the Captain, so?",
+   "status": "done"
   },
   {
    "id": "ev086_20A8",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……いや、その……。\n\n\n",
-   "en": ""
+   "en": "...Well, uh...",
+   "status": "done"
   },
   {
    "id": "ev086_20CC",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　これでも、王家の娘なのよ。\n\n\n",
-   "en": ""
+   "en": "I am a daughter of the royal family,\nyou know.",
+   "status": "done"
   },
   {
    "id": "ev086_20F4",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうそう、口説かれていては、\n　国が傾いてしまうわ。\n\n",
-   "en": ""
+   "en": "If I let myself be wooed that easily, the\nwhole country would go to ruin.",
+   "status": "done"
   },
   {
    "id": "ev086_2134",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_2150",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　まったく、おかしなことばかり\n　いうんだから……。\n\n",
-   "en": ""
+   "en": "Honestly, you say the strangest things...",
+   "status": "done"
   },
   {
    "id": "ev086_2190",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　すいません。\n\n\n",
-   "en": ""
+   "en": "Sorry.",
+   "status": "done"
   },
   {
    "id": "ev086_21AC",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　まあいいわ。\n　なんか少しだけ、\n　スッキリしたから……。\n",
-   "en": ""
+   "en": "Oh, never mind. Somehow I feel just a little\nbetter now...",
+   "status": "done"
   },
   {
    "id": "ev086_21F0",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　とりあえず、休めるところを\n　探しましょう。\n\n",
-   "en": ""
+   "en": "For now, let's find somewhere we can rest.",
+   "status": "done"
   },
   {
    "id": "ev086_2228",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いくわよ、ケイゴ。\n\n\n",
-   "en": ""
+   "en": "Come along, Keigo.",
+   "status": "done"
   },
   {
    "id": "ev086_2248",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……隊長。\n\n\n",
-   "en": ""
+   "en": "...Captain.",
+   "status": "done"
   },
   {
    "id": "ev086_2260",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうしたの？\n\n\n",
-   "en": ""
+   "en": "What is it?",
+   "status": "done"
   },
   {
    "id": "ev086_227C",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　さっき、眠っていたときに\n　隊長がミラとか、許してくれとか\n　いってたんですけれど……。\n",
-   "en": ""
+   "en": "Earlier, while you were asleep, Captain, you\nsaid something about Mira, and asking\nsomeone to forgive you...",
+   "status": "done"
   },
   {
    "id": "ev086_22E0",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　その人と隊長って……。\n\n\n",
-   "en": ""
+   "en": "Who is that person to you, Captain...",
+   "status": "done"
   },
   {
    "id": "ev086_2304",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そう、\n　そんなことをいってたの私……。\n\n\n",
-   "en": ""
+   "en": "I see... So I said something like that...",
+   "status": "done"
   },
   {
    "id": "ev086_2338",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ええ。\n\n\n",
-   "en": ""
+   "en": "...Yeah.",
+   "status": "done"
   },
   {
    "id": "ev086_2350",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ごめんなさい。\n　今はまだ、話せないの。\n\n",
-   "en": ""
+   "en": "I'm sorry. I can't talk about it yet.",
+   "status": "done"
   },
   {
    "id": "ev086_2384",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴには、\n　いつか機会があったら\n　そのときに……。\n",
-   "en": ""
+   "en": "Someday, Keigo, when the time is right, I'll...",
+   "status": "done"
   },
   {
    "id": "ev086_23C8",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_23E4",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……わかりました。　　\n\n\n",
-   "en": ""
+   "en": "...I understand.",
+   "status": "done"
   },
   {
    "id": "ev086_2408",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　すいません。\n　余計なことを……。\n\n",
-   "en": ""
+   "en": "Sorry. I shouldn't have pried...",
+   "status": "done"
   },
   {
    "id": "ev086_2438",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いいわよ。\n　気にしてないから。\n\n",
-   "en": ""
+   "en": "It's fine. I don't mind.",
+   "status": "done"
   },
   {
    "id": "ev086_2464",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……それより、早くいきましょう。\n\n\n",
-   "en": ""
+   "en": "...More importantly, let's get going.",
+   "status": "done"
   },
   {
    "id": "ev086_2494",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうですね。\n\n\n",
-   "en": ""
+   "en": "Right.",
+   "status": "done"
   },
   {
    "id": "ev086_24B0",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　じゃあ、隊長。\n　オレの横に……。\n\n",
-   "en": ""
+   "en": "Well then, Captain. Here, next to me...",
+   "status": "done"
   },
   {
    "id": "ev086_24E0",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……座るのはいいけど、\n　また、変なところさわらないでね。\n\n",
-   "en": ""
+   "en": "...I don't mind sitting there, but don't go\ntouching me anywhere funny again, all right?",
+   "status": "done"
   },
   {
    "id": "ev086_2528",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_2544",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長、思うんですけど。\n\n\n",
-   "en": ""
+   "en": "Captain, I've been thinking.",
+   "status": "done"
   },
   {
    "id": "ev086_2568",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレ、今でも生き延びてますけど。\n\n\n",
-   "en": ""
+   "en": "I've made it this far alive, but...",
+   "status": "done"
   },
   {
    "id": "ev086_2598",
@@ -1764,7 +1938,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ただ、オレ一人の力だけじゃ……。\n\n\n",
-   "en": ""
+   "en": "...on my own strength alone...",
+   "status": "done"
   },
   {
    "id": "ev086_25C8",
@@ -1774,7 +1949,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ここまで\n　生き残れなかったんじゃないかな。\n\n",
-   "en": ""
+   "en": "...I don't think I'd have survived this long.",
+   "status": "done"
   },
   {
    "id": "ev086_2604",
@@ -1784,7 +1960,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　西方騎士隊のみんながいなければ\n　多分、どこかで\n　死んでいたと思うんですよね。\n",
-   "en": ""
+   "en": "Without everyone in the Western Knights,\nI'd probably have died somewhere along\nthe way.",
+   "status": "done"
   },
   {
    "id": "ev086_2660",
@@ -1794,7 +1971,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ……。\n\n\n",
-   "en": ""
+   "en": "Keigo...",
+   "status": "done"
   },
   {
    "id": "ev086_267C",
@@ -1804,7 +1982,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だから隊長も、\n　なんでも一人で背負わないで……。\n\n",
-   "en": ""
+   "en": "So you shouldn't carry everything by\nyourself either, Captain...",
+   "status": "done"
   },
   {
    "id": "ev086_26BC",
@@ -1814,7 +1993,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_26D8",
@@ -1824,7 +2004,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　一人でなく二人でやれば、\n　きっとなんでもできますよ。\n\n",
-   "en": ""
+   "en": "If we do it together instead of alone, I'm\nsure we can do anything.",
+   "status": "done"
   },
   {
    "id": "ev086_271C",
@@ -1834,7 +2015,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_2738",
@@ -1844,7 +2026,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ふふふ……。\n\n\n",
-   "en": ""
+   "en": "Hehe...",
+   "status": "done"
   },
   {
    "id": "ev086_2754",
@@ -1854,7 +2037,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　また、口説こうとしているの？\n\n\n",
-   "en": ""
+   "en": "Are you trying to woo me again?",
+   "status": "done"
   },
   {
    "id": "ev086_2780",
@@ -1864,7 +2048,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　まったく\n　誰に教わったのかしら……。\n\n",
-   "en": ""
+   "en": "Honestly, I wonder who taught you that...",
+   "status": "done"
   },
   {
    "id": "ev086_27B4",
@@ -1874,7 +2059,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_27D0",
@@ -1884,7 +2070,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　わかっているわ。\n　さあ、いきましょう。\n\n",
-   "en": ""
+   "en": "I know. Now, let's go.",
+   "status": "done"
   },
   {
    "id": "ev086_2804",
@@ -1894,7 +2081,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev086_2818",
@@ -1904,7 +2092,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ。\n\n\n",
-   "en": ""
+   "en": "Keigo.",
+   "status": "done"
   },
   {
    "id": "ev086_2830",
@@ -1914,7 +2103,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんですか、隊長？\n\n\n",
-   "en": ""
+   "en": "What is it, Captain?",
+   "status": "done"
   },
   {
    "id": "ev086_2850",
@@ -1924,7 +2114,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev086_286C",
@@ -1934,7 +2125,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うん？\n\n\n",
-   "en": ""
+   "en": "Hm?",
+   "status": "done"
   },
   {
    "id": "ev086_2880",
@@ -1944,7 +2136,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ううん、なんでもないわ。\n\n\n",
-   "en": ""
+   "en": "No, it's nothing.",
+   "status": "done"
   },
   {
    "id": "ev086_28A8",
@@ -1954,7 +2147,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……そうですか。\n　じゃあ、いきますよ。\n\n",
-   "en": ""
+   "en": "...Okay. Let's get going, then.",
+   "status": "done"
   },
   {
    "id": "ev086_28DC",
@@ -1964,7 +2158,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ええ。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev086_28F0",
@@ -1974,7 +2169,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（……ありがとう）\n\n\n",
-   "en": ""
+   "en": "(...Thank you.)",
+   "status": "done"
   },
   {
    "id": "ev086_2910",
@@ -1984,7 +2180,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（ありがとう、ケイゴ……）\n\n\n",
-   "en": ""
+   "en": "(Thank you, Keigo...)",
+   "status": "done"
   },
   {
    "id": "ev086_2938",
@@ -1994,7 +2191,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down in a place like this...",
+   "status": "done"
   },
   {
    "id": "ev086_47F8",
@@ -2003,7 +2201,8 @@
     "0x4AD8"
    ],
    "jp": "　ア・ゼルスは目に見えぬ力で支配されている\n\n　　　　　　天空に、そして大地に\n　　至るところ満ち溢れる精霊の力を源とし\n　　　　　生きとし生けるものすべてが\n　　　　　　その命を紡ぎ出している\n\n　　いかに小さく、はかなく見えようとも\n　　　　　あらゆるものに精霊は宿り\n　　人々に惜しみなく恵みを与え続けている\n\n　　　　　　それは魔装機神といえど\n　　　　　　　例外ではないのだ\n",
-   "en": ""
+   "en": "A-Zeluth is ruled by a power none can see\n\nIn the heavens, and upon the earth,\nthe power of the spirits overflows,\nand from it every living thing\nspins out the thread of its life\n\nHowever small and fleeting it may seem,\nspirits dwell within all things\nand give their blessings freely to all\n\nNot even the Masoukishin\nare an exception",
+   "status": "done"
   },
   {
    "id": "ev086_4970",
@@ -2012,7 +2211,8 @@
     "0x4ADC"
    ],
    "jp": "　　ここに祖国の希望を背負った女が一人\n\n　　精霊を宿した魔装機神と操者との間には\n　　　　　新たな契約が必要とされる\n\n　　　　無言のうちに結ばれるその契約は\n　　精霊が高位であればあるほど困難を極める\n\n　　　　　操者が精霊を選ぶのではない\n　　　精霊が操者を認めねばならないのだ\n\n　　そう、彼女は己をさしださんとしていた\n　　　その先に皮肉な結末が待とうとも……\n",
-   "en": ""
+   "en": "Here stands a woman bearing her land's hope\n\nBetween a Masoukishin that houses a spirit\nand its pilot, a new contract is required\n\nThat contract, sealed without a word,\ngrows harder the higher the spirit stands\n\nIt is not the pilot who chooses the spirit\nThe spirit must accept the pilot\n\nYes, she was ready to offer up herself,\nthough an ironic end awaited her...",
+   "status": "done"
   }
  ]
 }

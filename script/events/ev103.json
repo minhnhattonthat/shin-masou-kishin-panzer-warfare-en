@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　辺境の村\n　（バルツフィーム解放軍　活動拠点）\n\n",
-   "en": ""
+   "en": "Frontier Village\n(Vartzpheem Liberation Army Base)",
+   "status": "done"
   },
   {
    "id": "ev103_0770",
@@ -34,7 +35,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ベウマー、\n　シェスからの連絡は？\n\n",
-   "en": ""
+   "en": "Beumer, any word from Shess?",
+   "status": "done"
   },
   {
    "id": "ev103_07A0",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　いや、ダメだ。\n　まだ入らん……。\n\n",
-   "en": ""
+   "en": "Nope, nothing. Still no word...",
+   "status": "done"
   },
   {
    "id": "ev103_07D0",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ナトゥーレから戻ってくる日は\n　とっくに過ぎているっていうのに……。\n\n",
-   "en": ""
+   "en": "And the day she was due back from\nNatoure is long past...",
+   "status": "done"
   },
   {
    "id": "ev103_0824",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　最近は、ラガーシュの部隊が\n　偵察を強化している。\n\n",
-   "en": ""
+   "en": "Lately the Ragash units have been stepping\nup their scouting.",
+   "status": "done"
   },
   {
    "id": "ev103_0864",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　その部隊に捕らえられて\n　いなければいいんだが……。\n\n",
-   "en": ""
+   "en": "I just hope she hasn't been caught by one\nof 'em...",
+   "status": "done"
   },
   {
    "id": "ev103_08A8",
@@ -84,7 +90,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ここしばらく、騒ぎは起きていない。\n　おそらく大丈夫だろう。\n\n",
-   "en": ""
+   "en": "There's been no commotion for some time\nnow. She's most likely all right.",
+   "status": "done"
   },
   {
    "id": "ev103_08F4",
@@ -94,7 +101,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ただ、補給が途絶え、\n　魔装機の稼働率も落ちている。\n\n",
-   "en": ""
+   "en": "Still, our supplies are cut off, and fewer of\nour Masouki are fit to fight.",
+   "status": "done"
   },
   {
    "id": "ev103_0938",
@@ -104,7 +112,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　そろそろなんとかせんと……。\n\n\n",
-   "en": ""
+   "en": "We must do something soon...",
+   "status": "done"
   },
   {
    "id": "ev103_0964",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……神官長の居場所もわからんしな。\n　どこかに捕らえられているのは、\n　間違いないんだが。\n",
-   "en": ""
+   "en": "...And we still don't know where the High\nPriest is. No doubt he's being held\nsomewhere, but...",
+   "status": "done"
   },
   {
    "id": "ev103_09CC",
@@ -124,7 +134,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　真のリーダーともいうべき人間が\n　捕らえられたままじゃ……。\n\n",
-   "en": ""
+   "en": "With the man who's our real leader still a\nprisoner...",
+   "status": "done"
   },
   {
    "id": "ev103_0A18",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……まったく\n　バルツフィーム解放軍といったものの\n　八方ふさがりもいいとこだ。\n",
-   "en": ""
+   "en": "...Geez. We call ourselves the Vartzpheem\nLiberation Army, but we're stuck on\nevery side.",
+   "status": "done"
   },
   {
    "id": "ev103_0A74",
@@ -144,7 +156,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ぼやくのはやめておこう、ベウマー。\n　物事はそう簡単に進まん。\n\n",
-   "en": ""
+   "en": "Enough grumbling, Beumer. Things never go\nthat easily.",
+   "status": "done"
   },
   {
    "id": "ev103_0AC0",
@@ -154,7 +167,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　それに民間兵がほとんどを\n　占めている。\n\n",
-   "en": ""
+   "en": "Besides, nearly every man in our ranks is a\nmilitiaman.",
+   "status": "done"
   },
   {
    "id": "ev103_0AF8",
@@ -164,7 +178,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　神官長の居場所がわかったとしても\n　戦力を整えるには\n　まだ時間がかかる。\n",
-   "en": ""
+   "en": "Even if we learn where the High Priest is, it\nwill take time yet to build up our strength.",
+   "status": "done"
   },
   {
    "id": "ev103_0B50",
@@ -174,7 +189,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　今は辛抱のときだ。\n\n\n",
-   "en": ""
+   "en": "Now is the time for patience.",
+   "status": "done"
   },
   {
    "id": "ev103_0B74",
@@ -184,7 +200,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　確かに。\n\n\n",
-   "en": ""
+   "en": "True enough.",
+   "status": "done"
   },
   {
    "id": "ev103_0B8C",
@@ -194,7 +211,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　……かといって\n　のんびりするわけにもいかんか。\n\n",
-   "en": ""
+   "en": "...Still, I suppose we can't just sit idle.",
+   "status": "done"
   },
   {
    "id": "ev103_0BCC",
@@ -204,7 +222,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　午後、見回りついでに\n　何人か見込みがありそうなのを\n　連れて、魔装機の訓練をさせてみよう。\n",
-   "en": ""
+   "en": "This afternoon, on my patrol, I'll take a few\npromising ones along and train them on the\nMasouki.",
+   "status": "done"
   },
   {
    "id": "ev103_0C34",
@@ -214,7 +233,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ああ、頼む。\n\n\n",
-   "en": ""
+   "en": "Yeah, I'm counting on you.",
+   "status": "done"
   },
   {
    "id": "ev103_0C50",
@@ -224,7 +244,8 @@
    ],
    "speaker": "民間兵",
    "jp": "　フルカスさん、大変です！\n　ラガーシュの偵察部隊が\n　こちらに向かってきます！！\n",
-   "en": ""
+   "en": "Furcas-san, it's bad! A Ragash scouting\nparty is heading this way!!",
+   "status": "done"
   },
   {
    "id": "ev103_0CAC",
@@ -234,7 +255,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　なに！？\n　それで、敵の数は？\n\n",
-   "en": ""
+   "en": "What!? How many are there?",
+   "status": "done"
   },
   {
    "id": "ev103_0CD8",
@@ -244,7 +266,8 @@
    ],
    "speaker": "民間兵",
    "jp": "　魔装機５機です。\n\n\n",
-   "en": ""
+   "en": "Five Masouki, sir.",
+   "status": "done"
   },
   {
    "id": "ev103_0CF8",
@@ -254,7 +277,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　よし、敵は\n　魔装機隊が食い止める。\n\n",
-   "en": ""
+   "en": "Right. The Masouki squad will hold the\nenemy back.",
+   "status": "done"
   },
   {
    "id": "ev103_0D2C",
@@ -264,7 +288,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　そのスキに歩兵部隊は退却しろ！\n\n\n",
-   "en": ""
+   "en": "The infantry will fall back while we do!",
+   "status": "done"
   },
   {
    "id": "ev103_0D5C",
@@ -274,7 +299,8 @@
    ],
    "speaker": "民間兵",
    "jp": "　わ、わかりました！\n\n\n",
-   "en": ""
+   "en": "U-Understood!",
+   "status": "done"
   },
   {
    "id": "ev103_0D7C",
@@ -284,7 +310,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　ふん、こんなところに\n　いやがった。\n\n",
-   "en": ""
+   "en": "Hmph. So this is where they were hiding.",
+   "status": "done"
   },
   {
    "id": "ev103_0DB4",
@@ -294,7 +321,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　しかも魔装機は３機。\n　増援は必要なかったな。\n\n",
-   "en": ""
+   "en": "And only three Masouki. Didn't need\nreinforcements after all.",
+   "status": "done"
   },
   {
    "id": "ev103_0DF8",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　やるぞ！！\n\n\n",
-   "en": ""
+   "en": "Let's go!!",
+   "status": "done"
   },
   {
    "id": "ev103_0E18",
@@ -314,7 +343,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　増援部隊か！\n\n\n",
-   "en": ""
+   "en": "Reinforcements!",
+   "status": "done"
   },
   {
    "id": "ev103_0E34",
@@ -324,7 +354,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ぬかった……！\n\n\n",
-   "en": ""
+   "en": "I was careless...!",
+   "status": "done"
   },
   {
    "id": "ev103_0E54",
@@ -334,7 +365,8 @@
    ],
    "speaker": "フルカス",
    "jp": "（ベウマーよ、すまぬ。\n　戻れないかもしれん……）\n\n",
-   "en": ""
+   "en": "(Forgive me, Beumer. I may not make it\nback...)",
+   "status": "done"
   },
   {
    "id": "ev103_0E94",
@@ -344,7 +376,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev103_0EAC",
@@ -354,7 +387,8 @@
    ],
    "speaker": "シェス",
    "jp": "　フルカスさん！！\n\n\n",
-   "en": ""
+   "en": "Furcas-san!!",
+   "status": "done"
   },
   {
    "id": "ev103_0ECC",
@@ -364,7 +398,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　シェス！\n　おぬし、どうして……！！\n\n",
-   "en": ""
+   "en": "Shess! What are you doing here...!?",
+   "status": "done"
   },
   {
    "id": "ev103_0F00",
@@ -374,7 +409,8 @@
    ],
    "speaker": "シェス",
    "jp": "　プラーナの反応を感知したんです。\n　今、そっちに向かっています！\n\n",
-   "en": ""
+   "en": "I picked up the Prana readings. We're\nheading your way now!",
+   "status": "done"
   },
   {
    "id": "ev103_0F4C",
@@ -384,7 +420,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ダメだ、きてはいかん！！\n\n\n",
-   "en": ""
+   "en": "No, you mustn't come!!",
+   "status": "done"
   },
   {
    "id": "ev103_0F74",
@@ -394,7 +431,8 @@
    ],
    "speaker": "シェス",
    "jp": "　大丈夫です。\n　ケイゴさんたちも一緒ですから！\n\n",
-   "en": ""
+   "en": "It's all right. Keigo-san and the others are\nwith me!",
+   "status": "done"
   },
   {
    "id": "ev103_0FB0",
@@ -404,7 +442,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴが！？\n\n\n",
-   "en": ""
+   "en": "Keigo!?",
+   "status": "done"
   },
   {
    "id": "ev103_0FCC",
@@ -414,7 +453,8 @@
    ],
    "speaker": "シェス",
    "jp": "　もう少し、\n　辛抱してください！\n\n",
-   "en": ""
+   "en": "Please hold on just a little longer!",
+   "status": "done"
   },
   {
    "id": "ev103_0FF8",
@@ -424,7 +464,8 @@
    ],
    "speaker": "フルカス",
    "jp": "（ケイゴ……！？\n　生きておったのか……！！）\n\n",
-   "en": ""
+   "en": "(Keigo...!? So he was alive...!!)",
+   "status": "done"
   },
   {
    "id": "ev103_1034",
@@ -434,7 +475,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　フルカスさん！！\n\n\n",
-   "en": ""
+   "en": "Furcas-san!!",
+   "status": "done"
   },
   {
    "id": "ev103_1054",
@@ -444,7 +486,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴ！！\n\n\n",
-   "en": ""
+   "en": "Keigo!!",
+   "status": "done"
   },
   {
    "id": "ev103_1070",
@@ -454,7 +497,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　フルカス、\n　どうやら元気なようね！？\n\n",
-   "en": ""
+   "en": "Furcas, looks like you're doing well!?",
+   "status": "done"
   },
   {
    "id": "ev103_10A4",
@@ -464,7 +508,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　アルマ隊長！\n　……しかもイェン殿まで！！\n\n",
-   "en": ""
+   "en": "Captain Alma! ...And even Yen-dono!!",
+   "status": "done"
   },
   {
    "id": "ev103_10DC",
@@ -474,7 +519,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　しかし、その機体は……！？\n\n\n",
-   "en": ""
+   "en": "But those machines...!?",
+   "status": "done"
   },
   {
    "id": "ev103_1108",
@@ -484,7 +530,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　話はあとにしましょう。\n　とりあえず、敵を倒すのが先決だわ。\n\n",
-   "en": ""
+   "en": "Let's talk later. First, we need to defeat\nthe enemy.",
+   "status": "done"
   },
   {
    "id": "ev103_1150",
@@ -494,7 +541,8 @@
    ],
    "speaker": "イェン",
    "jp": "　無益な殺生は好まぬが……参る！\n\n\n",
-   "en": ""
+   "en": "I take no joy in needless slaughter... but\nhere I come!",
+   "status": "done"
   },
   {
    "id": "ev103_117C",
@@ -504,7 +552,8 @@
    ],
    "speaker": "トト",
    "jp": "　よ～し！\n　やってやるぞ！！\n\n",
-   "en": ""
+   "en": "All riiight! Let's do this!!",
+   "status": "done"
   },
   {
    "id": "ev103_11A4",
@@ -514,7 +563,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　こ、子供……。\n\n\n",
-   "en": ""
+   "en": "A-A child...",
+   "status": "done"
   },
   {
    "id": "ev103_11C4",
@@ -524,7 +574,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　しかし、あの子は確か……。\n\n\n",
-   "en": ""
+   "en": "But that boy, if I'm not mistaken...",
+   "status": "done"
   },
   {
    "id": "ev103_11F0",
@@ -534,7 +585,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　アルマ隊長！\n　よくご無事で……。\n\n",
-   "en": ""
+   "en": "Captain Alma! I'm glad you're safe...",
+   "status": "done"
   },
   {
    "id": "ev103_1220",
@@ -544,7 +596,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ごめんなさい。\n　心配をかけてしまって。\n\n",
-   "en": ""
+   "en": "I'm sorry for making you worry.",
+   "status": "done"
   },
   {
    "id": "ev103_1254",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　フルカスさん！\n\n\n",
-   "en": ""
+   "en": "Furcas-san!",
+   "status": "done"
   },
   {
    "id": "ev103_1270",
@@ -564,7 +618,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　おお、ケイゴ！！\n　おまえも無事で、よかった。\n\n",
-   "en": ""
+   "en": "Oh, Keigo!! I'm glad you're safe too.",
+   "status": "done"
   },
   {
    "id": "ev103_12AC",
@@ -574,7 +629,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　フルカスさんこそ。\n　どうしているのかと\n　思いましたよ。\n",
-   "en": ""
+   "en": "Same goes for you, Furcas-san. I was\nwondering how you were doing.",
+   "status": "done"
   },
   {
    "id": "ev103_12F0",
@@ -584,7 +640,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　バカもの。\n　それは、オレのセリフだ。\n　まったく心配ばかりかけよって。\n",
-   "en": ""
+   "en": "You fool. That's my line. Always making me\nworry, honestly.",
+   "status": "done"
   },
   {
    "id": "ev103_1344",
@@ -594,7 +651,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　イェン殿。\n　貴公には、また助けられましたな。\n\n",
-   "en": ""
+   "en": "Yen-dono. It seems you've saved us yet\nagain, sir.",
+   "status": "done"
   },
   {
    "id": "ev103_1380",
@@ -604,7 +662,8 @@
    ],
    "speaker": "イェン",
    "jp": "　いえ、私はなにも……。\n\n\n",
-   "en": ""
+   "en": "No, I did nothing...",
+   "status": "done"
   },
   {
    "id": "ev103_13A4",
@@ -614,7 +673,8 @@
    ],
    "speaker": "イェン",
    "jp": "　それより\n　王都を守りきることができず、\n　たいへん申しわけありません。\n",
-   "en": ""
+   "en": "More importantly, I am truly sorry that I\ncould not defend the Royal Capital to\nthe end.",
+   "status": "done"
   },
   {
    "id": "ev103_13F8",
@@ -624,7 +684,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　お詫びの言葉をいただいても……。\n　あれはイェン殿の責任ではありません。\n\n",
-   "en": ""
+   "en": "You need not apologize... That was not\nyour fault, Yen-dono.",
+   "status": "done"
   },
   {
    "id": "ev103_1450",
@@ -634,7 +695,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　やったのは、\n　ラガーシュの軍勢なのですから。\n\n\n",
-   "en": ""
+   "en": "It was the Ragash army that did it, after all.",
+   "status": "done"
   },
   {
    "id": "ev103_148C",
@@ -644,7 +706,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ところでアルマ隊長。\n\n\n",
-   "en": ""
+   "en": "By the way, Captain Alma.",
+   "status": "done"
   },
   {
    "id": "ev103_14B0",
@@ -654,7 +717,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　サイバスターとグランヴェールは\n　ともかく、\n　残りの２機はいったい……。\n",
-   "en": ""
+   "en": "Cybuster and Granveil I know, but what on\nearth are the other two...?",
+   "status": "done"
   },
   {
    "id": "ev103_1508",
@@ -664,7 +728,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私の乗っている機体が\n　魔装機神ガッデス。\n\n",
-   "en": ""
+   "en": "The machine I'm piloting is the Masoukishin\nGaddess.",
+   "status": "done"
   },
   {
    "id": "ev103_1540",
@@ -674,7 +739,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　魔装機神……ガッデス！？\n\n\n",
-   "en": ""
+   "en": "The Masoukishin... Gaddess!?",
+   "status": "done"
   },
   {
    "id": "ev103_1568",
@@ -684,7 +750,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そしてもう一機が……。\n\n\n",
-   "en": ""
+   "en": "And the other one is...",
+   "status": "done"
   },
   {
    "id": "ev103_158C",
@@ -694,7 +761,8 @@
    ],
    "speaker": "トト",
    "jp": "　へへ、魔装機神ザムジード。\n　おいらの機体だよ。\n　フルカスおじさん！！\n",
-   "en": ""
+   "en": "Hehe, the Masoukishin Zamzeed. That's my\nmachine, mister Furcas!",
+   "status": "done"
   },
   {
    "id": "ev103_15DC",
@@ -704,7 +772,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　どうして私の名を……？\n\n",
-   "en": ""
+   "en": "How do you know my name...?",
+   "status": "done"
   },
   {
    "id": "ev103_1600",
@@ -714,7 +783,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　そうか！　思い出した！！\n　坊やはアルフレード技師長の……。\n\n",
-   "en": ""
+   "en": "I see! Now I remember!! You're Chief\nEngineer Alfredo's boy...",
+   "status": "done"
   },
   {
    "id": "ev103_164C",
@@ -724,7 +794,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　その通り。\n　孫のトトじゃ。\n\n",
-   "en": ""
+   "en": "Exactly so. That's my grandson Toto, eh.",
+   "status": "done"
   },
   {
    "id": "ev103_167C",
@@ -734,7 +805,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　アルフレード技師長！\n　ご無事でしたか。\n\n",
-   "en": ""
+   "en": "Chief Engineer Alfredo! You're safe!",
+   "status": "done"
   },
   {
    "id": "ev103_16B4",
@@ -744,7 +816,8 @@
    ],
    "speaker": "シェス",
    "jp": "　私もですよ！\n\n\n",
-   "en": ""
+   "en": "I'm here too, you know!",
+   "status": "done"
   },
   {
    "id": "ev103_16D0",
@@ -754,7 +827,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　いや、すまんすまん。\n\n\n",
-   "en": ""
+   "en": "Ah, forgive me, forgive me.",
+   "status": "done"
   },
   {
    "id": "ev103_16F4",
@@ -764,7 +838,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　しかし、どうして……。\n\n\n",
-   "en": ""
+   "en": "But how did all this...",
+   "status": "done"
   },
   {
    "id": "ev103_171C",
@@ -774,7 +849,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ナトゥーレで\n　じいさんたちと再会して……。\n\n",
-   "en": ""
+   "en": "We ran into the old man and the others\nagain in Natoure...",
+   "status": "done"
   },
   {
    "id": "ev103_1754",
@@ -784,7 +860,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　で、副長たちを\n　助けようと思ってきたんです。\n\n",
-   "en": ""
+   "en": "And we came to help the Vice-Captain and\neveryone.",
+   "status": "done"
   },
   {
    "id": "ev103_1790",
@@ -794,7 +871,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　また、よろしくお願いします。\n\n\n",
-   "en": ""
+   "en": "I'm counting on you again.",
+   "status": "done"
   },
   {
    "id": "ev103_17BC",
@@ -804,7 +882,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴ……。\n\n\n",
-   "en": ""
+   "en": "Keigo...",
+   "status": "done"
   },
   {
    "id": "ev103_17D8",
@@ -814,7 +893,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そういうことなの。\n\n",
-   "en": ""
+   "en": "That's how it is.",
+   "status": "done"
   },
   {
    "id": "ev103_17F8",
@@ -824,7 +904,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　だから、ベウマーたちのところに\n　連れていってくれないかしら。\n\n",
-   "en": ""
+   "en": "So, would you take us to Beumer and the\nothers?",
+   "status": "done"
   },
   {
    "id": "ev103_1844",
@@ -834,7 +915,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　……アルマ隊長。\n\n\n",
-   "en": ""
+   "en": "...Captain Alma.",
+   "status": "done"
   },
   {
    "id": "ev103_1864",
@@ -844,7 +926,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ふふふ……。\n\n\n",
-   "en": ""
+   "en": "Hehehe...",
+   "status": "done"
   },
   {
    "id": "ev103_1880",
@@ -854,7 +937,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　な、なにか？\n\n\n",
-   "en": ""
+   "en": "Wh-What is it?",
+   "status": "done"
   },
   {
    "id": "ev103_189C",
@@ -864,7 +948,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いえ、ケイゴと同じだと思って。\n　私はもう隊長ではないわよ。\n\n",
-   "en": ""
+   "en": "Nothing, you're just like Keigo. I'm not your\ncaptain anymore, you know.",
+   "status": "done"
   },
   {
    "id": "ev103_18E4",
@@ -874,7 +959,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　いや、その……。\n\n\n",
-   "en": ""
+   "en": "Well, er...",
+   "status": "done"
   },
   {
    "id": "ev103_1904",
@@ -884,7 +970,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　この分だと\n　ベウマーからもそう呼ばれそうね。\n\n",
-   "en": ""
+   "en": "At this rate, Beumer will be calling me\nthat too.",
+   "status": "done"
   },
   {
    "id": "ev103_1940",
@@ -894,7 +981,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev103_195C",
@@ -904,7 +992,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　なんたることだ！\n\n\n",
-   "en": ""
+   "en": "What is the meaning of this!",
+   "status": "done"
   },
   {
    "id": "ev103_1980",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　私がラガーシュ本国に\n　戻っているあいだに\n　魔装機神が４機揃っただと……。\n",
-   "en": ""
+   "en": "While I was back in the Ragash homeland, all\nfour Masoukishin were gathered together!?",
+   "status": "done"
   },
   {
    "id": "ev103_19DC",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　はい……。\n\n\n",
-   "en": ""
+   "en": "Yes...",
+   "status": "done"
   },
   {
    "id": "ev103_19F4",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　貴様は、魔装機神を\n　なんだと思っているのだ！\n　ただの魔装機ではないのだぞ！！\n",
-   "en": ""
+   "en": "What do you take the Masoukishin for!?\nThey are no ordinary Masouki, you know!!",
+   "status": "done"
   },
   {
    "id": "ev103_1A54",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　それは重々承知しております。\n\n\n\n",
-   "en": ""
+   "en": "I am fully aware of that.",
+   "status": "done"
   },
   {
    "id": "ev103_1A80",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　分かっていながら、\n　今までなにをしておったのだ！\n\n",
-   "en": ""
+   "en": "If you knew, then what have you been doing\nall this time!?",
+   "status": "done"
   },
   {
    "id": "ev103_1AC4",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　申しわけありません。\n\n\n",
-   "en": ""
+   "en": "My deepest apologies.",
+   "status": "done"
   },
   {
    "id": "ev103_1AE8",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev103_1B08",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　それで、４機の魔装機神の\n　所在と目的はわかっているのか！？\n\n",
-   "en": ""
+   "en": "So, do you know where the four\nMasoukishin are and what they are after!?",
+   "status": "done"
   },
   {
    "id": "ev103_1B54",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　偵察部隊からの報告によると、\n　バルツフィームとナトゥーレの\n　国境付近に到着した、とのことです。\n",
-   "en": ""
+   "en": "According to our scouts, they have arrived\nnear the border between Vartzpheem and\nNatoure.",
+   "status": "done"
   },
   {
    "id": "ev103_1BC0",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　やつらは、\n　そこでなにをしているのだ？\n\n",
-   "en": ""
+   "en": "And what are they doing there?",
+   "status": "done"
   },
   {
    "id": "ev103_1BF8",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　その付近で活動中の、\n　バルツフィーム解放軍と\n　合流したようです。\n",
-   "en": ""
+   "en": "It appears they have joined up with the\nVartzpheem Liberation Army active in\nthat area.",
+   "status": "done"
   },
   {
    "id": "ev103_1C48",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　あのゲリラどもか！\n\n\n",
-   "en": ""
+   "en": "Those guerrillas!",
+   "status": "done"
   },
   {
    "id": "ev103_1C6C",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　もはや一刻の猶予もならぬ！\n　魔装機神を抹殺するのだ！！\n\n",
-   "en": ""
+   "en": "There is not a moment to lose! Eliminate the\nMasoukishin!!",
+   "status": "done"
   },
   {
    "id": "ev103_1CB4",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　よいな、ソッド！！\n\n\n",
-   "en": ""
+   "en": "Do you understand, Thodd!!",
+   "status": "done"
   },
   {
    "id": "ev103_1CD8",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　かしこまりました。\n\n\n",
-   "en": ""
+   "en": "As you wish.",
+   "status": "done"
   },
   {
    "id": "ev103_1CF8",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　もうよい！　下がれ！！\n\n\n",
-   "en": ""
+   "en": "Enough! Dismissed!!",
+   "status": "done"
   },
   {
    "id": "ev103_1D20",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……はっ。\n\n\n",
-   "en": ""
+   "en": "...Sir.",
+   "status": "done"
   },
   {
    "id": "ev103_1D38",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（ソッドのやつめ……）\n\n\n",
-   "en": ""
+   "en": "(That Thodd...)",
+   "status": "done"
   },
   {
    "id": "ev103_1D60",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（使えると思って\n　勝手な行動など\n　黙認してきてやったが……）\n",
-   "en": ""
+   "en": "(I've tolerated his acting on his own,\nthinking him useful, but...)",
+   "status": "done"
   },
   {
    "id": "ev103_1DAC",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（素性もわからんし、\n　そろそろ切り捨てるべきだな……）\n\n",
-   "en": ""
+   "en": "(I know nothing of where he came from.\nIt's time I cut him loose...)",
+   "status": "done"
   },
   {
    "id": "ev103_1DF4",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev103_1E14",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（しかし……）\n\n\n",
-   "en": ""
+   "en": "(But...)",
+   "status": "done"
   },
   {
    "id": "ev103_1E34",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（魔装機神……）\n\n\n",
-   "en": ""
+   "en": "(The Masoukishin...)",
+   "status": "done"
   },
   {
    "id": "ev103_1E54",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（この後に及んで\n　私にたてつくつもりか！）\n\n",
-   "en": ""
+   "en": "(Do they still dare defy me, even now!?)",
+   "status": "done"
   },
   {
    "id": "ev103_1E90",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down in a place like this...",
+   "status": "done"
   },
   {
    "id": "ev103_1EC8",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、私は……。\n　ここまでというの……。\n\n",
-   "en": ""
+   "en": "I... I... Is this as far as I go...?",
+   "status": "done"
   },
   {
    "id": "ev103_1F00",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "イェン",
    "jp": "　このわたしが……。\n　やられるというのかっ！！\n\n",
-   "en": ""
+   "en": "That I, of all people... could be defeated!?",
+   "status": "done"
   },
   {
    "id": "ev103_1F3C",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "トト",
    "jp": "　うっそ！！\n　おいらがやられるなんてアリ……。\n\n",
-   "en": ""
+   "en": "No way!! There's no way I could lose like...",
+   "status": "done"
   },
   {
    "id": "ev103_1F74",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ダメージを受けすぎた。\n　戦闘空域から離脱する。\n\n",
-   "en": ""
+   "en": "I've taken too much damage. Withdrawing\nfrom the combat zone.",
+   "status": "done"
   },
   {
    "id": "ev103_34E4",
@@ -1203,7 +1321,8 @@
     "0x37B0"
    ],
    "jp": "　　　　魔装機神操者は決心をしていた\n\n　　　　　　自分のやるべきことも\n　　　　　　自分の進むべき道筋も\n　　　　　抱えた心の痛みを自覚して\n　　　　その痛みに耐えることを選択した\n\n　　　　　そんな彼を弄ぶかのごとく\n　戦場は、彼の心を容赦なく引き裂こうとする\n\n　　かつては自らを高め極めんとするべき道を\n　　　　　　　示してくれた……\n　　　　そう、師の姿を彼は認めたのだ\n",
-   "en": ""
+   "en": "The Masoukishin pilot had made up his mind\n\nAbout what it was he had to do\nand about the road he had to walk\nAware of the pain he carried within,\nhe chose to bear that pain\n\nAs if to toy with him,\nthe battlefield sought to rend his heart\n\nOnce, someone had shown him the path\nby which to raise and perfect himself...\nYes, he had seen his old teacher there",
+   "status": "done"
   },
   {
    "id": "ev103_3658",
@@ -1212,7 +1331,8 @@
     "0x37B4"
    ],
    "jp": "　　その師が今一度、彼の前に立ちはだかった\n\n　　　　　　　動揺する若き騎士\n　　しかし、その心の乱れを女騎士が救った\n\n　　　　　　己の心の痛みを乗り越え\n　　　　　　自分の姿を見せることで\n　　　　　　若き騎士に勇気を与えた\n\n　　そして、若き騎士とその師が相対するとき\n　　　　　　物語は悲劇の結末を迎える\n\n　　　　　ケイゴ、師の壁を越えよ……\n",
-   "en": ""
+   "en": "That teacher stood before him once again\n\nThe young knight was shaken,\nbut the lady knight steadied his heart\n\nRising above the pain in her own heart,\nby showing him who she truly was,\nshe gave the young knight courage\n\nAnd when the knight faced his teacher,\nthe tale came to its tragic end\n\nKeigo, rise above your teacher's wall...",
+   "status": "done"
   }
  ]
 }

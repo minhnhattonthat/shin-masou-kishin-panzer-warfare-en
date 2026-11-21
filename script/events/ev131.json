@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　ナトゥーレ王国\n　　王都\n\n",
-   "en": ""
+   "en": "Kingdom of Natoure\nRoyal Capital",
+   "status": "done"
   },
   {
    "id": "ev131_08B0",
@@ -34,7 +35,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ロセリニ様。\n　ご無事でなによりでした。\n\n",
-   "en": ""
+   "en": "Rossellini-sama. I am so relieved to see\nyou safe.",
+   "status": "done"
   },
   {
    "id": "ev131_08E8",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　ご心配をおかけしました。\n\n\n",
-   "en": ""
+   "en": "I apologize for causing you such concern.",
+   "status": "done"
   },
   {
    "id": "ev131_0910",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　ここにこうしていられるのも\n　シャーナ様及びナトゥーレ王国の\n　ご協力があってのもの。\n",
-   "en": ""
+   "en": "That I am able to stand here at all is owed\nto the cooperation of Shana-sama and the\nKingdom of Natoure.",
+   "status": "done"
   },
   {
    "id": "ev131_0974",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　本当にありがとうございました。\n\n\n",
-   "en": ""
+   "en": "You have my deepest thanks.",
+   "status": "done"
   },
   {
    "id": "ev131_09A4",
@@ -74,7 +79,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　いいえ。\n　私はなにもしておりません。\n\n",
-   "en": ""
+   "en": "Not at all. I have done nothing.",
+   "status": "done"
   },
   {
    "id": "ev131_09D8",
@@ -84,7 +90,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　これはそちらにいらっしゃる\n　ベウマー殿らのお力です。\n\n",
-   "en": ""
+   "en": "This was the work of Beumer-dono and the\nothers there.",
+   "status": "done"
   },
   {
    "id": "ev131_0A1C",
@@ -94,7 +101,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　よい部下をお持ちですね。\n\n\n",
-   "en": ""
+   "en": "You have fine subordinates.",
+   "status": "done"
   },
   {
    "id": "ev131_0A44",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_0A64",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　いいえ、シャーナ様。\n　彼らは部下でありません。\n\n",
-   "en": ""
+   "en": "No, Shana-sama. They are not my\nsubordinates.",
+   "status": "done"
   },
   {
    "id": "ev131_0AA4",
@@ -124,7 +134,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　私の仲間です。\n\n\n",
-   "en": ""
+   "en": "They are my comrades.",
+   "status": "done"
   },
   {
    "id": "ev131_0AC4",
@@ -134,7 +145,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　仲間？\n\n\n",
-   "en": ""
+   "en": "Comrades?",
+   "status": "done"
   },
   {
    "id": "ev131_0ADC",
@@ -144,7 +156,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev131_0AF4",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　バルツフィーム解放軍は王都解放後、\n　新たにバルツフィーム共和国として\n　国を再建するつもりです。\n",
-   "en": ""
+   "en": "Once the Royal Capital is freed, our\nLiberation Army means to rebuild the nation\nas the new Republic of Vartzpheem.",
+   "status": "done"
   },
   {
    "id": "ev131_0B64",
@@ -164,7 +178,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　もちろん、このことは\n　現在、唯一の王位継承権を持つ\n　アルマ様もお望みのこと。\n",
-   "en": ""
+   "en": "Naturally, this is also the wish of\nAlma-sama, who at present holds the sole\nclaim to the throne.",
+   "status": "done"
   },
   {
    "id": "ev131_0BC0",
@@ -174,7 +189,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_0BE0",
@@ -184,7 +200,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　そうですか……アルマ、\n　いえアルマ様は、やはり……。\n\n",
-   "en": ""
+   "en": "I see... So Alma--no, Alma-sama--after all...",
+   "status": "done"
   },
   {
    "id": "ev131_0C24",
@@ -194,7 +211,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……やはりと申しますと？\n\n\n",
-   "en": ""
+   "en": "...After all, you say?",
+   "status": "done"
   },
   {
    "id": "ev131_0C4C",
@@ -204,7 +222,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　詳しくは\n　私たちの個人的な話ゆえ\n　申し上げられません。\n",
-   "en": ""
+   "en": "I cannot go into detail, as it was a private\nconversation between us.",
+   "status": "done"
   },
   {
    "id": "ev131_0C94",
@@ -214,7 +233,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ただ、ここに滞在しているときに\n　そのようなことを\n　おっしゃられていたものですから。\n",
-   "en": ""
+   "en": "It is only that she spoke of such things\nwhile she was staying here.",
+   "status": "done"
   },
   {
    "id": "ev131_0CF8",
@@ -224,7 +244,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　なるほど。\n　そのころから\n　決意をされていたということですな。\n",
-   "en": ""
+   "en": "I see. So she had already made up her mind\nback then.",
+   "status": "done"
   },
   {
    "id": "ev131_0D44",
@@ -234,7 +255,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　……そう思います。\n\n\n",
-   "en": ""
+   "en": "...I believe so.",
+   "status": "done"
   },
   {
    "id": "ev131_0D68",
@@ -244,7 +266,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_0D88",
@@ -254,7 +277,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………？\n\n\n",
-   "en": ""
+   "en": "...?",
+   "status": "done"
   },
   {
    "id": "ev131_0DA8",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……いや、失礼いたしました。\n　少々、思うことがありまして。\n\n",
-   "en": ""
+   "en": "...Ah, forgive me. I was lost in thought for\na moment.",
+   "status": "done"
   },
   {
    "id": "ev131_0DF4",
@@ -274,7 +299,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　お話を続けさせて\n　よろしいですかな？\n\n",
-   "en": ""
+   "en": "May I continue?",
+   "status": "done"
   },
   {
    "id": "ev131_0E28",
@@ -284,7 +310,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　どうぞ。\n\n\n",
-   "en": ""
+   "en": "Please.",
+   "status": "done"
   },
   {
    "id": "ev131_0E40",
@@ -294,7 +321,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……我々は、\n　今回の戦争で様々なことを\n　学びました。\n",
-   "en": ""
+   "en": "...We have learned a great many things in\nthis war.",
+   "status": "done"
   },
   {
    "id": "ev131_0E84",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　今後はよりよい国にするべく\n　様々な改革を考えております。\n\n",
-   "en": ""
+   "en": "We are considering various reforms, so as\nto make ours a better nation from here on.",
+   "status": "done"
   },
   {
    "id": "ev131_0ECC",
@@ -314,7 +343,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　そうですか。\n　それは楽しみなことですね。\n\n",
-   "en": ""
+   "en": "I see. That is something to look\nforward to.",
+   "status": "done"
   },
   {
    "id": "ev131_0F04",
@@ -324,7 +354,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev131_0F1C",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　ただ、国の構造が変わっても\n　ナトゥーレ王国と協力関係は\n　継続していきたいと思っています。\n",
-   "en": ""
+   "en": "However, even if the structure of our nation\nchanges, we hope to continue our\ncooperation with the Kingdom of Natoure.",
+   "status": "done"
   },
   {
    "id": "ev131_0F84",
@@ -344,7 +376,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　その点に関しては\n　ぜひともご理解をいただきたい。\n\n",
-   "en": ""
+   "en": "On that point, I would most earnestly ask\nfor your understanding.",
+   "status": "done"
   },
   {
    "id": "ev131_0FC4",
@@ -354,7 +387,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　もちろんです。\n\n\n",
-   "en": ""
+   "en": "Of course.",
+   "status": "done"
   },
   {
    "id": "ev131_0FE4",
@@ -364,7 +398,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　私たちは\n　ア・ゼルスの平和という\n　目標があるのですから。\n",
-   "en": ""
+   "en": "We share the goal of peace on A-Zeluth,\nafter all.",
+   "status": "done"
   },
   {
    "id": "ev131_102C",
@@ -374,7 +409,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　ありがたきお言葉。\n\n\n",
-   "en": ""
+   "en": "Most gracious words.",
+   "status": "done"
   },
   {
    "id": "ev131_1050",
@@ -384,7 +420,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　今後とも\n　よろしくお願いいたします。\n\n",
-   "en": ""
+   "en": "I look forward to our continued friendship.",
+   "status": "done"
   },
   {
    "id": "ev131_1084",
@@ -394,7 +431,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　いいえ。\n　こちらこそ。\n\n",
-   "en": ""
+   "en": "Not at all. The pleasure is mine.",
+   "status": "done"
   },
   {
    "id": "ev131_10AC",
@@ -404,7 +442,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　シャーナ様。\n\n\n",
-   "en": ""
+   "en": "Shana-sama.",
+   "status": "done"
   },
   {
    "id": "ev131_10C8",
@@ -414,7 +453,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　実は、それともう一つ\n　お願いがあるのです。\n\n",
-   "en": ""
+   "en": "There is, in fact, one more favor I would\nask of you.",
+   "status": "done"
   },
   {
    "id": "ev131_1104",
@@ -424,7 +464,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　お願いと申しますと？\n\n\n",
-   "en": ""
+   "en": "A favor?",
+   "status": "done"
   },
   {
    "id": "ev131_1128",
@@ -434,7 +475,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　魔装機神と\n　その操者に関してです。\n\n",
-   "en": ""
+   "en": "It concerns the Masoukishin and their pilots.",
+   "status": "done"
   },
   {
    "id": "ev131_115C",
@@ -444,7 +486,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　現在、イェン殿を含め\n　バルツフィーム解放軍のもと、\n　ともに戦っております。\n",
-   "en": ""
+   "en": "At present, Yen-dono included, they fight\nalongside us under the Vartzpheem\nLiberation Army.",
+   "status": "done"
   },
   {
    "id": "ev131_11B8",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　彼らの活躍のおかげで\n　現在の我々があるといっても\n　過言ではありません。\n",
-   "en": ""
+   "en": "It is no exaggeration to say that we owe\nwhere we stand today to their deeds.",
+   "status": "done"
   },
   {
    "id": "ev131_1210",
@@ -464,7 +508,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　それだけ魔装機神の力は\n　強大です。\n\n",
-   "en": ""
+   "en": "That is how great the power of the\nMasoukishin is.",
+   "status": "done"
   },
   {
    "id": "ev131_1244",
@@ -474,7 +519,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　私は、この力の使い方を\n　彼らの意志に託すつもりです。\n\n",
-   "en": ""
+   "en": "I intend to entrust the use of this power to\ntheir will.",
+   "status": "done"
   },
   {
    "id": "ev131_1288",
@@ -484,7 +530,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　魔装機神の力は神の力に等しい。\n\n\n",
-   "en": ""
+   "en": "The power of the Masoukishin is equal to\nthat of a god.",
+   "status": "done"
   },
   {
    "id": "ev131_12B8",
@@ -494,7 +541,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　しかし、その力を\n　行使しているのは人間です。\n\n",
-   "en": ""
+   "en": "But it is human beings who wield it.",
+   "status": "done"
   },
   {
    "id": "ev131_12F4",
@@ -504,7 +552,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　私はこれからの未来を\n　国や権力といったものではなく\n　人間の良心に判断してもらいたい。\n",
-   "en": ""
+   "en": "I would have the future decided not by\nnations or by power, but by human\nconscience.",
+   "status": "done"
   },
   {
    "id": "ev131_1358",
@@ -514,7 +563,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　そのためにも\n　彼らには彼らの判断のもと\n　行動させるつもりです。\n",
-   "en": ""
+   "en": "That is why I intend to let them act on their\nown judgment.",
+   "status": "done"
   },
   {
    "id": "ev131_13A8",
@@ -524,7 +574,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　分別のある人間には\n　現実を見ていない夢想家と\n　いわれるかもしれない。\n",
-   "en": ""
+   "en": "Sensible people may call me a dreamer who\ndoes not see reality.",
+   "status": "done"
   },
   {
    "id": "ev131_13FC",
@@ -534,7 +585,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　しかも彼らには\n　厳しい選択を強いることに\n　なるでしょう。\n",
-   "en": ""
+   "en": "What is more, it will force difficult choices\nupon them.",
+   "status": "done"
   },
   {
    "id": "ev131_1444",
@@ -544,7 +596,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　しかし、私は\n　あの若者たちを信じたいのです。\n\n",
-   "en": ""
+   "en": "Even so, I wish to believe in those young\npeople.",
+   "status": "done"
   },
   {
    "id": "ev131_1480",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　若者たちの真の力というものを。\n\n\n",
-   "en": ""
+   "en": "In the true strength of the young.",
+   "status": "done"
   },
   {
    "id": "ev131_14B0",
@@ -564,7 +618,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　願わくば\n　シャーナ様にも\n　ご理解をいただければ……。\n",
-   "en": ""
+   "en": "If only you, too, Shana-sama, might\nunderstand...",
+   "status": "done"
   },
   {
    "id": "ev131_14F4",
@@ -574,7 +629,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　そう思っています。\n\n\n",
-   "en": ""
+   "en": "That is my hope.",
+   "status": "done"
   },
   {
    "id": "ev131_1518",
@@ -584,7 +640,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_1538",
@@ -594,7 +651,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　……夢想家。\n　確かにその通りかもしれませんね。\n\n",
-   "en": ""
+   "en": "...A dreamer. Perhaps that is so.",
+   "status": "done"
   },
   {
    "id": "ev131_1578",
@@ -604,7 +662,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ロセリニ様。\n　実は私もまったく同じことを　　\n　イェンに伝えてあります。\n",
-   "en": ""
+   "en": "Rossellini-sama. In truth, I told Yen exactly\nthe same thing.",
+   "status": "done"
   },
   {
    "id": "ev131_15D0",
@@ -614,7 +673,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　そこにいるジェムスには\n　反対されましたけれど。\n\n",
-   "en": ""
+   "en": "Though Jems here was against it.",
+   "status": "done"
   },
   {
    "id": "ev131_1610",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ジェムス",
    "jp": "　オ、オッホン……。\n\n\n",
-   "en": ""
+   "en": "Ah-ahem...",
+   "status": "done"
   },
   {
    "id": "ev131_1634",
@@ -634,7 +695,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ですから\n　そのことについてもご心配なく。\n\n",
-   "en": ""
+   "en": "So please, do not worry on that account.",
+   "status": "done"
   },
   {
    "id": "ev131_166C",
@@ -644,7 +706,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　私も彼らを信じております。\n\n\n",
-   "en": ""
+   "en": "I, too, believe in them.",
+   "status": "done"
   },
   {
    "id": "ev131_1698",
@@ -654,7 +717,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　彼らが選ぶ道を。\n\n\n",
-   "en": ""
+   "en": "In the path they choose.",
+   "status": "done"
   },
   {
    "id": "ev131_16B8",
@@ -664,7 +728,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　神ではなく\n　人が選ぶ未来を……。\n\n",
-   "en": ""
+   "en": "In a future chosen not by gods, but by\npeople...",
+   "status": "done"
   },
   {
    "id": "ev131_16E8",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　………………。　\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_1708",
@@ -684,7 +750,8 @@
    ],
    "speaker": "",
    "jp": "　ラガーシュ王国　軍司令部\n　（旧バルツフィーム王国　王都）\n\n",
-   "en": ""
+   "en": "Ragash Royal Army Headquarters\n(Former Royal Capital of Vartzpheem)",
+   "status": "done"
   },
   {
    "id": "ev131_1748",
@@ -694,7 +761,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　プラーナボム？\n\n\n",
-   "en": ""
+   "en": "A Prana Bomb?",
+   "status": "done"
   },
   {
    "id": "ev131_1768",
@@ -704,7 +772,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ソッドが研究していた\n　爆弾のことか？\n\n",
-   "en": ""
+   "en": "The bomb Thodd was researching?",
+   "status": "done"
   },
   {
    "id": "ev131_17A0",
@@ -714,7 +783,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Indeed.",
+   "status": "done"
   },
   {
    "id": "ev131_17B8",
@@ -724,7 +794,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　それの使用許可をいただきたいのです。\n\n\n",
-   "en": ""
+   "en": "I would like your permission to use it.",
+   "status": "done"
   },
   {
    "id": "ev131_17EC",
@@ -734,7 +805,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ふむ……。\n\n\n",
-   "en": ""
+   "en": "Hmm...",
+   "status": "done"
   },
   {
    "id": "ev131_1808",
@@ -744,7 +816,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　プラーナボムを使えば\n　広大な範囲に壊滅的な打撃を\n　与えることができます。\n",
-   "en": ""
+   "en": "With the Prana Bomb, we can deal a\ndevastating blow over a vast area.",
+   "status": "done"
   },
   {
    "id": "ev131_1860",
@@ -754,7 +827,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　これをやつらのいる場所の付近で\n　爆発させれば、魔装機神といえど……。\n\n",
-   "en": ""
+   "en": "If we detonate it near where they are, even\nthe Masoukishin...",
+   "status": "done"
   },
   {
    "id": "ev131_18B4",
@@ -764,7 +838,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　……倒せるということか。\n\n\n",
-   "en": ""
+   "en": "...could be destroyed, you mean.",
+   "status": "done"
   },
   {
    "id": "ev131_18E0",
@@ -774,7 +849,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　その通りです。\n\n\n",
-   "en": ""
+   "en": "Precisely.",
+   "status": "done"
   },
   {
    "id": "ev131_1900",
@@ -784,7 +860,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ただ、問題もあります。\n\n\n",
-   "en": ""
+   "en": "There is, however, a problem.",
+   "status": "done"
   },
   {
    "id": "ev131_1928",
@@ -794,7 +871,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　問題とは？\n\n\n",
-   "en": ""
+   "en": "What problem?",
+   "status": "done"
   },
   {
    "id": "ev131_1944",
@@ -804,7 +882,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　実は構造上\n　たいへん大きく、しかも重いのです。\n\n",
-   "en": ""
+   "en": "The truth is, by its design it is extremely\nlarge, and heavy besides.",
+   "status": "done"
   },
   {
    "id": "ev131_1984",
@@ -814,7 +893,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　よって、あまり遠くまで運ぶことができず、\n　バルツフィーム解放軍の拠点付近で\n　使えません。\n",
-   "en": ""
+   "en": "Hence it cannot be carried very far, and\ncannot be used near the Vartzpheem\nLiberation Army's base.",
+   "status": "done"
   },
   {
    "id": "ev131_19EC",
@@ -824,7 +904,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　我が軍の領内で\n　爆発させるということか。\n\n",
-   "en": ""
+   "en": "You mean to detonate it within our own\nterritory?",
+   "status": "done"
   },
   {
    "id": "ev131_1A28",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　そうです。\n\n\n",
-   "en": ""
+   "en": "Indeed.",
+   "status": "done"
   },
   {
    "id": "ev131_1A44",
@@ -844,7 +926,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　しかもヤツらに気づかれないように\n　爆発範囲内の部隊は\n　そのまま駐留させておく必要があります。\n",
-   "en": ""
+   "en": "Moreover, so they do not catch on, the\nunits within the blast radius must be left\nstationed where they are.",
+   "status": "done"
   },
   {
    "id": "ev131_1AB0",
@@ -854,7 +937,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　犠牲が出るということか。\n\n\n",
-   "en": ""
+   "en": "So there will be sacrifices.",
+   "status": "done"
   },
   {
    "id": "ev131_1ADC",
@@ -864,7 +948,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　しかしながら\n　その威力は絶大なものです。\n\n",
-   "en": ""
+   "en": "Nevertheless, its power is tremendous.",
+   "status": "done"
   },
   {
    "id": "ev131_1B14",
@@ -874,7 +959,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　魔装機神を葬るためには\n　そのくらいの犠牲はつきものかと。\n\n",
-   "en": ""
+   "en": "To bury the Masoukishin, I believe such\nsacrifices are to be expected.",
+   "status": "done"
   },
   {
    "id": "ev131_1B5C",
@@ -884,7 +970,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_1B7C",
@@ -894,7 +981,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　よかろう。\n\n\n",
-   "en": ""
+   "en": "Very well.",
+   "status": "done"
   },
   {
    "id": "ev131_1B98",
@@ -904,7 +992,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ソッドが逃げ出した状況では、\n　ヤツに仕えていた貴様としても\n　立場はなかろう。\n",
-   "en": ""
+   "en": "With Thodd having run off, you, who served\nhim, have no standing left, I would think.",
+   "status": "done"
   },
   {
    "id": "ev131_1BF8",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　この機会をものにして\n　私を満足させてみろ。\n\n",
-   "en": ""
+   "en": "Seize this opportunity and satisfy me.",
+   "status": "done"
   },
   {
    "id": "ev131_1C34",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ただ、失敗したときは\n　わかっておるな。\n\n",
-   "en": ""
+   "en": "But should you fail... you know what awaits.",
+   "status": "done"
   },
   {
    "id": "ev131_1C6C",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　……存じております。\n\n\n",
-   "en": ""
+   "en": "...I am well aware.",
+   "status": "done"
   },
   {
    "id": "ev131_1C90",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "",
    "jp": "　辺境の村\n　（バルツフィーム解放軍　活動拠点）\n\n\n",
-   "en": ""
+   "en": "Frontier Village\n(Vartzpheem Liberation Army Base)",
+   "status": "done"
   },
   {
    "id": "ev131_1CC4",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……アルフレードじいさん。\n　偵察に出る時間なんだけど\n　サイバスターの整備は？\n",
-   "en": ""
+   "en": "...Old Man Alfredo. It's time for me to head\nout scouting. How's Cybuster's\nmaintenance?",
+   "status": "done"
   },
   {
    "id": "ev131_1D20",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　もう、済んでおる。\n　いつでも出撃できるぞ。\n\n",
-   "en": ""
+   "en": "All done. You can sortie any time, eh.",
+   "status": "done"
   },
   {
    "id": "ev131_1D60",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　じゃあ、\n　そろそろいきます……。\n\n",
-   "en": ""
+   "en": "Then I'll get going...",
+   "status": "done"
   },
   {
    "id": "ev131_1D90",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　うむ。\n\n\n",
-   "en": ""
+   "en": "Mm.",
+   "status": "done"
   },
   {
    "id": "ev131_1DAC",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_1DC8",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なあ、じいさん。\n\n\n",
-   "en": ""
+   "en": "Hey, old man.",
+   "status": "done"
   },
   {
    "id": "ev131_1DE8",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　なんじゃ？\n\n\n",
-   "en": ""
+   "en": "What is it?",
+   "status": "done"
   },
   {
    "id": "ev131_1E08",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ソッドのヤツ、\n『神の腕』をなにに\n　使うつもりなんだろう。\n",
-   "en": ""
+   "en": "What do you think Thodd's planning to use\nthe Arm of God for?",
+   "status": "done"
   },
   {
    "id": "ev131_1E50",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　それはワシにもわからん。\n\n\n",
-   "en": ""
+   "en": "Even I can't say, my boy.",
+   "status": "done"
   },
   {
    "id": "ev131_1E7C",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　精霊の力は無限じゃ。\n\n\n",
-   "en": ""
+   "en": "A spirit's power is limitless.",
+   "status": "done"
   },
   {
    "id": "ev131_1EA4",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　様々な可能性を秘めておる。\n\n\n",
-   "en": ""
+   "en": "It holds all sorts of possibilities.",
+   "status": "done"
   },
   {
    "id": "ev131_1ED4",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　それを悪用すればどうなるか……。\n\n\n",
-   "en": ""
+   "en": "If someone were to abuse it...",
+   "status": "done"
   },
   {
    "id": "ev131_1F08",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　しかも消息が\n　まったくわからんときておる。\n\n",
-   "en": ""
+   "en": "And on top of that, we haven't the faintest\nidea where he's gone.",
+   "status": "done"
   },
   {
    "id": "ev131_1F48",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　こまったもんじゃのう……。\n\n\n",
-   "en": ""
+   "en": "What a fine mess, eh...",
+   "status": "done"
   },
   {
    "id": "ev131_1F78",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_1F94",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まあ、考えていても\n　仕方がないか……。\n\n",
-   "en": ""
+   "en": "Well, no use worrying about it, I guess...",
+   "status": "done"
   },
   {
    "id": "ev131_1FC8",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　偵察にいってきます。\n\n\n",
-   "en": ""
+   "en": "I'm off to scout around.",
+   "status": "done"
   },
   {
    "id": "ev131_1FEC",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　気をつけてな。\n\n\n",
-   "en": ""
+   "en": "Take care, my boy.",
+   "status": "done"
   },
   {
    "id": "ev131_2010",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　準備のほうはどうなっている。\n\n\n",
-   "en": ""
+   "en": "How are the preparations coming?",
+   "status": "done"
   },
   {
    "id": "ev131_2038",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "兵士",
    "jp": "　もうすぐプラーナボム本体の\n　設置作業が終了します。\n\n",
-   "en": ""
+   "en": "Installation of the Prana Bomb itself will be\nfinished shortly.",
+   "status": "done"
   },
   {
    "id": "ev131_2078",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　エネルギー媒体は？\n\n\n",
-   "en": ""
+   "en": "And the energy medium?",
+   "status": "done"
   },
   {
    "id": "ev131_2098",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "兵士",
    "jp": "　はい。\n　そちらはすでに、\n　稼働準備完了です。\n",
-   "en": ""
+   "en": "Yes, ma'am. That is already ready for\nactivation.",
+   "status": "done"
   },
   {
    "id": "ev131_20D0",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　わかった。\n　作業を続行しろ。\n\n",
-   "en": ""
+   "en": "Understood. Continue the work.",
+   "status": "done"
   },
   {
    "id": "ev131_20F8",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　私は周辺の様子を見てくる。\n\n\n",
-   "en": ""
+   "en": "I'll go check the surrounding area.",
+   "status": "done"
   },
   {
    "id": "ev131_2120",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "兵士",
    "jp": "　はっ。\n\n\n",
-   "en": ""
+   "en": "Yes, ma'am!",
+   "status": "done"
   },
   {
    "id": "ev131_2134",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（……プラーナボム）\n\n\n",
-   "en": ""
+   "en": "(...The Prana Bomb.)",
+   "status": "done"
   },
   {
    "id": "ev131_2154",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（いくら魔装機神を倒すためとはいえ\n　味方の部隊まで巻き添えにするとは……）\n\n",
-   "en": ""
+   "en": "(Even if it's to defeat the Masoukishin, to\ndrag our own units down with it...)",
+   "status": "done"
   },
   {
    "id": "ev131_21A8",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（それどころか\n　広大な範囲に莫大な被害が出る）\n\n",
-   "en": ""
+   "en": "(Not only that, it will cause enormous\ndamage over a vast area.)",
+   "status": "done"
   },
   {
    "id": "ev131_21E0",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（そんなことが許されるのか……）\n\n\n",
-   "en": ""
+   "en": "(Can such a thing be allowed...?)",
+   "status": "done"
   },
   {
    "id": "ev131_220C",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（……私はいったい\n　なにをやっているのだ）\n\n",
-   "en": ""
+   "en": "(...What am I even doing?)",
+   "status": "done"
   },
   {
    "id": "ev131_2240",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（最初はアルマを倒すことだけを\n　考えていたのに……）\n\n",
-   "en": ""
+   "en": "(At first, all I thought of was defeating\nAlma...)",
+   "status": "done"
   },
   {
    "id": "ev131_2280",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（今、私が行おうとしていること……）\n\n\n",
-   "en": ""
+   "en": "(What I'm about to do now...)",
+   "status": "done"
   },
   {
    "id": "ev131_22B0",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（それはなんのために……）\n\n\n",
-   "en": ""
+   "en": "(What is it all for...?)",
+   "status": "done"
   },
   {
    "id": "ev131_22D4",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_22F0",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　……プラーナ反応！？\n\n\n",
-   "en": ""
+   "en": "...A Prana reading!?",
+   "status": "done"
   },
   {
    "id": "ev131_2310",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……なんだ！\n　あの物体は！？\n\n",
-   "en": ""
+   "en": "...What the!? What is that thing!?",
+   "status": "done"
   },
   {
    "id": "ev131_233C",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ラガーシュの新兵器か？\n\n\n",
-   "en": ""
+   "en": "...Some new Ragash weapon?",
+   "status": "done"
   },
   {
    "id": "ev131_2364",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うん……！？\n\n\n",
-   "en": ""
+   "en": "Huh...!?",
+   "status": "done"
   },
   {
    "id": "ev131_2380",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……しかも\n　あの白い魔装機は！\n\n",
-   "en": ""
+   "en": "...And that white Masouki!",
+   "status": "done"
   },
   {
    "id": "ev131_23AC",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まさか！！\n\n\n",
-   "en": ""
+   "en": "No way!!",
+   "status": "done"
   },
   {
    "id": "ev131_23C4",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（……あれはサイバスター！）\n\n\n",
-   "en": ""
+   "en": "(...That's Cybuster!)",
+   "status": "done"
   },
   {
    "id": "ev131_23EC",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（まずい。\n　準備が終わるまで時間を稼がねば……）\n\n",
-   "en": ""
+   "en": "(This is bad. I must buy time until the\npreparations are done...)",
+   "status": "done"
   },
   {
    "id": "ev131_2428",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "兵士",
    "jp": "　ミラ様！\n　サイバスターです！！\n\n",
-   "en": ""
+   "en": "Mira-sama! It's Cybuster!!",
+   "status": "done"
   },
   {
    "id": "ev131_2454",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　うろたえるな！\n\n\n",
-   "en": ""
+   "en": "Don't panic!",
+   "status": "done"
   },
   {
    "id": "ev131_2470",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　サイバスターは私が引き受ける。\n\n\n",
-   "en": ""
+   "en": "I will take care of Cybuster.",
+   "status": "done"
   },
   {
    "id": "ev131_249C",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　おまえたちは\n　準備を続けろ。\n\n",
-   "en": ""
+   "en": "You keep on with the preparations.",
+   "status": "done"
   },
   {
    "id": "ev131_24C4",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "兵士",
    "jp": "　わかりました！\n\n\n",
-   "en": ""
+   "en": "Understood!",
+   "status": "done"
   },
   {
    "id": "ev131_24E0",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そこの魔装機！\n\n\n",
-   "en": ""
+   "en": "You, in that Masouki!",
+   "status": "done"
   },
   {
    "id": "ev131_24FC",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あんた、ミラだろ。\n　隊長の妹の。\n\n",
-   "en": ""
+   "en": "You're Mira, aren't you? The Captain's\nsister.",
+   "status": "done"
   },
   {
    "id": "ev131_252C",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　なぜ、おまえがそのことを！！\n\n\n",
-   "en": ""
+   "en": "How do you know that!?",
+   "status": "done"
   },
   {
    "id": "ev131_2554",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長からすべて聞いた！\n\n\n",
-   "en": ""
+   "en": "The Captain told me everything!",
+   "status": "done"
   },
   {
    "id": "ev131_2578",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（アルマから……！？）\n\n\n",
-   "en": ""
+   "en": "(From Alma...!?)",
+   "status": "done"
   },
   {
    "id": "ev131_2598",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "ミラ",
    "jp": "（まさか！\n　こいつがアルマの……）\n\n",
-   "en": ""
+   "en": "(Don't tell me! This one is Alma's...)",
+   "status": "done"
   },
   {
    "id": "ev131_25C4",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こんなところで\n　なにをやっているんだ！\n\n",
-   "en": ""
+   "en": "What are you doing in a place like this!?",
+   "status": "done"
   },
   {
    "id": "ev131_25F8",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ふん、知れたことを。\n\n\n",
-   "en": ""
+   "en": "Hmph, isn't it obvious?",
+   "status": "done"
   },
   {
    "id": "ev131_2618",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　おまえたちを倒すための作戦に\n　決まっているだろう。\n\n",
-   "en": ""
+   "en": "An operation to defeat you people, of\ncourse.",
+   "status": "done"
   },
   {
    "id": "ev131_2658",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　作戦？\n　こんなところで！？　\n\n",
-   "en": ""
+   "en": "An operation? Here!?",
+   "status": "done"
   },
   {
    "id": "ev131_2684",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ああ。\n　もう間もなく、\n　プラーナボムの準備が終わる。\n",
-   "en": ""
+   "en": "Yes. Very soon, the Prana Bomb will be\nready.",
+   "status": "done"
   },
   {
    "id": "ev131_26C4",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　プラーナボムが爆発すれば\n　この周辺一帯は、\n　すべて壊滅状態となるだろう。\n",
-   "en": ""
+   "en": "When the Prana Bomb explodes, this entire\narea will be utterly devastated.",
+   "status": "done"
   },
   {
    "id": "ev131_2718",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　バルツフィーム解放軍も\n　全滅させられるというわけだ。\n\n",
-   "en": ""
+   "en": "Which means the Vartzpheem Liberation\nArmy will be wiped out as well.",
+   "status": "done"
   },
   {
    "id": "ev131_2758",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんだと！？\n\n\n",
-   "en": ""
+   "en": "What did you say!?",
+   "status": "done"
   },
   {
    "id": "ev131_2774",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　貴様も早く逃げ出さないと\n　爆発に巻き込まれ命を失うぞ。\n\n",
-   "en": ""
+   "en": "If you don't get out of here soon, you'll be\ncaught in the blast and lose your life.",
+   "status": "done"
   },
   {
    "id": "ev131_27B8",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ま、待て！\n\n\n",
-   "en": ""
+   "en": "W-wait!",
+   "status": "done"
   },
   {
    "id": "ev131_27D0",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それは、関係のない民間人や\n　この近隣にいるおまえたちの仲間にも\n　被害が出るということか！\n",
-   "en": ""
+   "en": "You mean innocent civilians, and even your\nown comrades nearby, will get hurt too!?",
+   "status": "done"
   },
   {
    "id": "ev131_2838",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　その通り。\n　おまえを倒すには必要な犠牲だ。\n\n",
-   "en": ""
+   "en": "Exactly. A necessary sacrifice to\ndefeat you.",
+   "status": "done"
   },
   {
    "id": "ev131_2870",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　少しは自分の存在というものを\n　反省するんだな。\n\n",
-   "en": ""
+   "en": "You would do well to reflect a little on your\nown existence.",
+   "status": "done"
   },
   {
    "id": "ev131_28AC",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_28C8",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……本気か！\n\n\n",
-   "en": ""
+   "en": "...Are you serious!?",
+   "status": "done"
   },
   {
    "id": "ev131_28E4",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　なにをいっている！？\n\n\n",
-   "en": ""
+   "en": "What are you talking about!?",
+   "status": "done"
   },
   {
    "id": "ev131_2904",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　本気でそんなことをいっているのか！\n\n\n",
-   "en": ""
+   "en": "Do you seriously mean that!?",
+   "status": "done"
   },
   {
    "id": "ev131_2934",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえはアルマ隊長を\n　恨んでいるだけなんだろう。\n\n",
-   "en": ""
+   "en": "All you really want is to get back at Captain\nAlma, isn't it?",
+   "status": "done"
   },
   {
    "id": "ev131_2974",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それを関係ない人や……。\n\n\n",
-   "en": ""
+   "en": "And for that, innocent people...",
+   "status": "done"
   },
   {
    "id": "ev131_299C",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まして\n　自分の味方まで犠牲にして！\n\n",
-   "en": ""
+   "en": "And you'd even sacrifice your own allies!",
+   "status": "done"
   },
   {
    "id": "ev131_29CC",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そんなことをして\n　どうなるというんだ！！\n\n",
-   "en": ""
+   "en": "What good is doing that gonna do!?",
+   "status": "done"
   },
   {
    "id": "ev131_2A04",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_2A20",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それに、おまえのやっていることは\n　おまえと同じ人間を\n　生み出しているんだぞ！\n",
-   "en": ""
+   "en": "Besides, what you're doing is creating more\npeople just like you!",
+   "status": "done"
   },
   {
    "id": "ev131_2A7C",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　その人たちに\n　おまえはなんというつもりだ！\n\n",
-   "en": ""
+   "en": "What are you going to say to those\npeople!?",
+   "status": "done"
   },
   {
    "id": "ev131_2AB4",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　アルマ隊長のことを\n　おまえは非難できるのか！！\n\n",
-   "en": ""
+   "en": "Can you really blame Captain Alma after\nthat!?",
+   "status": "done"
   },
   {
    "id": "ev131_2AF0",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　うるさいっ！！\n\n\n",
-   "en": ""
+   "en": "Shut up!!",
+   "status": "done"
   },
   {
    "id": "ev131_2B0C",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まだ、わからないのか！\n\n\n",
-   "en": ""
+   "en": "You still don't get it!?",
+   "status": "done"
   },
   {
    "id": "ev131_2B30",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_2B4C",
@@ -1764,7 +1938,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　もし、プラーナボムが爆発して\n　アルマ隊長やみんなに\n　もしものことがあったら……。\n",
-   "en": ""
+   "en": "If the Prana Bomb goes off, and something\nhappens to Captain Alma or the others...",
+   "status": "done"
   },
   {
    "id": "ev131_2BAC",
@@ -1774,7 +1949,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレはおまえを許さないだろう。\n\n\n",
-   "en": ""
+   "en": "I don't think I could ever forgive you.",
+   "status": "done"
   },
   {
    "id": "ev131_2BD8",
@@ -1784,7 +1960,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　同じ人間として。\n\n\n",
-   "en": ""
+   "en": "As a fellow human being.",
+   "status": "done"
   },
   {
    "id": "ev131_2BF8",
@@ -1794,7 +1971,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえも人の血が流れているはずだ。\n\n\n",
-   "en": ""
+   "en": "Human blood must run in your veins too.",
+   "status": "done"
   },
   {
    "id": "ev131_2C28",
@@ -1804,7 +1982,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だったらこんなことはやめろ！\n\n\n",
-   "en": ""
+   "en": "Then stop this!",
+   "status": "done"
   },
   {
    "id": "ev131_2C54",
@@ -1814,7 +1993,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それとも\n　神という名の悪魔にでもなるつもりか！\n\n",
-   "en": ""
+   "en": "Or are you trying to become a devil that\ncalls itself a god!?",
+   "status": "done"
   },
   {
    "id": "ev131_2C90",
@@ -1824,7 +2004,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ならば、オレはおまえを許さない。\n\n\n",
-   "en": ""
+   "en": "Then I won't forgive you.",
+   "status": "done"
   },
   {
    "id": "ev131_2CC0",
@@ -1834,7 +2015,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　人として！！\n\n\n",
-   "en": ""
+   "en": "As a human being!!",
+   "status": "done"
   },
   {
    "id": "ev131_2CDC",
@@ -1844,7 +2026,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_2CF8",
@@ -1854,7 +2037,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_2D14",
@@ -1864,7 +2048,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　おまえたち！\n　作業を中止しろ！！\n\n",
-   "en": ""
+   "en": "You there! Stop the work!!",
+   "status": "done"
   },
   {
    "id": "ev131_2D40",
@@ -1874,7 +2059,8 @@
    ],
    "speaker": "兵士",
    "jp": "　自分たちは\n　ルジェロ様の命令で動いています。\n\n",
-   "en": ""
+   "en": "We're acting on Ruggero-sama's orders.",
+   "status": "done"
   },
   {
    "id": "ev131_2D78",
@@ -1884,7 +2070,8 @@
    ],
    "speaker": "兵士",
    "jp": "　その命令がない限り、\n　中止することなどできません。\n\n",
-   "en": ""
+   "en": "Unless he orders it, we can't stop.",
+   "status": "done"
   },
   {
    "id": "ev131_2DB8",
@@ -1894,7 +2081,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　どうしても\n　中止しないというのだな。\n\n",
-   "en": ""
+   "en": "So you absolutely refuse to stop.",
+   "status": "done"
   },
   {
    "id": "ev131_2DE8",
@@ -1904,7 +2092,8 @@
    ],
    "speaker": "兵士",
    "jp": "　ミラ様。\n　自分たちは作業をジャマするものは\n　排除せよともいわれております。\n",
-   "en": ""
+   "en": "Mira-sama. We were also told to eliminate\nanyone who interferes with the work.",
+   "status": "done"
   },
   {
    "id": "ev131_2E40",
@@ -1914,7 +2103,8 @@
    ],
    "speaker": "兵士",
    "jp": "　それはあなたとて例外ではない！\n\n\n",
-   "en": ""
+   "en": "And you're no exception!",
+   "status": "done"
   },
   {
    "id": "ev131_2E6C",
@@ -1924,7 +2114,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　……ちっ。\n\n\n",
-   "en": ""
+   "en": "...Tch.",
+   "status": "done"
   },
   {
    "id": "ev131_2E84",
@@ -1934,7 +2125,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　……ケイゴとかいったな。\n\n\n",
-   "en": ""
+   "en": "...Keigo, was it?",
+   "status": "done"
   },
   {
    "id": "ev131_2EA8",
@@ -1944,7 +2136,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ああ。\n\n\n",
-   "en": ""
+   "en": "Yeah.",
+   "status": "done"
   },
   {
    "id": "ev131_2EBC",
@@ -1954,7 +2147,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　プラーナボム本体の周りにある\n　魔装機を同時に破壊しろ。\n\n",
-   "en": ""
+   "en": "Destroy the Masouki around the Prana\nBomb all at the same time.",
+   "status": "done"
   },
   {
    "id": "ev131_2F00",
@@ -1964,7 +2158,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　それが起爆させるための\n　プラーナを本体に送り込んでいる。\n\n",
-   "en": ""
+   "en": "They are feeding the bomb the Prana that\nwill detonate it.",
+   "status": "done"
   },
   {
    "id": "ev131_2F44",
@@ -1974,7 +2169,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　そいつらを\n　破壊すれば爆発はしない。\n\n",
-   "en": ""
+   "en": "Destroy them, and it won't explode.",
+   "status": "done"
   },
   {
    "id": "ev131_2F74",
@@ -1984,7 +2180,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ミラ。\n\n\n",
-   "en": ""
+   "en": "...Mira.",
+   "status": "done"
   },
   {
    "id": "ev131_2F8C",
@@ -1994,7 +2191,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ただし、一体でも残ったら\n　その時点でプラーナボム本体が\n　暴走して終わりだ。\n",
-   "en": ""
+   "en": "But if even one is left, the Prana Bomb will\ngo out of control at that point, and\nit's over.",
+   "status": "done"
   },
   {
    "id": "ev131_2FE4",
@@ -2004,7 +2202,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　爆発するってことか？\n\n\n",
-   "en": ""
+   "en": "You mean it'll explode?",
+   "status": "done"
   },
   {
    "id": "ev131_3008",
@@ -2014,7 +2213,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　そうだ。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev131_301C",
@@ -2024,7 +2224,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_3038",
@@ -2034,7 +2235,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　なにをしている。\n　急いでやるぞ。\n\n",
-   "en": ""
+   "en": "What are you doing? We have to hurry.",
+   "status": "done"
   },
   {
    "id": "ev131_3064",
@@ -2044,7 +2246,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……わかった。\n\n\n",
-   "en": ""
+   "en": "...Got it.",
+   "status": "done"
   },
   {
    "id": "ev131_3080",
@@ -2054,7 +2257,8 @@
    ],
    "speaker": "兵士",
    "jp": "　爆発準備を急がせろ！！\n\n\n",
-   "en": ""
+   "en": "Hurry the detonation preparations!!",
+   "status": "done"
   },
   {
    "id": "ev131_30A4",
@@ -2064,7 +2268,8 @@
    ],
    "speaker": "兵士",
    "jp": "　プラーナボムの準備は\n　まだ、終わらんのか！！\n\n",
-   "en": ""
+   "en": "Isn't the Prana Bomb ready yet!?",
+   "status": "done"
   },
   {
    "id": "ev131_30DC",
@@ -2074,7 +2279,8 @@
    ],
    "speaker": "兵士",
    "jp": "　プラーナ供給開始！\n\n\n",
-   "en": ""
+   "en": "Starting Prana supply!",
+   "status": "done"
   },
   {
    "id": "ev131_30FC",
@@ -2084,7 +2290,8 @@
    ],
    "speaker": "兵士",
    "jp": "　爆発時間を\n　６ミルド後にセットしろ。\n\n",
-   "en": ""
+   "en": "Set the detonation for 6 mild from now.",
+   "status": "done"
   },
   {
    "id": "ev131_312C",
@@ -2094,7 +2301,8 @@
    ],
    "speaker": "兵士",
    "jp": "　よし、爆発まであと４ミルド。\n\n\n",
-   "en": ""
+   "en": "All right, 4 mild until detonation.",
+   "status": "done"
   },
   {
    "id": "ev131_3154",
@@ -2104,7 +2312,8 @@
    ],
    "speaker": "兵士",
    "jp": "　作業が終了したものから撤退しろ。\n\n\n",
-   "en": ""
+   "en": "Anyone who's finished their work,\nwithdraw.",
+   "status": "done"
   },
   {
    "id": "ev131_3180",
@@ -2114,7 +2323,8 @@
    ],
    "speaker": "兵士",
    "jp": "　あと、２ミルド後に爆発する。\n\n\n",
-   "en": ""
+   "en": "Detonation in 2 more mild.",
+   "status": "done"
   },
   {
    "id": "ev131_31A8",
@@ -2124,7 +2334,8 @@
    ],
    "speaker": "兵士",
    "jp": "　総員待避！！\n\n\n",
-   "en": ""
+   "en": "All hands, evacuate!!",
+   "status": "done"
   },
   {
    "id": "ev131_31C0",
@@ -2134,7 +2345,8 @@
    ],
    "speaker": "兵士",
    "jp": "　早くしないと\n　爆発に巻き込まれるぞ！！\n\n",
-   "en": ""
+   "en": "Hurry, or you'll be caught in the blast!!",
+   "status": "done"
   },
   {
    "id": "ev131_31F4",
@@ -2144,7 +2356,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ふう、なんとか終わったようだな。\n\n\n",
-   "en": ""
+   "en": "Whew, looks like we somehow pulled it off.",
+   "status": "done"
   },
   {
    "id": "ev131_3224",
@@ -2154,7 +2367,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ああ。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev131_3238",
@@ -2164,7 +2378,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_3254",
@@ -2174,7 +2389,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。　\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_3270",
@@ -2184,7 +2400,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_328C",
@@ -2194,7 +2411,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_32A8",
@@ -2204,7 +2422,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……これからどうするんだ。\n\n\n",
-   "en": ""
+   "en": "...So what'll you do now?",
+   "status": "done"
   },
   {
    "id": "ev131_32D0",
@@ -2214,7 +2433,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　……そうだな。\n\n\n",
-   "en": ""
+   "en": "...Let me see.",
+   "status": "done"
   },
   {
    "id": "ev131_32EC",
@@ -2224,7 +2444,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　自業自得とはいえ、\n　ラガーシュも裏切ってしまった。\n\n",
-   "en": ""
+   "en": "I brought it on myself, but I've ended up\nbetraying Ragash as well.",
+   "status": "done"
   },
   {
    "id": "ev131_332C",
@@ -2234,7 +2455,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　もう戻るところは……。\n\n",
-   "en": ""
+   "en": "I have nowhere left to go back to...",
+   "status": "done"
   },
   {
    "id": "ev131_334C",
@@ -2244,7 +2466,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_3368",
@@ -2254,7 +2477,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……じゃあ\n　オレたちのところに……。\n\n",
-   "en": ""
+   "en": "...Then, why not come with us...",
+   "status": "done"
   },
   {
    "id": "ev131_339C",
@@ -2264,7 +2488,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　それはできない。\n\n\n",
-   "en": ""
+   "en": "I can't do that.",
+   "status": "done"
   },
   {
    "id": "ev131_33B8",
@@ -2274,7 +2499,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　おまえもわかっているだろう。\n\n\n",
-   "en": ""
+   "en": "You know that as well as I do.",
+   "status": "done"
   },
   {
    "id": "ev131_33E0",
@@ -2284,7 +2510,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_33FC",
@@ -2294,7 +2521,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　しばらく一人になって考えてみる。\n\n\n",
-   "en": ""
+   "en": "I'll spend some time alone and think.",
+   "status": "done"
   },
   {
    "id": "ev131_3428",
@@ -2304,7 +2532,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　自分のしてきたこと、\n　これからしなければならないこと。\n\n",
-   "en": ""
+   "en": "About what I've done, and what I must do\nfrom now on.",
+   "status": "done"
   },
   {
    "id": "ev131_346C",
@@ -2314,7 +2543,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　それを……。\n\n\n",
-   "en": ""
+   "en": "All of it...",
+   "status": "done"
   },
   {
    "id": "ev131_3484",
@@ -2324,7 +2554,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……そうか。\n\n\n",
-   "en": ""
+   "en": "...I see.",
+   "status": "done"
   },
   {
    "id": "ev131_34A0",
@@ -2334,7 +2565,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ケイゴ。\n\n\n",
-   "en": ""
+   "en": "Keigo.",
+   "status": "done"
   },
   {
    "id": "ev131_34B4",
@@ -2344,7 +2576,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんだ？\n\n\n",
-   "en": ""
+   "en": "What?",
+   "status": "done"
   },
   {
    "id": "ev131_34CC",
@@ -2354,7 +2587,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　アルマのこと……いや。\n\n\n",
-   "en": ""
+   "en": "About Alma... no.",
+   "status": "done"
   },
   {
    "id": "ev131_34F0",
@@ -2364,7 +2598,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　姉さんのこと、頼むわね……。\n\n\n",
-   "en": ""
+   "en": "Take care of big sister for me...",
+   "status": "done"
   },
   {
    "id": "ev131_3518",
@@ -2374,7 +2609,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　姉さんのこと、頼むわね……。\n\n\n",
-   "en": ""
+   "en": "Take care of big sister for me...",
+   "status": "done"
   },
   {
    "id": "ev131_3540",
@@ -2384,7 +2620,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　姉さんはきっと……。\n\n\n",
-   "en": ""
+   "en": "I'm sure big sister...",
+   "status": "done"
   },
   {
    "id": "ev131_3560",
@@ -2394,7 +2631,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　あなたを必要としている。\n\n\n",
-   "en": ""
+   "en": "...needs you.",
+   "status": "done"
   },
   {
    "id": "ev131_3584",
@@ -2404,7 +2642,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　そばにいてあげて。\n\n\n",
-   "en": ""
+   "en": "Stay by her side.",
+   "status": "done"
   },
   {
    "id": "ev131_35A4",
@@ -2414,7 +2653,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_35C0",
@@ -2424,7 +2664,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　じゃあ。\n\n\n",
-   "en": ""
+   "en": "Well then.",
+   "status": "done"
   },
   {
    "id": "ev131_35D4",
@@ -2434,7 +2675,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ああ。\n\n\n",
-   "en": ""
+   "en": "Yeah.",
+   "status": "done"
   },
   {
    "id": "ev131_35E8",
@@ -2444,7 +2686,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ミラ！\n\n\n",
-   "en": ""
+   "en": "...Mira!",
+   "status": "done"
   },
   {
    "id": "ev131_3600",
@@ -2454,7 +2697,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　うん？\n\n\n",
-   "en": ""
+   "en": "Hm?",
+   "status": "done"
   },
   {
    "id": "ev131_3614",
@@ -2464,7 +2708,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　死ぬなよ。\n\n\n",
-   "en": ""
+   "en": "Don't die.",
+   "status": "done"
   },
   {
    "id": "ev131_362C",
@@ -2474,7 +2719,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev131_3648",
@@ -2484,7 +2730,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　あなたもね。\n\n\n",
-   "en": ""
+   "en": "You too.",
+   "status": "done"
   },
   {
    "id": "ev131_3660",
@@ -2494,7 +2741,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……ミラ）\n\n\n",
-   "en": ""
+   "en": "(...Mira.)",
+   "status": "done"
   },
   {
    "id": "ev131_3678",
@@ -2504,7 +2752,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（また、どこかで会おう）\n\n\n",
-   "en": ""
+   "en": "(Let's meet again, somewhere.)",
+   "status": "done"
   },
   {
    "id": "ev131_369C",
@@ -2514,7 +2763,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down here...",
+   "status": "done"
   },
   {
    "id": "ev131_36D4",
@@ -2524,7 +2774,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　しまった。\n　これ以上は……。\n\n",
-   "en": ""
+   "en": "Blast. I can't take any more...",
+   "status": "done"
   },
   {
    "id": "ev131_36FC",
@@ -2534,7 +2785,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ミラ、それ以上はムリだ！\n　下がれ！\n\n",
-   "en": ""
+   "en": "Mira, you can't take any more! Fall back!",
+   "status": "done"
   },
   {
    "id": "ev131_372C",
@@ -2544,7 +2796,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あとはオレがなんとかする。\n\n\n",
-   "en": ""
+   "en": "I'll handle the rest somehow.",
+   "status": "done"
   },
   {
    "id": "ev131_3754",
@@ -2554,7 +2807,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　すまない、頼む。\n\n\n",
-   "en": ""
+   "en": "Sorry. I'm counting on you.",
+   "status": "done"
   },
   {
    "id": "ev131_5C48",
@@ -2563,7 +2817,8 @@
     "0x5EC8"
    ],
    "jp": "　　　　光と闇の再臨は運命の如く……\n\n　　　　　　闇は隠す、光の存在を\n　　　　　　光は隠す、闇の存在を\n\n　　　光と闇が生まれた日から綿々と続く\n　　悲哀の色彩に塗り込められた歴史の背反\n\n　　　その流れを断ち切らんとするもの\n　　己が意志に従い、人智の禁に触れるもの\n\n　　　　光に必要とされ、光に疎まれた\n　　　闇の希望が成就されようとしている\n",
-   "en": ""
+   "en": "Light and dark return, as if by fate...\n\nDarkness hides the presence of light;\nlight hides the presence of darkness.\n\nUnbroken since light and dark were born,\nthe discord of history, dyed in sorrow.\n\nThere is one who would cut that current,\nwho by their own will breach man's taboos.\n\nNeeded by light, yet shunned by light,\nthe hope of darkness nears fulfillment.",
+   "status": "done"
   },
   {
    "id": "ev131_5DA0",
@@ -2572,7 +2827,8 @@
     "0x5ECC"
    ],
    "jp": "　　　　　　　　そして、精霊は\n　　　その行為に干渉しようとはしなかった\n\n　　　　心の奥底に感じる未来への不安\n\n　　　　　　　神の気まぐれなのか\n　　　それとも人間の業が生んだものなのか\n\n　　　　　　　　風の魔装機神と\n　　　　同じ精霊を宿した物体がそこに\n\n　　　人はそれを『神の腕』と呼んだ……\n\n",
-   "en": ""
+   "en": "And the spirit\nmade no move to interfere with that act.\n\nUnease for the future, deep in the heart.\n\nWas it a god's whim,\nor something born of human sin?\n\nAn object that houses the same spirit\nas the Masoukishin of wind lies there.\n\nPeople called it the Arm of God...",
+   "status": "done"
   }
  ]
 }

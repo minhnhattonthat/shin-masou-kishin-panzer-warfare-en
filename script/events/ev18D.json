@@ -24,7 +24,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（今度こそ……）\n\n\n",
-   "en": ""
+   "en": "(This time...)",
+   "status": "done"
   },
   {
    "id": "ev18D_0D48",
@@ -34,7 +35,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……今度こそ決着をつける！）\n\n\n",
-   "en": ""
+   "en": "(...This time, I'll settle this for good!)",
+   "status": "done"
   },
   {
    "id": "ev18D_0D74",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ソッド！！）\n\n\n",
-   "en": ""
+   "en": "(Thodd!!)",
+   "status": "done"
   },
   {
    "id": "ev18D_0D90",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（……もって１日なんて\n　報告しちまったが……）\n\n",
-   "en": ""
+   "en": "(...I told 'em we'd hold out a day at most,\nbut...)",
+   "status": "done"
   },
   {
    "id": "ev18D_0DCC",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（こりゃ、半日ももたんな……）\n\n\n",
-   "en": ""
+   "en": "(At this rate, we won't even last half a\nday...)",
+   "status": "done"
   },
   {
    "id": "ev18D_0DF8",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（……どうする？）\n\n\n",
-   "en": ""
+   "en": "(...What now?)",
+   "status": "done"
   },
   {
    "id": "ev18D_0E18",
@@ -84,7 +90,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ベウマー！\n　損害が多過ぎる！！\n\n",
-   "en": ""
+   "en": "Beumer! Our losses are too heavy!!",
+   "status": "done"
   },
   {
    "id": "ev18D_0E48",
@@ -94,7 +101,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　このままでは……。\n\n\n",
-   "en": ""
+   "en": "If this goes on...",
+   "status": "done"
   },
   {
    "id": "ev18D_0E6C",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　隊長！！\n\n\n",
-   "en": ""
+   "en": "Captain!!",
+   "status": "done"
   },
   {
    "id": "ev18D_0E84",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　もう、ジリ貧だよ！！\n\n\n",
-   "en": ""
+   "en": "We're gettin' ground down here!!",
+   "status": "done"
   },
   {
    "id": "ev18D_0EA8",
@@ -124,7 +134,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　限界です！\n\n\n",
-   "en": ""
+   "en": "We're at our limit!",
+   "status": "done"
   },
   {
    "id": "ev18D_0EC4",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　もう、いや！！\n\n\n",
-   "en": ""
+   "en": "I can't take it anymore!!",
+   "status": "done"
   },
   {
    "id": "ev18D_0EE4",
@@ -144,7 +156,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　みんな、もう少し辛抱しろ！\n\n\n",
-   "en": ""
+   "en": "Everyone, hang in there a little longer!",
+   "status": "done"
   },
   {
    "id": "ev18D_0F10",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　今は、ケイゴたちを信じよう！\n\n\n",
-   "en": ""
+   "en": "Right now, let's believe in Keigo and the\nothers!",
+   "status": "done"
   },
   {
    "id": "ev18D_0F3C",
@@ -164,7 +178,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　だから、あきらめるな！！\n\n\n",
-   "en": ""
+   "en": "So don't you dare give up!!",
+   "status": "done"
   },
   {
    "id": "ev18D_0F64",
@@ -174,7 +189,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev18D_0F84",
@@ -184,7 +200,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（……ケイゴ）\n\n\n",
-   "en": ""
+   "en": "(...Keigo.)",
+   "status": "done"
   },
   {
    "id": "ev18D_0FA0",
@@ -194,7 +211,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "（……頼む！！）\n\n\n",
-   "en": ""
+   "en": "(...I'm countin' on ya!!)",
+   "status": "done"
   },
   {
    "id": "ev18D_0FC0",
@@ -204,7 +222,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ソッド！！\n\n\n",
-   "en": ""
+   "en": "Thodd!!",
+   "status": "done"
   },
   {
    "id": "ev18D_0FD8",
@@ -214,7 +233,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ほう、\n　よくここまでこれたな。\n\n",
-   "en": ""
+   "en": "Oh? So you made it this far.",
+   "status": "done"
   },
   {
    "id": "ev18D_1004",
@@ -224,7 +244,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ソッド！\n　魔物たちの攻撃をやめさせろ！\n\n",
-   "en": ""
+   "en": "Thodd! Call off the monsters' attack!",
+   "status": "done"
   },
   {
    "id": "ev18D_1038",
@@ -234,7 +255,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　これ以上、\n　続けるというのなら……！！\n\n",
-   "en": ""
+   "en": "If you keep this up any longer...!!",
+   "status": "done"
   },
   {
    "id": "ev18D_106C",
@@ -244,7 +266,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　これ以上、\n　続けるというのなら\n　どうなるのだ？\n",
-   "en": ""
+   "en": "If I keep this up any longer, then what?",
+   "status": "done"
   },
   {
    "id": "ev18D_10A8",
@@ -254,7 +277,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　それに、そもそも\n　こういう事態を招いた原因は、\n　貴様らの先人たちにあるのだぞ！\n",
-   "en": ""
+   "en": "Besides, it was your forebears who\nbrought this situation about in the first\nplace!",
+   "status": "done"
   },
   {
    "id": "ev18D_1104",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　まあ、貴様らの感覚でいえば\n　私は被害者ということになるのだ。\n\n",
-   "en": ""
+   "en": "Well, by your way of thinking, I would be\nthe victim here.",
+   "status": "done"
   },
   {
    "id": "ev18D_1150",
@@ -274,7 +299,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　どういうことだ！\n\n\n",
-   "en": ""
+   "en": "What do you mean!",
+   "status": "done"
   },
   {
    "id": "ev18D_1170",
@@ -284,7 +310,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そうだな……。\n\n\n",
-   "en": ""
+   "en": "Let me see...",
+   "status": "done"
   },
   {
    "id": "ev18D_118C",
@@ -294,7 +321,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　時が満ちるまで\n　まだ、時間がある。\n\n",
-   "en": ""
+   "en": "There is still time before the hour is\nat hand.",
+   "status": "done"
   },
   {
    "id": "ev18D_11BC",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　貴様らに\n　この世界の真実と未来を\n　教えてやろう。\n",
-   "en": ""
+   "en": "I shall tell you the truth of this world, and\nits future.",
+   "status": "done"
   },
   {
    "id": "ev18D_11FC",
@@ -314,7 +343,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私がまだ、\n　リーグ＝グラム＝ガルムと\n　呼ばれていた頃の話だ。\n",
-   "en": ""
+   "en": "This is a tale from when I was still called\nRieg Gram Garum.",
+   "status": "done"
   },
   {
    "id": "ev18D_1248",
@@ -324,7 +354,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は、\n　完全なる人間を生み出すべく\n　研究していた。\n",
-   "en": ""
+   "en": "I was conducting research in order to\ncreate the perfect human being.",
+   "status": "done"
   },
   {
    "id": "ev18D_1288",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そして時の権力者たちは、\n　私の研究に興味を示し、\n　全面的に協力してきた。\n",
-   "en": ""
+   "en": "And the men in power at the time took an\ninterest in my research and gave me their\nfull cooperation.",
+   "status": "done"
   },
   {
    "id": "ev18D_12E0",
@@ -344,7 +376,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……協力！？\n\n\n",
-   "en": ""
+   "en": "...Cooperation!?",
+   "status": "done"
   },
   {
    "id": "ev18D_12FC",
@@ -354,7 +387,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そうだ。\n\n\n",
-   "en": ""
+   "en": "Indeed.",
+   "status": "done"
   },
   {
    "id": "ev18D_1314",
@@ -364,7 +398,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　研究には、\n　様々な人的犠牲が必要だったが\n　やつらは……。\n",
-   "en": ""
+   "en": "My research required a great many human\nsacrifices, but they...",
+   "status": "done"
   },
   {
    "id": "ev18D_135C",
@@ -374,7 +409,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　それを許可した。\n\n\n",
-   "en": ""
+   "en": "...permitted it.",
+   "status": "done"
   },
   {
    "id": "ev18D_137C",
@@ -384,7 +420,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　アルマ＝グラム＝カーリナ。\n\n\n",
-   "en": ""
+   "en": "Alma Gram Karina.",
+   "status": "done"
   },
   {
    "id": "ev18D_13A4",
@@ -394,7 +431,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　これが貴様の先人たちが\n　犯した罪だ。\n\n",
-   "en": ""
+   "en": "This is the sin your forebears committed.",
+   "status": "done"
   },
   {
    "id": "ev18D_13D8",
@@ -404,7 +442,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_13F4",
@@ -414,7 +453,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　しかも、\n　罪はそれだけではない。\n\n",
-   "en": ""
+   "en": "And that was not their only sin.",
+   "status": "done"
   },
   {
    "id": "ev18D_1424",
@@ -424,7 +464,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　その行為が民衆に\n　追求されそうになったとき、\n　ヤツらは、名誉を守ると称し……。\n",
-   "en": ""
+   "en": "When the people were about to call them to\naccount for it, they claimed to be protecting\ntheir honor, and...",
+   "status": "done"
   },
   {
    "id": "ev18D_1480",
@@ -434,7 +475,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……私を殺害しようとしたのだ。\n\n\n",
-   "en": ""
+   "en": "...tried to have me killed.",
+   "status": "done"
   },
   {
    "id": "ev18D_14AC",
@@ -444,7 +486,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は側近たちとともに\n　ダウスの世界に逃げ込み、\n　なんとか生き延びることができたが……。\n",
-   "en": ""
+   "en": "I fled into the world of Daus with my\nclosest aides, and somehow managed to\nsurvive, but...",
+   "status": "done"
   },
   {
    "id": "ev18D_1510",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ダウス内での生活は困難を極め、\n　側近たちは次々と死に絶えていった。\n\n",
-   "en": ""
+   "en": "Life inside Daus was harsh beyond\nmeasure, and my aides died off one after\nanother.",
+   "status": "done"
   },
   {
    "id": "ev18D_1560",
@@ -464,7 +508,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そして、一人となった私は、\n　孤独との戦いを\n　強いられることとなった。\n",
-   "en": ""
+   "en": "And so, left all alone, I was forced to wage\na battle against solitude.",
+   "status": "done"
   },
   {
    "id": "ev18D_15B4",
@@ -474,7 +519,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　その苦しみは\n　貴様らにはわかるまい。\n\n",
-   "en": ""
+   "en": "You could never understand that suffering.",
+   "status": "done"
   },
   {
    "id": "ev18D_15E8",
@@ -484,7 +530,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　いつ、終わるともしれぬ、\n　その永い苦しみ……。\n\n",
-   "en": ""
+   "en": "Suffering that went on and on, with no end\nin sight...",
+   "status": "done"
   },
   {
    "id": "ev18D_1624",
@@ -494,7 +541,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は、\n　復讐心からダウスで\n　様々な研究を続け、時機を待った。\n",
-   "en": ""
+   "en": "Driven by vengeance, I continued my many\nstudies in Daus and bided my time.",
+   "status": "done"
   },
   {
    "id": "ev18D_1670",
@@ -504,7 +552,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　その個人的な復讐心から\n　世界全体を混乱に招き、\n　多くの人の命を奪ったというのか！\n",
-   "en": ""
+   "en": "So you threw the whole world into chaos\nand took countless lives, all for your own\npersonal revenge!?",
+   "status": "done"
   },
   {
    "id": "ev18D_16D0",
@@ -514,7 +563,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　フフフッ……。\n\n\n",
-   "en": ""
+   "en": "Heh heh heh...",
+   "status": "done"
   },
   {
    "id": "ev18D_16EC",
@@ -524,7 +574,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　最初はそのように\n　思っていたことは事実だ。\n\n",
-   "en": ""
+   "en": "It is true that I thought so at first.",
+   "status": "done"
   },
   {
    "id": "ev18D_1724",
@@ -534,7 +585,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　だが、\n　私は研究を続けるうちに\n　ある一つの結論にたどりついたのだ。\n",
-   "en": ""
+   "en": "But as I continued my research, I arrived at\na certain conclusion.",
+   "status": "done"
   },
   {
    "id": "ev18D_1774",
@@ -544,7 +596,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　結論？\n\n\n",
-   "en": ""
+   "en": "A conclusion?",
+   "status": "done"
   },
   {
    "id": "ev18D_1788",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そう。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev18D_179C",
@@ -564,7 +618,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　完全なる人間など存在しえない。\n\n\n",
-   "en": ""
+   "en": "There can be no such thing as a perfect\nhuman being.",
+   "status": "done"
   },
   {
    "id": "ev18D_17C8",
@@ -574,7 +629,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　それは人間自体が不完全なもの。\n\n\n",
-   "en": ""
+   "en": "For humans are, by their very nature,\nimperfect things.",
+   "status": "done"
   },
   {
    "id": "ev18D_17F4",
@@ -584,7 +640,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　人間を完全なものにすることは\n　不可能なのだ。\n\n\n",
-   "en": ""
+   "en": "Making a human perfect is impossible.",
+   "status": "done"
   },
   {
    "id": "ev18D_1830",
@@ -594,7 +651,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　だから私は、\n　人間を超えた存在になることにした。\n\n\n",
-   "en": ""
+   "en": "And so I chose to become a being that\ntranscends humanity.",
+   "status": "done"
   },
   {
    "id": "ev18D_1870",
@@ -604,7 +662,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　人間ではなく、別の存在に。\n\n\n",
-   "en": ""
+   "en": "Not a human, but something else entirely.",
+   "status": "done"
   },
   {
    "id": "ev18D_1898",
@@ -614,7 +673,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なぜなら……。\n\n\n",
-   "en": ""
+   "en": "Because...",
+   "status": "done"
   },
   {
    "id": "ev18D_18B4",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　不完全なものを存在させても\n　意味はないからだ。\n\n\n",
-   "en": ""
+   "en": "...there is no meaning in letting imperfect\nthings exist.",
+   "status": "done"
   },
   {
    "id": "ev18D_18F0",
@@ -634,7 +695,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　意味がないだと！！\n\n\n",
-   "en": ""
+   "en": "What do you mean, no meaning!?",
+   "status": "done"
   },
   {
    "id": "ev18D_1910",
@@ -644,7 +706,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そうだ。\n\n\n",
-   "en": ""
+   "en": "Exactly that.",
+   "status": "done"
   },
   {
    "id": "ev18D_1928",
@@ -654,7 +717,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　例えば……。\n\n\n",
-   "en": ""
+   "en": "For example...",
+   "status": "done"
   },
   {
    "id": "ev18D_1944",
@@ -664,7 +728,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あ、あれは……。\n\n\n",
-   "en": ""
+   "en": "Th-that's...",
+   "status": "done"
   },
   {
    "id": "ev18D_1964",
@@ -674,7 +739,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　お、お父さま！！\n\n\n",
-   "en": ""
+   "en": "F-Father!!",
+   "status": "done"
   },
   {
    "id": "ev18D_1984",
@@ -684,7 +750,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_19A0",
@@ -694,7 +761,8 @@
    ],
    "speaker": "トト",
    "jp": "　なんてコト！！\n\n\n",
-   "en": ""
+   "en": "No way... That's horrible!!",
+   "status": "done"
   },
   {
    "id": "ev18D_19BC",
@@ -704,7 +772,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　どうだ。\n\n\n",
-   "en": ""
+   "en": "Well?",
+   "status": "done"
   },
   {
    "id": "ev18D_19D4",
@@ -714,7 +783,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ソッド！\n　あなたは……！！\n\n",
-   "en": ""
+   "en": "Thodd! You...!!",
+   "status": "done"
   },
   {
    "id": "ev18D_19FC",
@@ -724,7 +794,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえっ！！\n\n\n",
-   "en": ""
+   "en": "You bastard!!",
+   "status": "done"
   },
   {
    "id": "ev18D_1A18",
@@ -734,7 +805,8 @@
    ],
    "speaker": "イェン",
    "jp": "　二人とも落ち着いて！\n\n\n",
-   "en": ""
+   "en": "Both of you, calm down!",
+   "status": "done"
   },
   {
    "id": "ev18D_1A3C",
@@ -744,7 +816,8 @@
    ],
    "speaker": "イェン",
    "jp": "　相手の挑発に乗っては……。\n\n\n",
-   "en": ""
+   "en": "You mustn't rise to his provocation...",
+   "status": "done"
   },
   {
    "id": "ev18D_1A64",
@@ -754,7 +827,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　挑発などではない。\n\n\n",
-   "en": ""
+   "en": "This is no provocation.",
+   "status": "done"
   },
   {
    "id": "ev18D_1A84",
@@ -764,7 +838,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は、憎むべき先人たちの\n　もっとも濃い血を受け継いだ\n　この男を殺害し……。\n",
-   "en": ""
+   "en": "I killed this man, who inherited the purest\nblood of those hateful forebears...",
+   "status": "done"
   },
   {
    "id": "ev18D_1ADC",
@@ -774,7 +849,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私と同じようにダウスの穴に\n　放り込んだが……。\n\n",
-   "en": ""
+   "en": "...and cast him into the Pit of Daus, just as\nthey once did to me, but...",
+   "status": "done"
   },
   {
    "id": "ev18D_1B18",
@@ -784,7 +860,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なんの感慨も受けなかったよ。\n\n\n",
-   "en": ""
+   "en": "I felt nothing whatsoever.",
+   "status": "done"
   },
   {
    "id": "ev18D_1B44",
@@ -794,7 +871,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ただ、ある男が\n　生命活動を止めた。\n\n",
-   "en": ""
+   "en": "Merely that a certain man's life functions\nhad ceased.",
+   "status": "done"
   },
   {
    "id": "ev18D_1B74",
@@ -804,7 +882,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　その事実だけを\n　受け入れることができたのだ。\n\n",
-   "en": ""
+   "en": "That fact, and that alone, was all I took\nfrom it.",
+   "status": "done"
   },
   {
    "id": "ev18D_1BB0",
@@ -814,7 +893,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　しかし貴様ら人間は、\n　そこにいる女のように……。\n\n",
-   "en": ""
+   "en": "But you humans, like that woman there...",
+   "status": "done"
   },
   {
    "id": "ev18D_1BF0",
@@ -824,7 +904,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……感情というものに左右され、\n　己の判断を誤り、\n　能力を発揮できない。\n",
-   "en": ""
+   "en": "...are swayed by these things called\nemotions, err in your judgment, and fail to\nmake use of your abilities.",
+   "status": "done"
   },
   {
    "id": "ev18D_1C44",
@@ -834,7 +915,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなただけはっ！\n\n\n",
-   "en": ""
+   "en": "You, of all people...!",
+   "status": "done"
   },
   {
    "id": "ev18D_1C64",
@@ -844,7 +926,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　絶対に許さない！！\n\n\n",
-   "en": ""
+   "en": "I will never forgive you!!",
+   "status": "done"
   },
   {
    "id": "ev18D_1C84",
@@ -854,7 +937,8 @@
    ],
    "speaker": "トト",
    "jp": "　アルマねえちゃん！\n　一人で飛び出しちゃダメだよ！！\n\n",
-   "en": ""
+   "en": "Sis Alma! Don't go charging in all by\nyourself!!",
+   "status": "done"
   },
   {
    "id": "ev18D_1CC4",
@@ -864,7 +948,8 @@
    ],
    "speaker": "イェン",
    "jp": "　アルマ様。\n　お怒りもわかりますが\n　心を静めてください……。\n",
-   "en": ""
+   "en": "Alma-sama. I understand your anger, but\nplease, calm your heart...",
+   "status": "done"
   },
   {
    "id": "ev18D_1D0C",
@@ -874,7 +959,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……くっ……。\n\n\n",
-   "en": ""
+   "en": "...Ngh...",
+   "status": "done"
   },
   {
    "id": "ev18D_1D28",
@@ -884,7 +970,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……ふん、\n　いった通りの反応だ。\n\n\n",
-   "en": ""
+   "en": "...Hmph. Exactly the reaction I said it\nwould be.",
+   "status": "done"
   },
   {
    "id": "ev18D_1D58",
@@ -894,7 +981,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　しかしながら私は違う。\n\n\n",
-   "en": ""
+   "en": "I, however, am different.",
+   "status": "done"
   },
   {
    "id": "ev18D_1D7C",
@@ -904,7 +992,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は人間のいう喜怒哀楽。\n　そのすべてを超越したのだ。\n\n",
-   "en": ""
+   "en": "Joy, anger, sorrow, pleasure... all that you\nhumans call emotion. I have transcended\nevery bit of it.",
+   "status": "done"
   },
   {
    "id": "ev18D_1DC0",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　すべての事象を正確に判断し、\n　処理することのできる……。\n\n",
-   "en": ""
+   "en": "A being able to judge every phenomenon\nwith precision, and to deal with it\naccordingly...",
+   "status": "done"
   },
   {
    "id": "ev18D_1E08",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は人間はおろか、\n　気まぐれな神や精霊よりも\n　優れた存在となったのだ！！\n",
-   "en": ""
+   "en": "I have become a being superior not only to\nhumans, but even to the fickle gods and\nspirits!!",
+   "status": "done"
   },
   {
    "id": "ev18D_1E60",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……それが\n　おまえのいう\n　完全なる人間だというのか！\n",
-   "en": ""
+   "en": "...And that's what you call a perfect\nhuman!?",
+   "status": "done"
   },
   {
    "id": "ev18D_1EA4",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　だからいっておるだろう。\n\n\n",
-   "en": ""
+   "en": "Have I not told you already?",
+   "status": "done"
   },
   {
    "id": "ev18D_1ECC",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　完全なる人間など存在しない。\n\n\n",
-   "en": ""
+   "en": "There is no such thing as a perfect human.",
+   "status": "done"
   },
   {
    "id": "ev18D_1EF8",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　いうなれば私こそが\n　真の神なのだ！！\n\n",
-   "en": ""
+   "en": "If anything, it is I who am the true god!!",
+   "status": "done"
   },
   {
    "id": "ev18D_1F2C",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　違う！！\n\n\n",
-   "en": ""
+   "en": "You're wrong!!",
+   "status": "done"
   },
   {
    "id": "ev18D_1F44",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そんなのは\n　ただの機械にすぎない！\n\n",
-   "en": ""
+   "en": "That's nothing but a machine!",
+   "status": "done"
   },
   {
    "id": "ev18D_1F74",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　魔装機となにも変わらない。\n\n\n",
-   "en": ""
+   "en": "You're no different from a Masouki.",
+   "status": "done"
   },
   {
    "id": "ev18D_1F9C",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　愚かな……。\n\n\n",
-   "en": ""
+   "en": "How foolish...",
+   "status": "done"
   },
   {
    "id": "ev18D_1FB8",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　魔装機神に選ばれたというので\n　少しは期待したのだが……。\n\n",
-   "en": ""
+   "en": "You were chosen by a Masoukishin, so I\nhad expected a little more of you...",
+   "status": "done"
   },
   {
    "id": "ev18D_2000",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　やはり\n　人間は人間。\n\n",
-   "en": ""
+   "en": "But a human is a human, after all.",
+   "status": "done"
   },
   {
    "id": "ev18D_2024",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　旧来の価値観に惑わされ、\n　物事の本質を見失っている。\n\n",
-   "en": ""
+   "en": "Led astray by outdated values, you lose\nsight of the true nature of things.",
+   "status": "done"
   },
   {
    "id": "ev18D_2068",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　もう一度いおう。\n\n\n",
-   "en": ""
+   "en": "I will say it once more.",
+   "status": "done"
   },
   {
    "id": "ev18D_2088",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は完全なる存在。\n\n\n",
-   "en": ""
+   "en": "I am a perfect being.",
+   "status": "done"
   },
   {
    "id": "ev18D_20A8",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　真の神となったのだ。\n\n\n",
-   "en": ""
+   "en": "I have become the true god.",
+   "status": "done"
   },
   {
    "id": "ev18D_20CC",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_20E8",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……おまえは。\n\n\n",
-   "en": ""
+   "en": "...You.",
+   "status": "done"
   },
   {
    "id": "ev18D_2104",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえは、\n　自分のことを\n　完全なものだといったな！\n",
-   "en": ""
+   "en": "You said you were perfect, didn't you!",
+   "status": "done"
   },
   {
    "id": "ev18D_2144",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そうだ。\n\n\n",
-   "en": ""
+   "en": "I did.",
+   "status": "done"
   },
   {
    "id": "ev18D_215C",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それは、\n　成長しないということだろう。\n\n\n",
-   "en": ""
+   "en": "That means you can't grow, doesn't it?",
+   "status": "done"
   },
   {
    "id": "ev18D_2190",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　成長など必要あるまい。\n\n\n",
-   "en": ""
+   "en": "What need would I have for growth?",
+   "status": "done"
   },
   {
    "id": "ev18D_21B4",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　成長するということ自体が\n　そもそも不完全だということなのだ。\n\n",
-   "en": ""
+   "en": "The very act of growing is proof that one\nis imperfect in the first place.",
+   "status": "done"
   },
   {
    "id": "ev18D_2200",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_221C",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは、\n　この戦いで色々なことを学んだ。\n\n",
-   "en": ""
+   "en": "I've learned all kinds of things in this war.",
+   "status": "done"
   },
   {
    "id": "ev18D_2254",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　これからも様々な出来事を体験し、\n　学んでいくだろう。\n\n",
-   "en": ""
+   "en": "And I'll keep on living through all sorts of\nthings and learning from them.",
+   "status": "done"
   },
   {
    "id": "ev18D_2298",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　成長しないものに\n　なんの存在価値がある！\n\n",
-   "en": ""
+   "en": "What's something that can't grow even\nworth!?",
+   "status": "done"
   },
   {
    "id": "ev18D_22D0",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そして、\n　その価値のない存在が\n　なぜ人の価値を決められる。\n",
-   "en": ""
+   "en": "And how can something that worthless\ndecide what people are worth?",
+   "status": "done"
   },
   {
    "id": "ev18D_2318",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえは\n　完全なる存在でも\n　なんでもない！\n",
-   "en": ""
+   "en": "You're not a perfect being or anything of\nthe sort!",
+   "status": "done"
   },
   {
    "id": "ev18D_2350",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ただ、間違った存在なだけだ！！\n\n\n",
-   "en": ""
+   "en": "You're just a mistake, that's all!!",
+   "status": "done"
   },
   {
    "id": "ev18D_237C",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ふん。\n　なんとでもいうがいい。\n\n",
-   "en": ""
+   "en": "Hmph. Say what you will.",
+   "status": "done"
   },
   {
    "id": "ev18D_23A8",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　所詮、私と貴様らは、\n　共存できぬもの。\n\n",
-   "en": ""
+   "en": "In the end, you and I cannot coexist.",
+   "status": "done"
   },
   {
    "id": "ev18D_23DC",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　どちらが正しいかは、\n　結果が証明してくれるだろう。\n\n",
-   "en": ""
+   "en": "The outcome will prove which of us is right.",
+   "status": "done"
   },
   {
    "id": "ev18D_241C",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なにっ！？\n\n\n",
-   "en": ""
+   "en": "What!?",
+   "status": "done"
   },
   {
    "id": "ev18D_2434",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　フフフッ……。\n\n\n",
-   "en": ""
+   "en": "Heh heh heh...",
+   "status": "done"
   },
   {
    "id": "ev18D_2450",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　時がきた。\n\n\n",
-   "en": ""
+   "en": "The time has come.",
+   "status": "done"
   },
   {
    "id": "ev18D_2468",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私の真の姿。\n\n\n",
-   "en": ""
+   "en": "My true form.",
+   "status": "done"
   },
   {
    "id": "ev18D_2484",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　真の神と対面させてやろう。\n\n\n",
-   "en": ""
+   "en": "I shall bring you face to face with the\ntrue god.",
+   "status": "done"
   },
   {
    "id": "ev18D_24AC",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　完全なる存在。\n\n\n",
-   "en": ""
+   "en": "The perfect being.",
+   "status": "done"
   },
   {
    "id": "ev18D_24C8",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　その真名。\n　イズラフェール！\n\n",
-   "en": ""
+   "en": "Its true name... Izrafel!",
+   "status": "done"
   },
   {
    "id": "ev18D_24F4",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_250C",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんだ！？\n\n\n",
-   "en": ""
+   "en": "What!?",
+   "status": "done"
   },
   {
    "id": "ev18D_2524",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_253C",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　また、共鳴している！！\n\n\n",
-   "en": ""
+   "en": "It's resonating again!!",
+   "status": "done"
   },
   {
    "id": "ev18D_2560",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……サイバスター！\n　どうした！？\n\n",
-   "en": ""
+   "en": "...Cybuster! What's wrong!?",
+   "status": "done"
   },
   {
    "id": "ev18D_2590",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "イェン",
    "jp": "　なんだ、あれは！？\n\n\n",
-   "en": ""
+   "en": "What is that!?",
+   "status": "done"
   },
   {
    "id": "ev18D_25B0",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "トト",
    "jp": "　ケイゴにいちゃん！！\n\n\n",
-   "en": ""
+   "en": "Big bro Keigo!!",
+   "status": "done"
   },
   {
    "id": "ev18D_25D0",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ！！\n\n\n",
-   "en": ""
+   "en": "Keigo!!",
+   "status": "done"
   },
   {
    "id": "ev18D_25E8",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………！？\n\n\n",
-   "en": ""
+   "en": "......!?",
+   "status": "done"
   },
   {
    "id": "ev18D_2608",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "トト",
    "jp": "　す、すげえ……！！\n\n\n",
-   "en": ""
+   "en": "Wh-whoa... Amazing...!!",
+   "status": "done"
   },
   {
    "id": "ev18D_2628",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "イェン",
    "jp": "　……こ、これが！\n\n\n",
-   "en": ""
+   "en": "...S-so this is...!",
+   "status": "done"
   },
   {
    "id": "ev18D_2648",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　イズラフェール！！\n\n\n",
-   "en": ""
+   "en": "Izrafel!!",
+   "status": "done"
   },
   {
    "id": "ev18D_2668",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………！！\n\n\n",
-   "en": ""
+   "en": "......!!",
+   "status": "done"
   },
   {
    "id": "ev18D_2688",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……そ、その右手は！！\n\n\n",
-   "en": ""
+   "en": "...Th-that right hand...!!",
+   "status": "done"
   },
   {
    "id": "ev18D_26AC",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ほう。\n　よく気がついたな。\n\n\n",
-   "en": ""
+   "en": "Oh? So you noticed.",
+   "status": "done"
   },
   {
    "id": "ev18D_26D4",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そう。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev18D_26E8",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "ソッド",
    "jp": "『神の腕』だ。\n\n\n",
-   "en": ""
+   "en": "The Arm of God.",
+   "status": "done"
   },
   {
    "id": "ev18D_2704",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　この世界に\n　唯一存在する魔装機神の起源。\n\n",
-   "en": ""
+   "en": "The one and only origin of the Masoukishin\nin this world.",
+   "status": "done"
   },
   {
    "id": "ev18D_273C",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そう、このイズラフェールこそが\n　唯一の魔装機神。\n\n",
-   "en": ""
+   "en": "Yes, this Izrafel is the one and only\nMasoukishin.",
+   "status": "done"
   },
   {
    "id": "ev18D_277C",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　真の魔装機神なのだ。\n\n\n",
-   "en": ""
+   "en": "The true Masoukishin.",
+   "status": "done"
   },
   {
    "id": "ev18D_27A0",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　この事実をもってしても\n　まだ、私を否定するというのか？\n\n\n",
-   "en": ""
+   "en": "Even faced with this fact, do you still\ndeny me?",
+   "status": "done"
   },
   {
    "id": "ev18D_27E4",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……そんなものは、\n　ただの物体にすぎない！\n\n",
-   "en": ""
+   "en": "...That's nothing but an object!",
+   "status": "done"
   },
   {
    "id": "ev18D_281C",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえのその姿を見て\n　わかったことがある。\n\n",
-   "en": ""
+   "en": "Seeing you like that, I've figured\nsomething out.",
+   "status": "done"
   },
   {
    "id": "ev18D_2854",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なぜ、４機の魔装機神が\n　動き始めたのか……。\n\n",
-   "en": ""
+   "en": "Why the four Masoukishin started to\nmove...",
+   "status": "done"
   },
   {
    "id": "ev18D_2890",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　その理由がわかったよ。\n\n\n",
-   "en": ""
+   "en": "I know the reason now.",
+   "status": "done"
   },
   {
    "id": "ev18D_28B4",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それは……。\n\n\n",
-   "en": ""
+   "en": "It's...",
+   "status": "done"
   },
   {
    "id": "ev18D_28D0",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　人々を……。\n\n\n",
-   "en": ""
+   "en": "...because the people...",
+   "status": "done"
   },
   {
    "id": "ev18D_28EC",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　この世界を……。\n\n\n",
-   "en": ""
+   "en": "...this whole world...",
+   "status": "done"
   },
   {
    "id": "ev18D_290C",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえのようなやつに\n　支配させるわけにいかないからだ！\n\n",
-   "en": ""
+   "en": "...can't be left for someone like you to rule!",
+   "status": "done"
   },
   {
    "id": "ev18D_2950",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ふん。\n　バカバカしい。\n\n",
-   "en": ""
+   "en": "Hmph. How absurd.",
+   "status": "done"
   },
   {
    "id": "ev18D_2974",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　自分の価値基準でしか\n　物事を判断できないヤツめ。\n\n",
-   "en": ""
+   "en": "You can judge things only by your own\nstandards.",
+   "status": "done"
   },
   {
    "id": "ev18D_29B4",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　それゆえ、\n　正確な真実を認識できないことに\n　気づかないのだ。\n",
-   "en": ""
+   "en": "And that is why you fail to notice that you\ncannot perceive the truth as it is.",
+   "status": "done"
   },
   {
    "id": "ev18D_2A00",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なにが真実だ！\n\n\n",
-   "en": ""
+   "en": "Truth? What truth!?",
+   "status": "done"
   },
   {
    "id": "ev18D_2A1C",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえこそ、\n　それが偏った考えということに\n　気づかないだけだろう！\n",
-   "en": ""
+   "en": "You're the one who can't see how warped\nyour own thinking is!",
+   "status": "done"
   },
   {
    "id": "ev18D_2A6C",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは\n　この世界の真実なんかに\n　興味はない！\n",
-   "en": ""
+   "en": "I'm not interested in the truth of this world!",
+   "status": "done"
   },
   {
    "id": "ev18D_2AA8",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ただ、\n　おまえの存在を……。\n\n",
-   "en": ""
+   "en": "I just... your existence...",
+   "status": "done"
   },
   {
    "id": "ev18D_2AD4",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　人の心を理解しない\n　おまえの存在を……。\n\n",
-   "en": ""
+   "en": "...the existence of someone who doesn't\nunderstand the human heart...",
+   "status": "done"
   },
   {
    "id": "ev18D_2B0C",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　オレは認めるわけにいかない！\n\n\n",
-   "en": ""
+   "en": "I can't accept it!",
+   "status": "done"
   },
   {
    "id": "ev18D_2B38",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえの存在を断つ！！\n\n\n",
-   "en": ""
+   "en": "I'll put an end to your existence!!",
+   "status": "done"
   },
   {
    "id": "ev18D_2B5C",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "イェン",
    "jp": "　……一番、道理を理解していると\n　思っているほど……。\n\n",
-   "en": ""
+   "en": "...The one who believes he understands\nreason best...",
+   "status": "done"
   },
   {
    "id": "ev18D_2BA0",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "イェン",
    "jp": "　……実は、一番わかっていない。\n\n\n",
-   "en": ""
+   "en": "...is in truth the one who understands it\nleast.",
+   "status": "done"
   },
   {
    "id": "ev18D_2BCC",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ある意味、\n　もっとも人間らしい感覚を\n　持っていたのかもしれません。\n",
-   "en": ""
+   "en": "In a sense, he may have had the most\nhuman sensibility of all.",
+   "status": "done"
   },
   {
    "id": "ev18D_2C1C",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　己の才能に溺れ、\n　その力を過信し……。\n\n",
-   "en": ""
+   "en": "Drowning in his own talent, putting too\nmuch faith in his own power...",
+   "status": "done"
   },
   {
    "id": "ev18D_2C50",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それがソッドという幻影を\n　生み出した。\n\n",
-   "en": ""
+   "en": "That is what gave birth to the illusion called\nThodd.",
+   "status": "done"
   },
   {
    "id": "ev18D_2C84",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　悲しい話ね。\n\n\n",
-   "en": ""
+   "en": "It's a sad story, isn't it.",
+   "status": "done"
   },
   {
    "id": "ev18D_2CA0",
@@ -1764,7 +1938,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_2CBC",
@@ -1774,7 +1949,8 @@
    ],
    "speaker": "トト",
    "jp": "　ねえねえ。\n\n\n",
-   "en": ""
+   "en": "Hey, hey.",
+   "status": "done"
   },
   {
    "id": "ev18D_2CD4",
@@ -1784,7 +1960,8 @@
    ],
    "speaker": "トト",
    "jp": "　難しい話は\n　あとにしようよ。\n\n",
-   "en": ""
+   "en": "Let's save the hard stuff for later.",
+   "status": "done"
   },
   {
    "id": "ev18D_2CFC",
@@ -1794,7 +1971,8 @@
    ],
    "speaker": "トト",
    "jp": "　やっと\n　終わったんだろう！\n\n\n",
-   "en": ""
+   "en": "It's finally over, right!",
+   "status": "done"
   },
   {
    "id": "ev18D_2D24",
@@ -1804,7 +1982,8 @@
    ],
    "speaker": "トト",
    "jp": "　おいら、ハラ減ったよ！！\n\n\n",
-   "en": ""
+   "en": "I'm starving!!",
+   "status": "done"
   },
   {
    "id": "ev18D_2D48",
@@ -1814,7 +1993,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まったく……。\n　おまえはそればっかりだな。\n\n",
-   "en": ""
+   "en": "Geez... That's all you ever think about.",
+   "status": "done"
   },
   {
    "id": "ev18D_2D80",
@@ -1824,7 +2004,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ふふふっ……。\n\n\n",
-   "en": ""
+   "en": "Hehehe...",
+   "status": "done"
   },
   {
    "id": "ev18D_2D9C",
@@ -1834,7 +2015,8 @@
    ],
    "speaker": "イェン",
    "jp": "　フッ……。\n\n\n",
-   "en": ""
+   "en": "Heh...",
+   "status": "done"
   },
   {
    "id": "ev18D_2DB4",
@@ -1844,7 +2026,8 @@
    ],
    "speaker": "トト",
    "jp": "　……なんで笑ってるの？\n\n\n",
-   "en": ""
+   "en": "...What are you laughing at?",
+   "status": "done"
   },
   {
    "id": "ev18D_2DD8",
@@ -1854,7 +2037,8 @@
    ],
    "speaker": "イェン",
    "jp": "　トトのように\n　素直な気持ちを持つことが\n　一番だということですよ。\n",
-   "en": ""
+   "en": "Only that it is best to have an honest heart,\nlike yours, Toto.",
+   "status": "done"
   },
   {
    "id": "ev18D_2E28",
@@ -1864,7 +2048,8 @@
    ],
    "speaker": "トト",
    "jp": "　なんだ。\n　そんなことも\n　わからなかったのかい！\n",
-   "en": ""
+   "en": "What? You guys didn't even know that!?",
+   "status": "done"
   },
   {
    "id": "ev18D_2E64",
@@ -1874,7 +2059,8 @@
    ],
    "speaker": "トト",
    "jp": "　おいらは\n　最初から知ってたよ！\n\n",
-   "en": ""
+   "en": "I knew that from the start!",
+   "status": "done"
   },
   {
    "id": "ev18D_2E90",
@@ -1884,7 +2070,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　やっぱり、\n　おまえには負けるよ……。\n\n",
-   "en": ""
+   "en": "Guess I can never win against you, huh...",
+   "status": "done"
   },
   {
    "id": "ev18D_2EC4",
@@ -1894,7 +2081,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ふふふっ……。\n\n\n",
-   "en": ""
+   "en": "Hehehe...",
+   "status": "done"
   },
   {
    "id": "ev18D_2EE0",
@@ -1904,7 +2092,8 @@
    ],
    "speaker": "イェン",
    "jp": "　フッ……。\n\n\n",
-   "en": ""
+   "en": "Heh...",
+   "status": "done"
   },
   {
    "id": "ev18D_2EF8",
@@ -1914,7 +2103,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はははっ……。\n\n\n",
-   "en": ""
+   "en": "Hahaha...",
+   "status": "done"
   },
   {
    "id": "ev18D_2F14",
@@ -1924,7 +2114,8 @@
    ],
    "speaker": "トト",
    "jp": "　なんだよ！\n\n\n",
-   "en": ""
+   "en": "What!?",
+   "status": "done"
   },
   {
    "id": "ev18D_2F2C",
@@ -1934,7 +2125,8 @@
    ],
    "speaker": "トト",
    "jp": "　なんで笑うのさ！\n\n\n",
-   "en": ""
+   "en": "What're you laughing at!?",
+   "status": "done"
   },
   {
    "id": "ev18D_2F48",
@@ -1944,7 +2136,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……な、なんだ！？\n\n\n",
-   "en": ""
+   "en": "...Wh-what the!?",
+   "status": "done"
   },
   {
    "id": "ev18D_2F6C",
@@ -1954,7 +2147,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ま、魔物たちが！\n\n\n",
-   "en": ""
+   "en": "Th-the monsters...!",
+   "status": "done"
   },
   {
    "id": "ev18D_2F8C",
@@ -1964,7 +2158,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　き、消えた！！\n\n\n",
-   "en": ""
+   "en": "Th-they vanished!!",
+   "status": "done"
   },
   {
    "id": "ev18D_2FAC",
@@ -1974,7 +2169,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　マ、マジ！？\n\n\n",
-   "en": ""
+   "en": "F-fer real!?",
+   "status": "done"
   },
   {
    "id": "ev18D_2FC8",
@@ -1984,7 +2180,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　や、やったあ！！\n\n\n",
-   "en": ""
+   "en": "W-we did it!!",
+   "status": "done"
   },
   {
    "id": "ev18D_2FEC",
@@ -1994,7 +2191,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　助かったのか……。\n\n\n",
-   "en": ""
+   "en": "Are we... saved?",
+   "status": "done"
   },
   {
    "id": "ev18D_3010",
@@ -2004,7 +2202,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　……と、いうことは！\n\n\n",
-   "en": ""
+   "en": "...Which means!",
+   "status": "done"
   },
   {
    "id": "ev18D_3034",
@@ -2014,7 +2213,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴ！\n\n\n",
-   "en": ""
+   "en": "Keigo!",
+   "status": "done"
   },
   {
    "id": "ev18D_304C",
@@ -2024,7 +2224,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　アルマ隊長……。\n\n\n",
-   "en": ""
+   "en": "Captain Alma...",
+   "status": "done"
   },
   {
    "id": "ev18D_306C",
@@ -2034,7 +2235,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　イェンとトトも！\n\n\n",
-   "en": ""
+   "en": "Yen and Toto too!",
+   "status": "done"
   },
   {
    "id": "ev18D_308C",
@@ -2044,7 +2246,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　勝ったってこと！？\n\n\n",
-   "en": ""
+   "en": "You mean they won!?",
+   "status": "done"
   },
   {
    "id": "ev18D_30B0",
@@ -2054,7 +2257,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　そうだよ！\n　あいつらやりやがった！！\n\n",
-   "en": ""
+   "en": "Yeah! Those guys went and did it!!",
+   "status": "done"
   },
   {
    "id": "ev18D_30E4",
@@ -2064,7 +2268,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　バンザ～イ！！\n\n\n",
-   "en": ""
+   "en": "Hoo-raaay!!",
+   "status": "done"
   },
   {
    "id": "ev18D_3104",
@@ -2074,7 +2279,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　ベウマー隊長！\n　やったね！！\n\n",
-   "en": ""
+   "en": "Captain Beumer! We did it!!",
+   "status": "done"
   },
   {
    "id": "ev18D_3130",
@@ -2084,7 +2290,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ああ！\n　今度こそ本当に終わったんだ！\n\n\n",
-   "en": ""
+   "en": "Yeah! This time it's really over!",
+   "status": "done"
   },
   {
    "id": "ev18D_3164",
@@ -2094,7 +2301,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　やったな、ベウマー！！\n\n\n",
-   "en": ""
+   "en": "Well done, Beumer!!",
+   "status": "done"
   },
   {
    "id": "ev18D_318C",
@@ -2104,7 +2312,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ああ！！\n\n\n",
-   "en": ""
+   "en": "Yeah!!",
+   "status": "done"
   },
   {
    "id": "ev18D_31A4",
@@ -2114,7 +2323,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　よしっ！\n　みんな帰るぞ！！\n\n",
-   "en": ""
+   "en": "All right! Everybody, we're heading home!!",
+   "status": "done"
   },
   {
    "id": "ev18D_31D0",
@@ -2124,7 +2334,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　もう一度、\n　あいつらを出迎えてやらないと！！\n\n",
-   "en": ""
+   "en": "We gotta be there to welcome those guys\nback one more time!!",
+   "status": "done"
   },
   {
    "id": "ev18D_320C",
@@ -2134,7 +2345,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　うむ。\n\n\n",
-   "en": ""
+   "en": "Mm.",
+   "status": "done"
   },
   {
    "id": "ev18D_3224",
@@ -2144,7 +2356,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　あいよ！\n\n\n",
-   "en": ""
+   "en": "You got it!",
+   "status": "done"
   },
   {
    "id": "ev18D_323C",
@@ -2154,7 +2367,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　よっしゃっ！！\n\n\n",
-   "en": ""
+   "en": "Alrighty!!",
+   "status": "done"
   },
   {
    "id": "ev18D_325C",
@@ -2164,7 +2378,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　だから、\n　二人とも狭いんだって……。\n\n\n",
-   "en": ""
+   "en": "Like I keep saying, it's sooo cramped with\nyou two in here...",
+   "status": "done"
   },
   {
    "id": "ev18D_3294",
@@ -2174,7 +2389,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　魔物が消えた！？\n\n\n",
-   "en": ""
+   "en": "The monsters vanished!?",
+   "status": "done"
   },
   {
    "id": "ev18D_32B0",
@@ -2184,7 +2400,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　そうか、ケイゴたちが！\n\n\n",
-   "en": ""
+   "en": "I see... Keigo and the others did it!",
+   "status": "done"
   },
   {
    "id": "ev18D_32D4",
@@ -2194,7 +2411,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_32F0",
@@ -2204,7 +2422,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　よかった……。\n\n\n",
-   "en": ""
+   "en": "Thank goodness...",
+   "status": "done"
   },
   {
    "id": "ev18D_330C",
@@ -2214,7 +2433,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_3328",
@@ -2224,7 +2444,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ごめんなさい……。\n\n\n",
-   "en": ""
+   "en": "I'm sorry...",
+   "status": "done"
   },
   {
    "id": "ev18D_3348",
@@ -2234,7 +2455,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　本当にごめんなさい……。\n\n\n",
-   "en": ""
+   "en": "I'm truly sorry...",
+   "status": "done"
   },
   {
    "id": "ev18D_336C",
@@ -2244,7 +2466,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　姉さん……。\n\n\n",
-   "en": ""
+   "en": "Big sister...",
+   "status": "done"
   },
   {
    "id": "ev18D_3384",
@@ -2254,7 +2477,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　姉さん……。\n\n\n",
-   "en": ""
+   "en": "Big sister...",
+   "status": "done"
   },
   {
    "id": "ev18D_339C",
@@ -2264,7 +2488,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　……ダウスの魔物が消えた！？\n\n\n",
-   "en": ""
+   "en": "...The monsters of Daus have vanished!?",
+   "status": "done"
   },
   {
    "id": "ev18D_33C8",
@@ -2274,7 +2499,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　どうやら、\n　やってくれたようですな。\n\n",
-   "en": ""
+   "en": "It seems they have done it.",
+   "status": "done"
   },
   {
    "id": "ev18D_33FC",
@@ -2284,7 +2510,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ええ。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev18D_3414",
@@ -2294,7 +2521,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……今回の事件で\n　ア・ゼルスの過去は精算された。\n\n",
-   "en": ""
+   "en": "...With this, the past of A-Zeluth has at last\nbeen settled.",
+   "status": "done"
   },
   {
    "id": "ev18D_3454",
@@ -2304,7 +2532,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　なにもかも彼らのおかげですね。\n\n\n",
-   "en": ""
+   "en": "And we owe it all to them.",
+   "status": "done"
   },
   {
    "id": "ev18D_3484",
@@ -2314,7 +2543,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　はい。\n　本当にがんばってくれました。\n\n",
-   "en": ""
+   "en": "Yes. They truly did their very best.",
+   "status": "done"
   },
   {
    "id": "ev18D_34B8",
@@ -2324,7 +2554,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "（……ありがとう、みなさん）\n\n\n",
-   "en": ""
+   "en": "(...Thank you, everyone.)",
+   "status": "done"
   },
   {
    "id": "ev18D_34E4",
@@ -2334,7 +2565,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "（……それにイェン、\n　よくやってくれました……）\n\n",
-   "en": ""
+   "en": "(...And Yen, you did well...)",
+   "status": "done"
   },
   {
    "id": "ev18D_3524",
@@ -2344,7 +2576,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_3544",
@@ -2354,7 +2587,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……シャーナ様。\n\n\n",
-   "en": ""
+   "en": "...Shana-sama.",
+   "status": "done"
   },
   {
    "id": "ev18D_3564",
@@ -2364,7 +2598,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　これでようやく\n　ア・ゼルスも真の平和へ向け、\n　その一歩を踏み出せそうです。\n",
-   "en": ""
+   "en": "At last, A-Zeluth can take its first step\ntoward true peace.",
+   "status": "done"
   },
   {
    "id": "ev18D_35C0",
@@ -2374,7 +2609,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　今後ともどうかよろしく。\n\n\n",
-   "en": ""
+   "en": "I hope we may continue to work together.",
+   "status": "done"
   },
   {
    "id": "ev18D_35E8",
@@ -2384,7 +2620,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　いいえ、こちらこそ。\n\n\n",
-   "en": ""
+   "en": "No, the pleasure is mine.",
+   "status": "done"
   },
   {
    "id": "ev18D_360C",
@@ -2394,7 +2631,8 @@
    ],
    "speaker": "シェス",
    "jp": "　アルフレード技師長！\n\n\n",
-   "en": ""
+   "en": "Chief Engineer Alfredo!",
+   "status": "done"
   },
   {
    "id": "ev18D_3630",
@@ -2404,7 +2642,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ア・ゼルス上空に\n　４つのプラーナ反応を\n　確認しました！！\n",
-   "en": ""
+   "en": "I've confirmed four Prana readings in the\nskies over A-Zeluth!!",
+   "status": "done"
   },
   {
    "id": "ev18D_3678",
@@ -2414,7 +2653,8 @@
    ],
    "speaker": "シェス",
    "jp": "　みんな無事です！！\n\n\n",
-   "en": ""
+   "en": "They're all safe!!",
+   "status": "done"
   },
   {
    "id": "ev18D_3698",
@@ -2424,7 +2664,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そうか、やりおったか！\n\n\n",
-   "en": ""
+   "en": "I see, so they did it, eh!",
+   "status": "done"
   },
   {
    "id": "ev18D_36C4",
@@ -2434,7 +2675,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　今夜は\n　盛り上がりそうじゃのう！\n\n",
-   "en": ""
+   "en": "Looks like tonight's going to be a real\nparty, eh!",
+   "status": "done"
   },
   {
    "id": "ev18D_36F8",
@@ -2444,7 +2686,8 @@
    ],
    "speaker": "シェス",
    "jp": "　もう技師長ったら。\n　遊ぶことしか\n　考えてないんだから……。\n",
-   "en": ""
+   "en": "Honestly, Chief Engineer! All you ever think\nabout is having fun...",
+   "status": "done"
   },
   {
    "id": "ev18D_3740",
@@ -2454,7 +2697,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　わはははっ……。\n\n",
-   "en": ""
+   "en": "Wahahaha...",
+   "status": "done"
   },
   {
    "id": "ev18D_3764",
@@ -2464,7 +2708,8 @@
    ],
    "speaker": "",
    "jp": "　数ヶ月後……\n\n\n",
-   "en": ""
+   "en": "A few months later...",
+   "status": "done"
   },
   {
    "id": "ev18D_3778",
@@ -2474,7 +2719,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（すべてが終わった……）\n\n\n",
-   "en": ""
+   "en": "(It was all over...)",
+   "status": "done"
   },
   {
    "id": "ev18D_379C",
@@ -2484,7 +2730,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（最後の戦いのあと\n　ダウスの魔物は消え……）\n\n",
-   "en": ""
+   "en": "(After the final battle, the monsters of\nDaus disappeared...)",
+   "status": "done"
   },
   {
    "id": "ev18D_37D4",
@@ -2494,7 +2741,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ダウスの穴も\n　消滅してしまった）\n\n",
-   "en": ""
+   "en": "(...and the Pit of Daus vanished, too.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3804",
@@ -2504,7 +2752,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（魔装機神もあの戦いのあと\n　動かなくなってしまい、\n　じいさんも首を傾げていた）\n",
-   "en": ""
+   "en": "(After that battle the Masoukishin stopped\nmoving as well, and even the old man was\nleft scratching his head.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3860",
@@ -2514,7 +2763,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（オレたちは\n　選ばれた人間ではなく\n　普通の人となったわけだ）\n",
-   "en": ""
+   "en": "(So we weren't chosen ones anymore, just\nordinary people.)",
+   "status": "done"
   },
   {
    "id": "ev18D_38A8",
@@ -2524,7 +2774,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（それまでのことが\n　幻であったかのように\n　今は平和な日々が続いている）\n",
-   "en": ""
+   "en": "(As if everything before had been a dream,\npeaceful days go on, one after another.)",
+   "status": "done"
   },
   {
    "id": "ev18D_38FC",
@@ -2534,7 +2785,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（バルツフィームはロセリニ神官長が\n　中心となって、共和制国家を\n　作りあげていく準備を始めている）\n",
-   "en": ""
+   "en": "(In Vartzpheem, High Priest Rossellini is\nleading the preparations to build a republic.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3968",
@@ -2544,7 +2796,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（これからは、一人一人が\n　政治に参加して、バルツフィームを\n　運営させていくらしい）\n",
-   "en": ""
+   "en": "(From now on, it seems, each and every\nperson will take part in politics and help run\nVartzpheem.)",
+   "status": "done"
   },
   {
    "id": "ev18D_39C8",
@@ -2554,7 +2807,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ベウマー隊長たちは、\n　ロセリニ神官長の手伝いをしている）\n\n",
-   "en": ""
+   "en": "(Captain Beumer and the others are helping\nHigh Priest Rossellini.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3A10",
@@ -2564,7 +2818,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……とはいえ、\n　もっぱら肉体労働らしく）\n\n",
-   "en": ""
+   "en": "(...Though it seems to be mostly manual\nlabor.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3A48",
@@ -2574,7 +2829,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（最近は、騎士隊ではなく\n　ただの工事屋だとグチっていたが……）\n\n",
-   "en": ""
+   "en": "(Lately he's been griping that they're not a\nknight unit anymore, just a construction\ncrew...)",
+   "status": "done"
   },
   {
    "id": "ev18D_3A94",
@@ -2584,7 +2840,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（本人はけっこう\n　楽しそうにやっている）\n\n",
-   "en": ""
+   "en": "(...but he actually seems to be having a\npretty good time.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3AC8",
@@ -2594,7 +2851,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（こうして戦争の傷跡は\n　徐々に薄れていったが、\n　オレには疑問があった）\n",
-   "en": ""
+   "en": "(And so the scars of war slowly faded, but\nI still had a question.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3B1C",
@@ -2604,7 +2862,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（それは\n　リーグ＝グラム＝ガルム……）\n\n",
-   "en": ""
+   "en": "(It was about Rieg Gram Garum...)",
+   "status": "done"
   },
   {
    "id": "ev18D_3B50",
@@ -2614,7 +2873,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……ソッドのような存在が\n　なぜ、生まれたのか……）\n\n",
-   "en": ""
+   "en": "(...Why was a being like Thodd ever\nborn...?)",
+   "status": "done"
   },
   {
    "id": "ev18D_3B90",
@@ -2624,7 +2884,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（なにを最終的な\n　目標としていたのか……）\n\n",
-   "en": ""
+   "en": "(What had his final goal been...?)",
+   "status": "done"
   },
   {
    "id": "ev18D_3BC8",
@@ -2634,7 +2895,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（結局それは\n　わからずじまいだった）\n\n",
-   "en": ""
+   "en": "(In the end, I never found out.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3BF8",
@@ -2644,7 +2906,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ただ、イェンのやつが\n　ナトゥーレに帰る前日）\n\n",
-   "en": ""
+   "en": "(But on the day before Yen went back to\nNatoure...)",
+   "status": "done"
   },
   {
    "id": "ev18D_3C34",
@@ -2654,7 +2917,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（わかりきったような口調で\n　オレにこういった……）\n\n",
-   "en": ""
+   "en": "(...he told me this, in that know-it-all tone of\nhis...)",
+   "status": "done"
   },
   {
    "id": "ev18D_3C74",
@@ -2664,7 +2928,8 @@
    ],
    "speaker": "イェン",
    "jp": "（……ソッドが\n　人間であるとするならば……）\n\n",
-   "en": ""
+   "en": "(...If Thodd was human...)",
+   "status": "done"
   },
   {
    "id": "ev18D_3CAC",
@@ -2674,7 +2939,8 @@
    ],
    "speaker": "イェン",
    "jp": "（……そんなことは\n　当たり前のことです）\n\n",
-   "en": ""
+   "en": "(...then that is only natural.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3CE0",
@@ -2684,7 +2950,8 @@
    ],
    "speaker": "イェン",
    "jp": "（なぜなら、人間がどこからきて、\n　どこにいくのかなんて\n　誰にもわからない……）\n",
-   "en": ""
+   "en": "(After all, no one knows where humans\ncome from, or where they are going...)",
+   "status": "done"
   },
   {
    "id": "ev18D_3D3C",
@@ -2694,7 +2961,8 @@
    ],
    "speaker": "イェン",
    "jp": "（だから、\n　わからなくて当然でしょう）\n\n",
-   "en": ""
+   "en": "(So it is only natural that we cannot\nunderstand.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3D70",
@@ -2704,7 +2972,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（オレは釈然としなかったが……）\n\n\n",
-   "en": ""
+   "en": "(It didn't sit right with me, but...)",
+   "status": "done"
   },
   {
    "id": "ev18D_3D9C",
@@ -2714,7 +2983,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（今はそれで納得しようと思っている）\n\n\n",
-   "en": ""
+   "en": "(...for now, I've decided to accept it.)",
+   "status": "done"
   },
   {
    "id": "ev18D_3DCC",
@@ -2724,7 +2994,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（最後にいった……）\n\n\n",
-   "en": ""
+   "en": "(As for the last thing he said...)",
+   "status": "done"
   },
   {
    "id": "ev18D_3DEC",
@@ -2734,7 +3005,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（キミはこの程度の答えで\n　充分じゃないのかい？）\n\n",
-   "en": ""
+   "en": "(Isn't an answer like this good enough for\nthe likes of you?)",
+   "status": "done"
   },
   {
    "id": "ev18D_3E28",
@@ -2744,7 +3016,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……という言葉はおいといて……）\n\n\n",
-   "en": ""
+   "en": "(...I'll just leave that one aside...)",
+   "status": "done"
   },
   {
    "id": "ev18D_3E58",
@@ -2754,7 +3027,8 @@
    ],
    "speaker": "",
    "jp": "　バルツフィーム共和国\n　　首都\n\n\n",
-   "en": ""
+   "en": "Republic of Vartzpheem\nThe Capital",
+   "status": "done"
   },
   {
    "id": "ev18D_3E7C",
@@ -2764,7 +3038,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　本当にいっちまうのか？\n\n\n",
-   "en": ""
+   "en": "You're really leavin'?",
+   "status": "done"
   },
   {
    "id": "ev18D_3EA4",
@@ -2774,7 +3049,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ええ、ベウマー隊長。\n　本当にお世話になりました。\n\n",
-   "en": ""
+   "en": "Yes, Captain Beumer. Thank you for\neverything.",
+   "status": "done"
   },
   {
    "id": "ev18D_3EE4",
@@ -2784,7 +3060,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ベウマー。\n　がんばってね。\n\n",
-   "en": ""
+   "en": "Beumer. Take care of things, all right?",
+   "status": "done"
   },
   {
    "id": "ev18D_3F0C",
@@ -2794,7 +3071,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ありがとうございます。\n\n\n",
-   "en": ""
+   "en": "Thank you very much.",
+   "status": "done"
   },
   {
    "id": "ev18D_3F34",
@@ -2804,7 +3082,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……しかし、あのあと\n　魔装機神がピクリとも\n　動かなくなるなんてな。\n",
-   "en": ""
+   "en": "...Still, who'd have thought the Masoukishin\nwouldn't so much as twitch after all that.",
+   "status": "done"
   },
   {
    "id": "ev18D_3F88",
@@ -2814,7 +3093,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それでよかったんですよ。\n\n\n",
-   "en": ""
+   "en": "It's better that way.",
+   "status": "done"
   },
   {
    "id": "ev18D_3FB0",
@@ -2824,7 +3104,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　今はもう\n　魔装機神の力は必要ないですから。\n\n",
-   "en": ""
+   "en": "We don't need the power of the\nMasoukishin anymore.",
+   "status": "done"
   },
   {
    "id": "ev18D_3FE8",
@@ -2834,7 +3115,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それよりベウマー隊長こそ\n　どうするんですか？\n\n",
-   "en": ""
+   "en": "More importantly, Captain Beumer, what\nare you going to do?",
+   "status": "done"
   },
   {
    "id": "ev18D_4024",
@@ -2844,7 +3126,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ああ。\n　もうしばらく\n　騎士隊を続けるよ。\n",
-   "en": ""
+   "en": "Me? I'll stick with the knights a while longer.",
+   "status": "done"
   },
   {
    "id": "ev18D_405C",
@@ -2854,7 +3137,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　魔物やラガーシュが\n　いなくなったとはいえ、\n　完全に落ちついたわけではないからな。\n",
-   "en": ""
+   "en": "The monsters and Ragash may be gone,\nbut things ain't completely settled\ndown yet.",
+   "status": "done"
   },
   {
    "id": "ev18D_40BC",
@@ -2864,7 +3148,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　それに王都周辺の工事もあるし……。\n\n\n",
-   "en": ""
+   "en": "Plus there's all the construction work\naround the Royal Capital...",
+   "status": "done"
   },
   {
    "id": "ev18D_40F0",
@@ -2874,7 +3159,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　まあ、そのうち\n　シェスでも嫁さんにもらうか？\n\n",
-   "en": ""
+   "en": "Eh, maybe one of these days I'll make\nShess my wife, huh?",
+   "status": "done"
   },
   {
    "id": "ev18D_412C",
@@ -2884,7 +3170,8 @@
    ],
    "speaker": "シェス",
    "jp": "　な、なにいってるんです！\n　ベウマー隊長！！\n\n",
-   "en": ""
+   "en": "Wh-what are you saying!? Captain Beumer!!",
+   "status": "done"
   },
   {
    "id": "ev18D_4164",
@@ -2894,7 +3181,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　わはははっ……。\n\n\n",
-   "en": ""
+   "en": "Wahahaha...",
+   "status": "done"
   },
   {
    "id": "ev18D_4184",
@@ -2904,7 +3192,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　幸せになれるといいわね。\n　シェス。\n\n",
-   "en": ""
+   "en": "I hope you'll be happy, Shess.",
+   "status": "done"
   },
   {
    "id": "ev18D_41B4",
@@ -2914,7 +3203,8 @@
    ],
    "speaker": "シェス",
    "jp": "　な、なにいってるんですか！\n　アルマさんまで！！\n\n",
-   "en": ""
+   "en": "Wh-what are you saying!? Even you,\nAlma-san!!",
+   "status": "done"
   },
   {
    "id": "ev18D_41F0",
@@ -2924,7 +3214,8 @@
    ],
    "speaker": "シェス",
    "jp": "　もう！\n\n\n",
-   "en": ""
+   "en": "Honestly!",
+   "status": "done"
   },
   {
    "id": "ev18D_4204",
@@ -2934,7 +3225,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はははっ……。\n\n\n",
-   "en": ""
+   "en": "Hahaha...",
+   "status": "done"
   },
   {
    "id": "ev18D_4220",
@@ -2944,7 +3236,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　一本取られたようだな。\n\n\n",
-   "en": ""
+   "en": "Looks like she got you there.",
+   "status": "done"
   },
   {
    "id": "ev18D_4248",
@@ -2954,7 +3247,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　つまらない噂話ばかり\n　しているからだ。\n\n",
-   "en": ""
+   "en": "That's what comes of always spreading\nidle gossip.",
+   "status": "done"
   },
   {
    "id": "ev18D_4280",
@@ -2964,7 +3258,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……じゃあ、そろそろ。\n\n\n",
-   "en": ""
+   "en": "...Well, it's about time.",
+   "status": "done"
   },
   {
    "id": "ev18D_42A4",
@@ -2974,7 +3269,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ケイゴ、\n　アルマ……さん。\n\n",
-   "en": ""
+   "en": "Keigo. Alma...-san.",
+   "status": "done"
   },
   {
    "id": "ev18D_42D0",
@@ -2984,7 +3280,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　気をつけて。\n\n\n",
-   "en": ""
+   "en": "Take care.",
+   "status": "done"
   },
   {
    "id": "ev18D_42EC",
@@ -2994,7 +3291,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ありがとう、フルカス。\n\n\n",
-   "en": ""
+   "en": "Thank you, Furcas.",
+   "status": "done"
   },
   {
    "id": "ev18D_4310",
@@ -3004,7 +3302,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　二人とも……。\n\n\n",
-   "en": ""
+   "en": "You two...",
+   "status": "done"
   },
   {
    "id": "ev18D_4330",
@@ -3014,7 +3313,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　……死ぬんじゃないよ。\n\n\n",
-   "en": ""
+   "en": "...don't you go gettin' yourselves killed.",
+   "status": "done"
   },
   {
    "id": "ev18D_4358",
@@ -3024,7 +3324,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　ヘレーナ様。\n　別に旅に出るだけで\n　戦争しにいくんじゃないんですから。\n",
-   "en": ""
+   "en": "Helena-sama, they're just going on a\njourney, you know. It's not like they're off\nto fight a war.",
+   "status": "done"
   },
   {
    "id": "ev18D_43B0",
@@ -3034,7 +3335,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　そうそう、\n　縁起でもない。\n\n",
-   "en": ""
+   "en": "Yeah, yeah, don't go jinxin' 'em.",
+   "status": "done"
   },
   {
    "id": "ev18D_43DC",
@@ -3044,7 +3346,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　みなさん。\n　本当にありがとうございました。\n\n",
-   "en": ""
+   "en": "Everyone. Thank you so much, for\neverything.",
+   "status": "done"
   },
   {
    "id": "ev18D_4414",
@@ -3054,7 +3357,8 @@
    ],
    "speaker": "トト",
    "jp": "　ケイゴにいちゃん！\n\n\n",
-   "en": ""
+   "en": "Big bro Keigo!",
+   "status": "done"
   },
   {
    "id": "ev18D_4434",
@@ -3064,7 +3368,8 @@
    ],
    "speaker": "トト",
    "jp": "　アルマねえちゃん！！\n\n\n",
-   "en": ""
+   "en": "Sis Alma!!",
+   "status": "done"
   },
   {
    "id": "ev18D_4454",
@@ -3074,7 +3379,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ケイゴ、アルマちゃん！！\n\n\n",
-   "en": ""
+   "en": "Keigo, Alma-chan!!",
+   "status": "done"
   },
   {
    "id": "ev18D_4480",
@@ -3084,7 +3390,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（……ケイゴよ、\n　うまくやりおったな）\n\n",
-   "en": ""
+   "en": "(...Keigo, my boy, you've done all right for\nyourself, eh?)",
+   "status": "done"
   },
   {
    "id": "ev18D_44B8",
@@ -3094,7 +3401,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（なにいってるんですか！！）\n\n\n",
-   "en": ""
+   "en": "(What are you talking about!!)",
+   "status": "done"
   },
   {
    "id": "ev18D_44E0",
@@ -3104,7 +3412,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　まあ、冗談じゃ冗談。\n\n\n",
-   "en": ""
+   "en": "Now, now, I'm only joking, joking.",
+   "status": "done"
   },
   {
    "id": "ev18D_4508",
@@ -3114,7 +3423,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　二人とも幸せにな。\n\n\n",
-   "en": ""
+   "en": "Be happy, you two.",
+   "status": "done"
   },
   {
    "id": "ev18D_4530",
@@ -3124,7 +3434,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "I will.",
+   "status": "done"
   },
   {
    "id": "ev18D_4544",
@@ -3134,7 +3445,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_4560",
@@ -3144,7 +3456,8 @@
    ],
    "speaker": "トト",
    "jp": "　ねえ、二人とも\n　いっちゃヤダよ！！\n\n",
-   "en": ""
+   "en": "Hey, don't go, you guys!!",
+   "status": "done"
   },
   {
    "id": "ev18D_4590",
@@ -3154,7 +3467,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……トト。\n\n\n",
-   "en": ""
+   "en": "...Toto.",
+   "status": "done"
   },
   {
    "id": "ev18D_45A8",
@@ -3164,7 +3478,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　トト、大丈夫だよ。\n\n\n",
-   "en": ""
+   "en": "It's okay, Toto.",
+   "status": "done"
   },
   {
    "id": "ev18D_45C8",
@@ -3174,7 +3489,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　永遠の別れってわけじゃ\n　ないんだから。\n\n",
-   "en": ""
+   "en": "It's not like we're saying goodbye forever.",
+   "status": "done"
   },
   {
    "id": "ev18D_45FC",
@@ -3184,7 +3500,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そのうち、\n　また戻ってくるよ。\n\n",
-   "en": ""
+   "en": "We'll come back again one of these days.",
+   "status": "done"
   },
   {
    "id": "ev18D_4628",
@@ -3194,7 +3511,8 @@
    ],
    "speaker": "トト",
    "jp": "　……うん。\n\n\n",
-   "en": ""
+   "en": "...Okay.",
+   "status": "done"
   },
   {
    "id": "ev18D_4640",
@@ -3204,7 +3522,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そんなことより\n　もう迷子になるなよ。\n\n",
-   "en": ""
+   "en": "More importantly, don't go getting lost\nagain.",
+   "status": "done"
   },
   {
    "id": "ev18D_4674",
@@ -3214,7 +3533,8 @@
    ],
    "speaker": "トト",
    "jp": "　わかった……。\n\n\n",
-   "en": ""
+   "en": "I won't...",
+   "status": "done"
   },
   {
    "id": "ev18D_4690",
@@ -3224,7 +3544,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　よしっ。\n\n\n",
-   "en": ""
+   "en": "All right.",
+   "status": "done"
   },
   {
    "id": "ev18D_46A8",
@@ -3234,7 +3555,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それじゃ、いきます。\n\n\n",
-   "en": ""
+   "en": "Well then, we're off.",
+   "status": "done"
   },
   {
    "id": "ev18D_46CC",
@@ -3244,7 +3566,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　みんな、ありがとう。\n\n\n",
-   "en": ""
+   "en": "Thank you, everyone.",
+   "status": "done"
   },
   {
    "id": "ev18D_46F0",
@@ -3254,7 +3577,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　さようなら。\n\n\n",
-   "en": ""
+   "en": "Goodbye.",
+   "status": "done"
   },
   {
    "id": "ev18D_470C",
@@ -3264,7 +3588,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　また、いつか……。\n\n\n",
-   "en": ""
+   "en": "Someday, again...",
+   "status": "done"
   },
   {
    "id": "ev18D_472C",
@@ -3274,7 +3599,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……どこかで。\n\n\n",
-   "en": ""
+   "en": "...somewhere.",
+   "status": "done"
   },
   {
    "id": "ev18D_4748",
@@ -3284,7 +3610,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ、\n　さあ、どうしようか？\n\n",
-   "en": ""
+   "en": "So, Keigo, what shall we do?",
+   "status": "done"
   },
   {
    "id": "ev18D_4774",
@@ -3294,7 +3621,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうだな？\n\n\n",
-   "en": ""
+   "en": "Let's see...",
+   "status": "done"
   },
   {
    "id": "ev18D_478C",
@@ -3304,7 +3632,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まずは、ナトゥーレかな？\n\n\n",
-   "en": ""
+   "en": "Natoure first, I guess?",
+   "status": "done"
   },
   {
    "id": "ev18D_47B4",
@@ -3314,7 +3643,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　イェンやシャーナ王女に\n　オレたちのことを報告しないと。\n\n",
-   "en": ""
+   "en": "We've got to tell Yen and Princess Shana\nabout us.",
+   "status": "done"
   },
   {
    "id": "ev18D_47F8",
@@ -3324,7 +3654,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうね。\n\n\n",
-   "en": ""
+   "en": "Yes, let's.",
+   "status": "done"
   },
   {
    "id": "ev18D_4810",
@@ -3334,7 +3665,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　じゃあ、いきましょう……。\n\n\n",
-   "en": ""
+   "en": "Then let's go...",
+   "status": "done"
   },
   {
    "id": "ev18D_4838",
@@ -3344,7 +3676,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……アルマ。\n\n\n",
-   "en": ""
+   "en": "...Alma.",
+   "status": "done"
   },
   {
    "id": "ev18D_4854",
@@ -3354,7 +3687,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　まだ慣れてくれないようね？\n\n\n",
-   "en": ""
+   "en": "Still not used to it, I see?",
+   "status": "done"
   },
   {
    "id": "ev18D_487C",
@@ -3364,7 +3698,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はあ……すいません。\n\n\n",
-   "en": ""
+   "en": "Uh... sorry.",
+   "status": "done"
   },
   {
    "id": "ev18D_48A0",
@@ -3374,7 +3709,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　まあ、いいわ。\n　時間はたくさんあるし……。\n\n",
-   "en": ""
+   "en": "Well, never mind. We have plenty of time...",
+   "status": "done"
   },
   {
    "id": "ev18D_48D8",
@@ -3384,7 +3720,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ゆっくり、\n　幸せになっていきましょう。\n\n",
-   "en": ""
+   "en": "Let's take it slowly, and find our happiness\ntogether.",
+   "status": "done"
   },
   {
    "id": "ev18D_490C",
@@ -3394,7 +3731,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "Right.",
+   "status": "done"
   },
   {
    "id": "ev18D_4920",
@@ -3404,7 +3742,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ねえ……。\n\n\n",
-   "en": ""
+   "en": "Hey...",
+   "status": "done"
   },
   {
    "id": "ev18D_4938",
@@ -3414,7 +3753,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_4954",
@@ -3424,7 +3764,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ねえ、ケイゴ。\n　これからも、よろしくね……！\n\n",
-   "en": ""
+   "en": "Hey, Keigo.\nLet's stay together from now on...!",
+   "status": "done"
   },
   {
    "id": "ev18D_4990",
@@ -3434,7 +3775,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ねえ、ケイゴ。\n　これからも、よろしくね……！\n\n",
-   "en": ""
+   "en": "Hey, Keigo. Let's stay together from now\non...!",
+   "status": "done"
   },
   {
    "id": "ev18D_49CC",
@@ -3444,7 +3786,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down... not in a place like\nthis...",
+   "status": "done"
   },
   {
    "id": "ev18D_4A04",
@@ -3454,7 +3797,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、私は……。\n　ここまでというの……。\n\n",
-   "en": ""
+   "en": "I... I... Is this as far as I go...?",
+   "status": "done"
   },
   {
    "id": "ev18D_4A3C",
@@ -3464,7 +3808,8 @@
    ],
    "speaker": "イェン",
    "jp": "　このわたしが……。\n　やられるというのかっ！！\n\n",
-   "en": ""
+   "en": "Am I, of all people... to be defeated!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4A78",
@@ -3474,7 +3819,8 @@
    ],
    "speaker": "トト",
    "jp": "　うっそ！！\n　おいらがやられるなんてアリ……。\n\n",
-   "en": ""
+   "en": "No way!! How can I be getting beaten...",
+   "status": "done"
   },
   {
    "id": "ev18D_4AB0",
@@ -3484,7 +3830,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なぜ……だ！\n\n\n",
-   "en": ""
+   "en": "Why...!",
+   "status": "done"
   },
   {
    "id": "ev18D_4ACC",
@@ -3494,7 +3841,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　完全なる存在の私がなぜ……。\n\n\n",
-   "en": ""
+   "en": "Why would I, a perfect being...",
+   "status": "done"
   },
   {
    "id": "ev18D_4AF8",
@@ -3504,7 +3852,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なぜ、人間などに……。\n\n\n",
-   "en": ""
+   "en": "Why, to mere humans...",
+   "status": "done"
   },
   {
    "id": "ev18D_4B1C",
@@ -3514,7 +3863,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_4B34",
@@ -3524,7 +3874,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なんだ！\n　この胸をしめつける感覚は……。\n\n\n",
-   "en": ""
+   "en": "What is this!? This feeling, crushing my\nchest...",
+   "status": "done"
   },
   {
    "id": "ev18D_4B6C",
@@ -3534,7 +3885,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なにかが\n　私の中に入ってくる……。\n\n\n",
-   "en": ""
+   "en": "Something is flowing into me...",
+   "status": "done"
   },
   {
    "id": "ev18D_4B9C",
@@ -3544,7 +3896,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そしてこれは……なんだ！？\n\n\n",
-   "en": ""
+   "en": "And this... what is this!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4BC4",
@@ -3554,7 +3907,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なぜだ。\n　なぜ！　私は泣いている？\n\n\n",
-   "en": ""
+   "en": "Why? Why!? Am I weeping?",
+   "status": "done"
   },
   {
    "id": "ev18D_4BF4",
@@ -3564,7 +3918,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　悲しみ……！？\n\n\n",
-   "en": ""
+   "en": "Sorrow...!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4C10",
@@ -3574,7 +3929,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　後悔の念……！？\n\n\n",
-   "en": ""
+   "en": "Regret...!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4C30",
@@ -3584,7 +3940,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　バカな！\n\n\n",
-   "en": ""
+   "en": "Absurd!",
+   "status": "done"
   },
   {
    "id": "ev18D_4C48",
@@ -3594,7 +3951,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は後悔などしていない！？\n\n\n",
-   "en": ""
+   "en": "I regret nothing!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4C70",
@@ -3604,7 +3962,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_4C88",
@@ -3614,7 +3973,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　次はなんだ！？\n\n\n",
-   "en": ""
+   "en": "What is it now!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4CA4",
@@ -3624,7 +3984,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……怖い！？\n\n\n",
-   "en": ""
+   "en": "...Afraid!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4CC0",
@@ -3634,7 +3995,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　これは人間だったころに\n　味わされた感覚……。\n\n",
-   "en": ""
+   "en": "This is a feeling I was made to taste back\nwhen I was human...",
+   "status": "done"
   },
   {
    "id": "ev18D_4CFC",
@@ -3644,7 +4006,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　恐怖だというのか！！\n\n\n",
-   "en": ""
+   "en": "Is this... fear!!",
+   "status": "done"
   },
   {
    "id": "ev18D_4D20",
@@ -3654,7 +4017,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_4D38",
@@ -3664,7 +4028,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……そして、これは怒り。\n\n\n",
-   "en": ""
+   "en": "...And this is anger.",
+   "status": "done"
   },
   {
    "id": "ev18D_4D60",
@@ -3674,7 +4039,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　胸を突くような苦しみ！？\n\n\n",
-   "en": ""
+   "en": "A pain that pierces the chest!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4D88",
@@ -3684,7 +4050,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私の存在を支えているもの！？\n\n\n",
-   "en": ""
+   "en": "The thing that sustains my existence!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4DB4",
@@ -3694,7 +4061,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　違う！\n\n\n",
-   "en": ""
+   "en": "No!",
+   "status": "done"
   },
   {
    "id": "ev18D_4DC8",
@@ -3704,7 +4072,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は\n　すべてを超越したはずだ！！\n\n",
-   "en": ""
+   "en": "I was supposed to have transcended\neverything!!",
+   "status": "done"
   },
   {
    "id": "ev18D_4DF8",
@@ -3714,7 +4083,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私は私という存在に\n　支えられているのだ！\n\n\n",
-   "en": ""
+   "en": "I am sustained by nothing but my own\nexistence!",
+   "status": "done"
   },
   {
    "id": "ev18D_4E30",
@@ -3724,7 +4094,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_4E48",
@@ -3734,7 +4105,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　うっ……。\n\n\n",
-   "en": ""
+   "en": "Ugh...",
+   "status": "done"
   },
   {
    "id": "ev18D_4E60",
@@ -3744,7 +4116,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　今度はなんだ！？\n\n\n",
-   "en": ""
+   "en": "What is it this time!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4E80",
@@ -3754,7 +4127,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……暖かい。\n\n\n",
-   "en": ""
+   "en": "...Warm.",
+   "status": "done"
   },
   {
    "id": "ev18D_4E9C",
@@ -3764,7 +4138,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　これが喜びの感情！？\n\n\n",
-   "en": ""
+   "en": "Is this the feeling of joy!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4EC0",
@@ -3774,7 +4149,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　これが私になかったもの！？\n\n\n",
-   "en": ""
+   "en": "Is this what I lacked!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4EE8",
@@ -3784,7 +4160,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　これが私の望んでいたもの！？\n\n\n",
-   "en": ""
+   "en": "Is this what I longed for!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4F14",
@@ -3794,7 +4171,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　永いあいだ考えて、\n　理解できなかったもの！？\n\n\n",
-   "en": ""
+   "en": "The thing I pondered for so long, and could\nnever understand!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4F50",
@@ -3804,7 +4182,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そうか。\n　私はこのことを知りたかったのか！？\n\n\n",
-   "en": ""
+   "en": "I see. So this is what I wanted to know!?",
+   "status": "done"
   },
   {
    "id": "ev18D_4F8C",
@@ -3814,7 +4193,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　だから人間というものの\n　存在価値がわからなかったのか！！\n\n\n",
-   "en": ""
+   "en": "Is that why I could not see the worth of\nhuman beings!!",
+   "status": "done"
   },
   {
    "id": "ev18D_4FD4",
@@ -3824,7 +4204,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_4FEC",
@@ -3834,7 +4215,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　なんということだ……。\n\n\n",
-   "en": ""
+   "en": "How can this be...",
+   "status": "done"
   },
   {
    "id": "ev18D_5010",
@@ -3844,7 +4226,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　自分が\n　一番不完全なものだったとは……。\n\n\n",
-   "en": ""
+   "en": "To think that I was the most imperfect\nthing of all...",
+   "status": "done"
   },
   {
    "id": "ev18D_5048",
@@ -3854,7 +4237,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そして、\n　今、私が感じている……。\n\n",
-   "en": ""
+   "en": "And what I feel now...",
+   "status": "done"
   },
   {
    "id": "ev18D_5078",
@@ -3864,7 +4248,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　これこそが人間というもの……。\n\n\n",
-   "en": ""
+   "en": "This is what it means to be human...",
+   "status": "done"
   },
   {
    "id": "ev18D_50A4",
@@ -3874,7 +4259,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私のめざした存在……。\n\n\n",
-   "en": ""
+   "en": "The being I strove to become...",
+   "status": "done"
   },
   {
    "id": "ev18D_50C8",
@@ -3884,7 +4270,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_50E0",
@@ -3894,7 +4281,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……それが人間……。\n\n\n",
-   "en": ""
+   "en": "...That is human...",
+   "status": "done"
   },
   {
    "id": "ev18D_5104",
@@ -3904,7 +4292,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev18D_8F08",
@@ -3913,7 +4302,8 @@
     "0x91C8"
    ],
    "jp": "　　　　すべては、一つの糸に繋がった\n\n　　　　　　騎士たちは迷いを捨て\n　　畏怖を乗り越え、最後の決戦場へ向かう\n\n　　　　　肉親を捨て、味方を裏切り\n　　　　　　故郷を捨てた女騎士は\n　　　　そのやさしき姉の心に帰還する\n\n　　　　　残されし人々は邪神の降臨を\n　　　　　　遮るべく力を合わせる\n\n　　　　そしてあらゆる謎と真実も……\n",
-   "en": ""
+   "en": "All things are bound to a single thread\n\nThe knights cast aside their doubts\nand conquer fear to face the final battle\n\nForsaking kin, betraying her allies,\nthe lady knight who left her homeland\nreturns to her gentle sister's heart\n\nThose left behind join their strength\nto stop the advent of the evil god\n\nAnd every mystery, every truth...",
+   "status": "done"
   },
   {
    "id": "ev18D_9050",
@@ -3922,7 +4312,8 @@
     "0x91CC"
    ],
    "jp": "　　次元の裂け目が待ち望んでいた最後の戦い\n　　　　　　相反するもの同士の裁決\n　　　　　雌雄を決するときの訪れ……\n\n　　　　　死が恐ろしくないわけがない\n　　　　　未知なるものが待つ暗雲に\n　　　　　恐怖を抱かないわけがない\n\n　　　　しかし、騎士たちは歩みを進める\n　　　　　自分を信じて、友を信じて\n　　　　　　輝かしい明日を信じて\n\n　　　きょう、新たなる時代が刻まれる……\n",
-   "en": ""
+   "en": "The final war the dimensional rift awaited\na judgment between opposing forces\nthe hour to decide it all has come...\n\nHow could they not fear death?\nHow could they not dread the dark clouds\nwhere the unknown lies in wait?\n\nYet still, the knights march onward\nbelieving in themselves, in their friends,\nand in a shining tomorrow\n\nToday, a new age is carved into history...",
+   "status": "done"
   }
  ]
 }

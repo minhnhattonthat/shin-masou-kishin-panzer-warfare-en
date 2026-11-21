@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　バルツフィーム王国\n　　王都\n\n",
-   "en": ""
+   "en": "Kingdom of Vartzpheem\nRoyal Capital",
+   "status": "done"
   },
   {
    "id": "ev000_1444",
@@ -34,7 +35,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "「彼ら、勇敢なる騎士たちに光あれ！」\n\n\n",
-   "en": ""
+   "en": "Let there be light upon them, the brave\nknights!",
+   "status": "done"
   },
   {
    "id": "ev000_1478",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　最後に、\n　リーグ＝グラム＝ガルムは、\n　こう記している。\n",
-   "en": ""
+   "en": "Those are the words Rieg Gram Garum\nwrote at the very end.",
+   "status": "done"
   },
   {
    "id": "ev000_14C0",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　魔装騎士をめざす諸君には\n　この１００年前の英雄の言葉を忘れずに\n　最後の試験を乗りきってもらいたい。\n",
-   "en": ""
+   "en": "Those who would be Masou Knights,\nremember this hero of 100 years ago and\nhis words as you face your final exam.",
+   "status": "done"
   },
   {
    "id": "ev000_1534",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　以上で、私の講義はすべて終わりだ。\n　この１年間、ご苦労だった。\n\n",
-   "en": ""
+   "en": "That concludes all of my lectures. You've\nworked hard this past year.",
+   "status": "done"
   },
   {
    "id": "ev000_1584",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　といっても\n　ただ、１人を除いてだが……。\n\n",
-   "en": ""
+   "en": "Well... all but one of you, that is...",
+   "status": "done"
   },
   {
    "id": "ev000_15BC",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev000_15D8",
@@ -94,7 +101,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　起きたまえ……。\n　ケイゴ＝フェルディナン。\n\n",
-   "en": ""
+   "en": "Wake up... Keigo Ferdinand.",
+   "status": "done"
   },
   {
    "id": "ev000_1614",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev000_1630",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ん、う～ん……。\n\n\n",
-   "en": ""
+   "en": "Mm, nnngh...",
+   "status": "done"
   },
   {
    "id": "ev000_1650",
@@ -124,7 +134,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まったく、しょうがないやつだ！\n\n\n",
-   "en": ""
+   "en": "Honestly, what a hopeless fool!",
+   "status": "done"
   },
   {
    "id": "ev000_1680",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　い、いってーっ！\n\n\n",
-   "en": ""
+   "en": "Y-Yeowch!",
+   "status": "done"
   },
   {
    "id": "ev000_16A0",
@@ -144,7 +156,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　な、なんだ！？\n　ここはどこだ！？\n　一体、なにがどうなって……。\n",
-   "en": ""
+   "en": "Wh-What!? Where am I!? What on earth is\ngoing on...?",
+   "status": "done"
   },
   {
    "id": "ev000_16EC",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ずいぶんすてきな夢を見ていたようだが\n　どんな夢だったのか\n　ぜひ、私に教えてくれないかね？\n",
-   "en": ""
+   "en": "You seemed to be having quite a lovely\ndream. Won't you tell me what it was\nabout? I'd very much like to hear.",
+   "status": "done"
   },
   {
    "id": "ev000_1754",
@@ -164,7 +178,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　げっ！\n　ゼ、ゼルドナ教官！！\n\n",
-   "en": ""
+   "en": "Yikes! I-Instructor Zeldna!!",
+   "status": "done"
   },
   {
    "id": "ev000_1780",
@@ -174,7 +189,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なはははは……。\n\n\n",
-   "en": ""
+   "en": "Ah-hahaha...",
+   "status": "done"
   },
   {
    "id": "ev000_17A0",
@@ -184,7 +200,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev000_17C0",
@@ -194,7 +211,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あ～、その……。\n\n\n",
-   "en": ""
+   "en": "Uh, well...",
+   "status": "done"
   },
   {
    "id": "ev000_17E0",
@@ -204,7 +222,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev000_1800",
@@ -214,7 +233,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いや、別に……。\n\n\n",
-   "en": ""
+   "en": "I mean, it's nothing, really...",
+   "status": "done"
   },
   {
    "id": "ev000_1820",
@@ -224,7 +244,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　少しは反省したか？\n\n\n",
-   "en": ""
+   "en": "Are you at least a little sorry?",
+   "status": "done"
   },
   {
    "id": "ev000_1844",
@@ -234,7 +255,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev000_1860",
@@ -244,7 +266,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まったく……。\n　少しは、実技以外に興味を持っても\n　よさそうなものだが……。\n",
-   "en": ""
+   "en": "Honestly... You'd do well to take an interest\nin something besides practical training, for\nonce...",
+   "status": "done"
   },
   {
    "id": "ev000_18BC",
@@ -254,7 +277,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はあ……。\n\n\n",
-   "en": ""
+   "en": "Uh, right...",
+   "status": "done"
   },
   {
    "id": "ev000_18D4",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まあ、いい。\n　だが、おまえに教えてやれるのは、\n　これで最後だ。\n",
-   "en": ""
+   "en": "Well, never mind. But this is the last time I'll\nbe able to teach you anything.",
+   "status": "done"
   },
   {
    "id": "ev000_1924",
@@ -274,7 +299,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　だから、一つだけいっておく。\n\n\n",
-   "en": ""
+   "en": "So I'll tell you just one thing.",
+   "status": "done"
   },
   {
    "id": "ev000_1950",
@@ -284,7 +310,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　魔装機の力は、\n　操者の精神状態に左右される。\n\n",
-   "en": ""
+   "en": "A Masouki's power depends on its pilot's\nstate of mind.",
+   "status": "done"
   },
   {
    "id": "ev000_198C",
@@ -294,7 +321,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　平常心を持って扱うことだけは、\n　絶対に忘れるな！\n\n",
-   "en": ""
+   "en": "Whatever you do, never forget to pilot it\nwith a calm mind!",
+   "status": "done"
   },
   {
    "id": "ev000_19CC",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官……。\n\n\n",
-   "en": ""
+   "en": "Instructor...",
+   "status": "done"
   },
   {
    "id": "ev000_19E4",
@@ -314,7 +343,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　もう、いい。\n　とにかく最終試験だ。\n　がんばれよ。\n",
-   "en": ""
+   "en": "That's enough. Anyway, it's the final exam.\nGive it your all.",
+   "status": "done"
   },
   {
    "id": "ev000_1A24",
@@ -324,7 +354,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい！\n\n\n",
-   "en": ""
+   "en": "Yes, sir!",
+   "status": "done"
   },
   {
    "id": "ev000_1A38",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　では、これですべての講義を終了する。\n\n\n",
-   "en": ""
+   "en": "Then with that, all of my lectures are\nconcluded.",
+   "status": "done"
   },
   {
    "id": "ev000_1A6C",
@@ -344,7 +376,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　最終試験は今から２時間後、\n　魔装機演習場にて行う。\n\n",
-   "en": ""
+   "en": "The final exam will be held two hours from\nnow, at the Masouki training grounds.",
+   "status": "done"
   },
   {
    "id": "ev000_1AB0",
@@ -354,7 +387,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　各自、ミッダストに搭乗して\n　集合するように。\n\n",
-   "en": ""
+   "en": "Each of you is to board a Middast and\nassemble there.",
+   "status": "done"
   },
   {
    "id": "ev000_1AEC",
@@ -364,7 +398,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　遅れるなよ。\n\n\n",
-   "en": ""
+   "en": "Don't be late.",
+   "status": "done"
   },
   {
    "id": "ev000_1B08",
@@ -374,7 +409,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まだ、少し早いけど\n　そろそろいくか。\n\n",
-   "en": ""
+   "en": "It's still a little early, but I guess I'll\nhead over.",
+   "status": "done"
   },
   {
    "id": "ev000_1B3C",
@@ -384,7 +420,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官にはお世話になったしな。\n\n\n",
-   "en": ""
+   "en": "The instructor's done a lot for me, after all.",
+   "status": "done"
   },
   {
    "id": "ev000_1B68",
@@ -394,7 +431,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　最後ぐらいビシッと……。\n\n\n",
-   "en": ""
+   "en": "The least I can do is finish this off in style...",
+   "status": "done"
   },
   {
    "id": "ev000_1B90",
@@ -404,7 +442,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ん？\n\n\n",
-   "en": ""
+   "en": "...Hm?",
+   "status": "done"
   },
   {
    "id": "ev000_1BA8",
@@ -414,7 +453,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_1BC4",
@@ -424,7 +464,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（うん？　誰だ……）\n\n\n",
-   "en": ""
+   "en": "(Hm? Who's that...?)",
+   "status": "done"
   },
   {
    "id": "ev000_1BE4",
@@ -434,7 +475,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（この国じゃ、あまり見ない服だな？）\n\n\n",
-   "en": ""
+   "en": "(Those aren't the kind of clothes you see\nmuch in this country...)",
+   "status": "done"
   },
   {
    "id": "ev000_1C14",
@@ -444,7 +486,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（旅行者って感じでもないし……）\n\n\n",
-   "en": ""
+   "en": "(Doesn't look like a traveller, either...)",
+   "status": "done"
   },
   {
    "id": "ev000_1C40",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ま、いいか……）\n\n\n",
-   "en": ""
+   "en": "(Oh, whatever...)",
+   "status": "done"
   },
   {
    "id": "ev000_1C60",
@@ -464,7 +508,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あれ、誰もいない。\n　早すぎたかな……。\n\n",
-   "en": ""
+   "en": "Huh, nobody's here. Guess I'm too early...",
+   "status": "done"
   },
   {
    "id": "ev000_1C94",
@@ -474,7 +519,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ほう……。\n　おまえが最初にくるとはな。\n\n",
-   "en": ""
+   "en": "Well, well... So you're the first to arrive.",
+   "status": "done"
   },
   {
    "id": "ev000_1CCC",
@@ -484,7 +530,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ゼルドナ教官！\n\n\n",
-   "en": ""
+   "en": "Instructor Zeldna!",
+   "status": "done"
   },
   {
    "id": "ev000_1CE8",
@@ -494,7 +541,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　それにしても、あいかわらず\n　魔装機に乗れるとなるとすばやいな。\n\n",
-   "en": ""
+   "en": "You're as quick as ever when there's a\nMasouki to ride, I see.",
+   "status": "done"
   },
   {
    "id": "ev000_1D38",
@@ -504,7 +552,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いやぁ……。\n\n\n",
-   "en": ""
+   "en": "Heh, well...",
+   "status": "done"
   },
   {
    "id": "ev000_1D54",
@@ -514,7 +563,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まったく、\n　おまえというヤツは……。\n\n",
-   "en": ""
+   "en": "Honestly, you are something else...",
+   "status": "done"
   },
   {
    "id": "ev000_1D88",
@@ -524,7 +574,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　どうだ。\n　自信のほどは？\n\n",
-   "en": ""
+   "en": "Well? How confident are you feeling?",
+   "status": "done"
   },
   {
    "id": "ev000_1DB0",
@@ -534,7 +585,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　もちろん、あります。\n\n\n",
-   "en": ""
+   "en": "Very confident, of course.",
+   "status": "done"
   },
   {
    "id": "ev000_1DD4",
@@ -544,7 +596,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　そうか。\n\n\n",
-   "en": ""
+   "en": "I see.",
+   "status": "done"
   },
   {
    "id": "ev000_1DEC",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まあ、おまえの力なら\n　問題なかろう。\n\n",
-   "en": ""
+   "en": "Well, with your skills, you should have no\ntrouble.",
+   "status": "done"
   },
   {
    "id": "ev000_1E20",
@@ -564,7 +618,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　失敗するなよ。\n\n\n",
-   "en": ""
+   "en": "Don't fail.",
+   "status": "done"
   },
   {
    "id": "ev000_1E40",
@@ -574,7 +629,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい、まかせてください。\n　ゼルドナ教官！\n\n",
-   "en": ""
+   "en": "Yes, sir! Leave it to me, Instructor Zeldna!",
+   "status": "done"
   },
   {
    "id": "ev000_1E78",
@@ -584,7 +640,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　うむ。\n\n\n",
-   "en": ""
+   "en": "Good.",
+   "status": "done"
   },
   {
    "id": "ev000_1E90",
@@ -594,7 +651,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　では、ただいまから\n　バルツフィーム王国、\n　魔装騎士最終任官試験を行う。\n",
-   "en": ""
+   "en": "We will now begin the final commissioning\nexam for Masou Knights of the Kingdom\nof Vartzpheem.",
+   "status": "done"
   },
   {
    "id": "ev000_1EE8",
@@ -604,7 +662,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_1F04",
@@ -614,7 +673,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　では、指名者から順に\n　試験を行う。\n\n",
-   "en": ""
+   "en": "The exam will proceed in the order I call\nyour names.",
+   "status": "done"
   },
   {
    "id": "ev000_1F38",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まずは、\n　ケイゴ＝ザンツ＝フェルディナン！\n\n",
-   "en": ""
+   "en": "First up... Keigo Zants Ferdinand!",
+   "status": "done"
   },
   {
    "id": "ev000_1F74",
@@ -634,7 +695,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　おまえからだ。\n\n\n",
-   "en": ""
+   "en": "You're first.",
+   "status": "done"
   },
   {
    "id": "ev000_1F94",
@@ -644,7 +706,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい！\n\n\n",
-   "en": ""
+   "en": "Yes, sir!",
+   "status": "done"
   },
   {
    "id": "ev000_1FA8",
@@ -654,7 +717,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……よしっ……いくぞ！！）\n\n\n",
-   "en": ""
+   "en": "(...All right... Here goes!!)",
+   "status": "done"
   },
   {
    "id": "ev000_1FD0",
@@ -664,7 +728,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　教官、準備はできています。\n\n\n",
-   "en": ""
+   "en": "Instructor, I'm ready.",
+   "status": "done"
   },
   {
    "id": "ev000_1FF8",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いつでもどうぞ。\n\n\n",
-   "en": ""
+   "en": "Whenever you are.",
+   "status": "done"
   },
   {
    "id": "ev000_2018",
@@ -684,7 +750,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　うむ……。\n\n\n",
-   "en": ""
+   "en": "Very well...",
+   "status": "done"
   },
   {
    "id": "ev000_2034",
@@ -694,7 +761,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　では、\n　ケイゴ＝ザンツ＝フェルディナンの\n　最終試験を始める。\n",
-   "en": ""
+   "en": "We now begin the final exam of Keigo\nZants Ferdinand.",
+   "status": "done"
   },
   {
    "id": "ev000_2080",
@@ -704,7 +772,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　それ以外のものは、後方に下がり\n　指示があるまで待機しているように。\n\n",
-   "en": ""
+   "en": "Everyone else, fall back to the rear and\nstand by until further orders.",
+   "status": "done"
   },
   {
    "id": "ev000_20D4",
@@ -714,7 +783,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　さて、ケイゴ。\n　いまさらだが、１つ忠告しておく。\n\n",
-   "en": ""
+   "en": "Now then, Keigo. It's a bit late for this, but\nlet me give you one piece of advice.",
+   "status": "done"
   },
   {
    "id": "ev000_2114",
@@ -724,7 +794,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんですか？\n\n\n",
-   "en": ""
+   "en": "What is it?",
+   "status": "done"
   },
   {
    "id": "ev000_2130",
@@ -734,7 +805,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　最後の試験ともなると、緊張しすぎて\n『操縦方法』を忘れてしまうものもいる。\n\n",
-   "en": ""
+   "en": "When it comes to the final exam, some get\nso nervous they forget the Controls.",
+   "status": "done"
   },
   {
    "id": "ev000_2188",
@@ -744,7 +816,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　機体の『操縦方法』は、覚えているか？\n　頭の中でイメージしてみろ。\n\n",
-   "en": ""
+   "en": "Do you remember your machine's Controls?\nPicture them in your head.",
+   "status": "done"
   },
   {
    "id": "ev000_21D8",
@@ -754,7 +827,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_21F4",
@@ -764,7 +838,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（大丈夫。ちゃんと覚えてるな……）\n（あれ、思い出せない……）\n",
-   "en": ""
+   "en": "(It's fine. I remember it all...)\n(Huh, I can't remember...)",
+   "status": "done"
   },
   {
    "id": "ev000_223C",
@@ -774,7 +849,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　お、思い出せません……。\n\n\n",
-   "en": ""
+   "en": "I-I can't remember...",
+   "status": "done"
   },
   {
    "id": "ev000_2264",
@@ -784,7 +860,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　最後の講義でさえ眠れる\n　おまえでも緊張することがあるとはな。\n\n",
-   "en": ""
+   "en": "So even you, who can sleep through the\nfinal lecture, get nervous sometimes.",
+   "status": "done"
   },
   {
    "id": "ev000_22B0",
@@ -794,7 +871,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_22CC",
@@ -804,7 +882,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まあ、それはいいとして\n　操作パネルの開き方は思い出せるのか？\n\n",
-   "en": ""
+   "en": "Well, never mind that. Can you remember\nhow to open the Control Panel?",
+   "status": "done"
   },
   {
    "id": "ev000_2318",
@@ -814,7 +893,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（さすがに、それは思い出せるな……）\n（あれ？　全然、思い出せねぇ！？）\n",
-   "en": ""
+   "en": "(I can at least remember that...)\n(Huh!? I can't remember a thing!?)",
+   "status": "done"
   },
   {
    "id": "ev000_2368",
@@ -824,7 +904,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ダメです。\n　まったく思い出せません……。\n\n",
-   "en": ""
+   "en": "It's no good. I can't remember at all...",
+   "status": "done"
   },
   {
    "id": "ev000_23A0",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　操作パネルを開くことは、操縦の基本だ。\n　まずは、自分の機体にカーソルをあわせ\n　○ボタンを押してみるがいい。\n",
-   "en": ""
+   "en": "Opening the Control Panel is the basis of\npiloting. First, put the cursor on your\nmachine and press the Circle button.",
+   "status": "done"
   },
   {
    "id": "ev000_241C",
@@ -844,7 +926,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　モニターの左上に現れたウィンドウが\n　機体を制御する『操作パネル』だ。\n\n",
-   "en": ""
+   "en": "The window that appears at the top left of\nthe monitor is the Control Panel, which\ncontrols your machine.",
+   "status": "done"
   },
   {
    "id": "ev000_2470",
@@ -854,7 +937,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　操作パネルから、好きなコマンドを選び\n　○ボタンを押すだけで\n　機体の操作はできるようになっている。\n",
-   "en": ""
+   "en": "Just pick any command from the Control\nPanel and press the Circle button, and you\ncan operate your machine.",
+   "status": "done"
   },
   {
    "id": "ev000_24E0",
@@ -864,7 +948,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　操作パネルに関しては以上だ。\n　わかったか？\n\n",
-   "en": ""
+   "en": "That's all for the Control Panel.\nUnderstood?",
+   "status": "done"
   },
   {
    "id": "ev000_251C",
@@ -874,7 +959,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（とりあえず、大丈夫だよな）\n（もう一度、聞いておくか……）\n",
-   "en": ""
+   "en": "(Well, I think I've got it.)\n(Maybe I should hear it again...)",
+   "status": "done"
   },
   {
    "id": "ev000_2560",
@@ -884,7 +970,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　わかりました。大丈夫です。\n\n\n",
-   "en": ""
+   "en": "Understood. I'm fine.",
+   "status": "done"
   },
   {
    "id": "ev000_2588",
@@ -894,7 +981,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あ、あの……。\n　もう一度お願いします……。\n\n",
-   "en": ""
+   "en": "U-Um... Could you go over it once more...?",
+   "status": "done"
   },
   {
    "id": "ev000_25C0",
@@ -904,7 +992,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　大丈夫です。思い出せました。\n\n\n",
-   "en": ""
+   "en": "I'm fine. It's come back to me.",
+   "status": "done"
   },
   {
    "id": "ev000_25EC",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　では、\n　ほかに思い出せないことは？\n\n",
-   "en": ""
+   "en": "Then, is there anything else you can't\nremember?",
+   "status": "done"
   },
   {
    "id": "ev000_2620",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（移動のやり方が思い出せない……！？）\n（攻撃のやり方が思い出せない……！？）\n　　　　　　{h}　【その他】\n",
-   "en": ""
+   "en": "(I can't remember how to move...!?)\n(I can't remember how to attack...!?)\n{h}[Other]",
+   "status": "done"
   },
   {
    "id": "ev000_2690",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（飛行や潜水のやり方が思い出せない！）\n（プラーナゲージってなんだ！？）\n　　　　　　{h}　【その他】\n",
-   "en": ""
+   "en": "(I can't remember how to fly or dive!)\n(What's the Prana Gauge again!?)\n{h}[Other]",
+   "status": "done"
   },
   {
    "id": "ev000_26FC",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（もう大丈夫。全部、思い出したよな）\n　　　　【最初の選択にもどる】\n　　　　【１つ前の選択に戻る】\n",
-   "en": ""
+   "en": "(I'm fine now. I remember it all.)\n[Back to the first choice]\n[Back to the previous choice]",
+   "status": "done"
   },
   {
    "id": "ev000_2768",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　えっと、移動のやり方が……。\n\n\n",
-   "en": ""
+   "en": "Um, how to move is...",
+   "status": "done"
   },
   {
    "id": "ev000_2794",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　よし。\n　では、移動のやり方を説明する。\n\n",
-   "en": ""
+   "en": "Good. Then I'll explain how to move.",
+   "status": "done"
   },
   {
    "id": "ev000_27CC",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まず、操作パネルを開いてから\n　移動のコマンドを選び、○ボタンを押せ。\n　移動できる範囲が表示されるはずだ。\n",
-   "en": ""
+   "en": "Open the Control Panel, pick the Move\ncommand and press the Circle button.\nYour range of movement should appear.",
+   "status": "done"
   },
   {
    "id": "ev000_2844",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　やってみるがいい。\n\n\n",
-   "en": ""
+   "en": "Go ahead and try it.",
+   "status": "done"
   },
   {
    "id": "ev000_2868",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　あとは、移動範囲内の好きな場所を選び\n　もう一度、○ボタンを押すだけで\n　機体はそこに向かって移動するはずだ。\n",
-   "en": ""
+   "en": "Then just pick any spot within that range\nand press the Circle button again. Your\nmachine will move there.",
+   "status": "done"
   },
   {
    "id": "ev000_28E4",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　また、移動後に機体の向きを変えるには\n　１～３の移動力を残しておく必要がある。\n　右下の残り移動力には注意しておけ。\n",
-   "en": ""
+   "en": "To change your facing after moving, you\nneed 1 to 3 movement points left. Watch\nthe points left at the bottom right.",
+   "status": "done"
   },
   {
    "id": "ev000_2964",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　とにかく、移動を終える前に\n　敵のいる方向に、気をつけておくといい。\n　背後からの攻撃は、致命傷になるからな。\n",
-   "en": ""
+   "en": "Above all, mind which way the enemy is\nbefore you end your move. An attack from\nbehind can be fatal.",
+   "status": "done"
   },
   {
    "id": "ev000_29E0",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　機体の移動については以上だが\n　ほかに聞いておきたいことはあるか？\n",
-   "en": ""
+   "en": "That's all on movement. Is there anything\nelse you want to ask?",
+   "status": "done"
   },
   {
    "id": "ev000_2A30",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あ、その攻撃のやり方が……。\n\n\n",
-   "en": ""
+   "en": "Ah, how to attack is...",
+   "status": "done"
   },
   {
    "id": "ev000_2A5C",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　なるほどな……。\n　確かに、攻撃ができなければ\n　相手に勝つことは絶対にできないからな。\n",
-   "en": ""
+   "en": "I see... True, if you can't attack, there's no\nway you'll ever beat an opponent.",
+   "status": "done"
   },
   {
    "id": "ev000_2AC0",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　操作パネルから、攻撃のコマンドを選び\n　○ボタンを押せば、搭乗している機体が\n　持っている武器のリストが表示される。\n",
-   "en": ""
+   "en": "Select the Attack command from the\nControl Panel and press the Circle button\nto see a list of your machine's weapons.",
+   "status": "done"
   },
   {
    "id": "ev000_2B40",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まずは、やってみるがいい。\n\n\n",
-   "en": ""
+   "en": "First, go ahead and try it.",
+   "status": "done"
   },
   {
    "id": "ev000_2B6C",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　この武器リストから、使いたいと思う\n　武器を選んで、○ボタンを押せば\n　マップ上に武器の攻撃範囲が表示される。\n",
-   "en": ""
+   "en": "Choose the weapon you want from this list\nand press the Circle button. The weapon's\nrange will appear on the map.",
+   "status": "done"
   },
   {
    "id": "ev000_2BE8",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　あとは、攻撃範囲内にいる敵に\n　カーソルを合わせて、○ボタンを押せば\n　攻撃をすることができる。\n",
-   "en": ""
+   "en": "Then put the cursor on an enemy within\nthat range and press the Circle button to\nattack it.",
+   "status": "done"
   },
   {
    "id": "ev000_2C54",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　といったところが攻撃の仕方だ。\n　ほかに聞いておきたいことはあるか？\n",
-   "en": ""
+   "en": "And that's how you attack. Is there\nanything else you want to ask?",
+   "status": "done"
   },
   {
    "id": "ev000_2CA4",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　飛行したり、水に潜ったりするときの\n　機体の操作方法が……。\n\n",
-   "en": ""
+   "en": "How to pilot the machine when flying or\ndiving underwater...",
+   "status": "done"
   },
   {
    "id": "ev000_2CEC",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　飛行、潜水といった特別な移動は\n　操作自体は、簡単なのだが\n　どんな場所でも実行できるわけではない。\n",
-   "en": ""
+   "en": "Special movement like flying or diving is\nsimple to operate, but it can't be done just\nanywhere.",
+   "status": "done"
   },
   {
    "id": "ev000_2D5C",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まずは、操作パネルを開いてみろ。\n\n\n",
-   "en": ""
+   "en": "First, try opening the Control Panel.",
+   "status": "done"
   },
   {
    "id": "ev000_2D8C",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　今の地形は、飛行が可能な地形なので\n『飛行』というコマンドが\n　操作パネル上に表示されている。\n",
-   "en": ""
+   "en": "This terrain allows flight, so the Fly\ncommand is shown on the Control Panel.",
+   "status": "done"
   },
   {
    "id": "ev000_2DF8",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　だが、水中に潜ることはできないため\n『潜水』というコマンドは\n　操作パネル上には表示されていない。\n",
-   "en": ""
+   "en": "But you can't dive underwater here, so the\nDive command isn't shown on the Control\nPanel.",
+   "status": "done"
   },
   {
    "id": "ev000_2E68",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　このように、自分が現在いる地形で\n　実行することのできる行動は\n　常に操作パネルに表示されているのだ。\n",
-   "en": ""
+   "en": "Like this, the actions you can take on the\nterrain you're on are always shown on the\nControl Panel.",
+   "status": "done"
   },
   {
    "id": "ev000_2EDC",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　なお、実際に機体を飛行させるには\n　操作パネルで『飛行』のコマンドを選び\n　○ボタンを押せば、飛行できるはずだ。\n",
-   "en": ""
+   "en": "To actually make your machine fly, select\nthe Fly command on the Control Panel and\npress the Circle button.",
+   "status": "done"
   },
   {
    "id": "ev000_2F58",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　潜水や着陸、浮上といった行動の場合も\n　飛行の時と同じ操作をすればいい。\n\n",
-   "en": ""
+   "en": "Diving, landing and surfacing work the same\nway as flying.",
+   "status": "done"
   },
   {
    "id": "ev000_2FB0",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　実際の戦闘の際には\n　操作パネルに表示されるコマンドに\n　気をつけて、有利な地形で戦うことだ。\n",
-   "en": ""
+   "en": "In real combat, pay attention to the\ncommands shown on the Control Panel and\nfight on favourable terrain.",
+   "status": "done"
   },
   {
    "id": "ev000_301C",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ほかに聞きたいことはあるか？\n\n\n",
-   "en": ""
+   "en": "Is there anything else you want to ask?",
+   "status": "done"
   },
   {
    "id": "ev000_3048",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　プラーナゲージって、なんでしたっけ？\n\n\n",
-   "en": ""
+   "en": "What was the Prana Gauge again?",
+   "status": "done"
   },
   {
    "id": "ev000_307C",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　魔装機や魔装兵を操る『操者』が\n　最も気を使わねばならないのが\n　自分や、仲間のプラーナの増減だ。\n",
-   "en": ""
+   "en": "What a Pilot who operates a Masouki or\nMasouhei must watch most closely is the\nrise and fall of his own and his allies' Prana.",
+   "status": "done"
   },
   {
    "id": "ev000_30EC",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　なぜなら、プラーナは、人が放っている\n　生体エネルギーの１種で\n　魔装機や魔装兵の動力源でもある。\n",
-   "en": ""
+   "en": "Because Prana is a kind of life energy that\npeople give off, and it's also what powers\nMasouki and Masouhei.",
+   "status": "done"
   },
   {
    "id": "ev000_315C",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　そして、生体エネルギーであるがゆえに\n　操者の状態によって、大きく変わるのが\n　プラーナの特徴だ。\n",
-   "en": ""
+   "en": "And because it's life energy, Prana's\ndefining trait is that it changes greatly with\nthe pilot's condition.",
+   "status": "done"
   },
   {
    "id": "ev000_31CC",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　プラーナゲージは、\n　操者が放っている現在のプラーナを\n『光の色』で示している。\n",
-   "en": ""
+   "en": "The Prana Gauge shows the pilot's current\nPrana as a Colour of Light.",
+   "status": "done"
   },
   {
    "id": "ev000_3228",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　その色で、搭乗している機体の性能が\n　完全に引き出されているか、どうかを\n　操者は確認することができる。\n",
-   "en": ""
+   "en": "By that colour, the pilot can see whether\nhe's drawing out his machine's full\nperformance.",
+   "status": "done"
   },
   {
    "id": "ev000_329C",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　例えば、ゲージの光が『緑から青色』に\n　見える場合、プラーナは充分残っている\n　状態を示す。\n\n",
-   "en": ""
+   "en": "For example, if the gauge's light looks\nGreen to Blue, it shows that plenty of\nPrana remains.",
+   "status": "done"
   },
   {
    "id": "ev000_3304",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　一方、操者のプラーナが落ち始めると\n　ゲージの光は『紫から赤色』に変わり、\n　注意が必要となる。\n\n",
-   "en": ""
+   "en": "On the other hand, once a pilot's Prana\nstarts to drop, the light turns Purple to\nRed, and you need to be careful.",
+   "status": "done"
   },
   {
    "id": "ev000_3370",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　さらにプラーナを消費し、ゲージの光が\n　小さくなって消えてしまうと\n　行動にかなりの支障が出てくる。\n\n\n",
-   "en": ""
+   "en": "Use up even more Prana and the light\nshrinks and goes out, and your actions will\nbe badly hampered.",
+   "status": "done"
   },
   {
    "id": "ev000_33E4",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　戦闘中は、無意味な攻撃は避け\n　必要に応じて『待機』をするなどして\n　プラーナを回復しておくことも大切だ。\n",
-   "en": ""
+   "en": "In battle, it's important to avoid pointless\nattacks and to restore your Prana, say by\nchoosing Wait when needed.",
+   "status": "done"
   },
   {
    "id": "ev000_345C",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　プラーナゲージについては以上だ。\n　ほかに聞きたいことはあるか？\n\n",
-   "en": ""
+   "en": "That's all on the Prana Gauge. Is there\nanything else you want to ask?",
+   "status": "done"
   },
   {
    "id": "ev000_34AC",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　問題ありません！\n　試験を始めてもらって大丈夫です！！\n\n",
-   "en": ""
+   "en": "No problem! You can start the exam now!!",
+   "status": "done"
   },
   {
    "id": "ev000_34F0",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　そうか。\n\n\n",
-   "en": ""
+   "en": "I see.",
+   "status": "done"
   },
   {
    "id": "ev000_3508",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まあ、試験の途中でなにか気になったら\n　手元の解説書を読みなおせばいい。\n\n",
-   "en": ""
+   "en": "Well, if something bothers you during the\nexam, just reread the manual at hand.",
+   "status": "done"
   },
   {
    "id": "ev000_3560",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_357C",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　では、試験を始めるぞ。\n\n\n",
-   "en": ""
+   "en": "Then let's begin the exam.",
+   "status": "done"
   },
   {
    "id": "ev000_35A4",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　もう大丈夫です！\n　試験を始めてください！！\n\n",
-   "en": ""
+   "en": "I'm all set! Please start the exam!!",
+   "status": "done"
   },
   {
    "id": "ev000_35DC",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　そうか。\n\n\n",
-   "en": ""
+   "en": "I see.",
+   "status": "done"
   },
   {
    "id": "ev000_35F4",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まあ、試験の途中でなにか気になったら\n　手元の解説書を読みなおせばいい。\n",
-   "en": ""
+   "en": "Well, if something bothers you during the\nexam, just reread the manual at hand.",
+   "status": "done"
   },
   {
    "id": "ev000_3648",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_3664",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　では、試験を始めるぞ。\n\n\n",
-   "en": ""
+   "en": "Then let's begin the exam.",
+   "status": "done"
   },
   {
    "id": "ev000_368C",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ゴーレムを出せ！\n\n\n",
-   "en": ""
+   "en": "Send out the Golems!",
+   "status": "done"
   },
   {
    "id": "ev000_36AC",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "バルツフィーム騎士",
    "jp": "　ゴーレム、出します！\n\n\n",
-   "en": ""
+   "en": "Golems, going out!",
+   "status": "done"
   },
   {
    "id": "ev000_36DC",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　機体を破壊されないように注意して、\n　３体のゴーレムを倒せ。\n\n",
-   "en": ""
+   "en": "Take care not to let your machine be\ndestroyed, and defeat the three Golems.",
+   "status": "done"
   },
   {
    "id": "ev000_3728",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　いいな。\n\n\n",
-   "en": ""
+   "en": "Understood?",
+   "status": "done"
   },
   {
    "id": "ev000_3740",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい！\n\n\n",
-   "en": ""
+   "en": "Yes, sir!",
+   "status": "done"
   },
   {
    "id": "ev000_3754",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いくぞ！\n\n\n",
-   "en": ""
+   "en": "Here I go!",
+   "status": "done"
   },
   {
    "id": "ev000_376C",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　よし、このくらいなら\n　なんとかなる！\n\n",
-   "en": ""
+   "en": "All right, I can handle this much!",
+   "status": "done"
   },
   {
    "id": "ev000_37A0",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　油断するんじゃないぞ！\n　まだ２体、残っているのだからな。\n\n",
-   "en": ""
+   "en": "Don't let your guard down! There are still\ntwo left.",
+   "status": "done"
   },
   {
    "id": "ev000_37E8",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　大丈夫です！\n　まかせてください！！\n\n",
-   "en": ""
+   "en": "No problem! Leave it to me!!",
+   "status": "done"
   },
   {
    "id": "ev000_3818",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　そこまで！\n\n\n",
-   "en": ""
+   "en": "That's enough!",
+   "status": "done"
   },
   {
    "id": "ev000_3834",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ふぅ……。\n\n\n",
-   "en": ""
+   "en": "Phew...",
+   "status": "done"
   },
   {
    "id": "ev000_384C",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_3864",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんだ！？\n\n\n",
-   "en": ""
+   "en": "What!?",
+   "status": "done"
   },
   {
    "id": "ev000_387C",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "通信兵",
    "jp": "　北西山岳方向に、プラーナ反応確認。\n　自治区の結界を突破されました。\n\n",
-   "en": ""
+   "en": "Prana reading confirmed toward the\nnorthwest mountains. They've broken\nthrough the autonomous district's barrier.",
+   "status": "done"
   },
   {
    "id": "ev000_38CC",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(......)",
+   "status": "done"
   },
   {
    "id": "ev000_38EC",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "通信兵",
    "jp": "　いくつかの反応は、防衛線を抜け\n　王都に到達する可能性があります！\n\n",
-   "en": ""
+   "en": "Some of the readings may get past the\ndefence line and reach the Royal Capital!",
+   "status": "done"
   },
   {
    "id": "ev000_393C",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　……わかった。\n\n\n",
-   "en": ""
+   "en": "...Understood.",
+   "status": "done"
   },
   {
    "id": "ev000_395C",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　全機撤収！\n　王都に戻り、各々の配置につけ！\n\n",
-   "en": ""
+   "en": "All units, withdraw! Return to the Royal\nCapital and take your posts!",
+   "status": "done"
   },
   {
    "id": "ev000_3998",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ちぇっ。\n　試験の最中だっていうのに……。\n\n",
-   "en": ""
+   "en": "Tch. Right in the middle of my exam...",
+   "status": "done"
   },
   {
    "id": "ev000_39D0",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……仕方がない。\n　オレも戻るか……。\n\n",
-   "en": ""
+   "en": "...Can't be helped. Guess I'll head back too...",
+   "status": "done"
   },
   {
    "id": "ev000_3A04",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……うん？\n\n\n",
-   "en": ""
+   "en": "...Hm?",
+   "status": "done"
   },
   {
    "id": "ev000_3A1C",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "騎士候補兵",
    "jp": "　く、くそっ！\n\n\n",
-   "en": ""
+   "en": "D-Damn it!",
+   "status": "done"
   },
   {
    "id": "ev000_3A3C",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　どうした？\n\n\n",
-   "en": ""
+   "en": "What's wrong?",
+   "status": "done"
   },
   {
    "id": "ev000_3A54",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "騎士候補兵",
    "jp": "　出力が上がらない！\n　う、動けないんだ！\n\n",
-   "en": ""
+   "en": "My output won't rise! I-I can't move!",
+   "status": "done"
   },
   {
    "id": "ev000_3A8C",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　大丈夫だ！　落ち着け！！\n　魔装機は、自分の精神状態に\n　左右されることを忘れたのか！\n",
-   "en": ""
+   "en": "It's okay! Calm down!! Did you forget a\nMasouki responds to your state of mind!?",
+   "status": "done"
   },
   {
    "id": "ev000_3AEC",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "騎士候補兵",
    "jp": "　あ、ああ……。\n\n\n",
-   "en": ""
+   "en": "A-Ah, right...",
+   "status": "done"
   },
   {
    "id": "ev000_3B0C",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "通信兵",
    "jp": "　プラーナ反応、増大。\n　領域内に、敵が出現します！\n\n",
-   "en": ""
+   "en": "Prana reading increasing. Enemies appearing\nwithin the area!",
+   "status": "done"
   },
   {
    "id": "ev000_3B4C",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　もうきちまったか！\n\n\n",
-   "en": ""
+   "en": "They're here already!?",
+   "status": "done"
   },
   {
    "id": "ev000_3B6C",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いいか、動けるようになったら\n　戦闘空域から離脱するんだぞ。\n\n",
-   "en": ""
+   "en": "Listen, once you can move, get out of the\ncombat zone, got it?",
+   "status": "done"
   },
   {
    "id": "ev000_3BB4",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "騎士候補兵",
    "jp": "　すまない……。\n\n\n",
-   "en": ""
+   "en": "Sorry...",
+   "status": "done"
   },
   {
    "id": "ev000_3BD4",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　今から逃げるわけにも\n　いかないし……。\n\n",
-   "en": ""
+   "en": "It's not like I can run away now...",
+   "status": "done"
   },
   {
    "id": "ev000_3C08",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こうなった以上、\n　やるしかないな！\n\n",
-   "en": ""
+   "en": "Now that it's come to this, I've just gotta\nfight!",
+   "status": "done"
   },
   {
    "id": "ev000_3C38",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そこのミッダスト！\n　安全圏まで下がりなさい！　　　　　　\n\n",
-   "en": ""
+   "en": "You there, in the Middast!\nFall back to a safe zone!",
+   "status": "done"
   },
   {
    "id": "ev000_3C80",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そこのミッダスト！\n　安全圏まで下がりなさい！\n\n",
-   "en": ""
+   "en": "You there, in the Middast! Fall back to a\nsafe zone!",
+   "status": "done"
   },
   {
    "id": "ev000_3CBC",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だ、誰だ……！？\n\n\n",
-   "en": ""
+   "en": "W-Who's that...!?",
+   "status": "done"
   },
   {
    "id": "ev000_3CDC",
@@ -1764,7 +1938,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、バルツフィーム王国\n　西方騎士隊、隊長\n　アルマ＝クルツ＝カーリナ。\n",
-   "en": ""
+   "en": "I am Alma Kurtz Karina, captain of the\nWestern Knights of the Kingdom of\nVartzpheem.",
+   "status": "done"
   },
   {
    "id": "ev000_3D30",
@@ -1774,7 +1949,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ここは私にまかせて、\n　あなたは早く安全な場所まで\n　撤退しなさい。\n",
-   "en": ""
+   "en": "Leave this to me, and withdraw to\nsomewhere safe, quickly.",
+   "status": "done"
   },
   {
    "id": "ev000_3D80",
@@ -1784,7 +1960,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ち、ちょっと待ってください。\n　動けない仲間を置き去りにして\n　自分だけ逃げるなんてできませんよ。\n",
-   "en": ""
+   "en": "W-Wait a minute. I can't just run off by\nmyself and leave a comrade who can't move\nbehind.",
+   "status": "done"
   },
   {
    "id": "ev000_3DEC",
@@ -1794,7 +1971,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それに……。\n\n\n",
-   "en": ""
+   "en": "Besides...",
+   "status": "done"
   },
   {
    "id": "ev000_3E08",
@@ -1804,7 +1982,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……もう、\n　逃げられる状況じゃありません！\n\n",
-   "en": ""
+   "en": "...it's way too late to run now!",
+   "status": "done"
   },
   {
    "id": "ev000_3E40",
@@ -1814,7 +1993,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……仕方がないわね。\n\n\n",
-   "en": ""
+   "en": "...Very well, then.",
+   "status": "done"
   },
   {
    "id": "ev000_3E64",
@@ -1824,7 +2004,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　じゃあ、私の援護について！\n　いいわね？\n",
-   "en": ""
+   "en": "In that case, cover me! Understood?",
+   "status": "done"
   },
   {
    "id": "ev000_3E98",
@@ -1834,7 +2015,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……うるさい人だな。\n　好きなようにやらせろって）\n\n",
-   "en": ""
+   "en": "(...What a nag. Just let me do things\nmy way.)",
+   "status": "done"
   },
   {
    "id": "ev000_3ED8",
@@ -1844,7 +2026,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　返事がないようだけど？\n\n\n",
-   "en": ""
+   "en": "I don't seem to have heard an answer.",
+   "status": "done"
   },
   {
    "id": "ev000_3EFC",
@@ -1854,7 +2037,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　了解……。\n\n\n",
-   "en": ""
+   "en": "Roger...",
+   "status": "done"
   },
   {
    "id": "ev000_3F14",
@@ -1864,7 +2048,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんとかなりましたね。\n\n\n",
-   "en": ""
+   "en": "Well, we managed somehow.",
+   "status": "done"
   },
   {
    "id": "ev000_3F38",
@@ -1874,7 +2059,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_3F54",
@@ -1884,7 +2070,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ど、どうかしましたか？\n\n\n",
-   "en": ""
+   "en": "I-Is something wrong?",
+   "status": "done"
   },
   {
    "id": "ev000_3F78",
@@ -1894,7 +2081,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いい腕をしてるわね。\n　ご協力に感謝するわ。\n\n",
-   "en": ""
+   "en": "You have a good arm. Thank you for\nyour help.",
+   "status": "done"
   },
   {
    "id": "ev000_3FB0",
@@ -1904,7 +2092,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_3FCC",
@@ -1914,7 +2103,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ところで、あなたのお名前は？\n\n\n",
-   "en": ""
+   "en": "By the way, what's your name?",
+   "status": "done"
   },
   {
    "id": "ev000_3FF8",
@@ -1924,7 +2114,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ケイゴ＝ザンツ＝フェルディナン。\n　騎士候補兵です。\n\n",
-   "en": ""
+   "en": "Keigo Zants Ferdinand. Knight Cadet.",
+   "status": "done"
   },
   {
    "id": "ev000_4038",
@@ -1934,7 +2125,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　では、\n　ケイゴ＝ザンツ＝フェルディナン。\n\n\n",
-   "en": ""
+   "en": "Then, Keigo Zants Ferdinand...",
+   "status": "done"
   },
   {
    "id": "ev000_4070",
@@ -1944,7 +2136,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　騎士として、\n　あなたに忠告しておきます。\n\n",
-   "en": ""
+   "en": "As a knight, let me give you a word of\nadvice.",
+   "status": "done"
   },
   {
    "id": "ev000_40A8",
@@ -1954,7 +2147,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　勇気も、\n　それを支える力がなければ\n　ただの無謀な行為にしかならない。\n",
-   "en": ""
+   "en": "Courage, without the strength to back it\nup, is nothing but recklessness.",
+   "status": "done"
   },
   {
    "id": "ev000_40FC",
@@ -1964,7 +2158,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　だから、\n　そうならないための力を養いなさい。\n\n",
-   "en": ""
+   "en": "So build up the strength to keep it from\nbecoming that.",
+   "status": "done"
   },
   {
    "id": "ev000_4138",
@@ -1974,7 +2169,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……なっ！？\n\n\n",
-   "en": ""
+   "en": "...What!?",
+   "status": "done"
   },
   {
    "id": "ev000_4154",
@@ -1984,7 +2180,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうすれば、\n　あなたもきっと\n　誇りを持った騎士になれる……。\n",
-   "en": ""
+   "en": "If you do, I'm sure you too can become a\nknight with pride...",
+   "status": "done"
   },
   {
    "id": "ev000_41A0",
@@ -1994,7 +2191,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　その日を楽しみにしているわ。\n\n\n",
-   "en": ""
+   "en": "I look forward to that day.",
+   "status": "done"
   },
   {
    "id": "ev000_41CC",
@@ -2004,7 +2202,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_41E8",
@@ -2014,7 +2213,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　じゃ、私はこれで……。\n\n\n",
-   "en": ""
+   "en": "Well, I'll be going now...",
+   "status": "done"
   },
   {
    "id": "ev000_420C",
@@ -2024,7 +2224,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたも早く基地に戻りなさい。\n\n\n",
-   "en": ""
+   "en": "You should hurry back to base, too.",
+   "status": "done"
   },
   {
    "id": "ev000_4238",
@@ -2034,7 +2235,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くそっ！\n　かっこつけやがって！！\n\n",
-   "en": ""
+   "en": "Damn it! Who does she think she is!?",
+   "status": "done"
   },
   {
    "id": "ev000_4268",
@@ -2044,7 +2246,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　でも、騎士、か……。\n\n\n",
-   "en": ""
+   "en": "Still... a knight, huh...",
+   "status": "done"
   },
   {
    "id": "ev000_428C",
@@ -2054,7 +2257,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev000_42A8",
@@ -2064,7 +2268,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あー！\n　そういえばオレの試験って\n　どうなっちまうんだ？？？\n",
-   "en": ""
+   "en": "Aaah! Come to think of it, what's gonna\nhappen with my exam???",
+   "status": "done"
   },
   {
    "id": "ev000_42F0",
@@ -2074,7 +2279,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ソッド様。\n\n\n",
-   "en": ""
+   "en": "Thodd-sama.",
+   "status": "done"
   },
   {
    "id": "ev000_430C",
@@ -2084,7 +2290,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……ルジェロか。\n\n\n",
-   "en": ""
+   "en": "...Ruggero, is it?",
+   "status": "done"
   },
   {
    "id": "ev000_432C",
@@ -2094,7 +2301,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　どうして、こちらへ？\n\n\n",
-   "en": ""
+   "en": "What brings you here?",
+   "status": "done"
   },
   {
    "id": "ev000_4350",
@@ -2104,7 +2312,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　少し、確認しておきたいことがあってな。\n　ラガーシュの特使ということで\n　バージェス王と会っていた。\n",
-   "en": ""
+   "en": "There was something I wanted to confirm.\nI met with King Burgess, in the guise of an\nenvoy from Ragash.",
+   "status": "done"
   },
   {
    "id": "ev000_43C0",
@@ -2114,7 +2323,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　それより\n　そちらの首尾はどうだ？\n\n",
-   "en": ""
+   "en": "More to the point, how goes your end of\nthings?",
+   "status": "done"
   },
   {
    "id": "ev000_43F0",
@@ -2124,7 +2334,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　はい、何人かは、\n　もう私の手の内にあります。\n\n",
-   "en": ""
+   "en": "Very well. Several of them are already in the\npalm of my hand.",
+   "status": "done"
   },
   {
    "id": "ev000_442C",
@@ -2134,7 +2345,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　それと魔装機神の在処も\n　もうすぐ特定できるかと……。\n\n",
-   "en": ""
+   "en": "And I expect to pinpoint the location of the\nMasoukishin very soon...",
+   "status": "done"
   },
   {
    "id": "ev000_4470",
@@ -2144,7 +2356,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　そうか。\n\n\n",
-   "en": ""
+   "en": "Good.",
+   "status": "done"
   },
   {
    "id": "ev000_4488",
@@ -2154,7 +2367,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　では、ソッド様。\n　決行の日を楽しみにしております。\n\n",
-   "en": ""
+   "en": "Then, Thodd-sama, I shall look forward to\nthe day we act.",
+   "status": "done"
   },
   {
    "id": "ev000_44CC",
@@ -2164,7 +2378,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　バルツフィーム王国。\n\n\n",
-   "en": ""
+   "en": "The Kingdom of Vartzpheem.",
+   "status": "done"
   },
   {
    "id": "ev000_44F0",
@@ -2174,7 +2389,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　自国の神官に裏切られ、\n　崩壊の道をたどることになるとはな。\n\n",
-   "en": ""
+   "en": "Betrayed by its own priest and set on the\nroad to ruin. How fitting.",
+   "status": "done"
   },
   {
    "id": "ev000_4538",
@@ -2184,7 +2400,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　自ら神を陥れるような国には、\n　ふさわしい結末か……。\n\n",
-   "en": ""
+   "en": "A fitting end for a nation that would itself\nbring down a god...",
+   "status": "done"
   },
   {
    "id": "ev000_457C",
@@ -2194,7 +2411,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　あとは、\n『神の腕』さえ手に入れば……。\n\n",
-   "en": ""
+   "en": "Now, if only I can get my hands on the Arm\nof God...",
+   "status": "done"
   },
   {
    "id": "ev000_45B0",
@@ -2204,7 +2422,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　フフフッ……。\n\n\n\n",
-   "en": ""
+   "en": "Heh heh heh...",
+   "status": "done"
   },
   {
    "id": "ev000_45CC",
@@ -2214,7 +2433,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! Not here...",
+   "status": "done"
   },
   {
    "id": "ev000_45FC",
@@ -2224,7 +2444,8 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　ケイゴ！\n　なにをやっている。\n　また、一から出直してこい。\n\n\n",
-   "en": ""
+   "en": "Keigo! What are you doing? Go back and\nstart again from scratch.",
+   "status": "done"
   },
   {
    "id": "ev000_4648",
@@ -2234,7 +2455,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……そんな！！\n　脱出するしかないっていうの……。\n\n",
-   "en": ""
+   "en": "...No!! Is ejecting my only option...?",
+   "status": "done"
   },
   {
    "id": "ev000_7E5C",

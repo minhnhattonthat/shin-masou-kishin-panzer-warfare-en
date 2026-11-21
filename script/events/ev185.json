@@ -24,7 +24,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ラガーシュ王国が\n　突如として空の裂け目に消え……）\n\n",
-   "en": ""
+   "en": "(The Kingdom of Ragash suddenly vanished\ninto a rift in the sky...)",
+   "status": "done"
   },
   {
    "id": "ev185_0898",
@@ -34,7 +35,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（同時にダウスの魔物の群が\n　空を覆い隠した……）\n\n",
-   "en": ""
+   "en": "(And at the same time, swarms of\nmonsters from Daus blotted out the sky...)",
+   "status": "done"
   },
   {
    "id": "ev185_08D4",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ソッド……）\n\n\n",
-   "en": ""
+   "en": "(Thodd...)",
+   "status": "done"
   },
   {
    "id": "ev185_08F0",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（やはり、ヤツは生きていた）\n\n\n",
-   "en": ""
+   "en": "(He was alive after all.)",
+   "status": "done"
   },
   {
    "id": "ev185_0918",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（しかも、オレたちの想像を\n　はるかに超えた力を身につけて……）\n\n",
-   "en": ""
+   "en": "(And he'd gained power far beyond\nanything we could imagine...)",
+   "status": "done"
   },
   {
    "id": "ev185_0964",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（そして、\n　リーグ＝グラム＝ガルム）\n\n",
-   "en": ""
+   "en": "(And then, Rieg Gram Garum.)",
+   "status": "done"
   },
   {
    "id": "ev185_0994",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ア・ゼルスの悲劇の英雄として\n　語り継がれてきた人物と……）\n\n",
-   "en": ""
+   "en": "(The man handed down in legend as the\ntragic hero of A-Zeluth...)",
+   "status": "done"
   },
   {
    "id": "ev185_09DC",
@@ -94,7 +101,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（この世界を戦火の渦に巻き込んだ\n　中心人物とが同一人物とは……）\n\n",
-   "en": ""
+   "en": "(and the man at the center of plunging this\nworld into a whirlwind of war, one and the\nsame...)",
+   "status": "done"
   },
   {
    "id": "ev185_0A28",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（そんなことがあるのだろうか……）\n\n\n",
-   "en": ""
+   "en": "(Could such a thing really be...?)",
+   "status": "done"
   },
   {
    "id": "ev185_0A58",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（オレの心の中に\n　不安と焦りが広がり始めていた……）\n\n",
-   "en": ""
+   "en": "(Unease and impatience were starting to\nspread through my heart...)",
+   "status": "done"
   },
   {
    "id": "ev185_0A98",
@@ -124,7 +134,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　整備兵！\n　オレの魔装機の整備状況は！！\n\n",
-   "en": ""
+   "en": "Mechanic! How's the work on my Masouki\ncomin'!!",
+   "status": "done"
   },
   {
    "id": "ev185_0AD0",
@@ -134,7 +145,8 @@
    ],
    "speaker": "整備兵",
    "jp": "　すみません！\n　もう少し待ってください。\n\n",
-   "en": ""
+   "en": "Sorry! Please wait just a little longer.",
+   "status": "done"
   },
   {
    "id": "ev185_0B04",
@@ -144,7 +156,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ベウマー。\n\n\n",
-   "en": ""
+   "en": "Beumer.",
+   "status": "done"
   },
   {
    "id": "ev185_0B24",
@@ -154,7 +167,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　状況は厳しそうじゃな。\n\n\n",
-   "en": ""
+   "en": "Things look grim, eh.",
+   "status": "done"
   },
   {
    "id": "ev185_0B50",
@@ -164,7 +178,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　見ての通りですよ。\n\n\n",
-   "en": ""
+   "en": "Just like you see.",
+   "status": "done"
   },
   {
    "id": "ev185_0B74",
@@ -174,7 +189,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　護衛にきていたナトゥーレや\n　ラガーシュの部隊にも協力して\n　もらっているが、数が多すぎる。\n",
-   "en": ""
+   "en": "We've got the Natoure and Ragash units\nthat came as escorts helpin' out too, but\nthere's just too many of 'em.",
+   "status": "done"
   },
   {
    "id": "ev185_0BDC",
@@ -184,7 +200,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　悪あがきだけで精一杯ですね。\n\n\n",
-   "en": ""
+   "en": "All we can do is keep strugglin'.",
+   "status": "done"
   },
   {
    "id": "ev185_0C08",
@@ -194,7 +211,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ということは、\n　あとはケイゴたちに望みを\n　託すしかないか……。\n",
-   "en": ""
+   "en": "Which means all we can do now is pin our\nhopes on Keigo and the others, eh...",
+   "status": "done"
   },
   {
    "id": "ev185_0C5C",
@@ -204,7 +222,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ええ。\n\n\n",
-   "en": ""
+   "en": "Yeah.",
+   "status": "done"
   },
   {
    "id": "ev185_0C74",
@@ -214,7 +233,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　……ふん。\n　沈んでても仕方がない。\n\n",
-   "en": ""
+   "en": "...Hmph. No use moping about it.",
+   "status": "done"
   },
   {
    "id": "ev185_0CAC",
@@ -224,7 +244,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　わしもおまえの悪あがきに\n　つきあうか。\n\n",
-   "en": ""
+   "en": "Guess I'll join you in your struggling, then.",
+   "status": "done"
   },
   {
    "id": "ev185_0CE8",
@@ -234,7 +255,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　お年なんですから\n　ムリしないでくださいよ！\n\n",
-   "en": ""
+   "en": "Don't overdo it at your age, okay!",
+   "status": "done"
   },
   {
    "id": "ev185_0D24",
@@ -244,7 +266,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　バカもん！\n　わしはまだイケてるよ！！\n\n",
-   "en": ""
+   "en": "Blockhead! I've still got it!!",
+   "status": "done"
   },
   {
    "id": "ev185_0D5C",
@@ -254,7 +277,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　それに今、ムリをせんでどうする！\n\n\n",
-   "en": ""
+   "en": "Besides, if not now, when else would I\noverdo it!",
+   "status": "done"
   },
   {
    "id": "ev185_0D90",
@@ -264,7 +288,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　こりゃ、そこ！\n　魔装機はもっと大事に扱え！！\n\n",
-   "en": ""
+   "en": "Hey, you there! Treat that Masouki with\nmore care, you young fool!!",
+   "status": "done"
   },
   {
    "id": "ev185_0DD0",
@@ -274,7 +299,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　今、ムリをしないとか……。\n\n\n",
-   "en": ""
+   "en": "If not now, when else, huh...",
+   "status": "done"
   },
   {
    "id": "ev185_0DFC",
@@ -284,7 +310,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　違いない。\n\n\n",
-   "en": ""
+   "en": "Can't argue with that.",
+   "status": "done"
   },
   {
    "id": "ev185_0E18",
@@ -294,7 +321,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　整備兵！\n　外装の修理はいい！\n\n",
-   "en": ""
+   "en": "Mechanic! Forget about fixin' the armor!",
+   "status": "done"
   },
   {
    "id": "ev185_0E44",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　急いで、\n　動けるようにしてくれ！！\n\n",
-   "en": ""
+   "en": "Just hurry up and get it movin'!!",
+   "status": "done"
   },
   {
    "id": "ev185_0E78",
@@ -314,7 +343,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　あとはこっちでなんとかする。\n\n\n",
-   "en": ""
+   "en": "We'll handle the rest ourselves.",
+   "status": "done"
   },
   {
    "id": "ev185_0EA4",
@@ -324,7 +354,8 @@
    ],
    "speaker": "トト",
    "jp": "　うわっ！\n　敵がうじゃうじゃいるよ！\n\n",
-   "en": ""
+   "en": "Whoa! There's enemies crawlin' all over the\nplace!",
+   "status": "done"
   },
   {
    "id": "ev185_0ED4",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くそっ！\n　ジャマだ！！\n\n",
-   "en": ""
+   "en": "Damn it! Out of my way!!",
+   "status": "done"
   },
   {
    "id": "ev185_0EF8",
@@ -344,7 +376,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　あともう少しで\n　ソッドのところにいけるのに……。\n\n",
-   "en": ""
+   "en": "We're so close to reaching Thodd, and\nyet...",
+   "status": "done"
   },
   {
    "id": "ev185_0F38",
@@ -354,7 +387,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ケイゴ。\n　どうしますか？\n\n",
-   "en": ""
+   "en": "Keigo. What shall we do?",
+   "status": "done"
   },
   {
    "id": "ev185_0F60",
@@ -364,7 +398,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ここまできたんだ。\n\n\n",
-   "en": ""
+   "en": "We've come this far.",
+   "status": "done"
   },
   {
    "id": "ev185_0F80",
@@ -374,7 +409,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　強行突破しよう！\n\n\n",
-   "en": ""
+   "en": "Let's force our way through!",
+   "status": "done"
   },
   {
    "id": "ev185_0FA0",
@@ -384,7 +420,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いくぞ！！\n\n\n",
-   "en": ""
+   "en": "Here we go!!",
+   "status": "done"
   },
   {
    "id": "ev185_0FB8",
@@ -394,7 +431,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……くっ\n　これじゃ、ラチがあかない……）\n\n",
-   "en": ""
+   "en": "(...Ngh. At this rate, we're getting\nnowhere...)",
+   "status": "done"
   },
   {
    "id": "ev185_0FF0",
@@ -404,7 +442,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（なんとかならないのか……）\n\n\n",
-   "en": ""
+   "en": "(Isn't there something I can do...?)",
+   "status": "done"
   },
   {
    "id": "ev185_1018",
@@ -414,7 +453,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　よしっ！\n　今ならいける！！\n\n",
-   "en": ""
+   "en": "All right! We can make it now!!",
+   "status": "done"
   },
   {
    "id": "ev185_1040",
@@ -424,7 +464,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　　みんな、急ごう！\n\n\n",
-   "en": ""
+   "en": "Everyone, hurry!",
+   "status": "done"
   },
   {
    "id": "ev185_1060",
@@ -434,7 +475,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　待って！！\n\n\n",
-   "en": ""
+   "en": "Wait!!",
+   "status": "done"
   },
   {
    "id": "ev185_1078",
@@ -444,7 +486,8 @@
    ],
    "speaker": "トト",
    "jp": "　うわぁ、また出た！！　\n\n\n",
-   "en": ""
+   "en": "Whoa, more of 'em!!",
+   "status": "done"
   },
   {
    "id": "ev185_109C",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっ、このままでは……。\n\n\n",
-   "en": ""
+   "en": "Ngh, at this rate...",
+   "status": "done"
   },
   {
    "id": "ev185_10C4",
@@ -464,7 +508,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ケイゴ！\n　時間がありません！！\n\n",
-   "en": ""
+   "en": "Keigo! We are out of time!!",
+   "status": "done"
   },
   {
    "id": "ev185_10F0",
@@ -474,7 +519,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ちっ！\n　こんなところで！！\n\n",
-   "en": ""
+   "en": "Tch! Not here!!",
+   "status": "done"
   },
   {
    "id": "ev185_1118",
@@ -484,7 +530,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev185_1134",
@@ -494,7 +541,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（……うん！？）\n\n\n",
-   "en": ""
+   "en": "(...Hm!?)",
+   "status": "done"
   },
   {
    "id": "ev185_1150",
@@ -504,7 +552,8 @@
    ],
    "speaker": "アルマ",
    "jp": "（……別方向から\n　……プラーナ反応！？）\n\n",
-   "en": ""
+   "en": "(...A Prana reading... from another\ndirection!?)",
+   "status": "done"
   },
   {
    "id": "ev185_1184",
@@ -514,7 +563,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ケイゴ！\n　久しぶりね。\n\n",
-   "en": ""
+   "en": "Keigo! It's been a while.",
+   "status": "done"
   },
   {
    "id": "ev185_11A8",
@@ -524,7 +574,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえ……。\n\n\n",
-   "en": ""
+   "en": "You...",
+   "status": "done"
   },
   {
    "id": "ev185_11C4",
@@ -534,7 +585,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ミラ！\n\n\n",
-   "en": ""
+   "en": "...Mira!",
+   "status": "done"
   },
   {
    "id": "ev185_11DC",
@@ -544,7 +596,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　いいから、\n　ここは私に任せて。\n\n",
-   "en": ""
+   "en": "Never mind that. Leave this to me.",
+   "status": "done"
   },
   {
    "id": "ev185_1208",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　あなたたちは、\n　いきなさい！！\n\n",
-   "en": ""
+   "en": "You lot, go on ahead!!",
+   "status": "done"
   },
   {
    "id": "ev185_1234",
@@ -564,7 +618,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ミラ……。\n\n\n",
-   "en": ""
+   "en": "Mira...",
+   "status": "done"
   },
   {
    "id": "ev185_124C",
@@ -574,7 +629,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev185_1268",
@@ -584,7 +640,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　すまない、頼むぞ！\n\n\n",
-   "en": ""
+   "en": "Sorry, we're counting on you!",
+   "status": "done"
   },
   {
    "id": "ev185_1288",
@@ -594,7 +651,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　みんな、いこう！！\n\n\n",
-   "en": ""
+   "en": "Everyone, let's go!!",
+   "status": "done"
   },
   {
    "id": "ev185_12A8",
@@ -604,7 +662,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ミラ……。\n\n\n",
-   "en": ""
+   "en": "Mira...",
+   "status": "done"
   },
   {
    "id": "ev185_12C0",
@@ -614,7 +673,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　なにをやっているの？\n\n\n",
-   "en": ""
+   "en": "What are you doing?",
+   "status": "done"
   },
   {
    "id": "ev185_12E0",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　早くいきなさい！！\n\n\n",
-   "en": ""
+   "en": "Hurry up and go!!",
+   "status": "done"
   },
   {
    "id": "ev185_1300",
@@ -634,7 +695,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ミラ、あなた……。\n\n\n",
-   "en": ""
+   "en": "...Mira, you...",
+   "status": "done"
   },
   {
    "id": "ev185_1324",
@@ -644,7 +706,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev185_1340",
@@ -654,7 +717,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　……ちょっと待って！\n\n\n",
-   "en": ""
+   "en": "...Wait a moment!",
+   "status": "done"
   },
   {
    "id": "ev185_1360",
@@ -664,7 +728,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　あやまっても\n　すまないかもしれないけれど……。\n\n\n",
-   "en": ""
+   "en": "An apology may not be enough to make up\nfor it, but...",
+   "status": "done"
   },
   {
    "id": "ev185_139C",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　ごめんなさい……。\n\n\n",
-   "en": ""
+   "en": "I'm sorry...",
+   "status": "done"
   },
   {
    "id": "ev185_13BC",
@@ -684,7 +750,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　姉さん。\n\n\n",
-   "en": ""
+   "en": "Big sister.",
+   "status": "done"
   },
   {
    "id": "ev185_13D0",
@@ -694,7 +761,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ミラ。\n\n\n",
-   "en": ""
+   "en": "...Mira.",
+   "status": "done"
   },
   {
    "id": "ev185_13E8",
@@ -704,7 +772,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　気をつけてね。\n\n\n",
-   "en": ""
+   "en": "Be careful.",
+   "status": "done"
   },
   {
    "id": "ev185_1404",
@@ -714,7 +783,8 @@
    ],
    "speaker": "ミラ",
    "jp": "　姉さんこそ……。\n\n\n",
-   "en": ""
+   "en": "You too, big sister...",
+   "status": "done"
   },
   {
    "id": "ev185_1420",
@@ -724,7 +794,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev185_1440",
@@ -734,7 +805,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　……ロセリニ様。\n　こちらでしたか。\n\n",
-   "en": ""
+   "en": "...Rossellini-sama. So this is where\nyou were.",
+   "status": "done"
   },
   {
    "id": "ev185_1474",
@@ -744,7 +816,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……シャーナ様。\n\n\n",
-   "en": ""
+   "en": "...Shana-sama.",
+   "status": "done"
   },
   {
    "id": "ev185_1494",
@@ -754,7 +827,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　状況はいかがなのですか？\n\n\n",
-   "en": ""
+   "en": "How do things stand?",
+   "status": "done"
   },
   {
    "id": "ev185_14BC",
@@ -764,7 +838,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　先ほど、報告がありましたが\n　芳しくありません。\n\n",
-   "en": ""
+   "en": "A report came in just now, and it is not\nencouraging.",
+   "status": "done"
   },
   {
    "id": "ev185_14FC",
@@ -774,7 +849,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　魔物の数があまりに多いため、\n　もっても１日かと……。\n\n\n",
-   "en": ""
+   "en": "There are so very many monsters that we\nwill hold out a day at most, I fear...",
+   "status": "done"
   },
   {
    "id": "ev185_1540",
@@ -784,7 +860,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　そうですか……。\n\n\n",
-   "en": ""
+   "en": "I see...",
+   "status": "done"
   },
   {
    "id": "ev185_1560",
@@ -794,7 +871,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　希望はあの若者たちだけです。\n\n\n",
-   "en": ""
+   "en": "Our only hope lies with those young people.",
+   "status": "done"
   },
   {
    "id": "ev185_158C",
@@ -804,7 +882,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　あとは、\n　彼らを信じましょう。\n\n",
-   "en": ""
+   "en": "All that remains is to believe in them.",
+   "status": "done"
   },
   {
    "id": "ev185_15BC",
@@ -814,7 +893,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　そうですね……。\n\n\n",
-   "en": ""
+   "en": "Yes, you are right...",
+   "status": "done"
   },
   {
    "id": "ev185_15DC",
@@ -824,7 +904,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev185_15FC",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……ところで\n　なにかご用ですかな？\n\n",
-   "en": ""
+   "en": "...By the way, was there something you\nneeded?",
+   "status": "done"
   },
   {
    "id": "ev185_1630",
@@ -844,7 +926,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　はい。\n　お伺いしたいことが……。\n\n",
-   "en": ""
+   "en": "Yes. There is something I wish to ask\nyou...",
+   "status": "done"
   },
   {
    "id": "ev185_1660",
@@ -854,7 +937,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　なんでしょう？\n\n\n",
-   "en": ""
+   "en": "What might that be?",
+   "status": "done"
   },
   {
    "id": "ev185_1680",
@@ -864,7 +948,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ソッドという男が\n　いっていたこと……。\n\n",
-   "en": ""
+   "en": "What that man called Thodd said...",
+   "status": "done"
   },
   {
    "id": "ev185_16B8",
@@ -874,7 +959,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　あの男は、\n　本当にリーグ＝グラム＝ガルム\n　なのでしょうか？\n",
-   "en": ""
+   "en": "Is that man truly Rieg Gram Garum?",
+   "status": "done"
   },
   {
    "id": "ev185_1704",
@@ -884,7 +970,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　ソッドという男が\n　本当にそうなのかはわかりません。\n\n",
-   "en": ""
+   "en": "Whether this man Thodd truly is, I\ncannot say.",
+   "status": "done"
   },
   {
    "id": "ev185_1748",
@@ -894,7 +981,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　ただ、可能性はあります。\n\n\n",
-   "en": ""
+   "en": "But it is possible.",
+   "status": "done"
   },
   {
    "id": "ev185_1770",
@@ -904,7 +992,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　リーグ＝グラム＝ガルムは\n　すばらしい功績を残し、\n　当時の王国の発展に大きく寄与した。\n",
-   "en": ""
+   "en": "Rieg Gram Garum left behind splendid\nachievements and contributed greatly to the\nkingdom's growth in his day.",
+   "status": "done"
   },
   {
    "id": "ev185_17D4",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　これは事実なのですが、\n　彼には問題もあったのです。\n\n",
-   "en": ""
+   "en": "That much is fact, but he had his problems\nas well.",
+   "status": "done"
   },
   {
    "id": "ev185_1818",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　問題？\n\n\n",
-   "en": ""
+   "en": "Problems?",
+   "status": "done"
   },
   {
    "id": "ev185_1830",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　錬金術の魅力に取りつかれ、\n　そして、その考え方を発展させ……。\n\n",
-   "en": ""
+   "en": "He was captivated by the allure of alchemy,\nand developed its ideas further...",
+   "status": "done"
   },
   {
    "id": "ev185_1880",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　……まさか。\n\n\n",
-   "en": ""
+   "en": "...Surely not.",
+   "status": "done"
   },
   {
    "id": "ev185_189C",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　そうです。\n　ラガーシュ王国のめざしていた\n　錬金術の考え……。\n",
-   "en": ""
+   "en": "Yes. The alchemical idea that the Kingdom\nof Ragash was pursuing...",
+   "status": "done"
   },
   {
    "id": "ev185_18E8",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……より完全な人間を生み出すこと。\n\n\n",
-   "en": ""
+   "en": "...to create a more perfect human being.",
+   "status": "done"
   },
   {
    "id": "ev185_191C",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　それは\n　リーグ＝グラム＝ガルムが\n　発案したものなのです。\n",
-   "en": ""
+   "en": "It was Rieg Gram Garum who first\nconceived it.",
+   "status": "done"
   },
   {
    "id": "ev185_1964",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　リーグ＝グラム＝ガルムが……。\n\n\n",
-   "en": ""
+   "en": "Rieg Gram Garum...",
+   "status": "done"
   },
   {
    "id": "ev185_1994",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　そして彼は、\n　その考えを実現するべく\n　行動を開始した……。\n",
-   "en": ""
+   "en": "And he set out to make that idea a reality...",
+   "status": "done"
   },
   {
    "id": "ev185_19E0",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　その中には、\n　無惨な行為もあったと\n　伝えられています。\n",
-   "en": ""
+   "en": "It is said that among his deeds were some\ntruly atrocious acts.",
+   "status": "done"
   },
   {
    "id": "ev185_1A28",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev185_1A48",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　彼はその後、\n　人智を超えた力を身につけ、\n　さらなる凶行を行うようになった。\n",
-   "en": ""
+   "en": "Later, he gained powers beyond human\nunderstanding and committed still worse\natrocities.",
+   "status": "done"
   },
   {
    "id": "ev185_1AA4",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　それで当時の王家の人間たちは\n　彼を恐れ、暗殺しようとした。\n\n",
-   "en": ""
+   "en": "And so the royal family of that time came\nto fear him and tried to assassinate him.",
+   "status": "done"
   },
   {
    "id": "ev185_1AF0",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　そして、彼をダウスの穴にまで\n　追いつめたのですが……。\n\n",
-   "en": ""
+   "en": "They drove him all the way to the Pit of\nDaus, but...",
+   "status": "done"
   },
   {
    "id": "ev185_1B38",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　彼は、自ら穴の中に\n　飛び込んでいったそうです。\n\n",
-   "en": ""
+   "en": "it is said he leapt into the pit of his own\naccord.",
+   "status": "done"
   },
   {
    "id": "ev185_1B78",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　怨恨の言葉を残して……。\n\n\n",
-   "en": ""
+   "en": "Leaving behind words of bitter hatred...",
+   "status": "done"
   },
   {
    "id": "ev185_1BA0",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………！？\n\n\n",
-   "en": ""
+   "en": "...!?",
+   "status": "done"
   },
   {
    "id": "ev185_1BC0",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　ただ、\n　当時、彼は国民の中で、\n　英雄視されていました。\n",
-   "en": ""
+   "en": "However, at the time, the people regarded\nhim as a hero.",
+   "status": "done"
   },
   {
    "id": "ev185_1C08",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　そこで国民の動揺を押さえるため、\n　この出来事は事故として\n　処理されたのです。\n",
-   "en": ""
+   "en": "So, to keep the people from unrest, the\nincident was passed off as an accident.",
+   "status": "done"
   },
   {
    "id": "ev185_1C64",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　今となっては、\n　その事実を知るものは\n　私以外にいないでしょう。\n",
-   "en": ""
+   "en": "By now, I suppose there is no one left but\nme who knows the truth.",
+   "status": "done"
   },
   {
    "id": "ev185_1CB4",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev185_1CD4",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　……ということは、ソッドが\n　リーグ＝グラム＝ガルムである\n　可能性も……。\n",
-   "en": ""
+   "en": "...Then it is possible that Thodd really is\nRieg Gram Garum...",
+   "status": "done"
   },
   {
    "id": "ev185_1D2C",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　そうです。\n　信じられないことではありますが……。\n\n",
-   "en": ""
+   "en": "Yes. Hard to believe as it may be...",
+   "status": "done"
   },
   {
    "id": "ev185_1D6C",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev185_1D8C",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　もし、ソッドが\n　リーグ＝グラム＝ガルムならば……。\n\n",
-   "en": ""
+   "en": "If Thodd is Rieg Gram Garum...",
+   "status": "done"
   },
   {
    "id": "ev185_1DD0",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　おそらく怨恨の念が\n　彼を復活させ、ア・ゼルスを戦乱に\n　巻き込んだのでしょう。\n",
-   "en": ""
+   "en": "then most likely his hatred revived him, and\nhe dragged A-Zeluth into war.",
+   "status": "done"
   },
   {
    "id": "ev185_1E2C",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　そうであるならば、\n　彼は、断ち切らなければならない\n　過去の鎖です。\n",
-   "en": ""
+   "en": "If that is so, he is a chain from the past\nthat must be severed.",
+   "status": "done"
   },
   {
    "id": "ev185_1E80",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　その役目を彼らのような若者に\n　まかせなければならないのは\n　胸が痛みます。\n",
-   "en": ""
+   "en": "It pains my heart that we must leave that\ntask to young people like them.",
+   "status": "done"
   },
   {
    "id": "ev185_1ED8",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev185_1EF8",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　私たちは、彼らに重い宿命を\n　背負わせているのかもしれません。\n\n",
-   "en": ""
+   "en": "Perhaps we are laying a heavy destiny on\ntheir shoulders.",
+   "status": "done"
   },
   {
    "id": "ev185_1F44",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　しかし、彼らならば……。\n\n\n",
-   "en": ""
+   "en": "But if it is them...",
+   "status": "done"
   },
   {
    "id": "ev185_1F6C",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　力におぼれることなく\n　人としての道を進んでいる\n　彼らであれば……。\n",
-   "en": ""
+   "en": "They do not drown in power, but walk the\npath of human beings...",
+   "status": "done"
   },
   {
    "id": "ev185_1FC0",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　リーグ＝グラム＝ガルムを\n　浄化できるのではないか……。\n\n",
-   "en": ""
+   "en": "Perhaps they can purify Rieg Gram Garum...",
+   "status": "done"
   },
   {
    "id": "ev185_2008",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　私はそう信じています。\n\n\n",
-   "en": ""
+   "en": "That is what I believe.",
+   "status": "done"
   },
   {
    "id": "ev185_2030",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev185_2050",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ロセリニ様。\n\n\n",
-   "en": ""
+   "en": "Rossellini-sama.",
+   "status": "done"
   },
   {
    "id": "ev185_206C",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　私も信じます。\n\n\n",
-   "en": ""
+   "en": "I believe as well.",
+   "status": "done"
   },
   {
    "id": "ev185_208C",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　この世界の未来を……。\n\n\n",
-   "en": ""
+   "en": "The future of this world...",
+   "status": "done"
   },
   {
    "id": "ev185_20B4",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　希望を……。\n\n\n",
-   "en": ""
+   "en": "and our hope...",
+   "status": "done"
   },
   {
    "id": "ev185_20D0",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "シャーナ",
    "jp": "　彼らに託しましょう。\n\n\n",
-   "en": ""
+   "en": "Let us entrust them to those young people.",
+   "status": "done"
   },
   {
    "id": "ev185_20F4",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "イェン",
    "jp": "　あ、あれが……。\n\n\n",
-   "en": ""
+   "en": "Wh-what is that...",
+   "status": "done"
   },
   {
    "id": "ev185_2114",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "トト",
    "jp": "　すげぇ！\n\n\n",
-   "en": ""
+   "en": "Awesome!",
+   "status": "done"
   },
   {
    "id": "ev185_2128",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ、どうするの？\n\n\n",
-   "en": ""
+   "en": "Keigo, what do we do?",
+   "status": "done"
   },
   {
    "id": "ev185_214C",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　考えても仕方がない！\n\n\n",
-   "en": ""
+   "en": "No use thinking about it!",
+   "status": "done"
   },
   {
    "id": "ev185_2170",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　一気にいこう！！\n\n\n",
-   "en": ""
+   "en": "Let's go all in at once!!",
+   "status": "done"
   },
   {
    "id": "ev185_2190",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev185_21AC",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（今度こそ……）\n\n\n",
-   "en": ""
+   "en": "(This time...)",
+   "status": "done"
   },
   {
    "id": "ev185_21C8",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（今度こそ決着をつける！！）\n\n\n",
-   "en": ""
+   "en": "(This time, I'll settle this for good!!)",
+   "status": "done"
   },
   {
    "id": "ev185_21F0",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ソッド！！）\n\n\n",
-   "en": ""
+   "en": "(Thodd!!)",
+   "status": "done"
   },
   {
    "id": "ev185_220C",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down... not here...",
+   "status": "done"
   },
   {
    "id": "ev185_2244",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、私は……。\n　ここまでというの……。\n\n",
-   "en": ""
+   "en": "I... I... Is this as far as I go...?",
+   "status": "done"
   },
   {
    "id": "ev185_227C",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "イェン",
    "jp": "　このわたしが……。\n　やられるというのかっ！！\n\n",
-   "en": ""
+   "en": "I, of all people... Defeated!?",
+   "status": "done"
   },
   {
    "id": "ev185_22B8",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "トト",
    "jp": "　うっそ！！\n　おいらがやられるなんてアリ……。\n\n",
-   "en": ""
+   "en": "No way!! Me, getting beaten? That's not\nfai...",
+   "status": "done"
   },
   {
    "id": "ev185_3CD4",
@@ -1443,7 +1585,8 @@
     "0x3FA8"
    ],
    "jp": "　　　　　　新たなる未来へ向けて\n　　　　その一歩が刻まれようとしていた\n\n　　　　　　悠久なる平和への希求\n　　その可能性へ向けて人々は動き始めていた\n\n　　しかしそれは突然の出来事に打ち破られる\n\n　ア・ゼルスを混乱させた暗黒の男は生きていた\n\n　　　　この世界の過去を断罪するべく\n　　　　　　男はその正体を明かし\n　　喉元に事実という名の鋭い刃を突きつける\n",
-   "en": ""
+   "en": "Toward a new future\nthe first step was about to be taken\n\nA longing for everlasting peace\nThe people began to move toward that hope\n\nBut it was shattered by a sudden event\n\nThe dark man behind A-Zeluth's turmoil lived\n\nTo condemn the past of this world\nthe man revealed who he truly was\nand held the sharp blade of truth to its throat",
+   "status": "done"
   },
   {
    "id": "ev185_3E38",
@@ -1452,7 +1595,8 @@
     "0x3FAC"
    ],
    "jp": "　　　　　　リーグ＝グラム＝ガルム\n\n　　　　　その名は不滅の英雄として\n　　　　ア・ゼルスに語り継がれている\n\n　　　　　　しかし、真実は異なり\n　　その悪しき存在は、この世界を闇に包む\n　　裂けた大地が宙に舞い、彼方に消えた大陸\n\n　　　　　沈黙を以て見上げることは\n　　　　　　闇の肯定にほかならない\n　　　　　　　だから騎士は進む\n　　　今一度、未来の扉を開くために……\n",
-   "en": ""
+   "en": "Rieg Gram Garum\n\nAs an undying hero, that name\nhas been handed down through A-Zeluth\n\nBut the truth was otherwise\nThat evil being now wraps this world in dark\nRiven land soars skyward, a continent is gone\n\nTo look up in silence\nis nothing less than to affirm the dark\nAnd so the knights press on\nto open the door to the future once more...",
+   "status": "done"
   }
  ]
 }

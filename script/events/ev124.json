@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　イクナァトの館\n\n\n",
-   "en": ""
+   "en": "Iknaat Mansion",
+   "status": "done"
   },
   {
    "id": "ev124_08F8",
@@ -34,7 +35,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　作業状況は？\n\n\n",
-   "en": ""
+   "en": "How is the work progressing?",
+   "status": "done"
   },
   {
    "id": "ev124_0914",
@@ -44,7 +46,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　申しわけありません。\n\n\n",
-   "en": ""
+   "en": "My apologies, sir.",
+   "status": "done"
   },
   {
    "id": "ev124_0940",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　思ったより作業が\n　難航しておりまして……。\n\n",
-   "en": ""
+   "en": "The work is proving more difficult than we\nexpected...",
+   "status": "done"
   },
   {
    "id": "ev124_0980",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　もう少々お持ちください。\n\n\n",
-   "en": ""
+   "en": "Please wait a little longer.",
+   "status": "done"
   },
   {
    "id": "ev124_09B0",
@@ -74,7 +79,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　わかった。\n\n\n",
-   "en": ""
+   "en": "Very well.",
+   "status": "done"
   },
   {
    "id": "ev124_09C8",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ただ、あまり時間はない。\n　作業を急がせろ。\n\n",
-   "en": ""
+   "en": "However, time is short. Have them hurry.",
+   "status": "done"
   },
   {
    "id": "ev124_0A00",
@@ -94,7 +101,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　かしこまりました。\n\n\n",
-   "en": ""
+   "en": "Understood, sir.",
+   "status": "done"
   },
   {
    "id": "ev124_0A28",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev124_0A44",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　魔装機神……。\n\n\n",
-   "en": ""
+   "en": "The Masoukishin...",
+   "status": "done"
   },
   {
    "id": "ev124_0A60",
@@ -124,7 +134,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　思ったより力を\n　持っているようだが……。\n\n",
-   "en": ""
+   "en": "They seem to hold more power than I\nanticipated...",
+   "status": "done"
   },
   {
    "id": "ev124_0A98",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　この真の魔装機神とも\n　呼ぶべき機体に勝てるかな？\n\n",
-   "en": ""
+   "en": "But can they defeat this machine, which\ndeserves to be called the true Masoukishin?",
+   "status": "done"
   },
   {
    "id": "ev124_0AD8",
@@ -144,7 +156,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　フフフッ……。\n\n\n",
-   "en": ""
+   "en": "Heh heh heh...",
+   "status": "done"
   },
   {
    "id": "ev124_0AF4",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　フフフフフッ……。\n\n\n",
-   "en": ""
+   "en": "Heh heh heh heh heh...",
+   "status": "done"
   },
   {
    "id": "ev124_0B14",
@@ -164,7 +178,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……もうすぐだ。\n\n\n",
-   "en": ""
+   "en": "...Soon.",
+   "status": "done"
   },
   {
    "id": "ev124_0B34",
@@ -174,7 +189,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　もうすぐ\n　闇がこの世界を支配する。\n\n",
-   "en": ""
+   "en": "Soon, darkness will rule this world.",
+   "status": "done"
   },
   {
    "id": "ev124_0B64",
@@ -184,7 +200,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　すべて闇に包まれ……。\n\n\n",
-   "en": ""
+   "en": "All will be shrouded in darkness...",
+   "status": "done"
   },
   {
    "id": "ev124_0B88",
@@ -194,7 +211,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　狂乱の時代が……。\n\n\n",
-   "en": ""
+   "en": "An age of madness...",
+   "status": "done"
   },
   {
    "id": "ev124_0BA8",
@@ -204,7 +222,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　地上の民どもよ。\n　思い知るがいい……。\n\n",
-   "en": ""
+   "en": "You people of the surface. You will learn\nyour lesson...",
+   "status": "done"
   },
   {
    "id": "ev124_0BDC",
@@ -214,7 +233,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ハハハッ……。\n\n\n",
-   "en": ""
+   "en": "Hahaha...",
+   "status": "done"
   },
   {
    "id": "ev124_0BF8",
@@ -224,7 +244,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ハハハハハハッ……。\n\n\n",
-   "en": ""
+   "en": "Hahahahahaha...",
+   "status": "done"
   },
   {
    "id": "ev124_0C1C",
@@ -234,7 +255,8 @@
    ],
    "speaker": "",
    "jp": "　辺境の村\n　（バルツフィーム解放軍　活動拠点）\n\n",
-   "en": ""
+   "en": "Frontier Village\n(Vartzpheem Liberation Army Base)",
+   "status": "done"
   },
   {
    "id": "ev124_0C50",
@@ -244,7 +266,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev124_0C74",
@@ -254,7 +277,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　じいさん。\n　ずいぶん時間が\n　かかっているようだけど……。\n",
-   "en": ""
+   "en": "Old man. This sure is taking you a while...",
+   "status": "done"
   },
   {
    "id": "ev124_0CBC",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なにやっているんだい？\n\n\n",
-   "en": ""
+   "en": "What are you doing?",
+   "status": "done"
   },
   {
    "id": "ev124_0CE0",
@@ -274,7 +299,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　魔装機神４機の機体調整じゃよ。\n\n\n",
-   "en": ""
+   "en": "Tuning all four Masoukishin, my boy.",
+   "status": "done"
   },
   {
    "id": "ev124_0D14",
@@ -284,7 +310,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　魔装機神は操者のくせを\n　そのまま機体に反映させるのでな。\n\n",
-   "en": ""
+   "en": "A Masoukishin mirrors its pilot's quirks\nright in the machine, you see.",
+   "status": "done"
   },
   {
    "id": "ev124_0D60",
@@ -294,7 +321,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　これでまた、機体性能が\n　上がるはずじゃ。\n\n",
-   "en": ""
+   "en": "With this, their performance ought to go up\nagain, eh.",
+   "status": "done"
   },
   {
    "id": "ev124_0D9C",
@@ -304,7 +332,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ケイゴ！\n　悪いがそこの工具を取ってくれんか？\n\n",
-   "en": ""
+   "en": "Keigo! Be a good lad and hand me that tool\nthere, would you?",
+   "status": "done"
   },
   {
    "id": "ev124_0DDC",
@@ -314,7 +343,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うん？\n　こいつかい？\n\n",
-   "en": ""
+   "en": "Hm? This one?",
+   "status": "done"
   },
   {
    "id": "ev124_0E00",
@@ -324,7 +354,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　おお、そうじゃ。\n　ありがとうよ。\n\n",
-   "en": ""
+   "en": "Oh, that's the one. Thank you kindly.",
+   "status": "done"
   },
   {
    "id": "ev124_0E34",
@@ -334,7 +365,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev124_0E50",
@@ -344,7 +376,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　よし、あとは\n　こいつを取り付ければ……。\n\n",
-   "en": ""
+   "en": "Right, now all I need is to fit this on...",
+   "status": "done"
   },
   {
    "id": "ev124_0E8C",
@@ -354,7 +387,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なあ、アルフレードじいさん。\n\n\n",
-   "en": ""
+   "en": "Hey, Old Man Alfredo.",
+   "status": "done"
   },
   {
    "id": "ev124_0EB8",
@@ -364,7 +398,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　なんじゃ？\n\n\n",
-   "en": ""
+   "en": "What is it?",
+   "status": "done"
   },
   {
    "id": "ev124_0ED8",
@@ -374,7 +409,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　一度聞こうと思ってたんだけど\n　この世に魔装機神は、\n　４機しか存在しないのかい。\n",
-   "en": ""
+   "en": "I've been meaning to ask... Are there really\nonly four Masoukishin in the whole world?",
+   "status": "done"
   },
   {
    "id": "ev124_0F34",
@@ -384,7 +420,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ああ。\n　この世界は、大きく分けて\n　４つの『種』で成り立っておる。\n",
-   "en": ""
+   "en": "Aye. Broadly speaking, this world is made\nup of four Elements.",
+   "status": "done"
   },
   {
    "id": "ev124_0F88",
@@ -394,7 +431,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "『風』『水』『炎』『大地』の４つじゃ。\n\n\n",
-   "en": ""
+   "en": "Wind, Water, Fire and Earth. Those\nfour, eh.",
+   "status": "done"
   },
   {
    "id": "ev124_0FC0",
@@ -404,7 +442,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そのことは精霊にも当てはまる。\n\n\n",
-   "en": ""
+   "en": "The same holds true for the spirits.",
+   "status": "done"
   },
   {
    "id": "ev124_0FF4",
@@ -414,7 +453,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　精霊は、各種ごとに複数存在するが\n　その中で最も能力の高いといわれている\n　精霊のみが魔装機神の力の源と成り得る。\n",
-   "en": ""
+   "en": "There are many spirits of each Element, but\nonly the one said to be the mightiest can be\nthe source of a Masoukishin's power.",
+   "status": "done"
   },
   {
    "id": "ev124_1078",
@@ -424,7 +464,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　だから、魔装機神は４機しか\n　存在できんというわけだ。\n\n",
-   "en": ""
+   "en": "And that's why there can only ever be four\nMasoukishin.",
+   "status": "done"
   },
   {
    "id": "ev124_10C0",
@@ -434,7 +475,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev124_10DC",
@@ -444,7 +486,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ただ、\n　おまえさんの乗っている\n　サイバスターだけは別じゃ。\n",
-   "en": ""
+   "en": "But the Cybuster you pilot is the one\nexception, sonny.",
+   "status": "done"
   },
   {
    "id": "ev124_112C",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　別っていうと？\n\n\n",
-   "en": ""
+   "en": "Exception how?",
+   "status": "done"
   },
   {
    "id": "ev124_1148",
@@ -464,7 +508,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　サイバスターだけは、\n　同じ精霊を宿した機体……。\n\n",
-   "en": ""
+   "en": "For Cybuster alone, there's a machine\nhousing the same spirit...",
+   "status": "done"
   },
   {
    "id": "ev124_118C",
@@ -474,7 +519,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　いや、物体が存在するのだ。\n\n\n",
-   "en": ""
+   "en": "No, rather, an object exists.",
+   "status": "done"
   },
   {
    "id": "ev124_11BC",
@@ -484,7 +530,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　物体？\n\n\n",
-   "en": ""
+   "en": "An object?",
+   "status": "done"
   },
   {
    "id": "ev124_11D0",
@@ -494,7 +541,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　神の腕じゃよ。\n\n\n",
-   "en": ""
+   "en": "The Arm of God, my boy.",
+   "status": "done"
   },
   {
    "id": "ev124_11F4",
@@ -504,7 +552,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そのせいか、\n　サイバスターだけは、\n　まったく動かなくてな。\n",
-   "en": ""
+   "en": "Perhaps that's why Cybuster alone\nwouldn't budge an inch.",
+   "status": "done"
   },
   {
    "id": "ev124_1244",
@@ -514,7 +563,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　プラーナの力を使って\n　神の腕を破壊することも\n　考えたが……。\n",
-   "en": ""
+   "en": "I even considered destroying the Arm of\nGod with the power of Prana...",
+   "status": "done"
   },
   {
    "id": "ev124_1294",
@@ -524,7 +574,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　神の腕は貴重な研究材料じゃ。\n　そんなもったいないことは\n　できんだろう。\n",
-   "en": ""
+   "en": "But the Arm of God is precious research\nmaterial. I couldn't bring myself to waste it\nlike that, eh?",
+   "status": "done"
   },
   {
    "id": "ev124_12F0",
@@ -534,7 +585,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そこで無理矢理\n　同じ精霊を宿らせたってわけだ。\n\n",
-   "en": ""
+   "en": "So I forced the same spirit to dwell in\nCybuster, you see.",
+   "status": "done"
   },
   {
    "id": "ev124_1334",
@@ -544,7 +596,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ふ～ん。\n　でも、どうやって？\n\n",
-   "en": ""
+   "en": "Huh. But how?",
+   "status": "done"
   },
   {
    "id": "ev124_1360",
@@ -554,7 +607,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　……いいか、ここから先は\n　二人だけの秘密じゃぞ。\n\n",
-   "en": ""
+   "en": "...Listen, from here on, it's a secret\nbetween the two of us, eh?",
+   "status": "done"
   },
   {
    "id": "ev124_13A4",
@@ -564,7 +618,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ああ……。\n\n\n",
-   "en": ""
+   "en": "Sure...",
+   "status": "done"
   },
   {
    "id": "ev124_13BC",
@@ -574,7 +629,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　実は……。\n\n\n",
-   "en": ""
+   "en": "The truth is...",
+   "status": "done"
   },
   {
    "id": "ev124_13DC",
@@ -584,7 +640,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　実は……？\n\n\n",
-   "en": ""
+   "en": "The truth is...?",
+   "status": "done"
   },
   {
    "id": "ev124_13F4",
@@ -594,7 +651,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ワシにもわからんのだ。\n\n\n",
-   "en": ""
+   "en": "I haven't the foggiest idea either!",
+   "status": "done"
   },
   {
    "id": "ev124_1420",
@@ -604,7 +662,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　へっ……！？\n\n\n",
-   "en": ""
+   "en": "Huh...!?",
+   "status": "done"
   },
   {
    "id": "ev124_143C",
@@ -614,7 +673,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　なにをやってもダメだったんだが\n　戦争が始まった直後ぐらいに\n　突然、動き始めてな。\n",
-   "en": ""
+   "en": "Nothing I tried worked, but right around\nwhen the war broke out, it suddenly\nstarted moving.",
+   "status": "done"
   },
   {
    "id": "ev124_14A0",
@@ -624,7 +684,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　正直、魔装機神や精霊に関しては\n　ワシにもわからんことが\n　多すぎる。\n",
-   "en": ""
+   "en": "Truth be told, when it comes to the\nMasoukishin and the spirits, there's far too\nmuch even I don't understand.",
+   "status": "done"
   },
   {
    "id": "ev124_14F8",
@@ -634,7 +695,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　特にこいつらには\n『意志』というものが存在するのでは\n　と思うこともある。\n",
-   "en": ""
+   "en": "At times I even wonder if these things have\na Will of their own.",
+   "status": "done"
   },
   {
    "id": "ev124_1554",
@@ -644,7 +706,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　意志？\n\n\n",
-   "en": ""
+   "en": "A will?",
+   "status": "done"
   },
   {
    "id": "ev124_1568",
@@ -654,7 +717,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ああ、\n　確認したわけではないが。\n\n",
-   "en": ""
+   "en": "Aye, though I haven't confirmed it.",
+   "status": "done"
   },
   {
    "id": "ev124_159C",
@@ -664,7 +728,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ただ、偶然と呼ぶには\n　あまりにもできすぎていることが\n　多いのでな。\n",
-   "en": ""
+   "en": "But too many things have worked out far\ntoo neatly to call it coincidence, eh.",
+   "status": "done"
   },
   {
    "id": "ev124_15F4",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ふ～ん。\n\n\n",
-   "en": ""
+   "en": "Hmm.",
+   "status": "done"
   },
   {
    "id": "ev124_160C",
@@ -684,7 +750,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（そういえば、\n　オレが契約するときも……）\n\n",
-   "en": ""
+   "en": "(Come to think of it, back when I made the\ncontract...)",
+   "status": "done"
   },
   {
    "id": "ev124_1644",
@@ -694,7 +761,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev124_1660",
@@ -704,7 +772,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　どうした、ケイゴ？\n\n\n",
-   "en": ""
+   "en": "What's wrong, Keigo?",
+   "status": "done"
   },
   {
    "id": "ev124_1688",
@@ -714,7 +783,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　い、いや、なんでもないよ。\n\n\n",
-   "en": ""
+   "en": "N-no, it's nothing.",
+   "status": "done"
   },
   {
    "id": "ev124_16B0",
@@ -724,7 +794,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それよりサイバスターの具合は？\n\n\n",
-   "en": ""
+   "en": "More importantly, how's Cybuster doing?",
+   "status": "done"
   },
   {
    "id": "ev124_16DC",
@@ -734,7 +805,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　おっといかん。\n\n\n",
-   "en": ""
+   "en": "Oops, nearly forgot.",
+   "status": "done"
   },
   {
    "id": "ev124_1700",
@@ -744,7 +816,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev124_1724",
@@ -754,7 +827,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　……よしっ、できた。\n\n\n",
-   "en": ""
+   "en": "...Right, done!",
+   "status": "done"
   },
   {
    "id": "ev124_174C",
@@ -764,7 +838,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ケイゴ、\n　サイバスターを始動させてみろ！\n\n\n",
-   "en": ""
+   "en": "Keigo, try starting up Cybuster!",
+   "status": "done"
   },
   {
    "id": "ev124_1788",
@@ -774,7 +849,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　いくつか部品を交換したんで\n　パワーが上がっているはずじゃ。\n\n",
-   "en": ""
+   "en": "I swapped out a few parts, so its power\nought to be up.",
+   "status": "done"
   },
   {
    "id": "ev124_17D8",
@@ -784,7 +860,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　よしっ……。\n\n\n",
-   "en": ""
+   "en": "All right...",
+   "status": "done"
   },
   {
    "id": "ev124_17F4",
@@ -794,7 +871,8 @@
    ],
    "speaker": "",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev124_180C",
@@ -804,7 +882,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　な、なんだ。\n\n\n",
-   "en": ""
+   "en": "Wh-what the...",
+   "status": "done"
   },
   {
    "id": "ev124_1828",
@@ -814,7 +893,8 @@
    ],
    "speaker": "",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev124_1840",
@@ -824,7 +904,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　どうした、ケイゴ！！\n\n\n",
-   "en": ""
+   "en": "What's wrong, Keigo!!",
+   "status": "done"
   },
   {
    "id": "ev124_1868",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　わからない。\n　サイバスターの様子が\n　おかしいんだ。\n",
-   "en": ""
+   "en": "I don't know. Cybuster's acting strange.",
+   "status": "done"
   },
   {
    "id": "ev124_18A8",
@@ -844,7 +926,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　どれどれ……。\n\n\n",
-   "en": ""
+   "en": "Let's have a look...",
+   "status": "done"
   },
   {
    "id": "ev124_18CC",
@@ -854,7 +937,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　……こ、これは……。\n\n\n",
-   "en": ""
+   "en": "...Wh-why, this is...",
+   "status": "done"
   },
   {
    "id": "ev124_18F4",
@@ -864,7 +948,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　いや、そんなバカな……。\n\n\n",
-   "en": ""
+   "en": "No, that's impossible...",
+   "status": "done"
   },
   {
    "id": "ev124_1920",
@@ -874,7 +959,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんだっていうんだよ！\n\n\n",
-   "en": ""
+   "en": "What is it!?",
+   "status": "done"
   },
   {
    "id": "ev124_1944",
@@ -884,7 +970,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　こいつに宿っている精霊が、\n　同種の精霊を感知して共鳴しておる！\n\n",
-   "en": ""
+   "en": "The spirit inside it has sensed a spirit of its\nown kind and is resonating with it!",
+   "status": "done"
   },
   {
    "id": "ev124_1998",
@@ -894,7 +981,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　同じ精霊……！？\n　……まさか！！\n\n",
-   "en": ""
+   "en": "The same spirit...!? ...No way!!",
+   "status": "done"
   },
   {
    "id": "ev124_19C8",
@@ -904,7 +992,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そのまさかじゃ。\n　どうやら『神の腕』が目覚めたらしい。\n\n",
-   "en": ""
+   "en": "Afraid so, my boy. It seems the Arm of\nGod has awakened.",
+   "status": "done"
   },
   {
    "id": "ev124_1A14",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ケイゴ、イクナァトの館へいくぞ。\n\n\n",
-   "en": ""
+   "en": "Keigo, we're going to the Iknaat Mansion.",
+   "status": "done"
   },
   {
    "id": "ev124_1A48",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　何者かが\n『神の腕』を使って\n　なにかをしようとしておる。\n",
-   "en": ""
+   "en": "Someone is trying to do something with the\nArm of God.",
+   "status": "done"
   },
   {
    "id": "ev124_1A94",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　精霊の力は強大だ。\n\n\n",
-   "en": ""
+   "en": "The power of a spirit is immense.",
+   "status": "done"
   },
   {
    "id": "ev124_1ABC",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　それを悪用されでもしたら……。\n\n\n",
-   "en": ""
+   "en": "If someone were to abuse that power...",
+   "status": "done"
   },
   {
    "id": "ev124_1AF0",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　なんとしても阻止するんじゃ。\n\n\n",
-   "en": ""
+   "en": "We must stop them, whatever it takes!",
+   "status": "done"
   },
   {
    "id": "ev124_1B20",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　わかった。\n\n\n",
-   "en": ""
+   "en": "Got it.",
+   "status": "done"
   },
   {
    "id": "ev124_1B38",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "イェン",
    "jp": "　うん？\n　この音は……。\n\n",
-   "en": ""
+   "en": "Hm? That sound...",
+   "status": "done"
   },
   {
    "id": "ev124_1B5C",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "イェン",
    "jp": "　サイバスター！？\n\n\n",
-   "en": ""
+   "en": "Cybuster!?",
+   "status": "done"
   },
   {
    "id": "ev124_1B7C",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "シェス",
    "jp": "　たいへんです！\n　ケイゴさんが\n　アルフレード技師長と……。\n",
-   "en": ""
+   "en": "This is terrible! Keigo-san just went off\nwith Chief Engineer Alfredo...",
+   "status": "done"
   },
   {
    "id": "ev124_1BC4",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴが？\n\n\n",
-   "en": ""
+   "en": "Keigo did?",
+   "status": "done"
   },
   {
    "id": "ev124_1BDC",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "イェン",
    "jp": "　まったく、\n　困った男ですね……。\n\n",
-   "en": ""
+   "en": "Honestly, what a troublesome man...",
+   "status": "done"
   },
   {
    "id": "ev124_1C0C",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "イェン",
    "jp": "　シェス。\n　どこに向かっているか\n　わかりますか？\n",
-   "en": ""
+   "en": "Shess. Can you tell where they are headed?",
+   "status": "done"
   },
   {
    "id": "ev124_1C48",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "シェス",
    "jp": "　え～と、この方向だと……。\n　……イクナァトの館だと思われます。\n\n",
-   "en": ""
+   "en": "Um, from this direction... I believe it's the\nIknaat Mansion.",
+   "status": "done"
   },
   {
    "id": "ev124_1C94",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　イクナァトの館？\n\n\n",
-   "en": ""
+   "en": "The Iknaat Mansion?",
+   "status": "done"
   },
   {
    "id": "ev124_1CB4",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "イェン",
    "jp": "　アルマ様。\n　どうなさいますか？\n\n",
-   "en": ""
+   "en": "Alma-sama. What would you have us do?",
+   "status": "done"
   },
   {
    "id": "ev124_1CE0",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ベウマーたちは、\n　神官長の護衛でナトゥーレに\n　向かっているし……。\n",
-   "en": ""
+   "en": "Beumer and the others are escorting the\nHigh Priest to Natoure...",
+   "status": "done"
   },
   {
    "id": "ev124_1D30",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……仕方がないわね。\n　追いかけましょう。\n\n",
-   "en": ""
+   "en": "...It can't be helped. Let's go after them.",
+   "status": "done"
   },
   {
    "id": "ev124_1D68",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　きっと、\n　なにかがあったんだわ。\n\n",
-   "en": ""
+   "en": "Something must have happened, I'm sure\nof it.",
+   "status": "done"
   },
   {
    "id": "ev124_1D98",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "トト",
    "jp": "　わかった、おいらもいく！\n\n\n",
-   "en": ""
+   "en": "Okay, I'm coming too!",
+   "status": "done"
   },
   {
    "id": "ev124_1DBC",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "イェン",
    "jp": "　自分勝手に行動するところは\n　少しも直りませんね。\n\n",
-   "en": ""
+   "en": "His habit of acting on his own has not\nimproved one bit, has it?",
+   "status": "done"
   },
   {
    "id": "ev124_1DFC",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうかもね。\n\n\n",
-   "en": ""
+   "en": "Perhaps you're right.",
+   "status": "done"
   },
   {
    "id": "ev124_1E18",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev124_1E30",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　うわ、なんだっ！！\n\n\n",
-   "en": ""
+   "en": "Whoa, what the!?",
+   "status": "done"
   },
   {
    "id": "ev124_1E58",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　ソッド様。\n『神の腕』から異様な音が……。\n\n",
-   "en": ""
+   "en": "Thodd-sama. There's a strange sound\ncoming from the Arm of God...",
+   "status": "done"
   },
   {
    "id": "ev124_1E98",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（こ、この音は……）\n\n\n",
-   "en": ""
+   "en": "(Th-this sound...)",
+   "status": "done"
   },
   {
    "id": "ev124_1EB8",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（……共鳴しているのか？）\n\n\n",
-   "en": ""
+   "en": "(...Is it resonating?)",
+   "status": "done"
   },
   {
    "id": "ev124_1EE0",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　大丈夫だ。\n　気にすることはない。\n　それより早く運べ。\n",
-   "en": ""
+   "en": "It is fine. Pay it no mind. More importantly,\nhurry and move it.",
+   "status": "done"
   },
   {
    "id": "ev124_1F24",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　か、かしこまりました。\n\n\n",
-   "en": ""
+   "en": "Y-yes, sir.",
+   "status": "done"
   },
   {
    "id": "ev124_1F50",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev124_1F68",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　うわっ！\n　今度は震え始めました！！\n　どうすれば……！？\n",
-   "en": ""
+   "en": "Whoa! Now it's started shaking!! What do\nwe do...!?",
+   "status": "done"
   },
   {
    "id": "ev124_1FB4",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　怯むな！\n　落ち着け！！\n\n",
-   "en": ""
+   "en": "Do not flinch! Calm yourselves!!",
+   "status": "done"
   },
   {
    "id": "ev124_1FD8",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（共鳴が大きくなっている……）\n\n\n",
-   "en": ""
+   "en": "(The resonance is growing stronger...)",
+   "status": "done"
   },
   {
    "id": "ev124_2004",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（……ということは\n　サイバスターが近くにきている……）\n\n",
-   "en": ""
+   "en": "(...Which means Cybuster is drawing\nnear...)",
+   "status": "done"
   },
   {
    "id": "ev124_2048",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（まずいな……）　\n\n\n",
-   "en": ""
+   "en": "(Most inconvenient...)",
+   "status": "done"
   },
   {
    "id": "ev124_2068",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ケイゴ！\n　あれじゃ！！\n\n",
-   "en": ""
+   "en": "Keigo! There it is!!",
+   "status": "done"
   },
   {
    "id": "ev124_2094",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　やつら『神の腕』を\n　どこかに運ぼうとしておる。\n\n",
-   "en": ""
+   "en": "They're trying to carry the Arm of God off\nsomewhere.",
+   "status": "done"
   },
   {
    "id": "ev124_20D8",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　なんとしても\n　阻止するんじゃ！！\n\n",
-   "en": ""
+   "en": "Stop them, whatever it takes!!",
+   "status": "done"
   },
   {
    "id": "ev124_210C",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　わかってる。\n\n\n",
-   "en": ""
+   "en": "I know.",
+   "status": "done"
   },
   {
    "id": "ev124_2128",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……あの魔装機は間違いない）\n\n\n",
-   "en": ""
+   "en": "(...No doubt about that Masouki.)",
+   "status": "done"
   },
   {
    "id": "ev124_2154",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（あいつだ！\n　やっぱり生きていたか）\n\n",
-   "en": ""
+   "en": "(It's him! So he was alive after all.)",
+   "status": "done"
   },
   {
    "id": "ev124_2184",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（あいつだけは\n　許すわけにはいかない！！）\n\n\n",
-   "en": ""
+   "en": "(He's the one guy I can never forgive!!)",
+   "status": "done"
   },
   {
    "id": "ev124_21BC",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（やはり、サイバスターか）\n\n\n",
-   "en": ""
+   "en": "(Cybuster, as I thought.)",
+   "status": "done"
   },
   {
    "id": "ev124_21E4",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（……確か\n　ケイゴとかいったな）\n\n",
-   "en": ""
+   "en": "(...Keigo, I believe his name was.)",
+   "status": "done"
   },
   {
    "id": "ev124_2210",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（この機体では\n　勝ち目はないがやむを得まい……）\n\n\n",
-   "en": ""
+   "en": "(I have no chance of winning in this machine,\nbut it cannot be helped...)",
+   "status": "done"
   },
   {
    "id": "ev124_224C",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　ソッド様！\n　サイバスターが向かってきます！！\n\n",
-   "en": ""
+   "en": "Thodd-sama! Cybuster is heading our way!!",
+   "status": "done"
   },
   {
    "id": "ev124_2290",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ここは私にまかせろ！\n\n\n",
-   "en": ""
+   "en": "Leave this to me!",
+   "status": "done"
   },
   {
    "id": "ev124_22B4",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "ラガーシュ兵",
    "jp": "　し、しかし……。\n\n\n",
-   "en": ""
+   "en": "B-but, sir...",
+   "status": "done"
   },
   {
    "id": "ev124_22D8",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　よい。\n　お前たちは早く『神の腕』を\n　運ぶのだ！\n\n",
-   "en": ""
+   "en": "It is fine. You hurry and transport the Arm\nof God!",
+   "status": "done"
   },
   {
    "id": "ev124_2314",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "ラガーシュ兵",
    "jp": "　は、はいっ。\n\n\n",
-   "en": ""
+   "en": "Y-yes, sir!",
+   "status": "done"
   },
   {
    "id": "ev124_2334",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ケイゴ！\n『神の腕』がっ！！\n\n",
-   "en": ""
+   "en": "Keigo! The Arm of God!!",
+   "status": "done"
   },
   {
    "id": "ev124_2364",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くそっ！\n　そこをどけっ！！\n\n",
-   "en": ""
+   "en": "Damn it! Out of my way!!",
+   "status": "done"
   },
   {
    "id": "ev124_238C",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　久しぶりだな。\n　ケイゴ＝フェルディナン。\n\n",
-   "en": ""
+   "en": "It has been a while, Keigo Ferdinand.",
+   "status": "done"
   },
   {
    "id": "ev124_23C4",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（ケイゴ！\n　ヤツを知っているのか？）\n\n",
-   "en": ""
+   "en": "(Keigo! You know him?)",
+   "status": "done"
   },
   {
    "id": "ev124_23FC",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ああ。\n　敵の指令官で\n　名前はソッドっていってたっけ）\n",
-   "en": ""
+   "en": "(Yeah. He's an enemy commander... said his\nname was Thodd, I think.)",
+   "status": "done"
   },
   {
    "id": "ev124_2440",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（この戦争を起こした張本人さ）\n\n\n",
-   "en": ""
+   "en": "(He's the one who started this whole war.)",
+   "status": "done"
   },
   {
    "id": "ev124_246C",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（なるほど……）\n\n\n",
-   "en": ""
+   "en": "(I see...)",
+   "status": "done"
   },
   {
    "id": "ev124_2490",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　いつぞやは\n　途中で失礼させていただいて\n　すまなかった。\n",
-   "en": ""
+   "en": "My apologies for taking my leave partway\nthrough, the other day.",
+   "status": "done"
   },
   {
    "id": "ev124_24D4",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　きょうはそのときの\n　お礼もさせていただかないとね。\n\n",
-   "en": ""
+   "en": "So today, allow me to return the favor.",
+   "status": "done"
   },
   {
    "id": "ev124_2514",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うるさい！\n　世界をこれだけ混乱に巻き込んで、\n　いったいどうする気なんだ！！\n",
-   "en": ""
+   "en": "Shut up! You've dragged the whole world\ninto this chaos--what the hell are you\nplanning!?",
+   "status": "done"
   },
   {
    "id": "ev124_256C",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　キミのような人間に\n　私の計画を理解できるとは\n　思えないがね。\n",
-   "en": ""
+   "en": "I hardly think someone like you could\nunderstand my plans, my boy.",
+   "status": "done"
   },
   {
    "id": "ev124_25B8",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なにっ！！\n\n\n",
-   "en": ""
+   "en": "What!?",
+   "status": "done"
   },
   {
    "id": "ev124_25D0",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（ケイゴ、カッカするな）\n\n\n",
-   "en": ""
+   "en": "(Keigo, don't lose your temper.)",
+   "status": "done"
   },
   {
    "id": "ev124_25FC",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　おい！\n　確かソッドといったな。\n　聞きたいことがある。\n",
-   "en": ""
+   "en": "You there! Thodd, was it? I've something\nto ask you.",
+   "status": "done"
   },
   {
    "id": "ev124_2644",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ほう、あなたは確か\n　アルフレード＝ラスム＝ユロ。\n\n",
-   "en": ""
+   "en": "Oh? And you, if I am not mistaken, are\nAlfredo Rasm Yuro.",
+   "status": "done"
   },
   {
    "id": "ev124_2684",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　お会いできて光栄です。\n\n\n",
-   "en": ""
+   "en": "It is an honor to meet you.",
+   "status": "done"
   },
   {
    "id": "ev124_26A8",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（なんで、じいさんのことを\n　知っているんだ！？）\n\n",
-   "en": ""
+   "en": "(How does he know about you, old man!?)",
+   "status": "done"
   },
   {
    "id": "ev124_26E4",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（ワシほどの有名人になれば\n　誰だって知っておるじゃろう）\n\n",
-   "en": ""
+   "en": "(Someone as famous as me? Everybody\nknows me, eh.)",
+   "status": "done"
   },
   {
    "id": "ev124_2730",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（それか\n　ルジェロのヤツから\n　聞いたんじゃないのか）\n",
-   "en": ""
+   "en": "(Or else he heard it from that Ruggero\nfellow, didn't he?)",
+   "status": "done"
   },
   {
    "id": "ev124_2778",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（そうかな……どうも色々なことを\n　知り過ぎているような気が……）\n\n",
-   "en": ""
+   "en": "(I wonder... Somehow it feels like he knows\nway too much...)",
+   "status": "done"
   },
   {
    "id": "ev124_27C4",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　あなたの研究した精霊に関する資料は、\n　たいへん興味深く\n　拝見させていただきました。\n",
-   "en": ""
+   "en": "I have read your research materials on the\nspirits with the greatest interest.",
+   "status": "done"
   },
   {
    "id": "ev124_2824",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そんなことはよい。\n\n\n",
-   "en": ""
+   "en": "Never mind that.",
+   "status": "done"
   },
   {
    "id": "ev124_284C",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　それよりおまえは『神の腕』を\n　どうするつもりじゃ。\n\n",
-   "en": ""
+   "en": "More importantly, what do you intend to do\nwith the Arm of God?",
+   "status": "done"
   },
   {
    "id": "ev124_2894",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ずいぶん、研究されていたようだが\n　あなたは『神の腕』の真の力を\n　理解していない。\n",
-   "en": ""
+   "en": "You seem to have studied it extensively,\nyet you do not understand the true power\nof the Arm of God.",
+   "status": "done"
   },
   {
    "id": "ev124_28F4",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　おまえには\n　わかるというのか！？\n\n",
-   "en": ""
+   "en": "And you're saying you do!?",
+   "status": "done"
   },
   {
    "id": "ev124_2928",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　もちろん。\n　そのために戦争などという\n　手段を選んだのですから。\n",
-   "en": ""
+   "en": "Of course. That is precisely why I chose a\nmeans such as war.",
+   "status": "done"
   },
   {
    "id": "ev124_2974",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そ、そんなことのために！\n\n\n",
-   "en": ""
+   "en": "Y-you did all this for something like that!?",
+   "status": "done"
   },
   {
    "id": "ev124_299C",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "ソッド",
    "jp": "『神の腕』を『そんなこと』とはな。\n\n\n",
-   "en": ""
+   "en": "So the Arm of God is merely something like\nthat to you.",
+   "status": "done"
   },
   {
    "id": "ev124_29CC",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　キミには\n　物の価値というものが\n　わからないようだ。\n",
-   "en": ""
+   "en": "It seems you have no sense of the value of\nthings, my boy.",
+   "status": "done"
   },
   {
    "id": "ev124_2A0C",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私がその真の力を\n　いずれお見せしよう。\n\n",
-   "en": ""
+   "en": "One day, I shall show you its true power.",
+   "status": "done"
   },
   {
    "id": "ev124_2A40",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　もっとも\n　それまで生きていることが\n　できればね。\n",
-   "en": ""
+   "en": "Provided, of course, that you live that long.",
+   "status": "done"
   },
   {
    "id": "ev124_2A80",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　死ね。\n\n\n",
-   "en": ""
+   "en": "Die.",
+   "status": "done"
   },
   {
    "id": "ev124_2A94",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　やらせるかよ！\n\n\n",
-   "en": ""
+   "en": "Like hell I'll let you!",
+   "status": "done"
   },
   {
    "id": "ev124_2AB0",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　しまった！\n　逃げられた……。\n\n",
-   "en": ""
+   "en": "Damn! He got away...",
+   "status": "done"
   },
   {
    "id": "ev124_2ADC",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ケイゴ！\n　ダウスの魔物じゃ。\n\n",
-   "en": ""
+   "en": "Keigo! Monsters from Daus!",
+   "status": "done"
   },
   {
    "id": "ev124_2B0C",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　わかってる。\n\n\n",
-   "en": ""
+   "en": "I know.",
+   "status": "done"
   },
   {
    "id": "ev124_2B28",
@@ -1764,7 +1938,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "（しかし、なぜ\n　ソッドのヤツが……）\n\n",
-   "en": ""
+   "en": "(But why would that Thodd...)",
+   "status": "done"
   },
   {
    "id": "ev124_2B60",
@@ -1774,7 +1949,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ケイゴ＝フェルディナン。\n\n\n",
-   "en": ""
+   "en": "Keigo Ferdinand.",
+   "status": "done"
   },
   {
    "id": "ev124_2B88",
@@ -1784,7 +1960,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　私にはやることが\n　あってな。\n\n",
-   "en": ""
+   "en": "I have things I must do.",
+   "status": "done"
   },
   {
    "id": "ev124_2BB4",
@@ -1794,7 +1971,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　こんなところで\n　消えるわけにはいかないのだよ。\n\n",
-   "en": ""
+   "en": "I cannot afford to vanish in a place like this.",
+   "status": "done"
   },
   {
    "id": "ev124_2BF0",
@@ -1804,7 +1982,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　あとは、\n　こいつらと遊んでいてくれ。\n\n",
-   "en": ""
+   "en": "Do play with these creatures in the\nmeantime.",
+   "status": "done"
   },
   {
    "id": "ev124_2C24",
@@ -1814,7 +1993,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　では、いずれまた会おう。\n\n\n",
-   "en": ""
+   "en": "Until we meet again, then.",
+   "status": "done"
   },
   {
    "id": "ev124_2C4C",
@@ -1824,7 +2004,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ！\n\n\n",
-   "en": ""
+   "en": "Keigo!",
+   "status": "done"
   },
   {
    "id": "ev124_2C64",
@@ -1834,7 +2015,8 @@
    ],
    "speaker": "トト",
    "jp": "　じいちゃん！\n\n\n",
-   "en": ""
+   "en": "Grandpa!",
+   "status": "done"
   },
   {
    "id": "ev124_2C7C",
@@ -1844,7 +2026,8 @@
    ],
    "speaker": "イェン",
    "jp": "　まったくあなた方は！\n　なにをやっているんです。\n\n",
-   "en": ""
+   "en": "Honestly, you two! What do you think you\nare doing?",
+   "status": "done"
   },
   {
    "id": "ev124_2CB8",
@@ -1854,7 +2037,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なにをやっているって……。\n　見りゃわかるだろう！\n\n",
-   "en": ""
+   "en": "What are we doing...? Isn't it obvious!?",
+   "status": "done"
   },
   {
    "id": "ev124_2CF8",
@@ -1864,7 +2048,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そんな怒らなくたってなあ……。\n\n\n",
-   "en": ""
+   "en": "No need to get so angry, now...",
+   "status": "done"
   },
   {
    "id": "ev124_2D2C",
@@ -1874,7 +2059,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　話はあとにしましょう。\n　先に魔物を倒すわよ。\n\n",
-   "en": ""
+   "en": "Let's talk later. First we take down the\nmonsters.",
+   "status": "done"
   },
   {
    "id": "ev124_2D68",
@@ -1884,7 +2070,8 @@
    ],
    "speaker": "トト",
    "jp": "　へ、へへ～ん！\n　どんなもんだい！！\n\n",
-   "en": ""
+   "en": "H-hehe! How d'ya like that!!",
+   "status": "done"
   },
   {
    "id": "ev124_2D98",
@@ -1894,7 +2081,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　…………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev124_2DB8",
@@ -1904,7 +2092,8 @@
    ],
    "speaker": "イェン",
    "jp": "　アルマ様。\n　いかがなされました？\n\n",
-   "en": ""
+   "en": "Alma-sama. What is the matter?",
+   "status": "done"
   },
   {
    "id": "ev124_2DE8",
@@ -1914,7 +2103,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　なぜ、魔物たちが\n　現れたのかと思って……。\n\n",
-   "en": ""
+   "en": "I was just wondering why the monsters\nappeared...",
+   "status": "done"
   },
   {
    "id": "ev124_2E20",
@@ -1924,7 +2114,8 @@
    ],
    "speaker": "イェン",
    "jp": "　そういえば、\n　しばらく姿を見かけませんでしたね。\n\n",
-   "en": ""
+   "en": "Now that you mention it, we have not seen\nthem for some time.",
+   "status": "done"
   },
   {
    "id": "ev124_2E60",
@@ -1934,7 +2125,8 @@
    ],
    "speaker": "イェン",
    "jp": "　どういうことなのでしょう……。\n\n\n",
-   "en": ""
+   "en": "What could it mean...?",
+   "status": "done"
   },
   {
    "id": "ev124_2E8C",
@@ -1944,7 +2136,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そうじゃ、ケイゴ！\n『神の腕』は……。\n\n",
-   "en": ""
+   "en": "Oh, right, Keigo! The Arm of God...",
+   "status": "done"
   },
   {
    "id": "ev124_2EC4",
@@ -1954,7 +2147,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ダメです。\n　反応はありません。\n\n",
-   "en": ""
+   "en": "It's no good. There's no reading at all.",
+   "status": "done"
   },
   {
    "id": "ev124_2EF0",
@@ -1964,7 +2158,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　逃げられました。\n\n\n",
-   "en": ""
+   "en": "They got away.",
+   "status": "done"
   },
   {
    "id": "ev124_2F10",
@@ -1974,7 +2169,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　……そうか。\n\n\n",
-   "en": ""
+   "en": "...I see.",
+   "status": "done"
   },
   {
    "id": "ev124_2F30",
@@ -1984,7 +2180,8 @@
    ],
    "speaker": "イェン",
    "jp": "　……なるほど。\n\n\n",
-   "en": ""
+   "en": "...So that is how it is.",
+   "status": "done"
   },
   {
    "id": "ev124_2F4C",
@@ -1994,7 +2191,8 @@
    ],
    "speaker": "イェン",
    "jp": "　では、今までのことはすべて\n　そのソッドという男の計画\n　だったわけですね。\n",
-   "en": ""
+   "en": "Then everything up until now has been the\nplan of this man called Thodd.",
+   "status": "done"
   },
   {
    "id": "ev124_2FA4",
@@ -2004,7 +2202,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ええ。\n\n\n",
-   "en": ""
+   "en": "Yes.",
+   "status": "done"
   },
   {
    "id": "ev124_2FB8",
@@ -2014,7 +2213,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それにしても『神の腕』を\n　どうするつもりなのか……。\n\n",
-   "en": ""
+   "en": "Still, I wonder what he intends to do with\nthe Arm of God...",
+   "status": "done"
   },
   {
    "id": "ev124_2FFC",
@@ -2024,7 +2224,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　なにに使うかまではわからん。\n　ずいぶん、『神の腕』について\n　研究していたようじゃからな。\n",
-   "en": ""
+   "en": "What he'll use it for, I can't say. He seems\nto have researched the Arm of God quite\nthoroughly, eh.",
+   "status": "done"
   },
   {
    "id": "ev124_3068",
@@ -2034,7 +2235,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ただ、これだけはいえる。\n\n\n",
-   "en": ""
+   "en": "But this much I can tell you.",
+   "status": "done"
   },
   {
    "id": "ev124_3094",
@@ -2044,7 +2246,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　それは『神の腕』は生きておる\n　ということじゃ。\n\n",
-   "en": ""
+   "en": "The Arm of God is alive.",
+   "status": "done"
   },
   {
    "id": "ev124_30D8",
@@ -2054,7 +2257,8 @@
    ],
    "speaker": "イェン",
    "jp": "　生きている？\n\n\n",
-   "en": ""
+   "en": "Alive?",
+   "status": "done"
   },
   {
    "id": "ev124_30F4",
@@ -2064,7 +2268,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そうじゃ。\n　サイバスターと共鳴を\n　起こした点から見ても間違いない。\n",
-   "en": ""
+   "en": "That's right. Judging from the way it\nresonated with Cybuster, there's no doubt\nabout it.",
+   "status": "done"
   },
   {
    "id": "ev124_314C",
@@ -2074,7 +2279,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　精霊の力は、\n　ほぼ無限といってもいい。\n\n",
-   "en": ""
+   "en": "A spirit's power is all but limitless, you see.",
+   "status": "done"
   },
   {
    "id": "ev124_3188",
@@ -2084,7 +2290,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　その力を\n　悪しき方向に使えば……。\n\n",
-   "en": ""
+   "en": "If that power were turned toward evil...",
+   "status": "done"
   },
   {
    "id": "ev124_31C0",
@@ -2094,7 +2301,8 @@
    ],
    "speaker": "イェン",
    "jp": "　なにが起こるかわからない……。\n\n\n",
-   "en": ""
+   "en": "There is no telling what might happen...",
+   "status": "done"
   },
   {
    "id": "ev124_31EC",
@@ -2104,7 +2312,8 @@
    ],
    "speaker": "イェン",
    "jp": "　……そういうことですね。\n\n\n",
-   "en": ""
+   "en": "...That is what you mean.",
+   "status": "done"
   },
   {
    "id": "ev124_3214",
@@ -2114,7 +2323,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ああ。\n\n\n",
-   "en": ""
+   "en": "Aye.",
+   "status": "done"
   },
   {
    "id": "ev124_3230",
@@ -2124,7 +2334,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　それと気になることがある。\n\n\n",
-   "en": ""
+   "en": "And there's something else that\nbothers me.",
+   "status": "done"
   },
   {
    "id": "ev124_3260",
@@ -2134,7 +2345,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　気になること？\n\n\n",
-   "en": ""
+   "en": "Something that bothers you?",
+   "status": "done"
   },
   {
    "id": "ev124_327C",
@@ -2144,7 +2356,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ヤツは\n　ラガーシュの司令官なのじゃろ。\n\n",
-   "en": ""
+   "en": "That fellow is Ragash's commander,\nisn't he?",
+   "status": "done"
   },
   {
    "id": "ev124_32B8",
@@ -2154,7 +2367,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　状況打破のため\n『神の腕』を使うつもりなら\n　もっと兵力を集めていたはず。\n",
-   "en": ""
+   "en": "If he meant to use the Arm of God to turn\nthe tables, he'd have gathered more troops.",
+   "status": "done"
   },
   {
    "id": "ev124_3314",
@@ -2164,7 +2378,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　それを輸送部隊だけで\n　やってくるとは……。\n\n",
-   "en": ""
+   "en": "Yet he came with nothing but a transport\nunit...",
+   "status": "done"
   },
   {
    "id": "ev124_3354",
@@ -2174,7 +2389,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ラガーシュ軍の作戦とは\n　考えにくい……ということね。\n\n",
-   "en": ""
+   "en": "So it's hard to believe this was a Ragash\narmy operation... is that it?",
+   "status": "done"
   },
   {
    "id": "ev124_3398",
@@ -2184,7 +2400,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そういうことじゃ。\n\n\n",
-   "en": ""
+   "en": "Exactly so.",
+   "status": "done"
   },
   {
    "id": "ev124_33C0",
@@ -2194,7 +2411,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そして、それともう一つ。\n\n\n",
-   "en": ""
+   "en": "And there's one more thing.",
+   "status": "done"
   },
   {
    "id": "ev124_33EC",
@@ -2204,7 +2422,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　妙にタイミングよく\n　ダウスの魔物が現れた点じゃ。\n\n",
-   "en": ""
+   "en": "The Daus monsters showed up at a\nsuspiciously convenient moment.",
+   "status": "done"
   },
   {
    "id": "ev124_3430",
@@ -2214,7 +2433,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　まるで\n　ヤツが呼び寄せたような……。\n\n",
-   "en": ""
+   "en": "As if he had summoned them...",
+   "status": "done"
   },
   {
    "id": "ev124_3468",
@@ -2224,7 +2444,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そんな感じがした。\n\n\n",
-   "en": ""
+   "en": "That's how it felt to me.",
+   "status": "done"
   },
   {
    "id": "ev124_3490",
@@ -2234,7 +2455,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev124_34AC",
@@ -2244,7 +2466,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　まさか！？\n\n\n",
-   "en": ""
+   "en": "You can't mean...!?",
+   "status": "done"
   },
   {
    "id": "ev124_34C4",
@@ -2254,7 +2477,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　なんともいえん。\n\n\n",
-   "en": ""
+   "en": "I can't say for sure.",
+   "status": "done"
   },
   {
    "id": "ev124_34E8",
@@ -2264,7 +2488,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ただ、ダウスの穴での話や\n　さっきの会話などからして\n　どうも人智を越えたなにかが……。\n",
-   "en": ""
+   "en": "But from what happened at the Pit of Daus\nand what he just said, something beyond\nhuman ken seems at work...",
+   "status": "done"
   },
   {
    "id": "ev124_3550",
@@ -2274,7 +2499,8 @@
    ],
    "speaker": "アルフレード",
    "jp": "　そんな気がするんじゃ。\n\n\n",
-   "en": ""
+   "en": "That's the feeling I get, anyway.",
+   "status": "done"
   },
   {
    "id": "ev124_357C",
@@ -2284,7 +2510,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev124_3598",
@@ -2294,7 +2521,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(...)",
+   "status": "done"
   },
   {
    "id": "ev124_35B4",
@@ -2304,7 +2532,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（おまえはいったい\n　なにを考えている）\n\n",
-   "en": ""
+   "en": "(What on earth are you thinking...?)",
+   "status": "done"
   },
   {
    "id": "ev124_35E8",
@@ -2314,7 +2543,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（これ以上\n　世界を混乱させてどうするつもりだ）\n\n",
-   "en": ""
+   "en": "(What do you gain by throwing the world\ninto even more chaos...?)",
+   "status": "done"
   },
   {
    "id": "ev124_3624",
@@ -2324,7 +2554,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ソッド！！\n\n\n",
-   "en": ""
+   "en": "Thodd!!",
+   "status": "done"
   },
   {
    "id": "ev124_363C",
@@ -2334,7 +2565,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down here...",
+   "status": "done"
   },
   {
    "id": "ev124_3674",
@@ -2344,7 +2576,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、私は……。\n　ここまでというの……。\n\n",
-   "en": ""
+   "en": "I... I... Is this as far as I go...?",
+   "status": "done"
   },
   {
    "id": "ev124_36AC",
@@ -2354,7 +2587,8 @@
    ],
    "speaker": "イェン",
    "jp": "　このわたしが……。\n　やられるというのかっ！！\n\n",
-   "en": ""
+   "en": "I, of all people... Defeated!?",
+   "status": "done"
   },
   {
    "id": "ev124_36E8",
@@ -2364,7 +2598,8 @@
    ],
    "speaker": "トト",
    "jp": "　うっそ！！\n　おいらがやられるなんてアリ……。\n\n",
-   "en": ""
+   "en": "No way!! Me getting beaten? That's so not\nfair...",
+   "status": "done"
   },
   {
    "id": "ev124_3720",
@@ -2374,7 +2609,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（……さらに力をつけている）\n\n\n",
-   "en": ""
+   "en": "(...They have grown even stronger.)",
+   "status": "done"
   },
   {
    "id": "ev124_3748",
@@ -2384,7 +2620,8 @@
    ],
    "speaker": "ソッド",
    "jp": "（やはり、ヤツらを倒すには\n　同じ力を持つしかないようだな……）\n\n",
-   "en": ""
+   "en": "(It seems the only way to defeat them is\nto wield the same power...)",
+   "status": "done"
   },
   {
    "id": "ev124_5EC4",
@@ -2393,7 +2630,8 @@
     "0x6130"
    ],
    "jp": "　　　　　最強の騎士隊が凱歌を歌う\n\n　　　　　　　多勢に抵抗しつつも\n　　　　出口のない迷路を逃げ惑うとき\n　　　　　　絶望という名の現実に\n　　すべてを捨て去りたくなることもあった\n\n　　　　　　　　……それが昨日\n\n　　　　　　　七機の巨大騎士は\n　　　　　新たに最強の名を手に入れた\n\n　　　　すべてが彼らの手に戻ってきた\n",
-   "en": ""
+   "en": "The mightiest knights sing of victory.\n\nResisting a far greater host,\nfleeing through a maze with no exit,\nfaced with a reality named despair,\nat times they wished to cast all aside.\n\n...That was yesterday.\n\nThe seven giant knights\nhave newly won the name of mightiest.\n\nEverything has returned to their hands.",
+   "status": "done"
   },
   {
    "id": "ev124_6004",
@@ -2402,7 +2640,8 @@
     "0x6134"
    ],
    "jp": "　　見失いそうだった自分、明日という未来\n　　　　　　　希望という名の光\n\n　　　　　　　　……それが今日\n\n　　　彼らは、時代を動かそうとしていた\n\n　　　　　夢見たものが現実となるとき\n　　　　自分たちの道標を取り戻したとき\n\n　　　　　　　　……それが明日\n\n　そして時代が歴史となるとき……それが明後日\n",
-   "en": ""
+   "en": "Selves nearly lost, tomorrow, hope's light--\n\n...That is today.\n\nThey were about to set the age in motion.\n\nWhen what they dreamed becomes reality,\nwhen they regain their guiding star,\n\n...That is tomorrow.\n\nAnd when the age becomes history...\n...that is the day after tomorrow.",
+   "status": "done"
   }
  ]
 }

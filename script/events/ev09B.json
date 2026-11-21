@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　ダウスの世界\n\n\n",
-   "en": ""
+   "en": "The World of Daus",
+   "status": "done"
   },
   {
    "id": "ev09B_0688",
@@ -34,7 +35,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　じゃあ、アルフレード技師長と二人で\n　この世界を探索してたってわけね。\n\n",
-   "en": ""
+   "en": "So you and Chief Engineer Alfredo were\nexploring this world together.",
+   "status": "done"
   },
   {
    "id": "ev09B_06DC",
@@ -44,7 +46,8 @@
    ],
    "speaker": "トト",
    "jp": "　うん。\n\n\n",
-   "en": ""
+   "en": "Yeah.",
+   "status": "done"
   },
   {
    "id": "ev09B_06F0",
@@ -54,7 +57,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　で、完成していた魔装機神を\n　あなたに与えた……。\n\n",
-   "en": ""
+   "en": "And then he gave you the finished\nMasoukishin...",
+   "status": "done"
   },
   {
    "id": "ev09B_0730",
@@ -64,7 +68,8 @@
    ],
    "speaker": "トト",
    "jp": "　そうだよ。\n\n\n",
-   "en": ""
+   "en": "That's right.",
+   "status": "done"
   },
   {
    "id": "ev09B_0748",
@@ -74,7 +79,8 @@
    ],
    "speaker": "トト",
    "jp": "　……っていっても\n　ザムジードのほうが\n　おいらに話しかけてきたんだけどね。\n",
-   "en": ""
+   "en": "...Well, actually, Zamzeed's the one who\nstarted talkin' to me, though.",
+   "status": "done"
   },
   {
    "id": "ev09B_079C",
@@ -84,7 +90,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　まったく、王宮に秘密で\n　こんなことをしていたなんて……。\n\n",
-   "en": ""
+   "en": "Honestly, doing something like this behind\nthe palace's back...",
+   "status": "done"
   },
   {
    "id": "ev09B_07E4",
@@ -94,7 +101,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　アルフレード技師長も\n　こまったものね。\n\n",
-   "en": ""
+   "en": "Chief Engineer Alfredo really is impossible.",
+   "status": "done"
   },
   {
    "id": "ev09B_0818",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　でも、本当にダウスの穴から\n　この世界にきたのか？\n\n",
-   "en": ""
+   "en": "But did you really come to this world\nthrough the Pit of Daus?",
+   "status": "done"
   },
   {
    "id": "ev09B_0858",
@@ -114,7 +123,8 @@
    ],
    "speaker": "トト",
    "jp": "　うん、最初のころは、\n　魔物もいなかったんだけどね。\n\n",
-   "en": ""
+   "en": "Yeah. At first there weren't any monsters,\nthough.",
+   "status": "done"
   },
   {
    "id": "ev09B_0898",
@@ -124,7 +134,8 @@
    ],
    "speaker": "トト",
    "jp": "　でも、ある日突然、\n　現れるようになったんだ。\n\n",
-   "en": ""
+   "en": "But then one day, they suddenly started\nshowin' up.",
+   "status": "done"
   },
   {
    "id": "ev09B_08D0",
@@ -134,7 +145,8 @@
    ],
    "speaker": "トト",
    "jp": "　で、しばらく、いっちゃダメだって\n　いわれたんだけど……。\n\n",
-   "en": ""
+   "en": "So Grandpa told me not to go for a while,\nbut...",
+   "status": "done"
   },
   {
    "id": "ev09B_0914",
@@ -144,7 +156,8 @@
    ],
    "speaker": "トト",
    "jp": "　つい……。\n\n\n",
-   "en": ""
+   "en": "I just kinda...",
+   "status": "done"
   },
   {
    "id": "ev09B_092C",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　つい、きちまって、\n　帰れなくなったってわけか。\n\n",
-   "en": ""
+   "en": "You just kinda came anyway, and now\nyou're stuck.",
+   "status": "done"
   },
   {
    "id": "ev09B_0968",
@@ -164,7 +178,8 @@
    ],
    "speaker": "トト",
    "jp": "　そう。\n\n\n",
-   "en": ""
+   "en": "Yup.",
+   "status": "done"
   },
   {
    "id": "ev09B_097C",
@@ -174,7 +189,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　じいさんの孫らしいな、\n　まったく……。\n\n",
-   "en": ""
+   "en": "You're the old man's grandson, all right...",
+   "status": "done"
   },
   {
    "id": "ev09B_09B0",
@@ -184,7 +200,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　でも、どうして戻れなくなったの？\n\n\n",
-   "en": ""
+   "en": "But why couldn't you get back?",
+   "status": "done"
   },
   {
    "id": "ev09B_09E0",
@@ -194,7 +211,8 @@
    ],
    "speaker": "トト",
    "jp": "　だって、穴のまわりに\n　たくさんの魔物が\n　とりついているんだよ！\n",
-   "en": ""
+   "en": "Because there's a ton of monsters\nswarmin' all around the hole!",
+   "status": "done"
   },
   {
    "id": "ev09B_0A2C",
@@ -204,7 +222,8 @@
    ],
    "speaker": "トト",
    "jp": "　それに次元気流が発生していて……。\n\n\n",
-   "en": ""
+   "en": "Plus there's a dimensional current goin'...",
+   "status": "done"
   },
   {
    "id": "ev09B_0A5C",
@@ -214,7 +233,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　次元気流……？\n\n\n",
-   "en": ""
+   "en": "A dimensional current...?",
+   "status": "done"
   },
   {
    "id": "ev09B_0A78",
@@ -224,7 +244,8 @@
    ],
    "speaker": "トト",
    "jp": "　うん、その気流はいろんな場所に\n　つながってて、巻き込まれると\n　どこかに飛ばされちゃうんだって。\n",
-   "en": ""
+   "en": "Yeah, the current connects to all kinds of\nplaces, and if you get caught in it, you get\nflung off somewhere, they say.",
+   "status": "done"
   },
   {
    "id": "ev09B_0AE4",
@@ -234,7 +255,8 @@
    ],
    "speaker": "トト",
    "jp": "　危険だから、その気流が\n　発生しているときは、じいちゃんに\n　入っちゃダメだっていわれた。\n",
-   "en": ""
+   "en": "It's dangerous, so Grandpa told me never\nto go in while the current's goin'.",
+   "status": "done"
   },
   {
    "id": "ev09B_0B48",
@@ -244,7 +266,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長、どうしますか？\n\n\n",
-   "en": ""
+   "en": "Captain, what do we do?",
+   "status": "done"
   },
   {
    "id": "ev09B_0B6C",
@@ -254,7 +277,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうするっていっても、\n　脱出するには\n　ダウスの穴から出るしかなさそうね。\n",
-   "en": ""
+   "en": "What do we do... It looks like the only way\nout is through the Pit of Daus.",
+   "status": "done"
   },
   {
    "id": "ev09B_0BC4",
@@ -264,7 +288,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　とりあえず、\n　ダウスの穴にいってみましょう。\n\n",
-   "en": ""
+   "en": "For now, let's head to the Pit of Daus.",
+   "status": "done"
   },
   {
    "id": "ev09B_0C00",
@@ -274,7 +299,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　トト、あなたもいらっしゃい。\n\n\n",
-   "en": ""
+   "en": "Toto, you come too.",
+   "status": "done"
   },
   {
    "id": "ev09B_0C2C",
@@ -284,7 +310,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いっしょに技師長のところに\n　帰りましょう。\n\n",
-   "en": ""
+   "en": "Let's go back to the Chief Engineer\ntogether.",
+   "status": "done"
   },
   {
    "id": "ev09B_0C64",
@@ -294,7 +321,8 @@
    ],
    "speaker": "トト",
    "jp": "　うん！\n　でも、あそこまでいくには、\n　魔物がいて……。\n",
-   "en": ""
+   "en": "Okay! But to get there, there's monsters in\nthe way...",
+   "status": "done"
   },
   {
    "id": "ev09B_0CA4",
@@ -304,7 +332,8 @@
    ],
    "speaker": "トト",
    "jp": "　そうだ！　\n　ねえ、アルマねえちゃんも\n　魔装機を動かせるの？\n",
-   "en": ""
+   "en": "Oh, I know! Hey, Sis Alma, can you pilot a\nMasouki too?",
+   "status": "done"
   },
   {
    "id": "ev09B_0CEC",
@@ -314,7 +343,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　バ～カ！\n　おまえ、動かせるどころじゃないぞ！\n　この人はなあ……。\n",
-   "en": ""
+   "en": "Dummy! Pilot one? That's not the half of it!\nThis lady is...",
+   "status": "done"
   },
   {
    "id": "ev09B_0D3C",
@@ -324,7 +354,8 @@
    ],
    "speaker": "トト",
    "jp": "　人のこと、バカバカいうな。\n\n\n",
-   "en": ""
+   "en": "Quit callin' me dummy!",
+   "status": "done"
   },
   {
    "id": "ev09B_0D64",
@@ -334,7 +365,8 @@
    ],
    "speaker": "トト",
    "jp": "　おまえだって、バカだろう。\n\n",
-   "en": ""
+   "en": "You're the dummy!",
+   "status": "done"
   },
   {
    "id": "ev09B_0D88",
@@ -344,7 +376,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なにを！\n\n\n",
-   "en": ""
+   "en": "Why you...!",
+   "status": "done"
   },
   {
    "id": "ev09B_0DA0",
@@ -354,7 +387,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ、やめなさい！！\n\n\n",
-   "en": ""
+   "en": "Keigo, stop it!!",
+   "status": "done"
   },
   {
    "id": "ev09B_0DC4",
@@ -364,7 +398,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……はい。\n\n\n",
-   "en": ""
+   "en": "...Yes, ma'am.",
+   "status": "done"
   },
   {
    "id": "ev09B_0DDC",
@@ -374,7 +409,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ねえ、トト。\n　魔装機がどうのっていってたけど？\n\n",
-   "en": ""
+   "en": "Say, Toto. You were saying something\nabout a Masouki?",
+   "status": "done"
   },
   {
    "id": "ev09B_0E18",
@@ -384,7 +420,8 @@
    ],
    "speaker": "トト",
    "jp": "　じいちゃんが\n　この世界を探索するときに\n　使っていた魔装機が隠してあるんだ。\n",
-   "en": ""
+   "en": "There's a Masouki Grandpa used when he\nwas explorin' this world, hidden away.",
+   "status": "done"
   },
   {
    "id": "ev09B_0E70",
@@ -394,7 +431,8 @@
    ],
    "speaker": "トト",
    "jp": "　よかったら、使いなよ。\n\n\n",
-   "en": ""
+   "en": "You can use it if you want.",
+   "status": "done"
   },
   {
    "id": "ev09B_0E94",
@@ -404,7 +442,8 @@
    ],
    "speaker": "トト",
    "jp": "　それとも、\n　にいちゃんと一緒のほうがいいのかな？\n",
-   "en": ""
+   "en": "Or would you rather ride with big bro?",
+   "status": "done"
   },
   {
    "id": "ev09B_0ED0",
@@ -414,7 +453,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　トト、おまえ！\n　なんてことを……！！\n\n",
-   "en": ""
+   "en": "Toto, you...! What are you saying...!!",
+   "status": "done"
   },
   {
    "id": "ev09B_0F04",
@@ -424,7 +464,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　もう、二人ともよしなさい。\n\n\n",
-   "en": ""
+   "en": "Honestly, both of you, that's enough.",
+   "status": "done"
   },
   {
    "id": "ev09B_0F2C",
@@ -434,7 +475,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　トト、\n　ありがたく使わせてもらうわ。\n\n",
-   "en": ""
+   "en": "Thank you, Toto. I'd be glad to use it.",
+   "status": "done"
   },
   {
    "id": "ev09B_0F60",
@@ -444,7 +486,8 @@
    ],
    "speaker": "トト",
    "jp": "　にいちゃん！\n　たくさんいるよ！\n\n",
-   "en": ""
+   "en": "Big bro! There's a whole bunch of them!",
+   "status": "done"
   },
   {
    "id": "ev09B_0F8C",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ああ、わかってる！！\n\n",
-   "en": ""
+   "en": "Yeah, I know!!",
+   "status": "done"
   },
   {
    "id": "ev09B_0FAC",
@@ -464,7 +508,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ、迎撃するわよ！\n\n\n",
-   "en": ""
+   "en": "Keigo, we're intercepting them!",
+   "status": "done"
   },
   {
    "id": "ev09B_0FD0",
@@ -474,7 +519,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　了解っ！\n\n\n",
-   "en": ""
+   "en": "Roger!",
+   "status": "done"
   },
   {
    "id": "ev09B_0FE8",
@@ -484,7 +530,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　トト、あぶないから\n　少し下がっていなさい。\n\n",
-   "en": ""
+   "en": "Toto, it's dangerous, so stay back a little.",
+   "status": "done"
   },
   {
    "id": "ev09B_1020",
@@ -494,7 +541,8 @@
    ],
    "speaker": "トト",
    "jp": "　大丈夫！\n　まかせとけって！！\n\n",
-   "en": ""
+   "en": "I'm fine! Leave it to me!!",
+   "status": "done"
   },
   {
    "id": "ev09B_1048",
@@ -504,7 +552,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　トト！\n\n\n",
-   "en": ""
+   "en": "Toto!",
+   "status": "done"
   },
   {
    "id": "ev09B_105C",
@@ -514,7 +563,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ！\n　また、きたわ！！\n\n",
-   "en": ""
+   "en": "Keigo! More of them!!",
+   "status": "done"
   },
   {
    "id": "ev09B_1084",
@@ -524,7 +574,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なにっ！\n　まだいるのか！\n\n",
-   "en": ""
+   "en": "What!? There's still more!?",
+   "status": "done"
   },
   {
    "id": "ev09B_10AC",
@@ -534,7 +585,8 @@
    ],
    "speaker": "トト",
    "jp": "　おかしいなあ？\n　前は、こんなにいなかったのに！？\n\n",
-   "en": ""
+   "en": "That's weird! There weren't this many\nbefore!?",
+   "status": "done"
   },
   {
    "id": "ev09B_10E8",
@@ -544,7 +596,8 @@
    ],
    "speaker": "トト",
    "jp": "　……もう、いないよね？\n\n",
-   "en": ""
+   "en": "...There's no more, right?",
+   "status": "done"
   },
   {
    "id": "ev09B_1108",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ああ……。\n　なんとか全部、倒したみたいだな。\n\n",
-   "en": ""
+   "en": "Yeah... Looks like we managed to take\nthem all down.",
+   "status": "done"
   },
   {
    "id": "ev09B_1144",
@@ -564,7 +618,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……終わったようね。\n　ふたりとも、大丈夫？\n\n",
-   "en": ""
+   "en": "...Seems it's over. Are you both all right?",
+   "status": "done"
   },
   {
    "id": "ev09B_117C",
@@ -574,7 +629,8 @@
    ],
    "speaker": "トト",
    "jp": "　へへっ。\n　おいらとザムジードが組めば、\n　このくらい、なんてことないよ！\n",
-   "en": ""
+   "en": "Hehe. When me and Zamzeed team up, this\nmuch is nothin'!",
+   "status": "done"
   },
   {
    "id": "ev09B_11D0",
@@ -584,7 +640,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうか？\n\n\n",
-   "en": ""
+   "en": "Oh yeah?",
+   "status": "done"
   },
   {
    "id": "ev09B_11E8",
@@ -594,7 +651,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そのわりにはけっこう、\n　苦戦してたみたいだけど。\n",
-   "en": ""
+   "en": "For someone saying that, you looked like\nyou were struggling pretty hard.",
+   "status": "done"
   },
   {
    "id": "ev09B_1224",
@@ -604,7 +662,8 @@
    ],
    "speaker": "トト",
    "jp": "　そんなことないよ！\n\n\n",
-   "en": ""
+   "en": "Nuh-uh!",
+   "status": "done"
   },
   {
    "id": "ev09B_1244",
@@ -614,7 +673,8 @@
    ],
    "speaker": "トト",
    "jp": "　にいちゃんこそ、\n　ぜーぜーいってるくせに！\n\n",
-   "en": ""
+   "en": "You're the one who's all huffin' and puffin',\nbig bro!",
+   "status": "done"
   },
   {
    "id": "ev09B_127C",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　これは……深呼吸だよ！\n\n\n",
-   "en": ""
+   "en": "This is... deep breathing!",
+   "status": "done"
   },
   {
    "id": "ev09B_12A0",
@@ -634,7 +695,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　二人ともケンカしないで！\n\n\n",
-   "en": ""
+   "en": "Stop fighting, you two!",
+   "status": "done"
   },
   {
    "id": "ev09B_12C8",
@@ -644,7 +706,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　先に進むわよ！\n\n\n",
-   "en": ""
+   "en": "We're moving on!",
+   "status": "done"
   },
   {
    "id": "ev09B_12E4",
@@ -654,7 +717,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ほらみろ、怒られた。\n\n\n",
-   "en": ""
+   "en": "See? Now we got yelled at.",
+   "status": "done"
   },
   {
    "id": "ev09B_1308",
@@ -664,7 +728,8 @@
    ],
    "speaker": "トト",
    "jp": "　おいらのせいじゃないよ～だ！！\n\n\n",
-   "en": ""
+   "en": "It's not my fault, nyeh!!",
+   "status": "done"
   },
   {
    "id": "ev09B_1334",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんだと！\n\n\n",
-   "en": ""
+   "en": "What was that!?",
+   "status": "done"
   },
   {
    "id": "ev09B_134C",
@@ -684,7 +750,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ！！\n\n\n",
-   "en": ""
+   "en": "Keigo!!",
+   "status": "done"
   },
   {
    "id": "ev09B_1364",
@@ -694,7 +761,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……はい。\n\n\n",
-   "en": ""
+   "en": "...Yes, ma'am.",
+   "status": "done"
   },
   {
    "id": "ev09B_137C",
@@ -704,7 +772,8 @@
    ],
    "speaker": "トト",
    "jp": "　ふ～んだ。\n\n\n",
-   "en": ""
+   "en": "Hmph!",
+   "status": "done"
   },
   {
    "id": "ev09B_1394",
@@ -714,7 +783,8 @@
    ],
    "speaker": "トト",
    "jp": "（……でも、なんか変だな）\n\n",
-   "en": ""
+   "en": "(...But somethin's weird.)",
+   "status": "done"
   },
   {
    "id": "ev09B_13B8",
@@ -724,7 +794,8 @@
    ],
    "speaker": "トト",
    "jp": "（前は、\n　あんなにたくさんの魔物が\n　現れること、なかったのに……）\n\n",
-   "en": ""
+   "en": "(There never used to be so many monsters\nshowin' up before...)",
+   "status": "done"
   },
   {
    "id": "ev09B_1404",
@@ -734,7 +805,8 @@
    ],
    "speaker": "",
    "jp": "　ラガーシュ王国\n　　王都\n\n",
-   "en": ""
+   "en": "Kingdom of Ragash\nRoyal Capital",
+   "status": "done"
   },
   {
    "id": "ev09B_1424",
@@ -744,7 +816,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　イクナァトの魔装機神の行方は\n　まだわからないのか？\n\n",
-   "en": ""
+   "en": "Have we still not found where the\nMasoukishin of Iknaat went?",
+   "status": "done"
   },
   {
    "id": "ev09B_1468",
@@ -754,7 +827,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　はい。\n\n\n",
-   "en": ""
+   "en": "We have not.",
+   "status": "done"
   },
   {
    "id": "ev09B_147C",
@@ -764,7 +838,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　これだけ捜索しても\n　発見できないところをみると、\n　おそらくは……。\n",
-   "en": ""
+   "en": "Seeing as a search this thorough has\nturned up nothing, in all likelihood...",
+   "status": "done"
   },
   {
    "id": "ev09B_14CC",
@@ -774,7 +849,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　大地の魔装機神も\n　処理済と聞いているが……。\n\n",
-   "en": ""
+   "en": "I am told the Masoukishin of the earth has\nbeen dealt with as well...",
+   "status": "done"
   },
   {
    "id": "ev09B_150C",
@@ -784,7 +860,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　この調子では計画全体に\n　支障をきたすのではないか？\n\n",
-   "en": ""
+   "en": "At this rate, will the whole plan not be\nhindered?",
+   "status": "done"
   },
   {
    "id": "ev09B_1550",
@@ -794,7 +871,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　それは問題ありません。\n\n\n",
-   "en": ""
+   "en": "That poses no problem.",
+   "status": "done"
   },
   {
    "id": "ev09B_1574",
@@ -804,7 +882,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　やつらが現れたとしても\n　そのころには……。\n\n",
-   "en": ""
+   "en": "Even should they appear, by then...",
+   "status": "done"
   },
   {
    "id": "ev09B_15AC",
@@ -814,7 +893,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ふん……まあいい。\n\n\n",
-   "en": ""
+   "en": "Hmph... very well.",
+   "status": "done"
   },
   {
    "id": "ev09B_15D0",
@@ -824,7 +904,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　すると残った問題は……。\n\n\n",
-   "en": ""
+   "en": "Then the problem that remains is...",
+   "status": "done"
   },
   {
    "id": "ev09B_15FC",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ナトゥーレの\n　魔装機神グランヴェールと\n　もう一機の魔装機神の在処ですな。\n",
-   "en": ""
+   "en": "The whereabouts of Natoure's Masoukishin\nGranveil, and of the one other Masoukishin.",
+   "status": "done"
   },
   {
    "id": "ev09B_1654",
@@ -844,7 +926,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ナトゥーレか……。\n\n\n",
-   "en": ""
+   "en": "Natoure, eh...",
+   "status": "done"
   },
   {
    "id": "ev09B_1678",
@@ -854,7 +937,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　あの国さえ落としてしまえば、\n　あとの小国を平らげることなど\n　なんの造作もないこと。\n",
-   "en": ""
+   "en": "Once that country falls, crushing the petty\nnations that remain will be no trouble at all.",
+   "status": "done"
   },
   {
    "id": "ev09B_16DC",
@@ -864,7 +948,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　我々の理想国家が\n　実現する日は近いな。\n\n",
-   "en": ""
+   "en": "The day our ideal nation becomes reality\nis near.",
+   "status": "done"
   },
   {
    "id": "ev09B_1714",
@@ -874,7 +959,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ハハハッ……。\n\n",
-   "en": ""
+   "en": "Hahaha...",
+   "status": "done"
   },
   {
    "id": "ev09B_1734",
@@ -884,7 +970,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev09B_1750",
@@ -894,7 +981,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　……ソッドよ。\n\n\n",
-   "en": ""
+   "en": "...Thodd!",
+   "status": "done"
   },
   {
    "id": "ev09B_1770",
@@ -904,7 +992,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ところで例の新型機のほうは\n　どうなっている？\n\n",
-   "en": ""
+   "en": "By the way, how goes that new machine of\nyours?",
+   "status": "done"
   },
   {
    "id": "ev09B_17B0",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ほぼ、完成しております。\n　あとは実戦テストを残すのみ……。\n\n",
-   "en": ""
+   "en": "It is nearly complete. All that remains is a\nfield test...",
+   "status": "done"
   },
   {
    "id": "ev09B_17F8",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　よし、そちらのほうも急げ。\n\n\n",
-   "en": ""
+   "en": "Good. Hurry that along as well.",
+   "status": "done"
   },
   {
    "id": "ev09B_1824",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ナトゥーレを落とすには\n　欠かせないものだからな。\n",
-   "en": ""
+   "en": "We cannot take Natoure without it, after all.",
+   "status": "done"
   },
   {
    "id": "ev09B_1864",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　承知しております。\n\n\n",
-   "en": ""
+   "en": "As you wish.",
+   "status": "done"
   },
   {
    "id": "ev09B_1884",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ナトゥーレの小娘め。\n\n\n",
-   "en": ""
+   "en": "That little girl of Natoure...",
+   "status": "done"
   },
   {
    "id": "ev09B_18AC",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　待っておれ。\n　目にものを見せてくれるわ！\n\n",
-   "en": ""
+   "en": "Just you wait. I shall make you regret it!",
+   "status": "done"
   },
   {
    "id": "ev09B_18E8",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ハハハッ……！\n\n\n",
-   "en": ""
+   "en": "Hahaha...!",
+   "status": "done"
   },
   {
    "id": "ev09B_1908",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ハハハハハハッ……！\n\n\n",
-   "en": ""
+   "en": "Hahahahahaha...!",
+   "status": "done"
   },
   {
    "id": "ev09B_1930",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "...",
+   "status": "done"
   },
   {
    "id": "ev09B_194C",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down in a place like this...",
+   "status": "done"
   },
   {
    "id": "ev09B_1984",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、私は……。\n　ここまでというの……。\n\n",
-   "en": ""
+   "en": "I... I... Is this as far as I can go...",
+   "status": "done"
   },
   {
    "id": "ev09B_19BC",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "トト",
    "jp": "　うっそ！！\n　おいらがやられるなんてアリ……。\n\n",
-   "en": ""
+   "en": "No way!! How can I be the one who loses...",
+   "status": "done"
   },
   {
    "id": "ev09B_2CC4",
@@ -1033,7 +1134,8 @@
     "0x2FA8"
    ],
    "jp": "　　　　　　　　　ア・ゼルス\n　　　　　光あるところに棲むものたち\n　　　　自らの背後にうごめく影を知らず\n\n　　　　　　　　　　ダウス\n　　　　　隠蔽された闇の歴史によって\n　　　いつしか産み出された裏の世界……\n\n　　　　選ばれしものをいざなう魔神は\n　　陽の射し込まない世界に男と女を運んだ\n\n　　　　　目前に広がるは荒涼たる風景\n　　　　　　　闇に閉ざされた世界\n",
-   "en": ""
+   "en": "A-Zeluth\nThose who dwell where there is light\nknow not the shadow stirring behind them\n\nDaus\nA history of darkness, kept hidden,\ngave birth, in time, to an underworld...\n\nThe god-machine that beckons the chosen\ncarried a man and a woman to a sunless world\n\nBefore them spreads a desolate landscape,\na world shut away in darkness",
+   "status": "done"
   },
   {
    "id": "ev09B_2E2C",
@@ -1042,7 +1144,8 @@
     "0x2FAC"
    ],
    "jp": "　　　　見えざる手によって動かされる\n　騎士たちを待っているのは非情な運命なのか\n\n　　　　迷い込んだ戸惑いと寂しさの中\n　　　　　　二人はその情を試される\n\n　　　　　男は己の思い出と歩みを語り\n　　　　　女騎士の閉ざされた心の内に\n　　輝く光を与え、その扉の向こうを垣間見る\n\n　　　　　　　　交錯する思いが\n　　　　　二人の距離を近づけるとき\n　　彼らを導いた魔神はなにも答えなかった\n",
-   "en": ""
+   "en": "Moved by an unseen hand,\ndo the knights face only a cruel fate?\n\nLost amid bewilderment and loneliness,\nthe two find their hearts put to the test\n\nThe man speaks of his memories and his path\ninto the woman knight's closed heart\nhe brings light, and glimpses past its door\n\nAs their tangled feelings\ndraw the two of them closer,\ntheir guiding god-machine gave no answer",
+   "status": "done"
   }
  ]
 }

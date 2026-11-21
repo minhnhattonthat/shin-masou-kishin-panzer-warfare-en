@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　バルツフィーム王国\n　　王都\n\n",
-   "en": ""
+   "en": "Kingdom of Vartzpheem\nRoyal Capital",
+   "status": "done"
   },
   {
    "id": "ev033_0C8C",
@@ -34,7 +35,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……ですから、陛下。\n　今回の事件は、\n　ラガーシュ側の陰謀なのです。\n",
-   "en": ""
+   "en": "...And so, Your Majesty, this incident is a\nRagash conspiracy.",
+   "status": "done"
   },
   {
    "id": "ev033_0CDC",
@@ -44,7 +46,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　ふむ……。\n\n\n",
-   "en": ""
+   "en": "Hmm...",
+   "status": "done"
   },
   {
    "id": "ev033_0CF8",
@@ -54,7 +57,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　だが、ラガーシュ王国側は、\n　警告を無視して\n　国境線を越えたといっている。\n",
-   "en": ""
+   "en": "Yet the Kingdom of Ragash claims you\nignored their warnings and crossed the\nborder.",
+   "status": "done"
   },
   {
    "id": "ev033_0D50",
@@ -64,7 +68,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　しかも、先に攻撃を仕掛けたのは、\n　我々のほうだとは……。\n\n",
-   "en": ""
+   "en": "What's more, they say it was we who\nattacked first...",
+   "status": "done"
   },
   {
    "id": "ev033_0D98",
@@ -74,7 +79,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ですから、\n　何度もお話ししているように！\n\n",
-   "en": ""
+   "en": "As I have told you time and again!",
+   "status": "done"
   },
   {
    "id": "ev033_0DD0",
@@ -84,7 +90,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　もういい。\n\n\n",
-   "en": ""
+   "en": "Enough.",
+   "status": "done"
   },
   {
    "id": "ev033_0DEC",
@@ -94,7 +101,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　幸い、彼らは、\n　今回の件を不問にしようと\n　いってきている。\n",
-   "en": ""
+   "en": "Fortunately, they have offered to let the\nmatter drop.",
+   "status": "done"
   },
   {
    "id": "ev033_0E38",
@@ -104,7 +112,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　今はそれどころではなく、\n　両国で協力し合い、\n　ダウスの魔物の問題が先決だと。\n",
-   "en": ""
+   "en": "They say there are greater concerns now:\nour two nations must cooperate and deal\nwith the monsters of Daus first.",
+   "status": "done"
   },
   {
    "id": "ev033_0E94",
@@ -114,7 +123,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ラガーシュの陰謀だというのならば、\n　彼らの真意は\n　どこにあるというのだ？\n",
-   "en": ""
+   "en": "If this is a Ragash conspiracy, then tell me,\nwhat is their true aim?",
+   "status": "done"
   },
   {
    "id": "ev033_0EEC",
@@ -124,7 +134,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そ、それは……。\n\n\n",
-   "en": ""
+   "en": "Th-That is...",
+   "status": "done"
   },
   {
    "id": "ev033_0F0C",
@@ -134,7 +145,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　しかも、わざわざ\n　ダンカン王、自らがこちらにいらして\n　会談を行おうといっておられる。\n",
-   "en": ""
+   "en": "Moreover, King Duncan himself has gone\nout of his way to propose coming here to\nhold talks.",
+   "status": "done"
   },
   {
    "id": "ev033_0F70",
@@ -144,7 +156,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev033_0F8C",
@@ -154,7 +167,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　それに、だいたい貴君は、\n　事件の場所にはいなかったのだろう。\n\n",
-   "en": ""
+   "en": "Besides, you were not even at the scene of\nthe incident, were you?",
+   "status": "done"
   },
   {
    "id": "ev033_0FD8",
@@ -164,7 +178,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　おおかた、ついこの間、配属された\n　ケイゴとかいう騎士が失態を隠すために\n　ウソをついているのではないのかね！\n",
-   "en": ""
+   "en": "Most likely that knight who was just\nassigned to you, Keigo or whatever his\nname is, is lying to cover up his blunder!",
+   "status": "done"
   },
   {
    "id": "ev033_1054",
@@ -174,7 +189,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そんなことはありません！\n\n\n",
-   "en": ""
+   "en": "That is not true!",
+   "status": "done"
   },
   {
    "id": "ev033_107C",
@@ -184,7 +200,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　彼は、確かに経験は浅いですが\n　有能な騎士です。\n\n",
-   "en": ""
+   "en": "He may lack experience, but he is a capable\nknight.",
+   "status": "done"
   },
   {
    "id": "ev033_10B8",
@@ -194,7 +211,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　まあ、落ちつきなさい、アルマ。\n\n\n",
-   "en": ""
+   "en": "Now, now, calm down, Alma.",
+   "status": "done"
   },
   {
    "id": "ev033_10E8",
@@ -204,7 +222,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev033_1104",
@@ -214,7 +233,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　向こうは、この件に関しては\n　状況の説明だけを求めておる。\n\n",
-   "en": ""
+   "en": "As for this matter, they ask only for an\nexplanation of what happened.",
+   "status": "done"
   },
   {
    "id": "ev033_1150",
@@ -224,7 +244,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　よって今度の会談では、\n　充分話し合うつもりだ。\n\n",
-   "en": ""
+   "en": "So I intend to discuss it thoroughly at the\ncoming talks.",
+   "status": "done"
   },
   {
    "id": "ev033_1190",
@@ -234,7 +255,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　それだけでは、いかんのかね？\n\n\n",
-   "en": ""
+   "en": "Is that not enough?",
+   "status": "done"
   },
   {
    "id": "ev033_11C0",
@@ -244,7 +266,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　し、しかし……。\n\n\n",
-   "en": ""
+   "en": "B-But...",
+   "status": "done"
   },
   {
    "id": "ev033_11E0",
@@ -254,7 +277,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　それにダンカン王、自らが\n　バルツフィームにお見えになるのだ。\n　陰謀もなにもないだろう。\n",
-   "en": ""
+   "en": "Besides, King Duncan is coming to\nVartzpheem in person. There can hardly be\nany conspiracy in that.",
+   "status": "done"
   },
   {
    "id": "ev033_1248",
@@ -264,7 +288,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　これで会見は、終わりだ。\n\n\n",
-   "en": ""
+   "en": "This audience is over.",
+   "status": "done"
   },
   {
    "id": "ev033_1274",
@@ -274,7 +299,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　お、お父さまっ！\n\n\n",
-   "en": ""
+   "en": "F-Father!",
+   "status": "done"
   },
   {
    "id": "ev033_1294",
@@ -284,7 +310,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　ルジェロ。\n　悪いが席を外してくれないか。\n\n",
-   "en": ""
+   "en": "Ruggero. Forgive me, but would you\nleave us?",
+   "status": "done"
   },
   {
    "id": "ev033_12D0",
@@ -294,7 +321,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　はい、かしこまりました。\n\n\n",
-   "en": ""
+   "en": "Yes, as you wish.",
+   "status": "done"
   },
   {
    "id": "ev033_12F8",
@@ -304,7 +332,8 @@
    ],
    "speaker": "ルジェロ",
    "jp": "（……フッ）\n\n\n",
-   "en": ""
+   "en": "(...Heh.)",
+   "status": "done"
   },
   {
    "id": "ev033_1314",
@@ -314,7 +343,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　そんなことより、アルマ。\n\n\n",
-   "en": ""
+   "en": "More to the point, Alma.",
+   "status": "done"
   },
   {
    "id": "ev033_1340",
@@ -324,7 +354,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　もう、騎士などやめて\n　帰ってこんか？\n",
-   "en": ""
+   "en": "Won't you give up this knight business and\ncome home?",
+   "status": "done"
   },
   {
    "id": "ev033_1374",
@@ -334,7 +365,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　あの事故が\n　おまえに与えた心の傷も\n　わからんわけではない。\n",
-   "en": ""
+   "en": "It's not that I don't understand the wound\nthat accident left on your heart.",
+   "status": "done"
   },
   {
    "id": "ev033_13C0",
@@ -344,7 +376,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　お父さま……。\n\n\n",
-   "en": ""
+   "en": "Father...",
+   "status": "done"
   },
   {
    "id": "ev033_13DC",
@@ -354,7 +387,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　しかし、ミラが行方不明となり、\n　おまえまでもが家を出てしまった……。\n\n",
-   "en": ""
+   "en": "But Mira has gone missing, and now even\nyou have left home...",
+   "status": "done"
   },
   {
    "id": "ev033_1434",
@@ -364,7 +398,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　事故以来、あいつも\n　たいそう寂しい思いをしておる。\n\n",
-   "en": ""
+   "en": "Since the accident, your mother has been\nterribly lonely too.",
+   "status": "done"
   },
   {
    "id": "ev033_1478",
@@ -374,7 +409,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　お母さまに、\n　悲しい思いをさせているのは\n　わかっています。\n",
-   "en": ""
+   "en": "I know that I am causing Mother grief.",
+   "status": "done"
   },
   {
    "id": "ev033_14C0",
@@ -384,7 +420,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　でも、一番つらいのは、\n　妹のミラです。\n\n",
-   "en": ""
+   "en": "But the one suffering most is my\nsister, Mira.",
+   "status": "done"
   },
   {
    "id": "ev033_14F4",
@@ -394,7 +431,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、ミラが幸せになるまでは、\n　騎士をやめるつもりはありません！\n\n",
-   "en": ""
+   "en": "Until Mira finds happiness, I have no\nintention of giving up knighthood!",
+   "status": "done"
   },
   {
    "id": "ev033_1544",
@@ -404,7 +442,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　わかった……。\n\n\n",
-   "en": ""
+   "en": "Very well...",
+   "status": "done"
   },
   {
    "id": "ev033_1564",
@@ -414,7 +453,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　きょうのところは、\n　これぐらいにしておこう。\n\n",
-   "en": ""
+   "en": "Let us leave it at that for today.",
+   "status": "done"
   },
   {
    "id": "ev033_15A4",
@@ -424,7 +464,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　すみません、お父さま。\n\n\n",
-   "en": ""
+   "en": "I'm sorry, Father.",
+   "status": "done"
   },
   {
    "id": "ev033_15C8",
@@ -434,7 +475,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　……あと、そうそう。\n\n\n",
-   "en": ""
+   "en": "...Oh, and one more thing.",
+   "status": "done"
   },
   {
    "id": "ev033_15F0",
@@ -444,7 +486,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　おまえの忠告通り、\n　会談は、相手の出方に\n　注意するとしよう。\n",
-   "en": ""
+   "en": "As you advised, I will keep a careful eye on\nhow the other side acts at the talks.",
+   "status": "done"
   },
   {
    "id": "ev033_1640",
@@ -454,7 +497,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　これでいいかね？\n\n\n",
-   "en": ""
+   "en": "Will that do?",
+   "status": "done"
   },
   {
    "id": "ev033_1664",
@@ -464,7 +508,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　お父さま……。\n\n\n",
-   "en": ""
+   "en": "Father...",
+   "status": "done"
   },
   {
    "id": "ev033_1680",
@@ -474,7 +519,8 @@
    ],
    "speaker": "バージェス",
    "jp": "　ダンカン王の警護しっかりと頼むぞ。\n\n\n",
-   "en": ""
+   "en": "I'm counting on you to guard King\nDuncan well.",
+   "status": "done"
   },
   {
    "id": "ev033_16B4",
@@ -484,7 +530,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　はいっ！\n\n\n",
-   "en": ""
+   "en": "I will!",
+   "status": "done"
   },
   {
    "id": "ev033_16CC",
@@ -494,7 +541,8 @@
    ],
    "speaker": "",
    "jp": "　ラガーシュ王国\n　　王都\n\n",
-   "en": ""
+   "en": "Kingdom of Ragash\nRoyal Capital",
+   "status": "done"
   },
   {
    "id": "ev033_16EC",
@@ -504,7 +552,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　……おまえは\n　いったい、なにを考えている！\n\n",
-   "en": ""
+   "en": "...What in the world are you thinking!?",
+   "status": "done"
   },
   {
    "id": "ev033_1728",
@@ -514,7 +563,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　バルツフィームと\n　戦争でもするつもりか！！\n\n",
-   "en": ""
+   "en": "Do you mean to start a war with\nVartzpheem!?",
+   "status": "done"
   },
   {
    "id": "ev033_1764",
@@ -524,7 +574,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　陛下。\n　よくお考えになってください。\n\n",
-   "en": ""
+   "en": "Your Majesty. Please, consider this\ncarefully.",
+   "status": "done"
   },
   {
    "id": "ev033_179C",
@@ -534,7 +585,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev033_17BC",
@@ -544,7 +596,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ここ最近、ヤツらとの\n　ちょっとした衝突が\n　報告されています。\n",
-   "en": ""
+   "en": "Lately, there have been reports of minor\nclashes with them.",
+   "status": "done"
   },
   {
    "id": "ev033_180C",
@@ -554,7 +607,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　そのほとんどは\n　向こう側からの挑発を\n　受けたもの……。\n",
-   "en": ""
+   "en": "Nearly all of them were provocations from\ntheir side...",
+   "status": "done"
   },
   {
    "id": "ev033_1854",
@@ -564,7 +618,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　まして、\n　バルツフィームは精鋭部隊である\n　西方騎士隊を出撃させています。\n",
-   "en": ""
+   "en": "What's more, Vartzpheem has deployed its\nelite unit, the Western Knights.",
+   "status": "done"
   },
   {
    "id": "ev033_18B0",
@@ -574,7 +629,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　しかもあろうことか\n　我が軍に対し攻撃を行い、\n　魔装機隊を壊滅させているのです。\n",
-   "en": ""
+   "en": "And, of all things, they attacked our army\nand wiped out a Masouki unit.",
+   "status": "done"
   },
   {
    "id": "ev033_1910",
@@ -584,7 +640,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　これが向こうの\n　交戦意志でなければ\n　なんだというのです。\n",
-   "en": ""
+   "en": "If this is not a will to wage war, then what\nis it?",
+   "status": "done"
   },
   {
    "id": "ev033_195C",
@@ -594,7 +651,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　そんな一方的な報告だけで\n　バルツフィームに\n　宣戦布告などできん。\n",
-   "en": ""
+   "en": "I cannot declare war on Vartzpheem on the\nstrength of such one-sided reports.",
+   "status": "done"
   },
   {
    "id": "ev033_19AC",
@@ -604,7 +662,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　しかも最近、\n　ダウスの魔物が\n　現れ始めたらしいではないか！\n",
-   "en": ""
+   "en": "Besides, haven't the monsters of Daus\nbegun to appear of late!?",
+   "status": "done"
   },
   {
    "id": "ev033_19F8",
@@ -614,7 +673,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　今は、各国間で\n　争っている場合ではない。\n\n",
-   "en": ""
+   "en": "This is no time for the nations to be\nfighting each other.",
+   "status": "done"
   },
   {
    "id": "ev033_1A30",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　協力して、\n　魔物をなんとかしなければ\n　ならないのだ。\n",
-   "en": ""
+   "en": "We must work together and do something\nabout the monsters.",
+   "status": "done"
   },
   {
    "id": "ev033_1A74",
@@ -634,7 +695,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev033_1A94",
@@ -644,7 +706,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　もうよい。\n　私自ら、バルツフィームに出向き、\n　事実関係を確認する。\n",
-   "en": ""
+   "en": "Enough. I will go to Vartzpheem myself and\nconfirm the facts.",
+   "status": "done"
   },
   {
    "id": "ev033_1AE8",
@@ -654,7 +717,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　陛下、それは危険です……。\n\n\n",
-   "en": ""
+   "en": "Your Majesty, that would be dangerous...",
+   "status": "done"
   },
   {
    "id": "ev033_1B14",
@@ -664,7 +728,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　そうか？\n\n\n",
-   "en": ""
+   "en": "Is that so?",
+   "status": "done"
   },
   {
    "id": "ev033_1B2C",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　私にはおまえのほうが\n　危険に思えるが……。\n\n",
-   "en": ""
+   "en": "To me, it is you who seems dangerous...",
+   "status": "done"
   },
   {
    "id": "ev033_1B68",
@@ -684,7 +750,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　護衛の手配はしてある。\n\n\n",
-   "en": ""
+   "en": "I have arranged an escort.",
+   "status": "done"
   },
   {
    "id": "ev033_1B90",
@@ -694,7 +761,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　まずは事実を確かめたい。\n\n\n",
-   "en": ""
+   "en": "First, I want to ascertain the facts.",
+   "status": "done"
   },
   {
    "id": "ev033_1BB8",
@@ -704,7 +772,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　アデノイドよ。\n　バルツフィームから\n　戻ったあとにさせてもらおう。\n",
-   "en": ""
+   "en": "Adenoid. Whatever you have in mind can\nwait until I return from Vartzpheem.",
+   "status": "done"
   },
   {
    "id": "ev033_1C08",
@@ -714,7 +783,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　それまで\n　おとなしくしていろ。\n\n",
-   "en": ""
+   "en": "Until then, keep quiet.",
+   "status": "done"
   },
   {
    "id": "ev033_1C38",
@@ -724,7 +794,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev033_1C58",
@@ -734,7 +805,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　若造が調子に乗りおって……。\n\n\n",
-   "en": ""
+   "en": "That young whelp is getting above himself...",
+   "status": "done"
   },
   {
    "id": "ev033_1C88",
@@ -744,7 +816,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……アデノイド様。\n\n\n",
-   "en": ""
+   "en": "...Adenoid-sama.",
+   "status": "done"
   },
   {
    "id": "ev033_1CA8",
@@ -754,7 +827,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ソッドか……。\n\n\n",
-   "en": ""
+   "en": "Thodd...",
+   "status": "done"
   },
   {
    "id": "ev033_1CC8",
@@ -764,7 +838,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　ずいぶん\n　ご立腹のご様子ですが？\n\n",
-   "en": ""
+   "en": "You seem quite displeased, sir?",
+   "status": "done"
   },
   {
    "id": "ev033_1CF8",
@@ -774,7 +849,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　おまえには関係ない！\n\n\n",
-   "en": ""
+   "en": "That's none of your concern!",
+   "status": "done"
   },
   {
    "id": "ev033_1D20",
@@ -784,7 +860,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　それより、\n　おまえのいった通り、\n　バルツフィームに出向くようだ。\n",
-   "en": ""
+   "en": "More to the point, just as you said, he\nintends to go to Vartzpheem.",
+   "status": "done"
   },
   {
    "id": "ev033_1D74",
@@ -794,7 +871,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ラガーシュは\n　バルツフィームの属国では\n　ないというのに……。\n",
-   "en": ""
+   "en": "As if Ragash were some vassal state of\nVartzpheem...",
+   "status": "done"
   },
   {
    "id": "ev033_1DC4",
@@ -804,7 +882,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　……愚かな男だ。\n\n\n",
-   "en": ""
+   "en": "...A foolish man.",
+   "status": "done"
   },
   {
    "id": "ev033_1DE8",
@@ -814,7 +893,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　よいな。\n\n\n",
-   "en": ""
+   "en": "Do you understand?",
+   "status": "done"
   },
   {
    "id": "ev033_1E04",
@@ -824,7 +904,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　間違いなく消せ！\n　骨も残すなよ！！\n\n",
-   "en": ""
+   "en": "Make certain he is erased! Don't leave so\nmuch as a bone!!",
+   "status": "done"
   },
   {
    "id": "ev033_1E38",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ソッド",
    "jp": "　……心得ております。\n\n\n",
-   "en": ""
+   "en": "...I understand perfectly.",
+   "status": "done"
   },
   {
    "id": "ev033_1E5C",
@@ -844,7 +926,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　そろそろ、\n　ラガーシュ国王の騎馬隊が\n　到着するころね。\n",
-   "en": ""
+   "en": "The King of Ragash's cavalry should be\narriving any time now.",
+   "status": "done"
   },
   {
    "id": "ev033_1EA0",
@@ -854,7 +937,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　みんな、いいわね。\n　警戒を厳重に。\n\n",
-   "en": ""
+   "en": "Everyone, understood? Stay on high alert.",
+   "status": "done"
   },
   {
    "id": "ev033_1ED0",
@@ -864,7 +948,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　それとケイゴ。\n　相手に失礼がないようにね。\n\n",
-   "en": ""
+   "en": "And Keigo. Mind your manners with our\nguests, all right?",
+   "status": "done"
   },
   {
    "id": "ev033_1F08",
@@ -874,7 +959,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……はい、はい。\n\n\n",
-   "en": ""
+   "en": "...Yeah, yeah.",
+   "status": "done"
   },
   {
    "id": "ev033_1F28",
@@ -884,7 +970,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　でも、隊長、\n　ずいぶん時機がいいですね。\n\n",
-   "en": ""
+   "en": "But Captain, the timing's awfully convenient,\nisn't it?",
+   "status": "done"
   },
   {
    "id": "ev033_1F60",
@@ -894,7 +981,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　なにが？\n\n\n",
-   "en": ""
+   "en": "What is?",
+   "status": "done"
   },
   {
    "id": "ev033_1F78",
@@ -904,7 +992,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　だって、このあいだの事件。\n　まるできょうの会談に合わせて\n　起こしたみたいじゃないですか。\n",
-   "en": ""
+   "en": "Well, that incident the other day. Doesn't it\nseem like it was staged to line up with\ntoday's talks?",
+   "status": "done"
   },
   {
    "id": "ev033_1FE0",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev033_1FFC",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　副長だって、そう思いませんか？\n\n\n",
-   "en": ""
+   "en": "Don't you think so too, Vice-Captain?",
+   "status": "done"
   },
   {
    "id": "ev033_2028",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　いわれてみれば、\n　確かにそうだな……。\n\n",
-   "en": ""
+   "en": "Now that you mention it, you've got a\npoint...",
+   "status": "done"
   },
   {
    "id": "ev033_2060",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ラガーシュの騎馬隊より\n　連絡が入りました。\n\n",
-   "en": ""
+   "en": "We've received word from the Ragash\ncavalry.",
+   "status": "done"
   },
   {
    "id": "ev033_2098",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "シェス",
    "jp": "　間もなくそちらに\n　到着するとのことです。\n\n",
-   "en": ""
+   "en": "They say they'll be arriving there shortly.",
+   "status": "done"
   },
   {
    "id": "ev033_20D0",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ。\n　その話は、またあとにしましょう。\n　今は、国王の警備が優先よ。\n",
-   "en": ""
+   "en": "Keigo. Let's talk about that later. Right\nnow, guarding the king comes first.",
+   "status": "done"
   },
   {
    "id": "ev033_2124",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……わかりました。\n\n\n",
-   "en": ""
+   "en": "...Understood.",
+   "status": "done"
   },
   {
    "id": "ev033_2144",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　じゃあ、みんな、配置について！\n　油断しないようにね。\n\n",
-   "en": ""
+   "en": "All right, everyone, take your positions!\nDon't let your guard down.",
+   "status": "done"
   },
   {
    "id": "ev033_2188",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……しっかし、すごい警備だな。\n　両国魔装機の見本市みたいじゃね～か。\n\n",
-   "en": ""
+   "en": "...Man, this is some security. It's like a\ntrade fair for both countries' Masouki,\nain't it?",
+   "status": "done"
   },
   {
    "id": "ev033_21DC",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　あぁ～っ！\n　う～らやましい、うらやましい！\n　ボクに一機、ちょうだ～い！\n",
-   "en": ""
+   "en": "Aaah! I'm so jealous, so jealous! Give me\none, pretty pleeease!",
+   "status": "done"
   },
   {
    "id": "ev033_2234",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　ワイにも……でへへへ。\n\n\n",
-   "en": ""
+   "en": "Me too... heh heh heh.",
+   "status": "done"
   },
   {
    "id": "ev033_225C",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　これっ、静かにせんか！\n\n\n",
-   "en": ""
+   "en": "You there, quiet down!",
+   "status": "done"
   },
   {
    "id": "ev033_2284",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　へ～い。\n\n\n",
-   "en": ""
+   "en": "Yes, sirrr.",
+   "status": "done"
   },
   {
    "id": "ev033_229C",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　なかなか勇壮な光景だな。\n\n\n",
-   "en": ""
+   "en": "Quite a stirring sight.",
+   "status": "done"
   },
   {
    "id": "ev033_22C4",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "従者",
    "jp": "　そうですね。\n\n\n",
-   "en": ""
+   "en": "It is indeed.",
+   "status": "done"
   },
   {
    "id": "ev033_22DC",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "従者",
    "jp": "　ダンカン王。\n　あれが西方騎士隊です。\n\n\n",
-   "en": ""
+   "en": "King Duncan. Those are the Western\nKnights.",
+   "status": "done"
   },
   {
    "id": "ev033_230C",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　あれか！\n\n\n",
-   "en": ""
+   "en": "So that's them!",
+   "status": "done"
   },
   {
    "id": "ev033_2324",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　さすがに\n　バルツフィームが誇る精鋭部隊。\n\n",
-   "en": ""
+   "en": "Truly the elite unit that is Vartzpheem's\npride.",
+   "status": "done"
   },
   {
    "id": "ev033_235C",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　立派なものではないか！\n\n\n",
-   "en": ""
+   "en": "A fine sight, is it not!",
+   "status": "done"
   },
   {
    "id": "ev033_2384",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……さて、\n　いよいよおいでなすったようだぜ。\n\n",
-   "en": ""
+   "en": "...Well, looks like they've finally shown up.",
+   "status": "done"
   },
   {
    "id": "ev033_23C0",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev033_23DC",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　さっすが王族は違うねぇ。\n　見てよ、あの馬車。\n　豪勢なモンじゃないか！\n",
-   "en": ""
+   "en": "Royalty sure is somethin' else, huh. Look at\nthat carriage. Ain't it fancy!",
+   "status": "done"
   },
   {
    "id": "ev033_2430",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev033_2448",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "シェス",
    "jp": "　巨大なプラーナ反応、\n　戦闘空域に出現しますっ！\n　きゃあああっ！\n",
-   "en": ""
+   "en": "A huge Prana reading\nappearing in the combat airspace!\nKyaaaah!",
+   "status": "done"
   },
   {
    "id": "ev033_2494",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "シェス",
    "jp": "　巨大なプラーナ反応、\n　戦闘空域に出現しますっ！\n　きゃあああっ！\n",
-   "en": ""
+   "en": "A huge Prana reading is appearing in the\ncombat airspace! Kyaaaah!",
+   "status": "done"
   },
   {
    "id": "ev033_24E0",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　な、なんだ！\n　どこの魔装機だ！？\n\n",
-   "en": ""
+   "en": "Wh-What!? Whose Masouki is that!?",
+   "status": "done"
   },
   {
    "id": "ev033_2510",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ま、まさか！？\n\n\n",
-   "en": ""
+   "en": "I-It can't be!?",
+   "status": "done"
   },
   {
    "id": "ev033_252C",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　いかんっ！！\n\n\n",
-   "en": ""
+   "en": "No!!",
+   "status": "done"
   },
   {
    "id": "ev033_2548",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　なにごとか！？\n\n\n",
-   "en": ""
+   "en": "What is happening!?",
+   "status": "done"
   },
   {
    "id": "ev033_2568",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "従者",
    "jp": "　ダンカン王、危険です！\n　逃げてください！！\n\n",
-   "en": ""
+   "en": "King Duncan, it's dangerous! Please flee!!",
+   "status": "done"
   },
   {
    "id": "ev033_25A0",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "ダンカン",
    "jp": "　うわああぁぁ……。\n\n\n",
-   "en": ""
+   "en": "Aaaaargh...",
+   "status": "done"
   },
   {
    "id": "ev033_25C4",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　バ、バカな……っ！？\n\n\n",
-   "en": ""
+   "en": "N-No way...!?",
+   "status": "done"
   },
   {
    "id": "ev033_25E8",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　なんの冗談だい？\n　これは……。\n\n",
-   "en": ""
+   "en": "What kind of sick joke is this...?",
+   "status": "done"
   },
   {
    "id": "ev033_2618",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長！\n　これはいったい！！\n\n",
-   "en": ""
+   "en": "Captain! What is going on!!",
+   "status": "done"
   },
   {
    "id": "ev033_2640",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　まさか……、\n　まさかこんなことが……。\n\n",
-   "en": ""
+   "en": "It can't be... It can't be that this...",
+   "status": "done"
   },
   {
    "id": "ev033_2674",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　おいおい。\n　ずいぶんときたないマネを\n　してくれるじゃねぇか。\n",
-   "en": ""
+   "en": "Well, well. That's a mighty dirty trick you\njust pulled, ain't it?",
+   "status": "done"
   },
   {
    "id": "ev033_26C0",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ひきょうなのは\n　きさまたちのほうだろう！\n\n",
-   "en": ""
+   "en": "You're the cowards here!",
+   "status": "done"
   },
   {
    "id": "ev033_26F8",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　ほう、その声は、\n　このあいだの坊やか。\n\n",
-   "en": ""
+   "en": "Oh? That voice... you're the kid from the\nother day.",
+   "status": "done"
   },
   {
    "id": "ev033_272C",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　前は、不覚を取ったが、\n　今回はそうはいかねぇ。\n\n",
-   "en": ""
+   "en": "You caught me off guard last time, but it\nain't gonna go that way today.",
+   "status": "done"
   },
   {
    "id": "ev033_2768",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ま、待ちなさい！\n　あの魔装機は、\n　バルツフィームのものではないわ！\n",
-   "en": ""
+   "en": "W-Wait! That Masouki doesn't belong to\nVartzpheem!",
+   "status": "done"
   },
   {
    "id": "ev033_27B8",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　ふん、\n　そんないいわけが通るとでも\n　思っているのか！\n",
-   "en": ""
+   "en": "Hah! You think an excuse like that's\ngonna fly!?",
+   "status": "done"
   },
   {
    "id": "ev033_27FC",
@@ -1324,7 +1454,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　いいか、野郎ども！\n　ダンカン王の弔い合戦だ！\n\n",
-   "en": ""
+   "en": "Listen up, boys! This fight's to avenge King\nDuncan!",
+   "status": "done"
   },
   {
    "id": "ev033_2838",
@@ -1334,7 +1465,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　ヤツらを生きて帰すなよ！！\n\n\n",
-   "en": ""
+   "en": "Don't let a single one of 'em get home alive!!",
+   "status": "done"
   },
   {
    "id": "ev033_2860",
@@ -1344,7 +1476,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "（バカめ！　おまえたちは、\n　もうおしまいなんだよ！！）\n\n",
-   "en": ""
+   "en": "(Idiots! You're all finished already!!)",
+   "status": "done"
   },
   {
    "id": "ev033_28A4",
@@ -1354,7 +1487,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長！\n　いったいどうなっているんですか！！\n\n",
-   "en": ""
+   "en": "Captain! What on earth is happening!!",
+   "status": "done"
   },
   {
    "id": "ev033_28DC",
@@ -1364,7 +1498,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　とにかく、帰投します。\n\n\n",
-   "en": ""
+   "en": "For now, we return to base.",
+   "status": "done"
   },
   {
    "id": "ev033_2900",
@@ -1374,7 +1509,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　……あいよ。\n\n\n",
-   "en": ""
+   "en": "...Gotcha.",
+   "status": "done"
   },
   {
    "id": "ev033_291C",
@@ -1384,7 +1520,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　……了解。\n\n\n",
-   "en": ""
+   "en": "...Roger.",
+   "status": "done"
   },
   {
    "id": "ev033_2938",
@@ -1394,7 +1531,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev033_2958",
@@ -1404,7 +1542,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……わかりました。\n\n\n",
-   "en": ""
+   "en": "...Understood.",
+   "status": "done"
   },
   {
    "id": "ev033_2978",
@@ -1414,7 +1553,8 @@
    ],
    "speaker": "シェス",
    "jp": "　ア、アルマ隊長！\n\n",
-   "en": ""
+   "en": "C-Captain Alma!",
+   "status": "done"
   },
   {
    "id": "ev033_2994",
@@ -1424,7 +1564,8 @@
    ],
    "speaker": "シェス",
    "jp": "　たいへんです！\n　通信パネルを見てください！！\n\n",
-   "en": ""
+   "en": "It's terrible! Please look at the comm panel!!",
+   "status": "done"
   },
   {
    "id": "ev033_29D0",
@@ -1434,7 +1575,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうしたの！？\n\n\n",
-   "en": ""
+   "en": "What is it!?",
+   "status": "done"
   },
   {
    "id": "ev033_29EC",
@@ -1444,7 +1586,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こ、これは……。\n\n\n",
-   "en": ""
+   "en": "Wh-What is this...",
+   "status": "done"
   },
   {
    "id": "ev033_2A0C",
@@ -1454,7 +1597,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　諸君！\n　我々の正義は踏みにじられた！\n　薄汚いものどもに裏切られたのだ！\n",
-   "en": ""
+   "en": "My countrymen! Our justice has been\ntrampled! We have been betrayed by filthy\nwretches!",
+   "status": "done"
   },
   {
    "id": "ev033_2A64",
@@ -1464,7 +1608,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　我々の誠意を踏みにじり、\n　偉大なる国王を葬り去った卑劣な国、\n　それがバルツフィームの正体なのだ！\n",
-   "en": ""
+   "en": "A craven nation that trampled our good\nfaith and slew our great king: that is\nVartzpheem's true face!",
+   "status": "done"
   },
   {
    "id": "ev033_2AD8",
@@ -1474,7 +1619,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　このような国の暴挙を\n　これ以上、許しておけようか！\n\n",
-   "en": ""
+   "en": "Can we let such a nation's outrages go on\nany longer!?",
+   "status": "done"
   },
   {
    "id": "ev033_2B1C",
@@ -1484,7 +1630,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　いや、\n　断じて許すことはできない！\n\n",
-   "en": ""
+   "en": "No, we can never forgive them!",
+   "status": "done"
   },
   {
    "id": "ev033_2B50",
@@ -1494,7 +1641,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　愚劣なバルツフィーム王国に\n　正義の鉄槌をくだすときがきたのだ！\n\n",
-   "en": ""
+   "en": "The time has come to bring the hammer of\njustice down on the vile Kingdom of\nVartzpheem!",
+   "status": "done"
   },
   {
    "id": "ev033_2BA0",
@@ -1504,7 +1652,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　立ち上がれ！　我が国民よ！\n\n\n",
-   "en": ""
+   "en": "Rise up, people of our nation!",
+   "status": "done"
   },
   {
    "id": "ev033_2BCC",
@@ -1514,7 +1663,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　正義はラガーシュにあり！\n\n\n",
-   "en": ""
+   "en": "Justice is with Ragash!",
+   "status": "done"
   },
   {
    "id": "ev033_2BF8",
@@ -1524,7 +1674,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　精霊は決して我等を見放すことはない！\n\n\n",
-   "en": ""
+   "en": "The spirits will never forsake us!",
+   "status": "done"
   },
   {
    "id": "ev033_2C30",
@@ -1534,7 +1685,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あれはいったい……！？\n\n\n",
-   "en": ""
+   "en": "What is that...!?",
+   "status": "done"
   },
   {
    "id": "ev033_2C54",
@@ -1544,7 +1696,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ラガーシュ王国総帥、\n　アデノイド＝セラーズだ……。\n\n",
-   "en": ""
+   "en": "Adenoid Sellers, Supreme Commander of\nthe Kingdom of Ragash...",
+   "status": "done"
   },
   {
    "id": "ev033_2C98",
@@ -1554,7 +1707,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": ".........",
+   "status": "done"
   },
   {
    "id": "ev033_2CB4",
@@ -1564,7 +1718,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　こいつは……戦争……ってことだよな。\n\n\n",
-   "en": ""
+   "en": "This means... war... doesn't it.",
+   "status": "done"
   },
   {
    "id": "ev033_2CE8",
@@ -1574,7 +1729,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　……ああ。\n　宣戦布告だ。\n\n",
-   "en": ""
+   "en": "...Aye. A declaration of war.",
+   "status": "done"
   },
   {
    "id": "ev033_2D10",
@@ -1584,7 +1740,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　……戦が始まる……。\n　過去、何年ものあいだ、\n　積もり重なった不満が噴き出す……。\n",
-   "en": ""
+   "en": "...A war is beginning... Grievances piled up\nover all these years are bursting out...",
+   "status": "done"
   },
   {
    "id": "ev033_2D70",
@@ -1594,7 +1751,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　はぁ……。\n　イヤ～な時代がきちまったもんだねぇ。\n\n",
-   "en": ""
+   "en": "Sigh... What a lousy age we've landed\nin, huh.",
+   "status": "done"
   },
   {
    "id": "ev033_2DB0",
@@ -1604,7 +1762,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　ヘレーナ様～。\n　ど～しましょ～？\n\n",
-   "en": ""
+   "en": "Helena-samaaa. Whaaat do we dooo?",
+   "status": "done"
   },
   {
    "id": "ev033_2DE4",
@@ -1614,7 +1773,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　戦争なんか始まったら、\n　命がいくつあっても足りまへんがな。\n\n",
-   "en": ""
+   "en": "Once a war starts, ya can't have enough\nlives to go 'round, I tell ya.",
+   "status": "done"
   },
   {
    "id": "ev033_2E30",
@@ -1624,7 +1784,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……戦いが始まる……。\n\n\n",
-   "en": ""
+   "en": "...The fighting is starting...",
+   "status": "done"
   },
   {
    "id": "ev033_2E54",
@@ -1634,7 +1795,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down here...",
+   "status": "done"
   },
   {
    "id": "ev033_2E8C",
@@ -1644,7 +1806,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　しまった、少しムリをしすぎた！\n\n\n",
-   "en": ""
+   "en": "No, I pushed myself too hard!",
+   "status": "done"
   },
   {
    "id": "ev033_2EB8",
@@ -1654,7 +1817,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　戦闘区域外に待避します。\n\n\n",
-   "en": ""
+   "en": "Withdrawing from the combat zone.",
+   "status": "done"
   },
   {
    "id": "ev033_2EE0",
@@ -1664,7 +1828,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　くそっ、オレとしたことが……。\n\n\n",
-   "en": ""
+   "en": "Damn, I can't believe I slipped up like this...",
+   "status": "done"
   },
   {
    "id": "ev033_2F10",
@@ -1674,7 +1839,8 @@
    ],
    "speaker": "ベウマー",
    "jp": "　悪い！\n　戦闘区域から離脱する！！\n\n",
-   "en": ""
+   "en": "Sorry! I'm pulling out of the combat zone!!",
+   "status": "done"
   },
   {
    "id": "ev033_2F40",
@@ -1684,7 +1850,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　ダメージを受けすぎた……。\n\n\n",
-   "en": ""
+   "en": "I've taken too much damage...",
+   "status": "done"
   },
   {
    "id": "ev033_2F6C",
@@ -1694,7 +1861,8 @@
    ],
    "speaker": "フルカス",
    "jp": "　戦闘区域から後退する！\n　すまん、あとは頼むぞ……。\n\n",
-   "en": ""
+   "en": "Falling back from the combat zone! Sorry, I\nleave the rest to you...",
+   "status": "done"
   },
   {
    "id": "ev033_2FB0",
@@ -1704,7 +1872,8 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　なんてこったい！\n　脱出するよ！！\n\n",
-   "en": ""
+   "en": "Aw, nuts! I'm bailing out!!",
+   "status": "done"
   },
   {
    "id": "ev033_2FE0",
@@ -1714,7 +1883,8 @@
    ],
    "speaker": "ドロービ",
    "jp": "　脱出します！！\n\n\n",
-   "en": ""
+   "en": "I'm bailin' out!!",
+   "status": "done"
   },
   {
    "id": "ev033_3000",
@@ -1724,7 +1894,8 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　脱出しますよ！！\n　\n\n",
-   "en": ""
+   "en": "I'm bailing out, okay!!",
+   "status": "done"
   },
   {
    "id": "ev033_3024",
@@ -1734,7 +1905,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　ちっ、オレとしたことが\n　遊びすぎか……。\n\n",
-   "en": ""
+   "en": "Tch, guess even I played around too much...",
+   "status": "done"
   },
   {
    "id": "ev033_305C",
@@ -1744,7 +1916,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　くそ、ミラに笑われちまうが、\n　しょうがねえ。\n\n",
-   "en": ""
+   "en": "Damn, Mira's gonna laugh at me, but it can't\nbe helped.",
+   "status": "done"
   },
   {
    "id": "ev033_3098",
@@ -1754,7 +1927,8 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　逃げるが勝ちともいうしな。\n　あばよ！\n\n",
-   "en": ""
+   "en": "Like they say, he who runs away lives to\nfight another day. See ya!",
+   "status": "done"
   },
   {
    "id": "ev033_541C",
@@ -1763,7 +1937,8 @@
     "0x56C4"
    ],
    "jp": "　　　　　　　悠久なる平和……\n\n　　　　　　過去いかなる国家も\n　　　成し遂げようとし、挫折した夢物語\n\n　　　　人々はみな、この夢を見ながらも\n　　その願いの重さと困難さに押しつぶされ\n　　　　　　　開戦の道を選択する\n\n　　　　　　ある哲学者はいう……\n　　　この世に悠久なるものなど存在しない\n　　だから、悠久なる平和も存在しないと……\n\n",
-   "en": ""
+   "en": "Everlasting peace...\n\nA dream that every nation of the past\nhas sought to achieve, and failed.\n\nAll people dream this dream, and yet,\ncrushed by how heavy and hard that wish is,\nthey choose the road to war.\n\nA certain philosopher said...\nNothing in this world is everlasting,\nand so neither is everlasting peace...",
+   "status": "done"
   },
   {
    "id": "ev033_556C",
@@ -1772,7 +1947,8 @@
     "0x56C8"
    ],
    "jp": "　　　今、ラガーシュ王国の野心と思惑が\nア・ゼルスに新たな戦乱を生み出そうとしている\n\n　　　バルツフィームの誇りと威信の象徴\n　　西方騎士隊を襲ったラガーシュ魔装機隊\n\n　　　　　　彼らの行動の真意は……\n　　　　　　彼らのめざす目的は……\n\n　　　　　　　　悠久なる平和は\n　　　　　また、夢物語と終わるのか\n　　　歴史は次の象限へと針を進めた……\n\n",
-   "en": ""
+   "en": "Now, the ambitions and schemes of Ragash\nthreaten to bring new war to A-Zeluth.\n\nRagash Masouki struck the Western Knights,\nsymbol of Vartzpheem's pride and prestige.\n\nWhat was their true intent...\nWhat goal did they seek...\n\nWill everlasting peace\nend as a mere dream once more?\nHistory advanced to its next quadrant...",
+   "status": "done"
   }
  ]
 }

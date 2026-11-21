@@ -24,7 +24,8 @@
    ],
    "speaker": "",
    "jp": "　ラガーシュ王国　軍司令部\n　（旧バルツフィーム王国　王都）\n\n",
-   "en": ""
+   "en": "Ragash Military Headquarters\n(Former Royal Capital of Vartzpheem)",
+   "status": "done"
   },
   {
    "id": "ev15A_092C",
@@ -34,7 +35,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　……なぜ、戻ってきた！\n\n\n",
-   "en": ""
+   "en": "...Why have you come back!?",
+   "status": "done"
   },
   {
    "id": "ev15A_0954",
@@ -44,7 +46,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　戦力が極端に低下しています。\n\n\n",
-   "en": ""
+   "en": "Our fighting strength has dropped\ndrastically.",
+   "status": "done"
   },
   {
    "id": "ev15A_0980",
@@ -54,7 +57,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　このままでは\n　アデノイド様の退路の確保が\n　できません。\n",
-   "en": ""
+   "en": "At this rate, we cannot secure an escape\nroute for you, Adenoid-sama.",
+   "status": "done"
   },
   {
    "id": "ev15A_09C8",
@@ -64,7 +68,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　退路！？\n\n\n",
-   "en": ""
+   "en": "Escape route!?",
+   "status": "done"
   },
   {
    "id": "ev15A_09E4",
@@ -74,7 +79,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　どういう意味だ。\n\n\n",
-   "en": ""
+   "en": "What do you mean by that?",
+   "status": "done"
   },
   {
    "id": "ev15A_0A08",
@@ -84,7 +90,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　正直、限界だと思われます。\n\n\n",
-   "en": ""
+   "en": "Frankly, I believe we have reached our limit.",
+   "status": "done"
   },
   {
    "id": "ev15A_0A34",
@@ -94,7 +101,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　現状の戦力で\n　魔装機神を倒すことは\n　不可能でしょう。\n",
-   "en": ""
+   "en": "With our current strength, defeating the\nMasoukishin will be impossible.",
+   "status": "done"
   },
   {
    "id": "ev15A_0A78",
@@ -104,7 +112,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　どうかご決断を。\n\n\n",
-   "en": ""
+   "en": "I ask you to make your decision, sir.",
+   "status": "done"
   },
   {
    "id": "ev15A_0A98",
@@ -114,7 +123,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　なにをいうか！！　　\n\n\n",
-   "en": ""
+   "en": "What nonsense is this!!",
+   "status": "done"
   },
   {
    "id": "ev15A_0AC0",
@@ -124,7 +134,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　まだ、ラガーシュには\n　アグ・ゲブラが残っておる。\n\n",
-   "en": ""
+   "en": "Ragash still has the Ag Gebra!",
+   "status": "done"
   },
   {
    "id": "ev15A_0B04",
@@ -134,7 +145,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　お待ちください。\n　あの機体はまだ未調整ゆえ\n　実戦に投入するのは……。\n",
-   "en": ""
+   "en": "Please wait. That machine has not yet been\nfine-tuned, so deploying it in actual combat...",
+   "status": "done"
   },
   {
    "id": "ev15A_0B58",
@@ -144,7 +156,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　かまわん。\n　今、大至急出撃準備をさせておる。\n\n",
-   "en": ""
+   "en": "It matters not. I am having it readied for\nsortie as we speak, with all haste.",
+   "status": "done"
   },
   {
    "id": "ev15A_0B98",
@@ -154,7 +167,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　おまえらは\n　そのための時間を稼ぐのだ。\n\n",
-   "en": ""
+   "en": "You will buy the time for that.",
+   "status": "done"
   },
   {
    "id": "ev15A_0BD0",
@@ -164,7 +178,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev15A_0BF0",
@@ -174,7 +189,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　司令部に全部隊を集結させ\n　差し違えてでも魔装機神を倒せ！\n\n",
-   "en": ""
+   "en": "Gather all forces at headquarters and\ndestroy the Masoukishin, even if it costs\nyou your lives!",
+   "status": "done"
   },
   {
    "id": "ev15A_0C3C",
@@ -184,7 +200,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　よいな。\n\n\n",
-   "en": ""
+   "en": "Do you understand?",
+   "status": "done"
   },
   {
    "id": "ev15A_0C58",
@@ -194,7 +211,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev15A_0C78",
@@ -204,7 +222,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　……失礼いたします。\n\n\n",
-   "en": ""
+   "en": "...By your leave.",
+   "status": "done"
   },
   {
    "id": "ev15A_0C9C",
@@ -214,7 +233,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（……ふん）\n\n\n",
-   "en": ""
+   "en": "(...Hmph.)",
+   "status": "done"
   },
   {
    "id": "ev15A_0CB8",
@@ -224,7 +244,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（使えんヤツめ）\n\n\n",
-   "en": ""
+   "en": "(Useless wretch.)",
+   "status": "done"
   },
   {
    "id": "ev15A_0CD8",
@@ -234,7 +255,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "（アグ・ゲブラの出撃準備を\n　急がせなければならんな……）\n\n",
-   "en": ""
+   "en": "(I must hurry the Ag Gebra's sortie\npreparations...)",
+   "status": "done"
   },
   {
    "id": "ev15A_0D20",
@@ -244,7 +266,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev15A_0D40",
@@ -254,7 +277,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　マギーア様。\n\n\n",
-   "en": ""
+   "en": "Magia-sama.",
+   "status": "done"
   },
   {
    "id": "ev15A_0D64",
@@ -264,7 +288,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　残存部隊の出撃準備完了しました。\n\n\n",
-   "en": ""
+   "en": "The remaining units are ready to sortie.",
+   "status": "done"
   },
   {
    "id": "ev15A_0D9C",
@@ -274,7 +299,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　わかった。\n　私もすぐにいく。\n\n",
-   "en": ""
+   "en": "Understood. I'll be there shortly.",
+   "status": "done"
   },
   {
    "id": "ev15A_0DC8",
@@ -284,7 +310,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　魔装機神が現れしだい\n　攻撃開始だ。\n\n",
-   "en": ""
+   "en": "Commence the attack as soon as the\nMasoukishin appear.",
+   "status": "done"
   },
   {
    "id": "ev15A_0DFC",
@@ -294,7 +321,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　はっ。\n\n\n",
-   "en": ""
+   "en": "Sir!",
+   "status": "done"
   },
   {
    "id": "ev15A_0E18",
@@ -304,7 +332,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（今さら\n　全部隊を導入したところで\n　我々に勝ち目はない……）\n",
-   "en": ""
+   "en": "(Even if we throw in every unit now, we\nhave no chance of winning...)",
+   "status": "done"
   },
   {
    "id": "ev15A_0E64",
@@ -314,7 +343,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（我々はもう負けているのだ）\n\n\n",
-   "en": ""
+   "en": "(We've already lost.)",
+   "status": "done"
   },
   {
    "id": "ev15A_0E90",
@@ -324,7 +354,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（なのになぜ\n　戦わなければならない）\n\n",
-   "en": ""
+   "en": "(So why must we fight?)",
+   "status": "done"
   },
   {
    "id": "ev15A_0EC4",
@@ -334,7 +365,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（戦うべき理由……）\n\n\n",
-   "en": ""
+   "en": "(A reason to fight...)",
+   "status": "done"
   },
   {
    "id": "ev15A_0EE8",
@@ -344,7 +376,8 @@
    ],
    "speaker": "マギーア",
    "jp": "（理由か……）\n\n\n",
-   "en": ""
+   "en": "(A reason, huh...)",
+   "status": "done"
   },
   {
    "id": "ev15A_0F04",
@@ -354,7 +387,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　……いかんな。\n　こんなことでは。\n\n",
-   "en": ""
+   "en": "...This won't do. Not like this.",
+   "status": "done"
   },
   {
    "id": "ev15A_0F34",
@@ -364,7 +398,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　指揮官がこんな考えをしていては\n　勝ち戦も勝てなくなる。\n\n",
-   "en": ""
+   "en": "If the commander thinks like this, even a\nwinnable battle will be lost.",
+   "status": "done"
   },
   {
    "id": "ev15A_0F7C",
@@ -374,7 +409,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　それに\n　あいつに顔向けできん。\n\n",
-   "en": ""
+   "en": "Besides, I could never face her.",
+   "status": "done"
   },
   {
    "id": "ev15A_0FAC",
@@ -384,7 +420,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　いくか……。\n\n\n",
-   "en": ""
+   "en": "Let's go...",
+   "status": "done"
   },
   {
    "id": "ev15A_0FC8",
@@ -394,7 +431,8 @@
    ],
    "speaker": "トト",
    "jp": "　見えた！\n　バルツフィームのお城だ！！\n\n",
-   "en": ""
+   "en": "There it is! Vartzpheem's castle!!",
+   "status": "done"
   },
   {
    "id": "ev15A_0FF8",
@@ -404,7 +442,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　みんな、気をつけろ！\n\n\n",
-   "en": ""
+   "en": "Everyone, be careful!",
+   "status": "done"
   },
   {
    "id": "ev15A_101C",
@@ -414,7 +453,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そろそろ\n　迎撃部隊が出てくるはずだ。　\n\n",
-   "en": ""
+   "en": "The interception force should be showing\nup any time now.",
+   "status": "done"
   },
   {
    "id": "ev15A_1050",
@@ -424,7 +464,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　了解。\n\n\n",
-   "en": ""
+   "en": "Understood.",
+   "status": "done"
   },
   {
    "id": "ev15A_1064",
@@ -434,7 +475,8 @@
    ],
    "speaker": "イェン",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev15A_1080",
@@ -444,7 +486,8 @@
    ],
    "speaker": "トト",
    "jp": "　うへ～っ。\n　あんなにたくさん！\n\n",
-   "en": ""
+   "en": "Yikes! That many!?",
+   "status": "done"
   },
   {
    "id": "ev15A_10AC",
@@ -454,7 +497,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　まだ、戦力が残っているのか！\n\n\n",
-   "en": ""
+   "en": "They still have forces left!?",
+   "status": "done"
   },
   {
    "id": "ev15A_10D8",
@@ -464,7 +508,8 @@
    ],
    "speaker": "イェン",
    "jp": "　いや、\n　魔装機の編成がバラバラだ。\n\n",
-   "en": ""
+   "en": "No, their Masouki formations are all over\nthe place.",
+   "status": "done"
   },
   {
    "id": "ev15A_1108",
@@ -474,7 +519,8 @@
    ],
    "speaker": "イェン",
    "jp": "　おそらく、\n　全戦力を投入しているのだろう。\n\n",
-   "en": ""
+   "en": "They are most likely throwing in their entire\nstrength.",
+   "status": "done"
   },
   {
    "id": "ev15A_1140",
@@ -484,7 +530,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　いよいよ正念場ね。\n\n\n",
-   "en": ""
+   "en": "This is the moment of truth.",
+   "status": "done"
   },
   {
    "id": "ev15A_1160",
@@ -494,7 +541,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　よしっ！\n　突っ込むぞ！！\n\n\n",
-   "en": ""
+   "en": "All right! Let's charge in!!",
+   "status": "done"
   },
   {
    "id": "ev15A_1188",
@@ -504,7 +552,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　みんな、敵の増援部隊よ！\n　気をつけて。\n\n",
-   "en": ""
+   "en": "Everyone, enemy reinforcements! Be careful.",
+   "status": "done"
   },
   {
    "id": "ev15A_11BC",
@@ -514,7 +563,8 @@
    ],
    "speaker": "イェン",
    "jp": "　敵もそうとう\n　追いつめられているようですね。\n\n",
-   "en": ""
+   "en": "The enemy seems to be quite cornered.",
+   "status": "done"
   },
   {
    "id": "ev15A_11F8",
@@ -524,7 +574,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……まだ、抵抗するのか！）\n\n\n",
-   "en": ""
+   "en": "(...They're still resisting!?)",
+   "status": "done"
   },
   {
    "id": "ev15A_1220",
@@ -534,7 +585,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（もうやめてくれ！！）\n\n\n",
-   "en": ""
+   "en": "(Please, stop already!!)",
+   "status": "done"
   },
   {
    "id": "ev15A_1244",
@@ -544,7 +596,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（これ以上の戦闘は無意味だ！！）\n\n\n",
-   "en": ""
+   "en": "(Fighting any more is pointless!!)",
+   "status": "done"
   },
   {
    "id": "ev15A_1270",
@@ -554,7 +607,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くそっ、また増援か！！\n\n\n",
-   "en": ""
+   "en": "Damn, more reinforcements!?",
+   "status": "done"
   },
   {
    "id": "ev15A_1294",
@@ -564,7 +618,8 @@
    ],
    "speaker": "トト",
    "jp": "　にいちゃん！\n　これじゃあ、やっつけても\n　キリがないよ。\n",
-   "en": ""
+   "en": "Big bro! At this rate, no matter how many\nwe beat, there's no end to 'em!",
+   "status": "done"
   },
   {
    "id": "ev15A_12D8",
@@ -574,7 +629,8 @@
    ],
    "speaker": "イェン",
    "jp": "　ケイゴ。\n　敵の指揮官機を探すのです。\n\n",
-   "en": ""
+   "en": "Keigo. Find the enemy commander's\nmachine.",
+   "status": "done"
   },
   {
    "id": "ev15A_130C",
@@ -584,7 +640,8 @@
    ],
    "speaker": "イェン",
    "jp": "　その指揮官機を\n　説得させるしかありません。\n\n",
-   "en": ""
+   "en": "Our only option is to persuade that\ncommander.",
+   "status": "done"
   },
   {
    "id": "ev15A_1344",
@@ -594,7 +651,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　わかった！\n\n\n",
-   "en": ""
+   "en": "Got it!",
+   "status": "done"
   },
   {
    "id": "ev15A_135C",
@@ -604,7 +662,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……アイツ）\n\n\n",
-   "en": ""
+   "en": "(...That one.)",
+   "status": "done"
   },
   {
    "id": "ev15A_1378",
@@ -614,7 +673,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（間違いない！\n　アイツが指揮官機だ！！）\n\n",
-   "en": ""
+   "en": "(No doubt about it! That's the\ncommander's machine!!)",
+   "status": "done"
   },
   {
    "id": "ev15A_13AC",
@@ -624,7 +684,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そこにいる魔重機。\n　応答しろ。\n\n",
-   "en": ""
+   "en": "You there, in the Majuuki. Respond.",
+   "status": "done"
   },
   {
    "id": "ev15A_13D8",
@@ -634,7 +695,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえが指揮官だろう。\n\n\n",
-   "en": ""
+   "en": "You're the commander, aren't you?",
+   "status": "done"
   },
   {
    "id": "ev15A_13FC",
@@ -644,7 +706,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev15A_141C",
@@ -654,7 +717,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　……戦闘中になんのようだ。\n\n\n",
-   "en": ""
+   "en": "...What do you want in the middle of a\nbattle?",
+   "status": "done"
   },
   {
    "id": "ev15A_1448",
@@ -664,7 +728,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　もう限界のはずだ。\n\n\n",
-   "en": ""
+   "en": "You must be at your limit by now.",
+   "status": "done"
   },
   {
    "id": "ev15A_1468",
@@ -674,7 +739,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　悪いようにはしないから、\n　降伏してくれ！\n\n",
-   "en": ""
+   "en": "We won't treat you badly, so please,\nsurrender!",
+   "status": "done"
   },
   {
    "id": "ev15A_14A0",
@@ -684,7 +750,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　断る。\n\n\n",
-   "en": ""
+   "en": "I refuse.",
+   "status": "done"
   },
   {
    "id": "ev15A_14B8",
@@ -694,7 +761,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　我々の部隊には\n　王都死守の命令が与えられている。\n\n",
-   "en": ""
+   "en": "Our unit has orders to hold the Royal\nCapital to the death.",
+   "status": "done"
   },
   {
    "id": "ev15A_14F8",
@@ -704,7 +772,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　それに\n　まだ、負けたわけではない！\n\n",
-   "en": ""
+   "en": "Besides, we haven't lost yet!",
+   "status": "done"
   },
   {
    "id": "ev15A_152C",
@@ -714,7 +783,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　仮にオレたちを倒したとしても\n　あとからくるバルツフィーム解放軍を\n　撃退する戦力はないはずだ！\n",
-   "en": ""
+   "en": "Even if you beat us, you won't have the\nstrength to drive off the Vartzpheem\nLiberation Army coming after us!",
+   "status": "done"
   },
   {
    "id": "ev15A_1598",
@@ -724,7 +794,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　戦闘を継続することに\n　なんの意味がある。\n\n",
-   "en": ""
+   "en": "What's the point of continuing this fight?",
+   "status": "done"
   },
   {
    "id": "ev15A_15D0",
@@ -734,7 +805,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　意味だと？\n\n\n",
-   "en": ""
+   "en": "The point?",
+   "status": "done"
   },
   {
    "id": "ev15A_15EC",
@@ -744,7 +816,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ああ。\n\n\n",
-   "en": ""
+   "en": "Yeah.",
+   "status": "done"
   },
   {
    "id": "ev15A_1600",
@@ -754,7 +827,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　負けることがわかっているのに\n　戦い続けなければいけない理由が\n　どこにあるというんだ！！\n",
-   "en": ""
+   "en": "When you know you're going to lose, what\nreason could there be to keep on fighting!?",
+   "status": "done"
   },
   {
    "id": "ev15A_1664",
@@ -764,7 +838,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev15A_1684",
@@ -774,7 +849,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　……理由だと……。\n\n\n",
-   "en": ""
+   "en": "...A reason, you say...",
+   "status": "done"
   },
   {
    "id": "ev15A_16A8",
@@ -784,7 +860,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　戦いにそんなものが必要なのか！！\n\n\n",
-   "en": ""
+   "en": "Does a battle need such a thing!?",
+   "status": "done"
   },
   {
    "id": "ev15A_16D8",
@@ -794,7 +871,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　ここは戦場なのだ。\n\n\n",
-   "en": ""
+   "en": "This is a battlefield.",
+   "status": "done"
   },
   {
    "id": "ev15A_16FC",
@@ -804,7 +882,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　敵がいれば戦う。\n\n\n",
-   "en": ""
+   "en": "If there is an enemy, you fight.",
+   "status": "done"
   },
   {
    "id": "ev15A_171C",
@@ -814,7 +893,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　それ以外に理由など……！！\n\n\n",
-   "en": ""
+   "en": "There is no other reason...!!",
+   "status": "done"
   },
   {
    "id": "ev15A_1748",
@@ -824,7 +904,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　死ね！！\n\n\n",
-   "en": ""
+   "en": "Die!!",
+   "status": "done"
   },
   {
    "id": "ev15A_1760",
@@ -834,7 +915,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　どうして、おまえは……！！\n\n\n",
-   "en": ""
+   "en": "Why do you...!!",
+   "status": "done"
   },
   {
    "id": "ev15A_1788",
@@ -844,7 +926,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（マギーア＝マグスか……）\n\n\n",
-   "en": ""
+   "en": "(Magia Magus, huh...)",
+   "status": "done"
   },
   {
    "id": "ev15A_17B0",
@@ -854,7 +937,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（………………）\n\n\n",
-   "en": ""
+   "en": "(......)",
+   "status": "done"
   },
   {
    "id": "ev15A_17CC",
@@ -864,7 +948,8 @@
    ],
    "speaker": "トト",
    "jp": "　……にいちゃん！\n\n\n",
-   "en": ""
+   "en": "...Big bro!",
+   "status": "done"
   },
   {
    "id": "ev15A_17E8",
@@ -874,7 +959,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev15A_1804",
@@ -884,7 +970,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ。\n\n\n",
-   "en": ""
+   "en": "Keigo.",
+   "status": "done"
   },
   {
    "id": "ev15A_181C",
@@ -894,7 +981,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……えっ！？\n\n\n",
-   "en": ""
+   "en": "...Huh!?",
+   "status": "done"
   },
   {
    "id": "ev15A_1838",
@@ -904,7 +992,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうしたの？\n　ボーッとして！？\n\n",
-   "en": ""
+   "en": "What's wrong? You're spacing out!?",
+   "status": "done"
   },
   {
    "id": "ev15A_1864",
@@ -914,7 +1003,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　いや、\n　たいしたことじゃ……。\n\n",
-   "en": ""
+   "en": "No, it's nothing much...",
+   "status": "done"
   },
   {
    "id": "ev15A_1890",
@@ -924,7 +1014,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それよりも敵は？\n\n\n",
-   "en": ""
+   "en": "More importantly, what about the enemy?",
+   "status": "done"
   },
   {
    "id": "ev15A_18B0",
@@ -934,7 +1025,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　どうやら\n　もう魔装機部隊はいないようね。\n\n",
-   "en": ""
+   "en": "It looks like there are no more Masouki\nunits left.",
+   "status": "done"
   },
   {
    "id": "ev15A_18E8",
@@ -944,7 +1036,8 @@
    ],
    "speaker": "トト",
    "jp": "　ってことは、\n　おいらたちの勝ちだね。\n\n",
-   "en": ""
+   "en": "So that means we win, right?",
+   "status": "done"
   },
   {
    "id": "ev15A_1918",
@@ -954,7 +1047,8 @@
    ],
    "speaker": "イェン",
    "jp": "　いえ、まだです。\n\n\n",
-   "en": ""
+   "en": "No, not yet.",
+   "status": "done"
   },
   {
    "id": "ev15A_1938",
@@ -964,7 +1058,8 @@
    ],
    "speaker": "イェン",
    "jp": "　敵の総帥、アデノイド自身から\n　ラガーシュ全軍の攻撃命令を\n　取り下げさせないと……。\n",
-   "en": ""
+   "en": "Unless we make the enemy's Supreme\nCommander, Adenoid himself, withdraw his\nattack orders to the entire Ragash army...",
+   "status": "done"
   },
   {
    "id": "ev15A_1998",
@@ -974,7 +1069,8 @@
    ],
    "speaker": "イェン",
    "jp": "　そうでなければ\n　戦争が終わったとはいえません。\n\n",
-   "en": ""
+   "en": "...we cannot say the war is over.",
+   "status": "done"
   },
   {
    "id": "ev15A_19D4",
@@ -984,7 +1080,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　確かに。\n　でも、どこにいるのかしら？\n\n",
-   "en": ""
+   "en": "True. But where could he be, I wonder?",
+   "status": "done"
   },
   {
    "id": "ev15A_1A08",
@@ -994,7 +1091,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ま、待つんだ！！\n\n\n",
-   "en": ""
+   "en": "W-wait!!",
+   "status": "done"
   },
   {
    "id": "ev15A_1A28",
@@ -1004,7 +1102,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こ、このプラーナ反応は！？\n\n\n",
-   "en": ""
+   "en": "Wh-what's this Prana reading!?",
+   "status": "done"
   },
   {
    "id": "ev15A_1A50",
@@ -1014,7 +1113,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　マギーアのヤツめ。\n\n\n",
-   "en": ""
+   "en": "Curse that Magia.",
+   "status": "done"
   },
   {
    "id": "ev15A_1A74",
@@ -1024,7 +1124,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ソッドよりマシかと思ったが……。\n\n\n",
-   "en": ""
+   "en": "I thought he would be better than Thodd...",
+   "status": "done"
   },
   {
    "id": "ev15A_1AA8",
@@ -1034,7 +1135,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　まったく、どいつもアテにならん。\n\n\n",
-   "en": ""
+   "en": "Honestly, not one of them can be\nrelied upon.",
+   "status": "done"
   },
   {
    "id": "ev15A_1ADC",
@@ -1044,7 +1146,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　アデノイド様！？\n\n\n",
-   "en": ""
+   "en": "Adenoid-sama!?",
+   "status": "done"
   },
   {
    "id": "ev15A_1B04",
@@ -1054,7 +1157,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　アグ・ゲブラの発進準備はできたか？\n\n\n",
-   "en": ""
+   "en": "Is the Ag Gebra ready to launch?",
+   "status": "done"
   },
   {
    "id": "ev15A_1B38",
@@ -1064,7 +1168,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　まだ、\n　完全に調整ができておりませんが……。\n\n",
-   "en": ""
+   "en": "It has not yet been fully adjusted, sir...",
+   "status": "done"
   },
   {
    "id": "ev15A_1B7C",
@@ -1074,7 +1179,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　かまわん。\n\n\n",
-   "en": ""
+   "en": "It matters not.",
+   "status": "done"
   },
   {
    "id": "ev15A_1B98",
@@ -1084,7 +1190,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　事態は、急を要するのだ。\n\n\n",
-   "en": ""
+   "en": "This is an emergency.",
+   "status": "done"
   },
   {
    "id": "ev15A_1BC4",
@@ -1094,7 +1201,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　戦闘が可能なら問題はない。\n\n\n",
-   "en": ""
+   "en": "If it can fight, there is no problem.",
+   "status": "done"
   },
   {
    "id": "ev15A_1BF0",
@@ -1104,7 +1212,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　しかし……。\n\n\n",
-   "en": ""
+   "en": "But...",
+   "status": "done"
   },
   {
    "id": "ev15A_1C14",
@@ -1114,7 +1223,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　うるさい！\n　私に刃向かうつもりか！！\n\n\n",
-   "en": ""
+   "en": "Silence! Do you intend to defy me!?",
+   "status": "done"
   },
   {
    "id": "ev15A_1C4C",
@@ -1124,7 +1234,8 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　わ、わかりました……。\n\n\n",
-   "en": ""
+   "en": "U-understood...",
+   "status": "done"
   },
   {
    "id": "ev15A_1C78",
@@ -1134,7 +1245,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　……魔装機神め。\n\n\n",
-   "en": ""
+   "en": "...Damned Masoukishin.",
+   "status": "done"
   },
   {
    "id": "ev15A_1C9C",
@@ -1144,7 +1256,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　このアグ・ゲブラの力。\n\n\n",
-   "en": ""
+   "en": "The power of this Ag Gebra...",
+   "status": "done"
   },
   {
    "id": "ev15A_1CC4",
@@ -1154,7 +1267,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　思い知らせてやるわ。\n\n\n",
-   "en": ""
+   "en": "I shall make you feel it!",
+   "status": "done"
   },
   {
    "id": "ev15A_1CEC",
@@ -1164,7 +1278,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ハハハハッ……。\n\n\n",
-   "en": ""
+   "en": "Hahahaha...",
+   "status": "done"
   },
   {
    "id": "ev15A_1D10",
@@ -1174,7 +1289,8 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ハハハハハハッ……。\n\n\n",
-   "en": ""
+   "en": "Hahahahahaha...",
+   "status": "done"
   },
   {
    "id": "ev15A_1D38",
@@ -1184,7 +1300,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": ""
+   "en": "Damn it! I can't go down in a place like this...",
+   "status": "done"
   },
   {
    "id": "ev15A_1D70",
@@ -1194,7 +1311,8 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、私は……。\n　ここまでというの……。\n\n",
-   "en": ""
+   "en": "I... I... Is this as far as I go...?",
+   "status": "done"
   },
   {
    "id": "ev15A_1DA8",
@@ -1204,7 +1322,8 @@
    ],
    "speaker": "イェン",
    "jp": "　このわたしが……。\n　やられるというのかっ！！\n\n",
-   "en": ""
+   "en": "To think that I... could be defeated!!",
+   "status": "done"
   },
   {
    "id": "ev15A_1DE4",
@@ -1214,7 +1333,8 @@
    ],
    "speaker": "トト",
    "jp": "　うっそ！！\n　おいらがやられるなんてアリ……。\n\n",
-   "en": ""
+   "en": "No way!! Me, getting beaten? That\ncan't be...",
+   "status": "done"
   },
   {
    "id": "ev15A_1E1C",
@@ -1224,7 +1344,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　もう、わかっただろう。\n\n\n",
-   "en": ""
+   "en": "You understand now, don't you?",
+   "status": "done"
   },
   {
    "id": "ev15A_1E40",
@@ -1234,7 +1355,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　降伏しろ！\n\n\n",
-   "en": ""
+   "en": "Surrender!",
+   "status": "done"
   },
   {
    "id": "ev15A_1E58",
@@ -1244,7 +1366,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　おまえたちの負けだ！！\n\n\n",
-   "en": ""
+   "en": "You've lost!!",
+   "status": "done"
   },
   {
    "id": "ev15A_1E7C",
@@ -1254,7 +1377,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　………………。\n\n\n",
-   "en": ""
+   "en": "......",
+   "status": "done"
   },
   {
    "id": "ev15A_1E9C",
@@ -1264,7 +1388,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　貴様。\n\n\n",
-   "en": ""
+   "en": "You.",
+   "status": "done"
   },
   {
    "id": "ev15A_1EB4",
@@ -1274,7 +1399,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　名は？\n\n\n",
-   "en": ""
+   "en": "Your name?",
+   "status": "done"
   },
   {
    "id": "ev15A_1ECC",
@@ -1284,7 +1410,8 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……ケイゴ。\n　ケイゴ＝フェルディナンだ！\n\n",
-   "en": ""
+   "en": "...Keigo. Keigo Ferdinand!",
+   "status": "done"
   },
   {
    "id": "ev15A_1F04",
@@ -1294,7 +1421,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　オレの名はマギーア＝マグス。\n\n\n",
-   "en": ""
+   "en": "My name is Magia Magus.",
+   "status": "done"
   },
   {
    "id": "ev15A_1F30",
@@ -1304,7 +1432,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　……ケイゴか。\n\n\n",
-   "en": ""
+   "en": "...Keigo, is it.",
+   "status": "done"
   },
   {
    "id": "ev15A_1F50",
@@ -1314,7 +1443,8 @@
    ],
    "speaker": "マギーア",
    "jp": "　その名前、覚えておこう。\n\n\n",
-   "en": ""
+   "en": "I'll remember that name.",
+   "status": "done"
   },
   {
    "id": "ev15A_3704",
@@ -1323,7 +1453,8 @@
     "0x39D4"
    ],
    "jp": "　　　　　　……いざ、決戦の場へ\n\n　　　　　　すべてを終局へ導くため\n　　　選ばれしものは奪われた故郷へ向かう\n\n　　　　その間、敵の迎撃は激しさを増し\n　　　　戦場は血を血で洗う様相を呈す\n\n　しかし、物事に始まりと終わりがあるように\n　　　　　この戦いにも終わりがあった\n\n　　　　　　そして、それと同時に\n　別の物語も終わりを告げようとしている……\n",
-   "en": ""
+   "en": "...Now, to the decisive battlefield.\n\nTo bring everything to its end,\nthe chosen set out for their stolen home.\n\nThe enemy's resistance grows ever fiercer,\nand blood is washed away with blood.\n\nBut as all things begin and end,\nso too did this battle come to an end.\n\nAnd at the same time,\nanother story was drawing to a close...",
+   "status": "done"
   },
   {
    "id": "ev15A_3860",
@@ -1332,7 +1463,8 @@
     "0x39D8"
    ],
    "jp": "　　　　　戦場の愛物語は終演を迎えた\n\n　男は戦うことにのみ、己の生き甲斐を見出し\n女は胸の奥にひそむ感情を隠し、男とともに戦う\n\n　　　　自分の中のなにかが失われしとき\n　男は失いしものの大きさを実感していなかった\n\n　　　当たり前の存在が戦場に散ったとき\n　男はわき上がる感情にとまどいを感じていた\n\n　　　　　最後に繋がった心の渡殿は\n　　　あまりにも短く、そして悲しい……\n",
-   "en": ""
+   "en": "A battlefield love story reached its end.\n\nThe man lived for fighting alone;\nshe hid her heart and fought at his side.\n\nWhen something within him was lost,\nhe did not grasp how great the loss was.\n\nWhen the one he took for granted fell,\nthe feelings welling up bewildered him.\n\nThe bridge that joined their hearts at last\nwas all too short, and so sad...",
+   "status": "done"
   }
  ]
 }

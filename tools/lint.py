@@ -26,6 +26,12 @@ BOXES = {"choice": (228, 0), "bqA": (188, 2), "bqB": (188, 2)}
 MEASURED = {"msg", "scroll", "choice", "bqA", "bqB"}  # the rest are counted as unmeasured
 
 
+def relocatable(ln):
+    """An exe string reached only through pointers/lui (not a fixed record field): phase 7 moves the longer ones to
+    free space (status.md engine task b), so its `max` is not a translation limit. insert.py still raises on it."""
+    return ln["id"].startswith("exe_") and "region" not in ln and bool(ln.get("ptrs") or ln.get("lui"))
+
+
 def check_line(ln, names):
     """Errors for one script line with English."""
     en, jp, errs = ln["en"], ln["jp"], []
@@ -37,7 +43,7 @@ def check_line(ln, names):
         b = font.encode(en)
     except Exception as e:  # noqa: BLE001  (unencodable character)
         return errs + ["not encodable: %s" % e]
-    if "max" in ln and len(b) > ln["max"]:
+    if "max" in ln and len(b) > ln["max"] and not relocatable(ln):
         errs.append("%d bytes > max %d" % (len(b), ln["max"]))
     kind = ln.get("kind", ln["id"].split("_")[0])
     if kind in BOXES:
@@ -86,6 +92,8 @@ def lint(script=ROOT / "script", final=False):
             counts["english"] += 1
             if kind not in MEASURED:
                 counts["unmeasured " + kind] += 1
+            if relocatable(ln) and len(font.encode(ln["en"])) > ln["max"]:
+                counts["exe over max (relocate in phase 7)"] += 1
             errs += ["%s: %s" % (ln["id"], e) for e in check_line(ln, names)]
     return errs, counts
 

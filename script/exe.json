@@ -5,983 +5,1090 @@
   {
    "id": "exe_00D38",
    "jp": "アストラルカノン",
-   "en": "",
+   "en": "Astral Cannon",
    "ptrs": [
     "0xA7D00"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00D4C",
    "jp": "ドラグショット",
-   "en": "",
+   "en": "Drag Shot",
    "ptrs": [
     "0xA7CFC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_00D5C",
    "jp": "ブリッジトガン",
-   "en": "",
+   "en": "Bridget Gun",
    "ptrs": [
     "0xA7CF8"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_00D6C",
    "jp": "ジャベリン",
-   "en": "",
+   "en": "Javelin",
    "ptrs": [
     "0xA7CF4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00D78",
    "jp": "自己溶解",
-   "en": "",
+   "en": "Self-Melt",
    "ptrs": [
     "0xA7CEC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00D84",
    "jp": "破壊光線",
-   "en": "",
+   "en": "Blast Beam",
    "ptrs": [
     "0xA7CE8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00D90",
    "jp": "重力光線",
-   "en": "",
+   "en": "Gravity Ray",
    "ptrs": [
     "0xA7CE4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00D9C",
    "jp": "ウインドストーム",
-   "en": "",
+   "en": "Windstorm",
    "ptrs": [
     "0xA7CE0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00DB0",
    "jp": "体当たり",
-   "en": "",
+   "en": "Body Slam",
    "ptrs": [
     "0xA7CD8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00DBC",
    "jp": "噛みつき",
-   "en": "",
+   "en": "Bite",
    "ptrs": [
     "0xA7CD0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00DC8",
    "jp": "おたけび",
-   "en": "",
+   "en": "War Cry",
    "ptrs": [
     "0xA7CC8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00DD4",
    "jp": "かぎづめ",
-   "en": "",
+   "en": "Claws",
    "ptrs": [
     "0xA7CC4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00DE0",
    "jp": "デスフォッグプリズム",
-   "en": "",
+   "en": "Death Fog Prism",
    "ptrs": [
     "0xA7CC0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_00DF8",
    "jp": "カオスノヴァ",
-   "en": "",
+   "en": "Chaos Nova",
    "ptrs": [
     "0xA7CBC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_00E08",
    "jp": "アカシックバスター",
-   "en": "",
+   "en": "Akashic Buster",
    "ptrs": [
     "0xA7CB8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00E1C",
    "jp": "バニティスラッシュ",
-   "en": "",
+   "en": "Vanity Slash",
    "ptrs": [
     "0xA7CB4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00E30",
    "jp": "ビッグアイノヴァ",
-   "en": "",
+   "en": "Big Eye Nova",
    "ptrs": [
     "0xA7CB0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00E44",
    "jp": "ギガバースト",
-   "en": "",
+   "en": "Giga Burst",
    "ptrs": [
     "0xA7CAC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_00E54",
    "jp": "オメガスプレッド",
-   "en": "",
+   "en": "Omega Spread",
    "ptrs": [
     "0xA7CA8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00E68",
    "jp": "バニシングサークル",
-   "en": "",
+   "en": "Vanishing Circle",
    "ptrs": [
     "0xA7CA4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00E7C",
    "jp": "チェインアームズ",
-   "en": "",
+   "en": "Chain Arms",
    "ptrs": [
     "0xA7CA0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00E90",
    "jp": "ハイパレドリー",
-   "en": "",
+   "en": "Hyper Paredory",
    "ptrs": [
     "0xA7C9C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_00EA0",
    "jp": "デスチャージ",
-   "en": "",
+   "en": "Death Charge",
    "ptrs": [
     "0xA7C98"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_00EB0",
    "jp": "ギガブラスターカノン",
-   "en": "",
+   "en": "Giga Blaster Cannon",
    "ptrs": [
     "0xA7C94"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_00EC8",
    "jp": "バニシングランチャー",
-   "en": "",
+   "en": "Vanishing Launcher",
    "ptrs": [
     "0xA7C90"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_00EE0",
    "jp": "ウェーブスマッシャー",
-   "en": "",
+   "en": "Wave Smasher",
    "ptrs": [
     "0xA7C8C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_00EF8",
    "jp": "カウンターホーン",
-   "en": "",
+   "en": "Counter Horn",
    "ptrs": [
     "0xA7C88"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00F0C",
    "jp": "真魔烈空斬",
-   "en": "",
+   "en": "Hell Skycut",
    "ptrs": [
     "0xA7C84"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00F18",
    "jp": "カオスパレドリー",
-   "en": "",
+   "en": "Chaos Paredory",
    "ptrs": [
     "0xA7C80"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00F2C",
    "jp": "バニティリッパー",
-   "en": "",
+   "en": "Vanity Ripper",
    "ptrs": [
     "0xA7C7C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00F40",
    "jp": "アストラルバスター",
-   "en": "",
+   "en": "Astral Buster",
    "ptrs": [
     "0xA7C78"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00F54",
    "jp": "烈震気孔斬",
-   "en": "",
+   "en": "Quake Slash",
    "ptrs": [
     "0xA7C74"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00F60",
    "jp": "パレドリー",
-   "en": "",
+   "en": "Paredory",
    "ptrs": [
     "0xA7C70"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00F6C",
    "jp": "プラズマセイバー",
-   "en": "",
+   "en": "Plasma Saber",
    "ptrs": [
     "0xA7C6C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00F80",
    "jp": "ギルソード",
-   "en": "",
+   "en": "Gil Sword",
    "ptrs": [
     "0xA7C68"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_00F8C",
    "jp": "カウンターチャージ",
-   "en": "",
+   "en": "Counter Charge",
    "ptrs": [
     "0xA7C64"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00FA0",
    "jp": "ストームボマー",
-   "en": "",
+   "en": "Storm Bomber",
    "ptrs": [
     "0xA7C60"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_00FB0",
    "jp": "ヘビィギルブレード",
-   "en": "",
+   "en": "Heavy Gil Blade",
    "ptrs": [
     "0xA7C5C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_00FC4",
    "jp": "パイルランサー",
-   "en": "",
+   "en": "Pile Lancer",
    "ptrs": [
     "0xA7C58"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_00FD4",
    "jp": "ウェブバスター",
-   "en": "",
+   "en": "Web Buster",
    "ptrs": [
     "0xA7C54"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_00FE4",
    "jp": "アクア・スプラッシャー",
-   "en": "",
+   "en": "Aqua Splasher",
    "ptrs": [
     "0xA7C50"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_00FFC",
    "jp": "ウェグスピア",
-   "en": "",
+   "en": "Weg Spear",
    "ptrs": [
     "0xA7C4C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0100C",
    "jp": "エア・トーネード",
-   "en": "",
+   "en": "Air Tornado",
    "ptrs": [
     "0xA7C48"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01020",
    "jp": "カロリックブイ",
-   "en": "",
+   "en": "Caloric V",
    "ptrs": [
     "0xA7C44"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01030",
    "jp": "メガブラスターカノン",
-   "en": "",
+   "en": "Mega Blaster Cannon",
    "ptrs": [
     "0xA7C40"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01048",
    "jp": "スラッシャーネイル",
-   "en": "",
+   "en": "Slasher Nail",
    "ptrs": [
     "0xA7C3C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0105C",
    "jp": "ブラスアックス",
-   "en": "",
+   "en": "Brass Axe",
    "ptrs": [
     "0xA7C38"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0106C",
    "jp": "パルスクラスター",
-   "en": "",
+   "en": "Pulse Cluster",
    "ptrs": [
     "0xA7C34"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01080",
    "jp": "ブラスターカノン",
-   "en": "",
+   "en": "Blaster Cannon",
    "ptrs": [
     "0xA7C30"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01094",
    "jp": "ギルブレード",
-   "en": "",
+   "en": "Gil Blade",
    "ptrs": [
     "0xA7C2C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_010A4",
    "jp": "スパイクメイス",
-   "en": "",
+   "en": "Spike Mace",
    "ptrs": [
     "0xA7C28"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_010B4",
    "jp": "カロリックボム",
-   "en": "",
+   "en": "Caloric Bomb",
    "ptrs": [
     "0xA7C24"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_010C4",
    "jp": "パルスバルカン",
-   "en": "",
+   "en": "Pulse Vulcan",
    "ptrs": [
     "0xA7C20"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_010D4",
    "jp": "ナックルパート",
-   "en": "",
+   "en": "Knuckle Part",
    "ptrs": [
     "0xA7C1C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_010E4",
    "jp": "ソニックウェーブ",
-   "en": "",
+   "en": "Sonic Wave",
    "ptrs": [
     "0xA7C18"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_010F8",
    "jp": "ミッドハンマー",
-   "en": "",
+   "en": "Mid Hammer",
    "ptrs": [
     "0xA7C14"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01108",
    "jp": "バスターカノン",
-   "en": "",
+   "en": "Buster Cannon",
    "ptrs": [
     "0xA7C10"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01118",
    "jp": "ロングソード",
-   "en": "",
+   "en": "Long Sword",
    "ptrs": [
     "0xA7C0C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01128",
    "jp": "ロケットブロー",
-   "en": "",
+   "en": "Rocket Blow",
    "ptrs": [
     "0xA7C08"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01138",
    "jp": "ブリッジトカノン",
-   "en": "",
+   "en": "Bridget Cannon",
    "ptrs": [
     "0xA7C04"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0114C",
    "jp": "パワーナックル",
-   "en": "",
+   "en": "Power Knuckle",
    "ptrs": [
     "0xA7C00"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0115C",
    "jp": "ツヴァイルミネセンス",
-   "en": "",
+   "en": "Zwei Luminescence",
    "ptrs": [
     "0xA7BFC"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01174",
    "jp": "アインラール",
-   "en": "",
+   "en": "Ein Rahl",
    "ptrs": [
     "0xA7BF8"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01184",
    "jp": "フレイムスラッシュ",
-   "en": "",
+   "en": "Flame Slash",
    "ptrs": [
     "0xA7BF4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01198",
    "jp": "ストライクドラグーン",
-   "en": "",
+   "en": "Strike Dragoon",
    "ptrs": [
     "0xA7BF0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_011B0",
    "jp": "バルディッシュ",
-   "en": "",
+   "en": "Bardiche",
    "ptrs": [
     "0xA7BEC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_011C0",
    "jp": "アートバスター",
-   "en": "",
+   "en": "Art Buster",
    "ptrs": [
     "0xA7BE4"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_011D0",
    "jp": "ロングセイバー",
-   "en": "",
+   "en": "Long Saber",
    "ptrs": [
     "0xA7BE0"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_011E0",
    "jp": "シールプロッド",
-   "en": "",
+   "en": "Seal Prod",
    "ptrs": [
     "0xA7BDC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_011F0",
    "jp": "スペシャルアタック",
-   "en": "",
+   "en": "Special Attack",
    "ptrs": [
     "0xA7BD8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01204",
    "jp": "レゾナンスプレッシャー",
-   "en": "",
+   "en": "Resonance Pressure",
    "ptrs": [
     "0xA7BD4"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_0121C",
    "jp": "エレメンタルバスター",
-   "en": "",
+   "en": "Elemental Buster",
    "ptrs": [
     "0xA7BD0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01234",
    "jp": "アルトラファミリア",
-   "en": "",
+   "en": "Altra Familiar",
    "ptrs": [
     "0xA7BCC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01248",
    "jp": "ブーストナックル",
-   "en": "",
+   "en": "Boost Knuckle",
    "ptrs": [
     "0xA7BC8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0125C",
    "jp": "フェンリルファング",
-   "en": "",
+   "en": "Fenrir Fang",
    "ptrs": [
     "0xA7BC4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01270",
    "jp": "ハイドロプレッシャー",
-   "en": "",
+   "en": "Hydro Pressure",
    "ptrs": [
     "0xA7BC0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01288",
    "jp": "ビルトライデント",
-   "en": "",
+   "en": "Bil Trident",
    "ptrs": [
     "0xA7BBC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0129C",
    "jp": "ドラグーンバスター",
-   "en": "",
+   "en": "Dragoon Buster",
    "ptrs": [
     "0xA7BB8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_012B0",
    "jp": "フレアボルケーノ",
-   "en": "",
+   "en": "Flare Volcano",
    "ptrs": [
     "0xA7BB4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_012C4",
    "jp": "メギドスラッシャー",
-   "en": "",
+   "en": "Megiddo Slasher",
    "ptrs": [
     "0xA7BB0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_012D8",
    "jp": "グラントマホーク",
-   "en": "",
+   "en": "Gran Tomahawk",
    "ptrs": [
     "0xA7BAC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_012EC",
    "jp": "アカシックドライブ",
-   "en": "",
+   "en": "Akashic Drive",
    "ptrs": [
     "0xA7BA8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01300",
    "jp": "サイフラッシュ",
-   "en": "",
+   "en": "Cyflash",
    "ptrs": [
     "0xA7BA4"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01310",
    "jp": "真・天空斬",
-   "en": "",
+   "en": "True Skycut",
    "ptrs": [
     "0xA7BA0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0131C",
    "jp": "ファミリアレス",
-   "en": "",
+   "en": "Familiaress",
    "ptrs": [
     "0xA7B9C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0132C",
    "jp": "サイ・ブレード",
-   "en": "",
+   "en": "Cy-Blade",
    "ptrs": [
     "0xA7B98"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0133C",
    "jp": "アートカノン",
-   "en": "",
+   "en": "Art Cannon",
    "ptrs": [
     "0xA7B94"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0134C",
    "jp": "操者なし",
-   "en": "",
+   "en": "No Pilot",
    "ptrs": [
     "0xA8918",
     "0xA8A2C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01358",
    "jp": "パイロット最大数",
-   "en": "",
+   "en": "Max Pilots",
    "ptrs": [
     "0xA8914"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0136C",
    "jp": "シルフィス",
-   "en": "",
+   "en": "Sylphis",
    "ptrs": [
     "0xA8908"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01378",
    "jp": "エディンム改",
-   "en": "",
+   "en": "Edimmu Kai",
    "ptrs": [
     "0xA8904"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01388",
    "jp": "エディンム",
-   "en": "",
+   "en": "Edimmu",
    "ptrs": [
     "0xA8900",
     "0xA8A14",
     "0xA8AFC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01394",
    "jp": "レスルグ",
-   "en": "",
+   "en": "Reslug",
    "ptrs": [
     "0xA88FC",
     "0xA8AF8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_013A0",
    "jp": "ベムルグ",
-   "en": "",
+   "en": "Bemlug",
    "ptrs": [
     "0xA88F8",
     "0xA8AF4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_013AC",
    "jp": "ツァディム",
-   "en": "",
+   "en": "Tsadim",
    "ptrs": [
     "0xA88F4",
     "0xA8AF0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_013B8",
    "jp": "ツァディ",
-   "en": "",
+   "en": "Tsadi",
    "ptrs": [
     "0xA88F0",
     "0xA8AEC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_013C4",
    "jp": "ドナール",
-   "en": "",
+   "en": "Donar",
    "ptrs": [
     "0xA88EC",
     "0xA8AE8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_013D0",
    "jp": "ゴーレム",
-   "en": "",
+   "en": "Golem",
    "ptrs": [
     "0xA88E4",
     "0xA89F8",
     "0xA8A8C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_013DC",
    "jp": "マルコム",
-   "en": "",
+   "en": "Malcolm",
    "ptrs": [
     "0xA88D8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_013E8",
    "jp": "ディソン",
-   "en": "",
+   "en": "Dison",
    "ptrs": [
     "0xA88D0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_013F4",
    "jp": "ダンカン",
-   "en": "",
+   "en": "Duncan",
    "ptrs": [
     "0xA88CC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01400",
    "jp": "反逆騎士",
-   "en": "",
+   "en": "Renegade",
    "ptrs": [
     "0xA88C4",
     "0xA88C8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0140C",
    "jp": "反逆兵士",
-   "en": "",
+   "en": "Rebel Grunt",
    "ptrs": [
     "0xA88BC",
     "0xA88C0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01418",
    "jp": "ルジェロ",
-   "en": "",
+   "en": "Ruggero",
    "ptrs": [
     "0xA8898"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01424",
    "jp": "アデノイド",
-   "en": "",
+   "en": "Adenoid",
    "ptrs": [
     "0xA8894"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01430",
    "jp": "マギーア",
-   "en": "",
+   "en": "Magia",
    "ptrs": [
     "0xA8890"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0143C",
    "jp": "一般騎士",
-   "en": "",
+   "en": "Knight",
    "ptrs": [
     "0xA8864",
     "0xA8978"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01448",
    "jp": "魔装騎士",
-   "en": "",
+   "en": "Masou Knight",
    "ptrs": [
     "0xA885C",
     "0xA8860",
@@ -991,12 +1098,13 @@
     "0xA88B4",
     "0xA88B8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01454",
    "jp": "魔装兵士",
-   "en": "",
+   "en": "Masou Grunt",
    "ptrs": [
     "0xA8850",
     "0xA8854",
@@ -1007,1724 +1115,1910 @@
     "0xA88A4",
     "0xA88A8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01460",
    "jp": "バージェス",
-   "en": "",
+   "en": "Burgess",
    "ptrs": [
     "0xA884C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0146C",
    "jp": "ジェムス",
-   "en": "",
+   "en": "Jems",
    "ptrs": [
     "0xA8848"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01478",
    "jp": "シャーナ",
-   "en": "",
+   "en": "Shana",
    "ptrs": [
     "0xA8844"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01484",
    "jp": "ブラッキー",
-   "en": "",
+   "en": "Blacky",
    "ptrs": [
     "0xA883C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01490",
    "jp": "ドロービ",
-   "en": "",
+   "en": "Drawbi",
    "ptrs": [
     "0xA8838"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0149C",
    "jp": "ヘレーナ",
-   "en": "",
+   "en": "Helena",
    "ptrs": [
     "0xA8834"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_014A8",
    "jp": "フルカス",
-   "en": "",
+   "en": "Furcas",
    "ptrs": [
     "0xA8830"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_014B4",
    "jp": "ベウマー",
-   "en": "",
+   "en": "Beumer",
    "ptrs": [
     "0xA882C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_014C0",
    "jp": "アルフレード",
-   "en": "",
+   "en": "Alfredo",
    "ptrs": [
     "0xA8828"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_014D0",
    "jp": "ロセリニ",
-   "en": "",
+   "en": "Rossellini",
    "ptrs": [
     "0xA8824"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_014DC",
    "jp": "ゼルドナ",
-   "en": "",
+   "en": "Zeldna",
    "ptrs": [
     "0xA8820"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_014E8",
    "jp": "ケイゴ＝ザンツ＝フェルディナン",
-   "en": "",
+   "en": "Keigo Zants Ferdinand",
    "ptrs": [
     "0xA8A30"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_01508",
    "jp": "{h}パイロット{z}最大数",
-   "en": "",
+   "en": "Max {h}Pilots{z}",
    "ptrs": [
     "0xA8A28"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0151C",
    "jp": "リーグ＝ヘル＝ガルム",
-   "en": "",
+   "en": "Rieg Hell Garum",
    "ptrs": [
     "0xA8A24"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01534",
    "jp": "精霊シルフィス",
-   "en": "",
+   "en": "Spirit Sylphis",
    "ptrs": [
     "0xA8A1C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01544",
    "jp": "エディン",
-   "en": "",
+   "en": "Edin",
    "ptrs": [
     "0xA8A18",
     "0xA8B00"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01550",
    "jp": "怨霊レスルグ",
-   "en": "",
+   "en": "Wraith Reslug",
    "ptrs": [
     "0xA8A10",
     "0xA8BD8"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01560",
    "jp": "怨霊ベムルグ",
-   "en": "",
+   "en": "Wraith Bemlug",
    "ptrs": [
     "0xA8A0C",
     "0xA8BD4"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01570",
    "jp": "邪霊ツァディム",
-   "en": "",
+   "en": "Fiend Tsadim",
    "ptrs": [
     "0xA8A08",
     "0xA8BD0"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01580",
    "jp": "悪霊ツァディ",
-   "en": "",
+   "en": "Specter Tsadi",
    "ptrs": [
     "0xA8A04",
     "0xA8BCC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01590",
    "jp": "邪霊ドナール",
-   "en": "",
+   "en": "Fiend Donar",
    "ptrs": [
     "0xA8A00",
     "0xA8BC8"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_015A0",
    "jp": "悪霊ナール",
-   "en": "",
+   "en": "Specter Nar",
    "ptrs": [
     "0xA89FC",
     "0xA8BC4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_015AC",
    "jp": "マルコム＝バンクオー",
-   "en": "",
+   "en": "Malcolm Banquo",
    "ptrs": [
     "0xA89EC"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_015C4",
    "jp": "ディソン＝バンクオー",
-   "en": "",
+   "en": "Dison Banquo",
    "ptrs": [
     "0xA89E4"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_015DC",
    "jp": "ダンカン＝ラウンズバーグ６世",
-   "en": "",
+   "en": "Duncan Lounsburg VI",
    "ptrs": [
     "0xA89E0"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_015FC",
    "jp": "ルジェロ親衛隊・騎士",
-   "en": "",
+   "en": "Ruggero Guard Knight",
    "ptrs": [
     "0xA89D8",
     "0xA89DC"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01614",
    "jp": "ルジェロ親衛隊・兵士",
-   "en": "",
+   "en": "Ruggero Guard Soldier",
    "ptrs": [
     "0xA89D0",
     "0xA89D4"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_0162C",
    "jp": "ラガーシュ軍魔装騎士",
-   "en": "",
+   "en": "Ragash Masou Knight",
    "ptrs": [
     "0xA89C0",
     "0xA89C4",
     "0xA89C8",
     "0xA89CC"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01644",
    "jp": "ラガーシュ軍魔装兵士",
-   "en": "",
+   "en": "Ragash Masou Soldier",
    "ptrs": [
     "0xA89B0",
     "0xA89B4",
     "0xA89B8",
     "0xA89BC"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_0165C",
    "jp": "ルジェロ＝ゼラン＝カレロ",
-   "en": "",
+   "en": "Ruggero Zelan Calero",
    "ptrs": [
     "0xA89AC"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_01678",
    "jp": "アデノイド＝セラーズ",
-   "en": "",
+   "en": "Adenoid Sellers",
    "ptrs": [
     "0xA89A8"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01690",
    "jp": "マギーア＝マグス",
-   "en": "",
+   "en": "Magia Magus",
    "ptrs": [
     "0xA89A4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_016A4",
    "jp": "キャリ＝ノヴァク",
-   "en": "",
+   "en": "Kyari Novak",
    "ptrs": [
     "0xA89A0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_016B8",
    "jp": "ヤドラ＝ゲオルゲ",
-   "en": "",
+   "en": "Yadora Gheorghe",
    "ptrs": [
     "0xA899C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_016CC",
    "jp": "ソッド＝ジュスト",
-   "en": "",
+   "en": "Thodd Justo",
    "ptrs": [
     "0xA8998"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_016E0",
    "jp": "ミラ＝カーリナ",
-   "en": "",
+   "en": "Mira Karina",
    "ptrs": [
     "0xA8994"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_016F0",
    "jp": "ナトゥーレ国魔装騎士",
-   "en": "",
+   "en": "Natoure Masou Knight",
    "ptrs": [
     "0xA8990"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01708",
    "jp": "ナトゥーレ国魔装兵士",
-   "en": "",
+   "en": "Natoure Masou Soldier",
    "ptrs": [
     "0xA898C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01720",
    "jp": "バルツフィーム救国軍",
-   "en": "",
+   "en": "Vartzpheem Liberators",
    "ptrs": [
     "0xA897C",
     "0xA8980"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01738",
    "jp": "バルツフィーム国魔装騎士",
-   "en": "",
+   "en": "Vartzpheem Masou Knight",
    "ptrs": [
     "0xA8970",
     "0xA8974"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_01754",
    "jp": "バルツフィーム国魔装兵士",
-   "en": "",
+   "en": "Vartzpheem Masou Soldier",
    "ptrs": [
     "0xA8964",
     "0xA8968",
     "0xA896C"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_01770",
    "jp": "バージェス＝グラム＝シェクス",
-   "en": "",
+   "en": "Burgess Gram Shex",
    "ptrs": [
     "0xA8960"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_01790",
    "jp": "ジェムス＝グリニッチ",
-   "en": "",
+   "en": "Jems Greenwich",
    "ptrs": [
     "0xA895C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_017A8",
    "jp": "シャーナ＝グレイス",
-   "en": "",
+   "en": "Shana Grace",
    "ptrs": [
     "0xA8958"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_017BC",
    "jp": "シェス＝ラァト＝グラディ",
-   "en": "",
+   "en": "Shess Raat Grady",
    "ptrs": [
     "0xA8954"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_017D8",
    "jp": "ブラッキー＝ザンツ＝カティス",
-   "en": "",
+   "en": "Blacky Zants Katis",
    "ptrs": [
     "0xA8950"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_017F8",
    "jp": "ドロービ＝ザンツ＝レイモン",
-   "en": "",
+   "en": "Drawbi Zants Raymon",
    "ptrs": [
     "0xA894C"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_01814",
    "jp": "ヘレーナ＝ザンツ＝シュガー",
-   "en": "",
+   "en": "Helena Zants Sugar",
    "ptrs": [
     "0xA8948"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_01830",
    "jp": "フルカス＝クルツ＝カンビエ",
-   "en": "",
+   "en": "Furcas Kurtz Cambie",
    "ptrs": [
     "0xA8944"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_0184C",
    "jp": "ベウマー＝クルツ＝バウム",
-   "en": "",
+   "en": "Beumer Kurtz Baum",
    "ptrs": [
     "0xA8940"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_01868",
    "jp": "アルフレード＝ラスム＝ユロ",
-   "en": "",
+   "en": "Alfredo Rasm Yuro",
    "ptrs": [
     "0xA893C"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_01884",
    "jp": "ロセリニ＝ゼラ＝フランチェス",
-   "en": "",
+   "en": "Rossellini Zela Franches",
    "ptrs": [
     "0xA8938"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_018A4",
    "jp": "ゼルドナ＝クルツ＝グレスト",
-   "en": "",
+   "en": "Zeldna Kurtz Grest",
    "ptrs": [
     "0xA8934"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_018C0",
    "jp": "トト＝クアル＝ユロ",
-   "en": "",
+   "en": "Toto Qual Yuro",
    "ptrs": [
     "0xA8930"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_018D4",
    "jp": "イェン＝ヤング",
-   "en": "",
+   "en": "Yen Yang",
    "ptrs": [
     "0xA892C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_018E4",
    "jp": "アルマ＝クルツ＝カーリナ",
-   "en": "",
+   "en": "Alma Kurtz Karina",
    "ptrs": [
     "0xA8928"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_01900",
    "jp": "ケイゴ＝クルツ＝フェルディナン",
-   "en": "",
+   "en": "Keigo Kurtz Ferdinand",
    "ptrs": [
     "0xA8924"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_01920",
    "jp": "プラーナボム",
-   "en": "",
+   "en": "Prana Bomb",
    "ptrs": [
     "0xA8B10"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01930",
    "jp": "国王馬車",
-   "en": "",
+   "en": "Royal Coach",
    "ptrs": [
     "0xA8B0C",
     "0xA8BEC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0193C",
    "jp": "イズラフェール",
-   "en": "",
+   "en": "Izrafel",
    "ptrs": [
     "0xA8AE0"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0194C",
    "jp": "アグ・ゲブラ",
-   "en": "",
+   "en": "Ag Gebra",
    "ptrs": [
     "0xA8ADC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0195C",
    "jp": "アグ・ラーダ",
-   "en": "",
+   "en": "Ag Rada",
    "ptrs": [
     "0xA8AD4",
     "0xA8AD8"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0196C",
    "jp": "アグ・ノイア改",
-   "en": "",
+   "en": "Ag Noia Kai",
    "ptrs": [
     "0xA8AD0"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0197C",
    "jp": "アグ・ノイア",
-   "en": "",
+   "en": "Ag Noia",
    "ptrs": [
     "0xA8ACC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0198C",
    "jp": "アグ・ノイ",
-   "en": "",
+   "en": "Ag Noi",
    "ptrs": [
     "0xA8AC8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01998",
    "jp": "サタナギーア",
-   "en": "",
+   "en": "Satanagia",
    "ptrs": [
     "0xA8AC4"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_019A8",
    "jp": "エル・ドガリニ",
-   "en": "",
+   "en": "El Dogarini",
    "ptrs": [
     "0xA8AB4",
     "0xA8AC0"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_019B8",
    "jp": "ドガリニ",
-   "en": "",
+   "en": "Dogarini",
    "ptrs": [
     "0xA8AB0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_019C4",
    "jp": "エル・ウェバール",
-   "en": "",
+   "en": "El Webal",
    "ptrs": [
     "0xA8AAC",
     "0xA8ABC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_019D8",
    "jp": "ウェバール",
-   "en": "",
+   "en": "Webal",
    "ptrs": [
     "0xA8AA8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_019E4",
    "jp": "エル・メルバス",
-   "en": "",
+   "en": "El Melbas",
    "ptrs": [
     "0xA8AA0",
     "0xA8AA4"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_019F4",
    "jp": "メルバス",
-   "en": "",
+   "en": "Melbas",
    "ptrs": [
     "0xA8A9C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01A00",
    "jp": "エル・ザーリラ",
-   "en": "",
+   "en": "El Zarila",
    "ptrs": [
     "0xA8A98",
     "0xA8AB8"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01A10",
    "jp": "ザーリラ",
-   "en": "",
+   "en": "Zarila",
    "ptrs": [
     "0xA8A90",
     "0xA8A94"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01A1C",
    "jp": "ミッダスト改",
-   "en": "",
+   "en": "Middast Kai",
    "ptrs": [
     "0xA8A88"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01A2C",
    "jp": "ミッダスト",
-   "en": "",
+   "en": "Middast",
    "ptrs": [
     "0xA8A84"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01A38",
    "jp": "クィンアクス",
-   "en": "",
+   "en": "Quinax",
    "ptrs": [
     "0xA8A80"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01A48",
    "jp": "ティルウェス",
-   "en": "",
+   "en": "Tilwes",
    "ptrs": [
     "0xA8A7C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01A58",
    "jp": "プラウニー",
-   "en": "",
+   "en": "Prowny",
    "ptrs": [
     "0xA8A78"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01A64",
    "jp": "カーヴァイル",
-   "en": "",
+   "en": "Carvile",
    "ptrs": [
     "0xA8A74"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01A74",
    "jp": "スマゥグ",
-   "en": "",
+   "en": "Smaug",
    "ptrs": [
     "0xA8A70"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01A80",
    "jp": "ジャメイム",
-   "en": "",
+   "en": "Jameim",
    "ptrs": [
     "0xA8A68",
     "0xA8A6C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01A8C",
    "jp": "ザムジード",
-   "en": "",
+   "en": "Zamzeed",
    "ptrs": [
     "0xA8A5C",
     "0xA8A60",
     "0xA8A64"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01A98",
    "jp": "ガッデス",
-   "en": "",
+   "en": "Gaddess",
    "ptrs": [
     "0xA8A50",
     "0xA8A54",
     "0xA8A58"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_01AA4",
    "jp": "グランヴェール",
-   "en": "",
+   "en": "Granveil",
    "ptrs": [
     "0xA8A44",
     "0xA8A48",
     "0xA8A4C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01AB4",
    "jp": "サイバスター",
-   "en": "",
+   "en": "Cybuster",
    "ptrs": [
     "0xA8A38",
     "0xA8A3C",
     "0xA8A40"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01AC4",
    "jp": "生気球体爆弾",
-   "en": "",
+   "en": "Vital Orb Bomb",
    "ptrs": [
     "0xA8BF0"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01AD4",
    "jp": "邪霊エディン",
-   "en": "",
+   "en": "Fiend Edin",
    "ptrs": [
     "0xA8BE0"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01AE4",
    "jp": "怨霊エディンム",
-   "en": "",
+   "en": "Wraith Edimmu",
    "ptrs": [
     "0xA8BDC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01AF4",
    "jp": "魔装機神イズラフェール",
-   "en": "",
+   "en": "Masoukishin Izrafel",
    "ptrs": [
     "0xA8BC0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01B0C",
    "jp": "超魔重機アグ・ゲブラ",
-   "en": "",
+   "en": "Super Majuuki Ag Gebra",
    "ptrs": [
     "0xA8BBC"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01B24",
    "jp": "魔重機アグ・ラーダ",
-   "en": "",
+   "en": "Majuuki Ag Rada",
    "ptrs": [
     "0xA8BB4",
     "0xA8BB8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01B38",
    "jp": "魔重機アグ・ノイア改",
-   "en": "",
+   "en": "Majuuki Ag Noia Kai",
    "ptrs": [
     "0xA8BB0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01B50",
    "jp": "魔重機アグ・ノイア",
-   "en": "",
+   "en": "Majuuki Ag Noia",
    "ptrs": [
     "0xA8BAC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01B64",
    "jp": "試作魔重機アグ・ノイ",
-   "en": "",
+   "en": "Proto Majuuki Ag Noi",
    "ptrs": [
     "0xA8BA8"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01B7C",
    "jp": "魔装機サタナギーア",
-   "en": "",
+   "en": "Masouki Satanagia",
    "ptrs": [
     "0xA8BA4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01B90",
    "jp": "ミラ用エル・ドガリニ",
-   "en": "",
+   "en": "Mira's El Dogarini",
    "ptrs": [
     "0xA8BA0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01BA8",
    "jp": "ミラ用エル・ウェバール",
-   "en": "",
+   "en": "Mira's El Webal",
    "ptrs": [
     "0xA8B9C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01BC0",
    "jp": "ミラ用エル・ザーリラ",
-   "en": "",
+   "en": "Mira's El Zarila",
    "ptrs": [
     "0xA8B98"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01BD8",
    "jp": "魔装機エル・ドガリニ",
-   "en": "",
+   "en": "Masouki El Dogarini",
    "ptrs": [
     "0xA8B94"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01BF0",
    "jp": "魔装兵ドガリニ",
-   "en": "",
+   "en": "Grunt Dogarini",
    "ptrs": [
     "0xA8B90"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01C00",
    "jp": "魔装機エル・ウェバール",
-   "en": "",
+   "en": "Masouki El Webal",
    "ptrs": [
     "0xA8B8C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01C18",
    "jp": "魔装兵ウェバール",
-   "en": "",
+   "en": "Grunt Webal",
    "ptrs": [
     "0xA8B88"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01C2C",
    "jp": "ヤドラ用エル・メルバス",
-   "en": "",
+   "en": "Yadora's El Melbas",
    "ptrs": [
     "0xA8B84"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01C44",
    "jp": "魔装機エル・メルバス",
-   "en": "",
+   "en": "Masouki El Melbas",
    "ptrs": [
     "0xA8B80"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01C5C",
    "jp": "魔装兵メルバス",
-   "en": "",
+   "en": "Grunt Melbas",
    "ptrs": [
     "0xA8B7C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01C6C",
    "jp": "魔装機エル・ザーリラ",
-   "en": "",
+   "en": "Masouki El Zarila",
    "ptrs": [
     "0xA8B78"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01C84",
    "jp": "魔装機ザーリラ",
-   "en": "",
+   "en": "Masouki Zarila",
    "ptrs": [
     "0xA8B70",
     "0xA8B74"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01C94",
    "jp": "擬兵ゴーレム",
-   "en": "",
+   "en": "Dummy Golem",
    "ptrs": [
     "0xA8B6C"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01CA4",
    "jp": "魔装兵ミッダスト改",
-   "en": "",
+   "en": "Grunt Middast Kai",
    "ptrs": [
     "0xA8B68"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01CB8",
    "jp": "魔装兵ミッダスト",
-   "en": "",
+   "en": "Grunt Middast",
    "ptrs": [
     "0xA8B64"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01CCC",
    "jp": "魔装機クィンアクス",
-   "en": "",
+   "en": "Masouki Quinax",
    "ptrs": [
     "0xA8B60"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01CE0",
    "jp": "魔装機ティルウェス",
-   "en": "",
+   "en": "Masouki Tilwes",
    "ptrs": [
     "0xA8B5C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01CF4",
    "jp": "魔装機プラウニー",
-   "en": "",
+   "en": "Masouki Prowny",
    "ptrs": [
     "0xA8B58"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01D08",
    "jp": "魔装機カーヴァイル",
-   "en": "",
+   "en": "Masouki Carvile",
    "ptrs": [
     "0xA8B54"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01D1C",
    "jp": "魔装機スマゥグ",
-   "en": "",
+   "en": "Masouki Smaug",
    "ptrs": [
     "0xA8B50"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_01D2C",
    "jp": "魔装機ジャメイム",
-   "en": "",
+   "en": "Masouki Jameim",
    "ptrs": [
     "0xA8B48",
     "0xA8B4C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01D40",
    "jp": "魔装機神ザムジード",
-   "en": "",
+   "en": "Masoukishin Zamzeed",
    "ptrs": [
     "0xA8B3C",
     "0xA8B40",
     "0xA8B44"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01D54",
    "jp": "魔装機神ガッデス",
-   "en": "",
+   "en": "Masoukishin Gaddess",
    "ptrs": [
     "0xA8B30",
     "0xA8B34",
     "0xA8B38"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_01D68",
    "jp": "魔装機神グランヴェール",
-   "en": "",
+   "en": "Masoukishin Granveil",
    "ptrs": [
     "0xA8B24",
     "0xA8B28",
     "0xA8B2C"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_01D80",
    "jp": "魔装機神サイバスター",
-   "en": "",
+   "en": "Masoukishin Cybuster",
    "ptrs": [
     "0xA8B18",
     "0xA8B1C",
     "0xA8B20"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_027C8",
    "jp": "味方ユニットを選んでください",
-   "en": "",
+   "en": "Select an allied unit",
    "lui": [
     "0x37F98"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_027E8",
    "jp": "敵ユニットを選んでください",
-   "en": "",
+   "en": "Select an enemy unit",
    "lui": [
     "0x37FBC"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_02804",
    "jp": "ＨＰが減っていないので回復の必要がありません。",
-   "en": "",
+   "en": "HP is full, so there is no need to heal.",
    "lui": [
     "0x37FDC"
    ],
-   "max": 47
+   "max": 47,
+   "status": "done"
   },
   {
    "id": "exe_02834",
    "jp": "その敵ユニットは、すでに呪縛がかけられています。",
-   "en": "",
+   "en": "That enemy unit is already bound by a spell.",
    "lui": [
     "0x38000"
    ],
-   "max": 51
+   "max": 51,
+   "status": "done"
   },
   {
    "id": "exe_02BF0",
    "jp": "あら？　　機動いてませんが",
-   "en": "",
+   "en": "Oh? No units have moved...",
    "lui": [
     "0x3B894"
    ],
-   "max": 27
+   "max": 27,
+   "status": "done"
   },
   {
    "id": "exe_02C0C",
    "jp": "ターンを終わらせるんですか？",
-   "en": "",
+   "en": "You want to end the turn?",
    "lui": [
     "0x3B8C0"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_02C2C",
    "jp": "じゃあ、ターンを終わらせます。",
-   "en": "",
+   "en": "All right, ending the turn.",
    "lui": [
     "0x3B948"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_02C4C",
    "jp": "よろしいですか？",
-   "en": "",
+   "en": "Is that all right?",
    "lui": [
     "0x3B970",
     "0x3D248"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_02C60",
    "jp": "勝利条件",
-   "en": "",
+   "en": "Victory",
    "lui": [
     "0x3C190"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_02C6C",
    "jp": "勝ち抜き条件",
-   "en": "",
+   "en": "To Advance",
    "lui": [
     "0x3C1A8"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_02C7C",
    "jp": "敗北条件",
-   "en": "",
+   "en": "Defeat",
    "lui": [
     "0x3C2F4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_02C88",
    "jp": "システム設定",
-   "en": "",
+   "en": "System Options",
    "lui": [
     "0x3CA68"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_02C98",
    "jp": "{h}ＧＲＩＤ{z}表示",
-   "en": "",
+   "en": "{h}Grid{z} Display",
    "lui": [
     "0x3CAE8"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_02CA8",
    "jp": "{h}バイブレーション{z}",
-   "en": "",
+   "en": "{h}Vibration{z}",
    "lui": [
     "0x3CB10"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_02CBC",
    "jp": "ここまでの戦闘経過を記録します。",
-   "en": "",
+   "en": "Saves your battle progress so far.",
    "lui": [
     "0x3D218"
    ],
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_035A8",
    "jp": "レベルアップ　→　{h}ＬＶ{z}",
-   "en": "",
+   "en": "Level Up -> {h}LV{z}",
    "lui": [
     "0x56ECC"
    ],
-   "max": 28
+   "max": 28,
+   "status": "done"
   },
   {
    "id": "exe_035D0",
    "jp": "格闘攻撃の威力が増大します。",
-   "en": "",
+   "en": "Increases melee attack power.",
    "lui": [
     "0x5780C"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_035F0",
    "jp": "射撃攻撃の威力が増大します。",
-   "en": "",
+   "en": "Increases ranged attack power.",
    "lui": [
     "0x57828"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_03610",
    "jp": "攻撃時の命中率が向上します。",
-   "en": "",
+   "en": "Improves attack accuracy.",
    "lui": [
     "0x57844"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_03630",
    "jp": "敵の攻撃を回避しやすくなります。",
-   "en": "",
+   "en": "Makes dodging enemy attacks easier.",
    "lui": [
     "0x57860"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_03654",
    "jp": "{h}クリティカル{z}攻撃の発生や技能習得に影響します。",
-   "en": "",
+   "en": "Affects {h}critical{z} hits and learning skills.",
    "lui": [
     "0x5787C"
    ],
-   "max": 51
+   "max": 51,
+   "status": "done"
   },
   {
    "id": "exe_03688",
    "jp": "精神{h}ポイント{z}と{h}プラーナ{z}の回復力に影響があります。",
-   "en": "",
+   "en": "Affects Spirit {h}Points{z} and {h}Prana{z} recovery.",
    "lui": [
     "0x57898"
    ],
-   "max": 55
+   "max": 55,
+   "status": "done"
   },
   {
    "id": "exe_036C0",
    "jp": "入手したポイントをすべて振りわけてください",
-   "en": "",
+   "en": "Please allocate all the points earned",
    "lui": [
     "0x580C4"
    ],
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_036EC",
    "jp": "レベルアップポイントの振りわけを終了します",
-   "en": "",
+   "en": "Finish allocating level-up points",
    "lui": [
     "0x580E0"
    ],
-   "max": 43
+   "max": 43,
+   "status": "done"
   },
   {
    "id": "exe_03718",
    "jp": "なんという破天荒なことを考えたことか。",
-   "en": "",
+   "en": "What an outrageous thing to think of.",
    "lui": [
     "0x580F8"
    ],
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_03740",
    "jp": "特殊技能　２回行動を覚えました",
-   "en": "",
+   "en": "Learned skill: Act Twice",
    "lui": [
     "0x5828C"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_03760",
    "jp": "きり払い　　　　　ＬＶ",
-   "en": "",
+   "en": "Parry LV",
    "lui": [
     "0x582E0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_03778",
    "jp": "せりあい　　　　　ＬＶ",
-   "en": "",
+   "en": "Clash LV",
    "lui": [
     "0x58360"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_03790",
    "jp": "プラーナ回復　　　ＬＶ",
-   "en": "",
+   "en": "Prana Recovery LV",
    "lui": [
     "0x583E0"
    ],
-   "max": 23
+   "max": 23,
+   "status": "done"
   },
   {
    "id": "exe_037A8",
    "jp": "精神コマンド「閃き」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Alert",
    "lui": [
     "0x584B4"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_037CC",
    "jp": "精神コマンド「集中」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Focus",
    "lui": [
     "0x584E0"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_037F0",
    "jp": "精神コマンド「根性」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Guts",
    "lui": [
     "0x5850C"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_03814",
    "jp": "精神コマンド「努力」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Effort",
    "lui": [
     "0x58538"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_03838",
    "jp": "精神コマンド「必中」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Strike",
    "lui": [
     "0x58564"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_0385C",
    "jp": "精神コマンド「信頼」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Trust",
    "lui": [
     "0x58590"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_03880",
    "jp": "精神コマンド「鉄壁」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Iron Wall",
    "lui": [
     "0x585BC"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_038A4",
    "jp": "精神コマンド「熱血」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Valor",
    "lui": [
     "0x585E8"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_038C8",
    "jp": "精神コマンド「ド根性」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Grit",
    "lui": [
     "0x58614"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_038EC",
    "jp": "精神コマンド「Ｐ回復」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Prana Heal",
    "lui": [
     "0x58640"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_03910",
    "jp": "精神コマンド「呪縛」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Bind",
    "lui": [
     "0x5866C"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_03934",
    "jp": "精神コマンド「魂」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Soul",
    "lui": [
     "0x58698"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_03954",
    "jp": "精神コマンド「撹乱」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Disrupt",
    "lui": [
     "0x586C4"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_03978",
    "jp": "精神コマンド「友情」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Friendship",
    "lui": [
     "0x586F0"
    ],
-   "max": 35
+   "max": 35,
+   "status": "done"
   },
   {
    "id": "exe_0399C",
    "jp": "精神コマンド「愛」を覚えました",
-   "en": "",
+   "en": "Learned Spirit Command: Love",
    "lui": [
     "0x5871C"
    ],
-   "max": 31
+   "max": 31,
+   "status": "done"
   },
   {
    "id": "exe_039BC",
    "jp": "最大ＨＰ：",
-   "en": "",
+   "en": "Max HP:",
    "lui": [
     "0x58780",
     "0x58820"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_039C8",
    "jp": "装甲　　：",
-   "en": "",
+   "en": "Armor:",
    "lui": [
     "0x588BC"
    ],
-   "max": 15
+   "max": 15,
+   "status": "done"
   },
   {
    "id": "exe_0403C",
    "jp": "メモリーカード１",
-   "en": "",
+   "en": "Memory Card 1",
    "lui": [
     "0x65BF0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04050",
    "jp": "{b}メモリーカード２",
-   "en": "",
+   "en": "{b}Memory Card 2",
    "lui": [
     "0x65C18"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04064",
    "jp": "　ＹＥＳ　",
-   "en": "",
+   "en": "YES",
    "region": "yes",
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_04070",
    "jp": "{b}　　ＮＯ　",
-   "en": "",
+   "en": "{b}NO",
    "lui": [
     "0x65C74"
    ],
    "region": "yes",
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0407C",
    "jp": "{b}メモリーカード１",
-   "en": "",
+   "en": "{b}Memory Card 1",
    "lui": [
     "0x65CC8"
    ],
    "region": "yes",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04090",
    "jp": "メモリーカード２",
-   "en": "",
+   "en": "Memory Card 2",
    "lui": [
     "0x65CF0"
    ],
    "region": "yes",
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_040A4",
    "jp": "{b}　ＹＥＳ　",
-   "en": "",
+   "en": "{b}YES",
    "region": "yes",
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_040B0",
    "jp": "　　ＮＯ　",
-   "en": "",
+   "en": "NO",
    "lui": [
     "0x65D4C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_042B0",
    "jp": "ＡＢＣＤＥ",
-   "en": "",
+   "en": "ABCDE",
    "ptrs": [
     "0xB4B60"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_042BC",
    "jp": "ＤＡＴＡ２",
-   "en": "",
+   "en": "DATA2",
    "ptrs": [
     "0xB4B5C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_042C8",
    "jp": "ＤＡＴＡ１",
-   "en": "",
+   "en": "DATA1",
    "ptrs": [
     "0xB4B58"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_042D4",
    "jp": "ＤＡＴＡ０",
-   "en": "",
+   "en": "DATA0",
    "ptrs": [
     "0xB4B54"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_043F8",
    "jp": "{h}－聖位",
-   "en": "",
+   "en": "{h}-Holy",
    "ptrs": [
     "0xB50C8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_04404",
    "jp": "{h}－高位",
-   "en": "",
+   "en": "{h}-High",
    "ptrs": [
     "0xB50C4"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_04410",
    "jp": "{h}－低位",
-   "en": "",
+   "en": "{h}-Low",
    "ptrs": [
     "0xB50C0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0441C",
    "jp": "メモリーカードを抜かないで下さい",
-   "en": "",
+   "en": "Do not remove the Memory Card",
    "lui": [
     "0x6BBC8"
    ],
-   "max": 39
+   "max": 39,
+   "status": "done"
   },
   {
    "id": "exe_04848",
    "jp": "味方　右側",
-   "en": "",
+   "en": "Ally: Right",
    "lui": [
     "0x751FC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_04854",
    "jp": "　敵　左側",
-   "en": "",
+   "en": "Enemy: Left",
    "lui": [
     "0x75220"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_04860",
    "jp": "？？？？",
-   "en": "",
+   "en": "????",
    "ptrs": [
     "0xB84C4",
     "0xB84E4",
@@ -2733,867 +3027,962 @@
     "0xB84FC",
     "0xB8500"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0486C",
    "jp": "つばぜり",
-   "en": "",
+   "en": "Clash",
    "ptrs": [
     "0xB84BC"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_04878",
    "jp": "斬り払い",
-   "en": "",
+   "en": "Parry",
    "ptrs": [
     "0xB84B8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_04884",
    "jp": "建物付近",
-   "en": "",
+   "en": "By Building",
    "ptrs": [
     "0xB84E8"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_04890",
    "jp": "木の付近",
-   "en": "",
+   "en": "Near Trees",
    "ptrs": [
     "0xB84D0"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_04DDC",
    "jp": "（？？？？？）　",
-   "en": "",
+   "en": "(?????)",
    "ptrs": [
     "0xC5398"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04DF0",
    "jp": "エディン　　　　",
-   "en": "",
+   "en": "Edin",
    "ptrs": [
     "0xC5390"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04E04",
    "jp": "エディンム　　　",
-   "en": "",
+   "en": "Edimmu",
    "ptrs": [
     "0xC538C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04E18",
    "jp": "レスルグ　　　　",
-   "en": "",
+   "en": "Reslug",
    "ptrs": [
     "0xC5388"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04E2C",
    "jp": "ベムルグ　　　　",
-   "en": "",
+   "en": "Bemlug",
    "ptrs": [
     "0xC5384"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04E40",
    "jp": "ツァディム　　　",
-   "en": "",
+   "en": "Tsadim",
    "ptrs": [
     "0xC5380"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04E54",
    "jp": "ツァディ　　　　",
-   "en": "",
+   "en": "Tsadi",
    "ptrs": [
     "0xC537C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04E68",
    "jp": "ドナール　　　　",
-   "en": "",
+   "en": "Donar",
    "ptrs": [
     "0xC5378"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04E7C",
    "jp": "ナール　　　　　",
-   "en": "",
+   "en": "Nar",
    "ptrs": [
     "0xC5374"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04E90",
    "jp": "イズラフェール　",
-   "en": "",
+   "en": "Izrafel",
    "ptrs": [
     "0xC5370"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04EA4",
    "jp": "アグ・ゲブラ　　",
-   "en": "",
+   "en": "Ag Gebra",
    "ptrs": [
     "0xC536C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04EB8",
    "jp": "アグ・ラーダ　　",
-   "en": "",
+   "en": "Ag Rada",
    "ptrs": [
     "0xC5368",
     "0xC5394"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04ECC",
    "jp": "アグ・ノイア改　",
-   "en": "",
+   "en": "Ag Noia Kai",
    "ptrs": [
     "0xC5364"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04EE0",
    "jp": "アグ・ノイア　　",
-   "en": "",
+   "en": "Ag Noia",
    "ptrs": [
     "0xC5360"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04EF4",
    "jp": "アグ・ノイ　　　",
-   "en": "",
+   "en": "Ag Noi",
    "ptrs": [
     "0xC535C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04F08",
    "jp": "サタナギーア　　",
-   "en": "",
+   "en": "Satanagia",
    "ptrs": [
     "0xC5358"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04F1C",
    "jp": "エル・ドガリニ　",
-   "en": "",
+   "en": "El Dogarini",
    "ptrs": [
     "0xC5348",
     "0xC5354"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04F30",
    "jp": "ドガリニ　　　　",
-   "en": "",
+   "en": "Dogarini",
    "ptrs": [
     "0xC5344"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04F44",
    "jp": "エル・ウェバール",
-   "en": "",
+   "en": "El Webal",
    "ptrs": [
     "0xC5340",
     "0xC5350",
     "0xC53E4",
     "0xC53F4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04F58",
    "jp": "ウェバール　　　",
-   "en": "",
+   "en": "Webal",
    "ptrs": [
     "0xC533C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04F6C",
    "jp": "エル・メルバス　",
-   "en": "",
+   "en": "El Melbas",
    "ptrs": [
     "0xC5338"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04F80",
    "jp": "メルバス　　　　",
-   "en": "",
+   "en": "Melbas",
    "ptrs": [
     "0xC5334"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04F94",
    "jp": "エル・ザーリラ　",
-   "en": "",
+   "en": "El Zarila",
    "ptrs": [
     "0xC5330",
     "0xC534C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04FA8",
    "jp": "ザーリラ　　　　",
-   "en": "",
+   "en": "Zarila",
    "ptrs": [
     "0xC532C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04FBC",
    "jp": "ゴーレム　　　　",
-   "en": "",
+   "en": "Golem",
    "ptrs": [
     "0xC5328"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04FD0",
    "jp": "ミッダスト改　　",
-   "en": "",
+   "en": "Middast Kai",
    "ptrs": [
     "0xC5324"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04FE4",
    "jp": "ミッダスト　　　",
-   "en": "",
+   "en": "Middast",
    "ptrs": [
     "0xC5320"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_04FF8",
    "jp": "クィンアクス　　",
-   "en": "",
+   "en": "Quinax",
    "ptrs": [
     "0xC531C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0500C",
    "jp": "ティルウェス　　",
-   "en": "",
+   "en": "Tilwes",
    "ptrs": [
     "0xC5318"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05020",
    "jp": "プラウニー　　　",
-   "en": "",
+   "en": "Prowny",
    "ptrs": [
     "0xC5314"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05034",
    "jp": "カーヴァイル　　",
-   "en": "",
+   "en": "Carvile",
    "ptrs": [
     "0xC5310"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05048",
    "jp": "スマゥグ　　　　",
-   "en": "",
+   "en": "Smaug",
    "ptrs": [
     "0xC530C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0505C",
    "jp": "ジャメイム　　　",
-   "en": "",
+   "en": "Jameim",
    "ptrs": [
     "0xC5308"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05070",
    "jp": "ザムジード　　　",
-   "en": "",
+   "en": "Zamzeed",
    "ptrs": [
     "0xC5304"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05084",
    "jp": "ガッデス　　　　",
-   "en": "",
+   "en": "Gaddess",
    "ptrs": [
     "0xC5300"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05098",
    "jp": "グランヴェール　",
-   "en": "",
+   "en": "Granveil",
    "ptrs": [
     "0xC52FC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_050AC",
    "jp": "サイバスター　　",
-   "en": "",
+   "en": "Cybuster",
    "ptrs": [
     "0xC52F8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_050C0",
    "jp": "　（？？？？？）",
-   "en": "",
+   "en": "(?????)",
    "ptrs": [
     "0xC543C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_050D4",
    "jp": "　　　　エディン",
-   "en": "",
+   "en": "Edin",
    "ptrs": [
     "0xC5434"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_050E8",
    "jp": "　　　エディンム",
-   "en": "",
+   "en": "Edimmu",
    "ptrs": [
     "0xC5430"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_050FC",
    "jp": "　　　　レスルグ",
-   "en": "",
+   "en": "Reslug",
    "ptrs": [
     "0xC542C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05110",
    "jp": "　　　　ベムルグ",
-   "en": "",
+   "en": "Bemlug",
    "ptrs": [
     "0xC5428"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05124",
    "jp": "　　　ツァディム",
-   "en": "",
+   "en": "Tsadim",
    "ptrs": [
     "0xC5424"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05138",
    "jp": "　　　　ツァディ",
-   "en": "",
+   "en": "Tsadi",
    "ptrs": [
     "0xC5420"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0514C",
    "jp": "　　　　ドナール",
-   "en": "",
+   "en": "Donar",
    "ptrs": [
     "0xC541C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05160",
    "jp": "　　　　　ナール",
-   "en": "",
+   "en": "Nar",
    "ptrs": [
     "0xC5418"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05174",
    "jp": "　イズラフェール",
-   "en": "",
+   "en": "Izrafel",
    "ptrs": [
     "0xC5414"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05188",
    "jp": "　　アグ・ゲブラ",
-   "en": "",
+   "en": "Ag Gebra",
    "ptrs": [
     "0xC5410"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0519C",
    "jp": "　　アグ・ラーダ",
-   "en": "",
+   "en": "Ag Rada",
    "ptrs": [
     "0xC540C",
     "0xC5438"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_051B0",
    "jp": "　アグ・ノイア改",
-   "en": "",
+   "en": "Ag Noia Kai",
    "ptrs": [
     "0xC5408"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_051C4",
    "jp": "　　アグ・ノイア",
-   "en": "",
+   "en": "Ag Noia",
    "ptrs": [
     "0xC5404"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_051D8",
    "jp": "　　　アグ・ノイ",
-   "en": "",
+   "en": "Ag Noi",
    "ptrs": [
     "0xC5400"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_051EC",
    "jp": "　　サタナギーア",
-   "en": "",
+   "en": "Satanagia",
    "ptrs": [
     "0xC53FC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05200",
    "jp": "　エル・ドガリニ",
-   "en": "",
+   "en": "El Dogarini",
    "ptrs": [
     "0xC53EC",
     "0xC53F8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05214",
    "jp": "　　　　ドガリニ",
-   "en": "",
+   "en": "Dogarini",
    "ptrs": [
     "0xC53E8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05228",
    "jp": "　　　ウェバール",
-   "en": "",
+   "en": "Webal",
    "ptrs": [
     "0xC53E0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0523C",
    "jp": "　エル・メルバス",
-   "en": "",
+   "en": "El Melbas",
    "ptrs": [
     "0xC53DC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05250",
    "jp": "　　　　メルバス",
-   "en": "",
+   "en": "Melbas",
    "ptrs": [
     "0xC53D8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05264",
    "jp": "　エル・ザーリラ",
-   "en": "",
+   "en": "El Zarila",
    "ptrs": [
     "0xC53D4",
     "0xC53F0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05278",
    "jp": "　　　　ザーリラ",
-   "en": "",
+   "en": "Zarila",
    "ptrs": [
     "0xC53D0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0528C",
    "jp": "　　　　ゴーレム",
-   "en": "",
+   "en": "Golem",
    "ptrs": [
     "0xC53CC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_052A0",
    "jp": "　　ミッダスト改",
-   "en": "",
+   "en": "Middast Kai",
    "ptrs": [
     "0xC53C8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_052B4",
    "jp": "　　　ミッダスト",
-   "en": "",
+   "en": "Middast",
    "ptrs": [
     "0xC53C4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_052C8",
    "jp": "　　クィンアクス",
-   "en": "",
+   "en": "Quinax",
    "ptrs": [
     "0xC53C0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_052DC",
    "jp": "　　ティルウェス",
-   "en": "",
+   "en": "Tilwes",
    "ptrs": [
     "0xC53BC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_052F0",
    "jp": "　　　プラウニー",
-   "en": "",
+   "en": "Prowny",
    "ptrs": [
     "0xC53B8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05304",
    "jp": "　　カーヴァイル",
-   "en": "",
+   "en": "Carvile",
    "ptrs": [
     "0xC53B4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05318",
    "jp": "　　　　スマゥグ",
-   "en": "",
+   "en": "Smaug",
    "ptrs": [
     "0xC53B0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0532C",
    "jp": "　　　ジャメイム",
-   "en": "",
+   "en": "Jameim",
    "ptrs": [
     "0xC53AC"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05340",
    "jp": "　　　ザムジード",
-   "en": "",
+   "en": "Zamzeed",
    "ptrs": [
     "0xC53A8"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05354",
    "jp": "　　　　ガッデス",
-   "en": "",
+   "en": "Gaddess",
    "ptrs": [
     "0xC53A4"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05368",
    "jp": "　グランヴェール",
-   "en": "",
+   "en": "Granveil",
    "ptrs": [
     "0xC53A0"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_0537C",
    "jp": "　　サイバスター",
-   "en": "",
+   "en": "Cybuster",
    "ptrs": [
     "0xC539C"
    ],
-   "max": 19
+   "max": 19,
+   "status": "done"
   },
   {
    "id": "exe_05390",
    "jp": "シルエット",
-   "en": "",
+   "en": "Silhouette",
    "ptrs": [
     "0xC5550",
     "0xC5664"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0539C",
    "jp": "　　　爆発",
-   "en": "",
+   "en": "Explosion",
    "ptrs": [
     "0xC554C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_053A8",
    "jp": "　　ノイズ",
-   "en": "",
+   "en": "Noise",
    "ptrs": [
     "0xC5548"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_053B4",
    "jp": "　　パネル",
-   "en": "",
+   "en": "Panel",
    "ptrs": [
     "0xC5544"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_053C0",
    "jp": "　　リーグ",
-   "en": "",
+   "en": "Rieg",
    "ptrs": [
     "0xC5540"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_053CC",
    "jp": "　　　怨念",
-   "en": "",
+   "en": "Grudge",
    "ptrs": [
     "0xC553C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_053D8",
    "jp": "シルフィス",
-   "en": "",
+   "en": "Sylphis",
    "ptrs": [
     "0xC5538",
     "0xC564C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_053E4",
    "jp": "　エディン",
-   "en": "",
+   "en": "Edin",
    "ptrs": [
     "0xC5534"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_053F0",
    "jp": "エディンム",
-   "en": "",
+   "en": "Edimmu",
    "ptrs": [
     "0xC5530",
     "0xC5644"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_053FC",
    "jp": "　レスルグ",
-   "en": "",
+   "en": "Reslug",
    "ptrs": [
     "0xC552C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05408",
    "jp": "　ベムルグ",
-   "en": "",
+   "en": "Bemlug",
    "ptrs": [
     "0xC5528"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05414",
    "jp": "ツァディム",
-   "en": "",
+   "en": "Tsadim",
    "ptrs": [
     "0xC5524",
     "0xC5638"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05420",
    "jp": "　ツァディ",
-   "en": "",
+   "en": "Tsadi",
    "ptrs": [
     "0xC5520"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0542C",
    "jp": "　ドナール",
-   "en": "",
+   "en": "Donar",
    "ptrs": [
     "0xC551C"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05438",
    "jp": "　　ナール",
-   "en": "",
+   "en": "Nar",
    "ptrs": [
     "0xC5518"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05444",
    "jp": "　ゴーレム",
-   "en": "",
+   "en": "Golem",
    "ptrs": [
     "0xC5514"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_05450",
    "jp": "　　　文官",
-   "en": "",
+   "en": "Official",
    "ptrs": [
     "0xC550C",
     "0xC5510"
    ],
-   "max": 11
+   "max": 11,
+   "status": "done"
   },
   {
    "id": "exe_0545C",
