@@ -1,2 +1,2 @@
-# SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
-<sha1>  rom/<file>
+# SHA-1 of the supported dump (Redump), in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
+e0b0a78b9d1c48a0c6a150ab1cd55a6e72977298  rom/Shin Masou Kishin - Panzer Warfare (Japan).bin
