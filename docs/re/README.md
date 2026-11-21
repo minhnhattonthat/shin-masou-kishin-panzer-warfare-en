@@ -13,13 +13,13 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | File | Covers | State |
 |---|---|---|
 | [disc.md](disc.md) | disc files, LBAs, exe load address, sector tables, identity rebuild | verified |
-| [scripts.md](scripts.md) | OVER.BIN event blocks, text pool format, message pointers, free-space candidates | verified (free space: guess) |
-| [battle.md](battle.md) | BAT_OVER battle quotes (2 sets, absolute pointers), exe strings (pointer / lui / record forms), overlay text | verified statically; runtime readers not traced |
+| [scripts.md](scripts.md) | OVER.BIN event blocks, text pool format, message pointers, intro scrolls, free-space candidates | verified (free space: guess) |
+| [battle.md](battle.md) | BAT_OVER battle quotes (2 sets, absolute pointers), exe strings (pointer / lui / record forms, extraction regions), overlay text | verified statically; runtime readers not traced |
 | [graphics.md](graphics.md) | graphics-text survey G1-G19 (TIMs, VRAM, FMV) | static sweep done |
 | [debug.md](debug.md) | stage byte, game-mode table, chapter-card buffer, intermission/memory-card flow (debug tool) | verified |
 | [font.md](font.md) | renderer (SJIS → 12x12 glyph via row table), font TIMs, no half-width ASCII | verified; page streaming open |
 
-Tools: `tools/over.py` (event blocks), `tools/batquote.py` (quote blocks + pointer check), `tools/re.py` (exe string
+Tools: `tools/extract.py` + `tools/sjis.py` (all text → `script/`, codec), `tools/over.py` (event blocks), `tools/batquote.py` (quote blocks + pointer check), `tools/re.py` (exe string
 refs: u32 / lui pairs), `tools/tim.py` + `tools/montage.py` (TIM sweep), `tools/vram.py` (VRAM dump render),
 `tools/str_movies.py` (FMV list/frames), `tools/sjis_scan.py`, `tools/ptrbase.py`, `tools/ramfind.py`.
 

@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 4. Extract next (phase 3 identity build done 2026-11-21). Last build: 2026-11-21, `build/smk_en.bin`
-  sha1 e0b0a78b… (= original, no edits yet).
+- **Phase:** 5. Engine spike and marker build next (phase 4 extract done 2026-11-22). Last build: 2026-11-21,
+  `build/smk_en.bin` sha1 e0b0a78b… (= original, no edits yet).
 - **Done:**
   - Step 0: repo set up; PCSX-Redux + SCPH-5500 in `tools/`, mkpsxiso 2.30, armips 0.11.0; original boots (`--smoke`
     ok), Start press works, Lua probe logs; pre-commit rejects a failing test; guard hook blocks `sed -i`.
@@ -22,11 +22,22 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `repack()` (mkpsxiso → `build/smk_en.bin/.cue`). `tests/test_identity.py` unpacks + repacks into
     `build/identity/` and asserts the sha1 equals `rom.sha1` (in Check, ~3 s; skipped without the dump). File edits
     go between unpack and repack in `build.main()`.
-- **Next (phase 4, extract):** extract event scripts, battle quotes and exe strings (formats in `docs/re/`) to
-  `script/` JSON with a roundtrip test (re-encoding every string gives the original bytes) and full text-range
-  coverage; then phase 5 (font/renderer spike + marker build).
-- **Open questions for later phases:** where the other font pages come from (font.md); the reader of the exe 「…」
-  quotes; control letters `b h m r w z`; whether event blocks can grow (scripts.md §Free space); whether the dev
+  - Phase 4 extract: `tools/extract.py` (+ codec `tools/sjis.py`: SJIS, `\n`, space, `{b}{h}{m}{r}{w}{z}`, `[XX]`)
+    → `script/` (39 files, 12,770 strings): `events/evXXX.json` x35 (7619 msg + 21 choice with `speaker` split
+    off, 68 chapter-intro scroll pages, 3 ダミー), `battle_A/B.json` (2061 each; B text = A, marked `same`),
+    `exe.json` (900: 700 pointer/lui + 200 record-region strings with `max` field sizes), `overlay.json` (37
+    chapter save labels). `tests/test_extract.py`: roundtrip of every string, script/ = fresh extraction, event
+    pools and battle blocks have no unexplained bytes, no overlaps, every SJIS run in exe/OVER/BAT_OVER is
+    extracted or waived (waivers listed with reasons). Findings in scripts.md / battle.md §Exe extraction.
+- **Next (phase 5, engine spike + marker build):** renderer patch for ASCII/VWF (font.md: half-width bytes are
+  skipped; control letters b h m r w z collide with ASCII letters, so the EN encoding must remap them or use
+  another code range); trace the font page source; marker build replacing every string with `[id]` (full-width
+  Latin works without engine changes) to find non-text strings and measure box widths (width gate). Insertion
+  must: repack each event pool within its bounds (`pools` in each JSON; command data follows the pool), rewrite
+  ptrs; battle blocks within their sectors; exe strings in place up to `max` or relocate via ptrs/lui.
+- **Open questions for later phases:** where the other font pages come from (font.md); the exe 「…」 quotes
+  (no reference found, maybe unused: the marker build will tell); effect of control letters `b m r w`; the u16
+  table before each intro scroll (line timing?); whether event blocks can grow (scripts.md §Free space); whether the dev
   loading card BAT_TIM 0x45A000 is ever shown; the chapter-card picker / branch flags for cards 1 and 5 (debug.md);
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the
   warps reach every stage without saves; a forced intermission has zeroed stats, so menu stress values need RAM

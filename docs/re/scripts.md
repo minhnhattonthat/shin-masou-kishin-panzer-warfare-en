@@ -25,7 +25,22 @@ Tool: `tools/over.py OVER.BIN` (block list, message commands).
 - So the whole pool can be repacked and every pointer rewritten; nothing else points into the pool (coverage script:
   every string start in every pool is reached by one of the two ops).
 - Two pointer words sit just before each pool (block 0: 0x1418 → 0x801C38B0, 0x801C38E0, into the command area):
-  not text; leave them.
+  not text; leave them. The first string after them (the location caption, e.g. `\n　バルツフィーム王国\n　　王都`)
+  is a normal op 0x384 message but has **no NUL before it** (it follows the pointer word): don't look for strings
+  only after a NUL (31 of the 7640 messages are like that).
+
+## All text in an event block — verified (phase 4, `tools/extract.py`, `tests/test_extract.py`)
+Every aligned u32 word in a block that holds a RAM pointer to a text string, grouped by what precedes it:
+- 7619 messages (op 0x384, word c) + 21 choices (op 0x0001) = 7640 distinct strings, one pool per block. All end
+  `\n`; the box is speaker line + 3 body lines (empty lines pad), up to 6 for choices. 45 speaker names (98 narration
+  strings have an empty speaker). `h` (highlight start, see font.md) appears in two choices.
+- **Chapter-intro scroll**: 2 pages per block (68 strings), each one multi-line string near the block end, reached by
+  a 2-word pointer table right after them (block 0x10: pages at 0x5AAC/0x5C10, table 0x5DA0). A u16 table just
+  before the first page (0x5A92: `0 FA 122 12C 140 …`) looks like per-line timing/positions (guess): check it in
+  phase 5 if English changes the line count. So the prologue scroll is font text, not a picture.
+- 3 `ダミー` (dummy) strings in block 0 (0x7E5C-0x7E6C, table 0x7E74): placeholders, keep as is.
+- After the message pool comes more command data (`9C FF 0E 00 …` with pointers to 0x801C251C): the pool can't grow
+  in place past its end; repacking within it is free. Pool bounds per block are in each `script/events/*.json`.
 
 ## Free space — candidates (guess until a trap test passes)
 - Event slot: RAM dump during event 1 (`work/qa/ev_ram`, block 0 = 0x8000 bytes) shows OVER.BIN 0xDD800-0xE8800

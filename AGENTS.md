@@ -6,6 +6,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Hooks:    `git config core.hooksPath tools/hooks` (once per clone; the pre-commit hook runs Check)
 - Build:    `python -X utf8 build.py` -> build/smk_en.bin + .cue (checks the dump against `rom.sha1`, unpacks fresh into `build/disc/`, repacks; ~3 s)
 - Check:    `python -X utf8 tools/check.py`  (tests + lint)
+- Extract:  `python -X utf8 tools/extract.py [--merge]` -> `script/` (writes missing files; `--merge` refreshes jp, keeps en; reads `work/disc/tree`)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/smk_en.cue --out work/qa/smoke --frames 3600 --smoke`
 - Warp:     `python -X utf8 $SKILL/scripts/emu.py build/smk_en.cue --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames <frames column> --sheet` (scenes: `tools/debug/scenes.tsv`, RAM facts `docs/re/debug.md`; never ask the user to play to a scene)
 - Warp all: `python -X utf8 tools/debug/warp_all.py [NAME..] [--rom CUE] [--states]` (cold boot each scene, exit 1 if any is not reached; `work/qa/warp/summary.tsv`)

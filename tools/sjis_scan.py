@@ -8,7 +8,8 @@ def is_lead(b):
     return 0x81 <= b <= 0x9F or 0xE0 <= b <= 0xEF
 
 
-def runs(data, minchars=3):
+def runs(data, minchars=3, kana=True):
+    """(offset, byte length, text) of SJIS runs of >= minchars characters (with a kana unless kana=False)."""
     i, n = 0, len(data)
     while i < n - 1:
         j, chars = i, []
@@ -18,7 +19,7 @@ def runs(data, minchars=3):
             except UnicodeDecodeError:
                 break
             j += 2
-        if len(chars) >= minchars and any("぀" <= c <= "ヿ" for c in chars):
+        if len(chars) >= minchars and (not kana or any("぀" <= c <= "ヿ" for c in chars)):
             yield i, j - i, "".join(chars)
             i = j
         else:
