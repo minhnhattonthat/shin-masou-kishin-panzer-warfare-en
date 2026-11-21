@@ -3,6 +3,7 @@
     python -X utf8 tools/batches.py split [--size 3500]   work/tl/bNNN.tsv and build/terms_bNNN.txt for untranslated JP
     python -X utf8 tools/batches.py check [bNNN ...]      a batch's .out.tsv; with no batch, all shipped English (for check.py)
     python -X utf8 tools/batches.py merge bNNN ... [--overwrite]   check, then write the English into script/
+    python -X utf8 tools/batches.py terms                 refresh build/terms_bNNN.txt after a glossary edit
 
 Copied from the skill's assets/batches.py. Fit the ADAPTER section to this game's text format; the rest is shared.
 Batch TSV: id, speaker, form, limit, JP. Output: work/tl/bNNN.out.tsv, id<TAB>English, every id once, same order.
@@ -269,6 +270,15 @@ def main(argv):
     cmd, args = argv[0], argv[1:]
     if cmd == "split":
         return split(int(args[args.index("--size") + 1]) if "--size" in args else 3500)
+    if cmd == "terms":  # refresh build/terms_bNNN.txt after a glossary change
+        terms = glossary()
+        for path in existing():
+            jps = " ".join(TOKEN.sub("", r[4]) for r in read_tsv(path))
+            used = [(j, ens[0]) for jpl, ens, _ in terms for j in jpl if has_term(jps, j)]
+            (ROOT / f"build/terms_{path.stem}.txt").write_text("".join(f"{j}\t{e}\n" for j, e in used)
+                                                               or "(no glossary terms in this batch)\n",
+                                                               encoding="utf-8", newline="\n")
+        return print(f"terms refreshed for {len(existing())} batches")
     overwrite = "--overwrite" in args
     names = [a for a in args if a != "--overwrite"]
     entries, terms = index(), glossary()

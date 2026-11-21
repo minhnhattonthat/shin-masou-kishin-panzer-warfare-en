@@ -30,7 +30,7 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | フェルディナン | Ferdinand | | Keigo's family name | |
 | アルマ | Alma | | Alma Kurtz Karina | |
 | カーリナ | Karina | | Alma's family name | |
-| クルツ | Kurtz | | middle name (Keigo, Alma, Beumer, Furcas) | |
+| クルツ | Kurtz | | middle-name rank: knight (Keigo gets it at the ev010 knighting; Zants = apprentice before) | |
 | ベウマー | Beumer | | Beumer Kurtz Baum | |
 | アルフレード | Alfredo | | | |
 | ソッド | Thodd | | | Sod |
@@ -49,7 +49,7 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | ロセリニ | Rossellini | | | |
 | ヤドラ | Yadora | | | |
 | ヘレーナ | Helena | | Helena Zants Sugar | |
-| ザンツ | Zants | | middle name (Helena, Drawbi, Blacky) | |
+| ザンツ | Zants | | middle-name rank: apprentice | |
 | ブラッキー | Blacky | | Blacky Zants Katis | |
 | ドロービ | Drawbi | | Drawbi Zants Raymon | |
 | バージェス | Burgess | | | |
@@ -57,7 +57,21 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | ダンカン | Duncan | | | |
 | マルコム | Malcolm | | | |
 | ディソン | Dison | | | |
-| ガルム | Garum | | King Garum Vartzpheem | |
+| ガルム | Garum | | family name of the hero Rieg Gram Garum (Thodd's true identity: REVEAL, see synopsis) | |
+| リーグ | Rieg | | Rieg Gram Garum | |
+| グラム | Gram | | middle-name rank: royal | |
+| ジュスト | Justo | | Thodd Justo | |
+| セラーズ | Sellers | | Adenoid Sellers | |
+| マグス | Magus | | Magia Magus | |
+| ルカ | Luca | | Luca Silence | |
+| サイレンス | Silence | | | |
+| ラウンズバーグ | Lounsburg | | Duncan Lounsburg | |
+| グラディ | Grady | | Shess Grady | |
+| ラスム | Rasm | | | |
+| イズラフェール | Izrafel | | | |
+| スマゥグ | Smaug | | | |
+| カーヴァイル | Carvile | | | |
+| プラウニー | Prowny | | | |
 | 兵士 | Soldier | | (speaker) | |
 | ラガーシュ兵士 | Ragash Soldier | | (speaker) | |
 | ラガーシュ兵 | Ragash Soldier | | (speaker) | |
@@ -103,6 +117,18 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | グランヴェール | Granveil | | SRW official | |
 | ガッデス | Gaddess | | SRW official | |
 | ゴーレム | Golem | | | |
+| 魔装騎士 | Masou Knight | | | |
+| 魔重機 | Majuuki | | | |
+| 西方騎士隊 | Western Knights | | | |
+| 次元気流 | dimensional current | | | |
+| 回交点 | Crossing Point | | | |
+| アカシックドライブ | Akashic Drive | | | |
+| アルタドムス | Altadomus | | Altadomus Temple | |
+| 技師長 | Chief Engineer | | | |
+| 神官長 | High Priest | | | |
+| 副長 | Vice-Captain | | | |
+| 総帥 | Supreme Commander | | | |
+| ミルド | mild | | time unit | |
 | 解放軍 | Liberation Army | | | |
 | イクナァト | Iknaat | | | |
 | アグ・ゲブラ | Ag Gebra | | | |
