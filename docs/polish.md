@@ -1,0 +1,135 @@
+# Polish list
+
+Minor reviewer notes (phase 6 review), applied in one polish pass before release.
+Tick a line when applied or rejected. Format: id (batch) - suggested English - reason.
+
+- [ ] bqA_00_6B8 (b001) - As if an attack like that could take me down! - "Like an attack like that" clumsy repetition
+- [ ] bqA_00_498 (b001) - I... I'll set my own sense of justice right! - 正す = rectify; "stand by" shifts meaning
+- [ ] bqA_02_584 (b001) - Ngh! From behind!? - "you say" has no basis in JP, odd
+- [ ] bqA_00_458 (b001) - All right, go get 'em! - drawn-out いっけぇぇぇ energy, "here goes" flat
+- [ ] bqA_02_4A0 (b001) - Go!! - "Gooo!" reads odd; plain shout fits Alma
+- [ ] bqA_16_21C (b006) - As if an attack like that would work on me!! - "Like an attack like" repeats awkwardly
+- [ ] bqA_17_238 (b006) - Damn, I'm done for!! - しまった is "Damn!" elsewhere; "No!" inconsistent (same for _18_234, _19_230)
+- [ ] bqA_17_02C (b006) - Ngh, out of ammo now of all times! - 弾切れとはな "of all things" nuance lost (same for _18_02C, _19_02C)
+- [ ] bqA_2E_118 (b011) - Don't mess with me! - なめるな is "don't look down on/mess with me"; current is stiff
+- [ ] bqA_2F_118 (b011) - Don't mess with me! - same as 2E_118
+- [ ] bqA_2E_104 (b011) - Where the hell are you aiming? - more bite for scornful どこを狙っている
+- [ ] bqA_33_10C (b012) - Too sloppy! - "Too soft!" reads oddly; あまい = naive/lax
+- [ ] bqA_33_174 (b012) - I took a direct hit!? - Subject lost; 受けている = taking the hit
+- [ ] bqA_36_10C (b012) - I'm doooone for! - やられた = I'm done for; "hiiiit" thin
+- [ ] bqA_36_03C (b012) - Ngh, out of ammo, of all times! - 弾切れとはな carries bitter surprise
+- [ ] bqA_1E_1DC (b007) - Not bad at all! - So you're not bad reads stiff
+- [ ] bqA_1C_1F8 (b007) - Ngh! Wh-what the!? - stutter capital
+- [ ] bqA_1C_10C (b007) - Too sloppy! Too sloppy! - あまい unify (Sloppy elsewhere)
+- [ ] bqA_37_1F8 (b013) - Nice one, you did it to me! - やってくれるな grudging acknowledgment
+- [ ] bqA_38_190 (b013) - You won't hit me! - drop the pause
+- [ ] bqA_38_1B8 (b013) - Too naive! - vs あまい！あまい！
+- [ ] bqA_14_21C (b005) - As if an attack like that would work on me!! - awkward; same 15_21C
+- [ ] bqA_12_190 (b005) - It won't hit me! - 当たりはせん misparsed; same 13_190
+- [ ] bqA_12_1A4 (b005) - You think skill like that is enough!? - その程度の腕で; same 13_1A4
+- [ ] bqA_04_758 (b002) - My name is Yen[3D]Yang. By Princess Shana of Natoure's command, I aid the Vartzpheem Knights. - Knights dropped; check width
+- [ ] bqA_06_004 (b002) - I-I'm so tired... I can't go on... - stammer lost
+- [ ] bqA_04_23C (b002) - Down with you!! - Yen never slangs
+- [ ] bqA_06_03C (b002) - Ugh, what a drag... Are there still more enemies? - grammar
+- [ ] bqA_0B_078 (b003) - Tch, it won't even reach from here! - stiff
+- [ ] bqA_0D_090 (b003) - Go get 'em!! - Goooo flat
+- [ ] bqA_0D_024 (b003) - Oh, my Prana Gauge!? - あら feminine
+- [ ] bqA_09_1A4 (b003) - With skill that poor!? - taunt
+- [ ] bqA_0F_1A8 (b004) - Helena-sama!! I got taken out! - やられっちまいました
+- [ ] bqA_0F_278 (b004) - Why's it always me getting beaten!! - Blacky whiny
+- [ ] bqA_0F_2A0 (b004) - N-No good!! I can't take any more!! - Blacky whiny
+- [ ] bqA_0D_2F4 (b004) - Ow! That hurts! - Helena tomboy
+- [ ] bqA_2A_0B8 (b010) - Unneeded people must be disposed of!! - 不要
+- [ ] bqA_2A_0FC (b010) - You've got guts to face the Ag Gebra! But!! - swagger
+- [ ] bqA_2A_21C (b010) - With the power of the Ag Gebra, you're beneath notice!! - 取るにたらん
+- [ ] bqA_2B_11C (b010) - I can't be wrong... - denial not past
+- [ ] bqA_2A_050 (b010) - Why would I run out of ammo!? - no group subject
+- [ ] bqA_24_454 (b009) - Heh, dead on! One shot, one hit!! - Oh my too camp
+- [ ] bqA_24_40C (b009) - I'm gonna play with ya good and proper! - かわいがる
+- [ ] bqA_24_5E0 (b009) - Ya think ya can take on the great me!? - オレさま swagger
+- [ ] bqA_24_594 (b009) - Pooped out already!? Whaddaya gonna do with ya!! - しょうがねえ
+- [ ] bqA_28_148 (b009) - Walking right into your own defeat! - stilted
+- [ ] bqA_26_240 (b009) - Tch! Beaten by a nobody like this! I must be losing my touch. - awkward
+- [ ] bqA_20_094 (b008) - I'll have to shoot you down! - awkward
+- [ ] bqA_22_33C (b008) - Oh no! Is that what you'd like me to say? - sarcasm
+- [ ] bqA_22_6E8 (b008) - Lucky you, it seems you landed a hit... - truncated
+- [ ] ev000_307C (b015) - What a pilot who operates a Masouki or Masouhei must watch most closely is the rise and fall of his own and his allies' Prana. - 操者 lowercase pilot
+- [ ] bqA_3C_1B8 (b014) - Too easy! - あまい stock; same 3D_1B8, 49_1B8
+- [ ] bqA_3C_190 (b014) - You won't land a hit! - 当たりはせん; same 3D_190, 49_190
+- [ ] ev000_3F78 (b016) - You're quite skilled. Thank you for your help. - calque いい腕
+- [ ] ev000_3ED8 (b016) - I don't hear an answer? - tense
+- [ ] ev000_4238 (b016) - Damn it! Showing off like that!! - かっこつけやがって
+- [ ] ev000_44F0 (b016) - Betrayed by its own priest, and set on the road to ruin... - added How fitting
+- [ ] ev010_0A38 (b016) - I, as King of Vartzpheem, do recognize Keigo Ferdinand as a knight and grant him the title of Kurtz. - US spelling
+- [ ] ev010_0FB0 (b016) - I'll be fine. It's not every day I get a student who gives me as much trouble as you. - reason link
+- [ ] ev010_2288 (b017) - Old Man Alfredo. This thing runs, right? - style ref form
+- [ ] ev010_32CC (b017) - Huh!? Me, Captain!? - ですかぁ whine
+- [ ] ev010_1D7C (b017) - Which means I bear the title of a god, no less! - boast
+- [ ] ev01C_1304 (b018) - So we, the Western Knights, have been tasked with watching Daus and stopping monsters heading south from entering the Royal Capital. - entry
+- [ ] ev01C_2A84 (b018) - Ah, right. Got it... - Mira curt
+- [ ] ev01C_1B84 (b018) - Nothin' on the Prana scope, neither~ - sing-song
+- [ ] ev027_0940 (b019) - N-No, that's not it! I just came to check on Jameim, honest. - 違いますよ
+- [ ] ev027_0C80 (b019) - The Arm of God seems to have made a contract with its spirit on the principle of One Machine, One Spirit, but that makes mass-producing Masouki hard. - garbled
+- [ ] ev027_1B0C (b019) - Besides, for a while we'll be making a lot more sorties to Daus. - sortieing
+- [ ] ev027_2300 (b019) - (Captain Alma... acknowledged me...?) - 認めてた
+- [ ] ev01C_2E68 (b019) - Falling back from the combat zone! Sorry, I'm leaving the rest to you... - grammar; harmonise ev033/ev03E
+- [ ] ev01C_2EDC (b019) - I'm bailin' out!! - Drawbi stock line form
+- [ ] ev06E_1EDC (b028) - (Old Man Alfredo... this thing goes way beyond being a Masouki...) - style-ref form
+- [ ] ev06E_20F8 (b028) - What about the other knight corps members!? - members dropped
+- [ ] ev06E_1F88 (b028) - Whew. Finally, the Royal Capital's in sight, y'know. - Kansai tone
+- [ ] ev049_2910 (b024) - Take care not to sully your teacher's name. Now come at me! - word order
+- [ ] ev049_34D8 (b024) - You got me, Keigo. Today, it's a clean loss for me. - 完敗
+- [ ] ev049_2ED4 (b024) - Well, shall we get started? Go easy on me, will ya! - Beumer slang
+- [ ] ev049_2E58 (b024) - Of course it is. Trying to win the easy way, all by himself. - addition
+- [ ] ev078_1BCC (b029) - Old Man Alfredo! You're alive!! - style ref (also ev078_1E2C)
+- [ ] ev078_1F60 (b029) - Yeah, more or less, more or less. - old-man register
+- [ ] ev078_1720 (b029) - Yeah, that's right. He might just come strolling back when you least expect it, y'know. - Helena voice
+- [ ] ev078_2360 (b029) - All right, here it comes! - Alright
+- [ ] ev03E_2168 (b022) - Stop it!! - Alma poised
+- [ ] ev03E_28A8 (b022) - Even I don't like some things about you, Captain, but now, as a comrade I trust... - syntax
+- [ ] ev03E_1760 (b022) - Honestly, Beumer-san! I don't care!! - しりません
+- [ ] ev03E_20F8 (b022) - Whether it was deliberate or an accident, it's all the same to me now. - grammar
+- [ ] ev03E_2ADC (b022) - Got it, Keigo? We're going back. - stiff
+- [ ] ev033_1C08 (b021) - Until then, behave yourself. - おとなしく
+- [ ] ev033_225C (b021) - Hey now, hush up, will you! - Furcas scold
+- [ ] ev033_2640 (b021) - It can't be... How could this be happening... - unfinished
+- [ ] ev033_2DE4 (b021) - Once a war starts, no number of lives'd be enough, I tell ya. - Kansai
+- [ ] ev033_1D74 (b021) - Ragash is no vassal state of Vartzpheem, yet he acts like it... - even though
+- [ ] ev027_2884 (b020) - Ain't there somebody in charge around here, instead of kiddies? - misread
+- [ ] ev027_23E0 (b020) - Hey, like, don't we have hardly any lines this time? - Blacky whine
+- [ ] ev033_1104 (b020) - As for this matter, they only ask for an explanation of what happened, you see. - Burgess register
+- [ ] ev027_3070 (b020) - Falling back from the combat zone! Sorry, I'm leaving the rest to you... - grammar
+- [ ] ev06E_0B64 (b027) - Then I'll leave it to you. Let's go together. - stiff
+- [ ] ev06E_0C44 (b027) - What is? - tense
+- [ ] ev065_277C (b027) - Bailin' out!! - folks no basis
+- [ ] ev05B_1820 (b026) - Still, Captain, there are just too few of us on our own. - grammar
+- [ ] ev065_1218 (b026) - Honestly, you're something else, kid... jeez! - calque
+- [ ] ev05B_2100 (b026) - Helena-sama, that's supposed to be my line, you know! - Blacky lilt
+- [ ] ev049_2050 (b023) - Who cares! Today our turn's finally come around, y'know! - 晴れて lost
+- [ ] ev049_2438 (b023) - Keigo. You got me. Totally beaten. - 完敗
+- [ ] ev049_1080 (b023) - No, heck, he might even become a Masoukishin pilot like you, Captain, or Yen of Natoure. It's no pipe dream. - ヘタをすると
+- [ ] ev049_15D4 (b023) - That's our captain. You really get it. - 話がわかる
+- [ ] ev03E_3184 (b023) - (I'm pulling back for today, but prepare yourself.) - Mira icy
+- [ ] ev05B_1200 (b025) - Therefore, reluctant as we are, it has been decided to strengthen the defenses in each region until our forces are ready. - US spelling
+- [ ] ev05B_1384 (b025) - No way! - dismay
+- [ ] ev049_4BE0 (b025) - Old Man Alfredo. Are you drunk already? - style ref
+- [ ] ev05B_1608 (b025) - Zeldna-dono, who is right there, has approved this operation as well, you know. - addition
+- [ ] ev086_1DBC (b031) - And I'm a member of the Western Knights. - repeats knight
+- [ ] ev090_0C4C (b032) - I think even the coffee you make for me is pretty good, you know. - statement
+- [ ] ev090_1108 (b032) - My name? It's Toto Qual Yuro, you know! - awkward
+- [ ] ev086_28A8 (b032) - ...I see. Let's get going, then. - そうですか
+- [ ] ev090_05A4 (b032) - (Where on earth are we...) - tense
+- [ ] ev09B_1884 (b034) - That brat of Natoure... - 小娘め contempt
+- [ ] ev0A1_0804 (b034) - (Traveling through Daus turned out to be harder than I'd expected...) - US spelling
+- [ ] ev0A1_139C (b034) - Ye who cast me, the true king and savior of the world, into the dark rift between worlds... - US spelling
+- [ ] ev0A1_11A8 (b034) - Whoever wrote this seems to have lived in the same world we came from. - past tense
+- [ ] ev0A1_0AC4 (b034) - Oh dear. The food the Chief Engineer left us is running low, too... - 困ったわね
+- [ ] ev078_66D8 (b030) - (scroll page) defence -> defense - US spelling
+- [ ] ev078_35D8 (b030) - That thing's terrifying. - おそろしいヤツ
+- [ ] ev078_31F0 (b030) - ...How bitter. - 無念
+- [ ] ev078_3B04 (b030) - Right, then. I'll go get ready to leave. - Alfredo register
+- [ ] ev090_2384 (b033) - Quit makin' fun of me for bein' a kid! - dropped
+- [ ] ev090_2310 (b033) - Wh... what a careless old man... - fragment
+- [ ] ev090_2718 (b033) - I only hope you're alive somewhere... - stilted
+- [ ] ev090_2520 (b033) - ...Look at that! - 見ろ
+- [ ] ev090_2270 (b033) - I'm afraid no one else can ride it now. - Alfredo register

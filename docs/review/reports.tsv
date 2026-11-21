@@ -1,0 +1,173 @@
+b001	VERDICT	Approved
+b001	I	bqA_00_2C4	Back off! Don't come any closer!	"Don't get ahead of yourself" is wrong idiom; JP means don't step forward
+b001	M	bqA_00_6B8	As if an attack like that could take me down!	"Like an attack like that" clumsy repetition
+b001	M	bqA_00_498	I... I'll set my own sense of justice right!	正す = rectify; "stand by" shifts meaning
+b001	M	bqA_02_584	Ngh! From behind!?	"you say" has no basis in JP, odd
+b001	M	bqA_00_458	All right, go get 'em!	drawn-out いっけぇぇぇ energy, "here goes" flat
+b001	M	bqA_02_4A0	Go!!	"Gooo!" reads odd; plain shout fits Alma
+b006	VERDICT	Approved
+b006	M	bqA_16_21C	As if an attack like that would work on me!!	"Like an attack like" repeats awkwardly
+b006	M	bqA_17_238	Damn, I'm done for!!	しまった is "Damn!" elsewhere; "No!" inconsistent (same for _18_234, _19_230)
+b006	M	bqA_17_02C	Ngh, out of ammo now of all times!	弾切れとはな "of all things" nuance lost (same for _18_02C, _19_02C)
+b011	VERDICT	Approved
+b011	M	bqA_2E_118	Don't mess with me!	なめるな is "don't look down on/mess with me"; current is stiff
+b011	M	bqA_2F_118	Don't mess with me!	same as 2E_118
+b011	M	bqA_2E_104	Where the hell are you aiming?	more bite for scornful どこを狙っている
+b012	VERDICT	Approved
+b012	M	bqA_33_10C	Too sloppy!	"Too soft!" reads oddly; あまい = naive/lax
+b012	M	bqA_33_174	I took a direct hit!?	Subject lost; 受けている = taking the hit
+b012	M	bqA_36_10C	I'm doooone for!	やられた = I'm done for; "hiiiit" thin
+b012	M	bqA_36_03C	Ngh, out of ammo, of all times!	弾切れとはな carries bitter surprise
+b007	VERDICT	Approved
+b007	M	bqA_1E_1DC	Not bad at all!	So you're not bad reads stiff
+b007	M	bqA_1C_1F8	Ngh! Wh-what the!?	stutter capital
+b007	M	bqA_1C_10C	Too sloppy! Too sloppy!	あまい unify (Sloppy elsewhere)
+b013	VERDICT	Approved
+b013	M	bqA_37_1F8	Nice one, you did it to me!	やってくれるな grudging acknowledgment
+b013	M	bqA_38_190	You won't hit me!	drop the pause
+b013	M	bqA_38_1B8	Too naive!	vs あまい！あまい！
+b005	VERDICT	Approved
+b005	M	bqA_14_21C	As if an attack like that would work on me!!	awkward; same 15_21C
+b005	M	bqA_12_190	It won't hit me!	当たりはせん misparsed; same 13_190
+b005	M	bqA_12_1A4	You think skill like that is enough!?	その程度の腕で; same 13_1A4
+b002	VERDICT	Approved
+b002	M	bqA_04_758	My name is Yen[3D]Yang. By Princess Shana of Natoure's command, I aid the Vartzpheem Knights.	Knights dropped; check width
+b002	M	bqA_06_004	I-I'm so tired... I can't go on...	stammer lost
+b002	M	bqA_04_23C	Down with you!!	Yen never slangs
+b002	M	bqA_06_03C	Ugh, what a drag... Are there still more enemies?	grammar
+b003	VERDICT	Approved
+b003	M	bqA_0B_078	Tch, it won't even reach from here!	stiff
+b003	M	bqA_0D_090	Go get 'em!!	Goooo flat
+b003	M	bqA_0D_024	Oh, my Prana Gauge!?	あら feminine
+b003	M	bqA_09_1A4	With skill that poor!?	taunt
+b004	VERDICT	Approved
+b004	M	bqA_0F_1A8	Helena-sama!! I got taken out!	やられっちまいました
+b004	M	bqA_0F_278	Why's it always me getting beaten!!	Blacky whiny
+b004	M	bqA_0F_2A0	N-No good!! I can't take any more!!	Blacky whiny
+b004	M	bqA_0D_2F4	Ow! That hurts!	Helena tomboy
+b010	VERDICT	Approved
+b010	M	bqA_2A_0B8	Unneeded people must be disposed of!!	不要
+b010	M	bqA_2A_0FC	You've got guts to face the Ag Gebra! But!!	swagger
+b010	M	bqA_2A_21C	With the power of the Ag Gebra, you're beneath notice!!	取るにたらん
+b010	M	bqA_2B_11C	I can't be wrong...	denial not past
+b010	M	bqA_2A_050	Why would I run out of ammo!?	no group subject
+b009	VERDICT	Approved
+b009	M	bqA_24_454	Heh, dead on! One shot, one hit!!	Oh my too camp
+b009	M	bqA_24_40C	I'm gonna play with ya good and proper!	かわいがる
+b009	M	bqA_24_5E0	Ya think ya can take on the great me!?	オレさま swagger
+b009	M	bqA_24_594	Pooped out already!? Whaddaya gonna do with ya!!	しょうがねえ
+b009	M	bqA_28_148	Walking right into your own defeat!	stilted
+b009	M	bqA_26_240	Tch! Beaten by a nobody like this! I must be losing my touch.	awkward
+b008	VERDICT	Needs fixes
+b008	I	bqA_20_6A8	Vartzpheem soldiers in the combat zone, hear me. I am Mira, knight of Ragash. You are surrounded. Surrender quietly.	omits surrender demand, knight
+b008	M	bqA_20_094	I'll have to shoot you down!	awkward
+b008	M	bqA_22_33C	Oh no! Is that what you'd like me to say?	sarcasm
+b008	M	bqA_22_6E8	Lucky you, it seems you landed a hit...	truncated
+b015	VERDICT	Approved
+b015	M	ev000_307C	What a pilot who operates a Masouki or Masouhei must watch most closely is the rise and fall of his own and his allies' Prana.	操者 lowercase pilot
+b014	VERDICT	Approved
+b014	M	bqA_3C_1B8	Too easy!	あまい stock; same 3D_1B8, 49_1B8
+b014	M	bqA_3C_190	You won't land a hit!	当たりはせん; same 3D_190, 49_190
+b016	VERDICT	Needs fixes
+b016	I	ev000_43F0	Yes. Several of them are already in the palm of my hand.	はい answers question; Very well wrong
+b016	I	ev010_09F0	M-My sword... is to p-protect a-all people...	stammer misplaced
+b016	M	ev000_3F78	You're quite skilled. Thank you for your help.	calque いい腕
+b016	M	ev000_3ED8	I don't hear an answer?	tense
+b016	M	ev000_4238	Damn it! Showing off like that!!	かっこつけやがって
+b016	M	ev000_44F0	Betrayed by its own priest, and set on the road to ruin...	added How fitting
+b016	M	ev010_0A38	I, as King of Vartzpheem, do recognize Keigo Ferdinand as a knight and grant him the title of Kurtz.	US spelling
+b016	M	ev010_0FB0	I'll be fine. It's not every day I get a student who gives me as much trouble as you.	reason link
+b017	VERDICT	Approved
+b017	M	ev010_2288	Old Man Alfredo. This thing runs, right?	style ref form
+b017	M	ev010_32CC	Huh!? Me, Captain!?	ですかぁ whine
+b017	M	ev010_1D7C	Which means I bear the title of a god, no less!	boast
+b018	VERDICT	Approved
+b018	M	ev01C_1304	So we, the Western Knights, have been tasked with watching Daus and stopping monsters heading south from entering the Royal Capital.	entry
+b018	M	ev01C_2A84	Ah, right. Got it...	Mira curt
+b018	M	ev01C_1B84	Nothin' on the Prana scope, neither~	sing-song
+b019	VERDICT	Needs fixes
+b019	I	ev027_09C0	Well, good timing, eh? I'm stripping down and repairing the machines damaged in the last battle right now.	Alfredo old-man voice
+b019	I	ev027_14D4	Keigo! Your Jameim'll be fixed up in no time, so quit your worrying, boy!	Alfredo gruff voice
+b019	M	ev027_0940	N-No, that's not it! I just came to check on Jameim, honest.	違いますよ
+b019	M	ev027_0C80	The Arm of God seems to have made a contract with its spirit on the principle of One Machine, One Spirit, but that makes mass-producing Masouki hard.	garbled
+b019	M	ev027_1B0C	Besides, for a while we'll be making a lot more sorties to Daus.	sortieing
+b019	M	ev027_2300	(Captain Alma... acknowledged me...?)	認めてた
+b019	M	ev01C_2E68	Falling back from the combat zone! Sorry, I'm leaving the rest to you...	grammar; harmonise ev033/ev03E
+b019	M	ev01C_2EDC	I'm bailin' out!!	Drawbi stock line form
+b028	VERDICT	Approved
+b028	M	ev06E_1EDC	(Old Man Alfredo... this thing goes way beyond being a Masouki...)	style-ref form
+b028	M	ev06E_20F8	What about the other knight corps members!?	members dropped
+b028	M	ev06E_1F88	Whew. Finally, the Royal Capital's in sight, y'know.	Kansai tone
+b024	VERDICT	Needs fixes
+b024	I	ev049_2C64	Adapt to the moment. A hasty move beats a perfect one. That is what matters.	拙速 garbled
+b024	M	ev049_2910	Take care not to sully your teacher's name. Now come at me!	word order
+b024	M	ev049_34D8	You got me, Keigo. Today, it's a clean loss for me.	完敗
+b024	M	ev049_2ED4	Well, shall we get started? Go easy on me, will ya!	Beumer slang
+b024	M	ev049_2E58	Of course it is. Trying to win the easy way, all by himself.	addition
+b029	VERDICT	Approved
+b029	M	ev078_1BCC	Old Man Alfredo! You're alive!!	style ref (also ev078_1E2C)
+b029	M	ev078_1F60	Yeah, more or less, more or less.	old-man register
+b029	M	ev078_1720	Yeah, that's right. He might just come strolling back when you least expect it, y'know.	Helena voice
+b029	M	ev078_2360	All right, here it comes!	Alright
+b022	VERDICT	Approved
+b022	M	ev03E_2168	Stop it!!	Alma poised
+b022	M	ev03E_28A8	Even I don't like some things about you, Captain, but now, as a comrade I trust...	syntax
+b022	M	ev03E_1760	Honestly, Beumer-san! I don't care!!	しりません
+b022	M	ev03E_20F8	Whether it was deliberate or an accident, it's all the same to me now.	grammar
+b022	M	ev03E_2ADC	Got it, Keigo? We're going back.	stiff
+b021	VERDICT	Approved
+b021	M	ev033_1C08	Until then, behave yourself.	おとなしく
+b021	M	ev033_225C	Hey now, hush up, will you!	Furcas scold
+b021	M	ev033_2640	It can't be... How could this be happening...	unfinished
+b021	M	ev033_2DE4	Once a war starts, no number of lives'd be enough, I tell ya.	Kansai
+b021	M	ev033_1D74	Ragash is no vassal state of Vartzpheem, yet he acts like it...	even though
+b020	VERDICT	Approved
+b020	M	ev027_2884	Ain't there somebody in charge around here, instead of kiddies?	misread
+b020	M	ev027_23E0	Hey, like, don't we have hardly any lines this time?	Blacky whine
+b020	M	ev033_1104	As for this matter, they only ask for an explanation of what happened, you see.	Burgess register
+b020	M	ev027_3070	Falling back from the combat zone! Sorry, I'm leaving the rest to you...	grammar
+b027	VERDICT	Approved
+b027	M	ev06E_0B64	Then I'll leave it to you. Let's go together.	stiff
+b027	M	ev06E_0C44	What is?	tense
+b027	M	ev065_277C	Bailin' out!!	folks no basis
+b026	VERDICT	Approved
+b026	M	ev05B_1820	Still, Captain, there are just too few of us on our own.	grammar
+b026	M	ev065_1218	Honestly, you're something else, kid... jeez!	calque
+b026	M	ev05B_2100	Helena-sama, that's supposed to be my line, you know!	Blacky lilt
+b023	VERDICT	Approved
+b023	M	ev049_2050	Who cares! Today our turn's finally come around, y'know!	晴れて lost
+b023	M	ev049_2438	Keigo. You got me. Totally beaten.	完敗
+b023	M	ev049_1080	No, heck, he might even become a Masoukishin pilot like you, Captain, or Yen of Natoure. It's no pipe dream.	ヘタをすると
+b023	M	ev049_15D4	That's our captain. You really get it.	話がわかる
+b023	M	ev03E_3184	(I'm pulling back for today, but prepare yourself.)	Mira icy
+b025	VERDICT	Approved
+b025	M	ev05B_1200	Therefore, reluctant as we are, it has been decided to strengthen the defenses in each region until our forces are ready.	US spelling
+b025	M	ev05B_1384	No way!	dismay
+b025	M	ev049_4BE0	Old Man Alfredo. Are you drunk already?	style ref
+b025	M	ev05B_1608	Zeldna-dono, who is right there, has approved this operation as well, you know.	addition
+b031	VERDICT	Approved
+b031	M	ev086_1DBC	And I'm a member of the Western Knights.	repeats knight
+b032	VERDICT	Approved
+b032	M	ev090_0C4C	I think even the coffee you make for me is pretty good, you know.	statement
+b032	M	ev090_1108	My name? It's Toto Qual Yuro, you know!	awkward
+b032	M	ev086_28A8	...I see. Let's get going, then.	そうですか
+b032	M	ev090_05A4	(Where on earth are we...)	tense
+b034	VERDICT	Approved
+b034	M	ev09B_1884	That brat of Natoure...	小娘め contempt
+b034	M	ev0A1_0804	(Traveling through Daus turned out to be harder than I'd expected...)	US spelling
+b034	M	ev0A1_139C	Ye who cast me, the true king and savior of the world, into the dark rift between worlds...	US spelling
+b034	M	ev0A1_11A8	Whoever wrote this seems to have lived in the same world we came from.	past tense
+b034	M	ev0A1_0AC4	Oh dear. The food the Chief Engineer left us is running low, too...	困ったわね
+b030	VERDICT	Approved
+b030	M	ev078_66D8	(scroll page) defence -> defense	US spelling
+b030	M	ev078_35D8	That thing's terrifying.	おそろしいヤツ
+b030	M	ev078_31F0	...How bitter.	無念
+b030	M	ev078_3B04	Right, then. I'll go get ready to leave.	Alfredo register
+b033	VERDICT	Needs fixes
+b033	I	ev090_2134	Quit making fun of me! Just watch!!	バカにすんな
+b033	M	ev090_2384	Quit makin' fun of me for bein' a kid!	dropped
+b033	M	ev090_2310	Wh... what a careless old man...	fragment
+b033	M	ev090_2718	I only hope you're alive somewhere...	stilted
+b033	M	ev090_2520	...Look at that!	見ろ
+b033	M	ev090_2270	I'm afraid no one else can ride it now.	Alfredo register
+b019	I	ev027_0C80	The Arm of God seems to have made a contract with its spirit on the principle of One Machine, One Spirit, but that makes mass-producing Masouki hard.	controller's glossary edit garbled it (promoted from M)

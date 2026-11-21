@@ -9,13 +9,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
   b067-b073 exe + overlay labels); outputs `work/tl/bNNN.out.tsv`. **All 73 batches translated and merged** (wave 1,
   15 translator agents; lint 0 errors, 10,706 English lines, 0 untranslated; 34 exe strings over their JP bytes
   await phase-7 relocation). Translator reports' NEW TERM / UNSURE / CUT lines are collected in `docs/terms-pending.md`.
-  Resume, in order: (1) done; (2) glossary: add `docs/terms-pending.md` terms, settle its two
-  CONFLICTs, then `batches.py terms` and `batches.py check` (all shipped English) - fix fallout through translator
-  agents, no bulk rewrites; (3) consistency pass: the stock defeat/retreat lines (same JP, different EN across
-  batches) - one form per JP line; (4) review every batch: `tools/review.py run` uses `codex exec`, but codex is
-  quota-blocked until 2026-11-26, so use `translate-retro-game:reviewer` subagents on `pairs.py` files (ask for a
-  compact report: Critical/Important full, Minors at most 10), fix Critical/Important via translator agents,
-  Minors to `docs/polish.md`. Phase 6 is done when all that is clean.
+  Steps (1)-(3) done 2026-11-22: glossary has all wave-1 terms, conflicts settled (Masouhei / Masou Soldier, spirit
+  commands Gain/Grit/Spellbind, Sky Slash, Reslug/Bemlug, Rebel Knight...: see glossary "Decisions"); consistency pass
+  `tools/harmonise.py` (majority EN per repeated JP line + speaker, 204 lines merged). (4) review in progress:
+  **b001-b034 reviewed** (`translate-retro-game:reviewer` subagents, one per `work/qa/review/bNNN.txt` from
+  `pairs.py`; compact TSV report), reports in `docs/review/reports.tsv`, their 10 C/I fixes merged (batch b102 via
+  `tools/review_fixes.py b102` + `batches.py merge b102 --overwrite`), Minors in `docs/polish.md`
+  (`review_fixes.py --polish` regenerates it). **Resume:** dispatch reviewers for b035-b073 with this prompt: "Review batch bNNN ... Follow
+  docs/reviewer-brief.md. Inputs: work/qa/review/bNNN.txt, glossary.md, docs/style-reference.md. Read each file with
+  offset/limit (~120 lines). Line breaks auto-wrapped. Return ONLY `VERDICT: ...` then SEV<TAB>id<TAB>full
+  replacement English<TAB>reason; all C and I, at most 5 M." Append each report to reports.tsv as
+  `bNNN<TAB>VERDICT<TAB>...` / `bNNN<TAB>SEV<TAB>id<TAB>EN<TAB>reason`, then `review_fixes.py b103`, merge (fix
+  width/glossary failures by hand in the .out.tsv), `review_fixes.py --polish`. Phase 6 is done when every batch has a
+  verdict and all C/I are merged. Codex is quota-blocked until 2026-11-26.
   Last builds 2026-11-22: `build/smk_marker3` (wide marker + grown/relocated event blocks: 123/123 warps,
   `work/qa/marker3/summary.tsv`), `build/smk_torture` (ASCII torture boxes), `build/smk_qa` (battle-quote ruler).
 - **Done:**
