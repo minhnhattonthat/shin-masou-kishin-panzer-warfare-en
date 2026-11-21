@@ -27,8 +27,8 @@ MEASURED = {"msg", "scroll", "choice", "bqA", "bqB"}  # the rest are counted as 
 
 
 def relocatable(ln):
-    """An exe string reached only through pointers/lui (not a fixed record field): phase 7 moves the longer ones to
-    free space (status.md engine task b), so its `max` is not a translation limit. insert.py still raises on it."""
+    """An exe string reached only through pointers/lui (not a fixed record field): insert.py moves the longer ones
+    to free space (raising only when that runs out), so its `max` is not a translation limit."""
     return ln["id"].startswith("exe_") and "region" not in ln and bool(ln.get("ptrs") or ln.get("lui"))
 
 
@@ -93,7 +93,7 @@ def lint(script=ROOT / "script", final=False):
             if kind not in MEASURED:
                 counts["unmeasured " + kind] += 1
             if relocatable(ln) and len(font.encode(ln["en"])) > ln["max"]:
-                counts["exe over max (relocate in phase 7)"] += 1
+                counts["exe over max (insert.py moves them)"] += 1
             errs += ["%s: %s" % (ln["id"], e) for e in check_line(ln, names)]
     return errs, counts
 

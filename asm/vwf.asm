@@ -7,7 +7,7 @@
 .open EXE, 0x800A5800                   ; PS-X EXE: RAM = 0x800A5800 + file offset (header included)
 
 VWF_FREE      equ 0x8016D740            ; exe zero run 0x8016D740-0x8016DC3F (trap-tested, docs/re/font.md)
-VWF_FREE_END  equ 0x8016DC40
+VWF_FREE_END  equ 0x8016DA60            ; 0x8016DA60-0x8016DC3F holds moved exe strings (tools/insert.py EXE_FREE)
 GLYPH_TABLE   equ 0x8015711C
 GLYPH_FIND    equ 0x80103174            ; (a0 code, a1 first row, a2 last row) -> entry index or -1
 CLUT_ID       equ 0x801444E4

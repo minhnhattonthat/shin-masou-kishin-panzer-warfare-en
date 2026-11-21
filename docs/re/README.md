@@ -14,7 +14,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 |---|---|---|
 | [disc.md](disc.md) | disc files, LBAs, exe load address, sector tables, identity rebuild | verified |
 | [scripts.md](scripts.md) | OVER.BIN event blocks, text pool format, message pointers, intro scrolls, free-space candidates | verified (free space: guess) |
-| [battle.md](battle.md) | BAT_OVER battle quotes (2 sets, absolute pointers), exe strings (pointer / lui / record forms, extraction regions), overlay text | verified statically; runtime readers not traced |
+| [battle.md](battle.md) | BAT_OVER battle quotes (2 sets, absolute pointers), exe strings (pointer / lui / record forms, extraction regions), overlay text | verified; quote picker + record tables traced, slots relocated (phase 7) |
 | [graphics.md](graphics.md) | graphics-text survey G1-G19 (TIMs, VRAM, FMV) | static sweep done |
 | [debug.md](debug.md) | stage byte, game-mode table, chapter-card buffer, intermission/memory-card flow (debug tool) | verified |
 | [font.md](font.md) | renderer (SJIS → 12x12 glyph via row table), font TIM = 4 bit-plane pages, VWF hook, glyph slots | verified |

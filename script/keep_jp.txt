@@ -1,0 +1,18 @@
+# Lines that stay Japanese on purpose (lint.py and batches.py skip them as untranslated). id  reason
+# Memory-card save titles: the BIOS card manager shows them and needs Shift-JIS; the 24-byte field holds 12
+# full-width characters, too few for "Masoukishin" + a two-digit number (docs/decisions.md D14).
+exe_B4980  card title
+exe_B4999  card title
+exe_B49B2  card title
+exe_B49CB  card title
+exe_B49E4  card title
+exe_B49FD  card title
+exe_B4A16  card title
+exe_B4A2F  card title
+exe_B4A48  card title
+exe_B4A61  card title
+exe_B4A7A  card title
+exe_B4A93  card title
+exe_B4AAC  card title
+exe_B4AC5  card title
+exe_B4ADE  card title

@@ -13,6 +13,7 @@ TREE = ROOT / "work" / "disc" / "tree"
 sys.path.insert(0, str(ROOT / "tools"))
 pytestmark = pytest.mark.skipif(not (TREE / "SLPS_023.19").exists(), reason="disc not unpacked")
 
+import batquote  # noqa: E402
 import font  # noqa: E402
 import insert  # noqa: E402
 import over  # noqa: E402
@@ -20,17 +21,21 @@ import over  # noqa: E402
 FILES = ("OVER.BIN", "BAT_OVER.BIN", "SLPS_023.19")
 
 
+def copy_tree(d):
+    d.mkdir(exist_ok=True)
+    for n in FILES + ("T_TIM.BIN",):
+        shutil.copy(TREE / n, d / n)
+    return d
+
+
 @pytest.fixture
 def tree(tmp_path):
-    for n in FILES + ("T_TIM.BIN",):
-        shutil.copy(TREE / n, tmp_path / n)
-    return tmp_path
+    return copy_tree(tmp_path)
 
 
 @pytest.fixture(scope="module")
 def bare(tmp_path_factory):
-    """script/ with every English line blanked: these tests check insert mechanics, not the current translation
-    (battle-quote English overflows the RAM slot until the phase-7 relocation)."""
+    """script/ with every English line blanked: these tests check insert mechanics, not the current translation."""
     out = tmp_path_factory.mktemp("bare")
     for p in (ROOT / "script").rglob("*.json"):
         d = json.loads(p.read_text(encoding="utf-8"))
@@ -74,8 +79,7 @@ def test_tables():
 
 def test_en_mode_without_english_changes_only_the_layout(tree, bare):
     orig = [(TREE / "OVER.BIN").read_bytes()[s:e] for s, e in over.blocks((TREE / "OVER.BIN").read_bytes())]
-    changed = insert.insert(tree, bare, "en")
-    assert changed["BAT_OVER.BIN"] == 0
+    insert.insert(tree, bare, "en")
     assert event_blocks(tree) == orig  # moved to the end of OVER.BIN, same bytes
     ovr = (tree / "OVER.BIN").read_bytes()
     assert not any(ovr[:over.EVENT_END_SECTOR * 0x800])  # old copies zeroed
@@ -84,8 +88,32 @@ def test_en_mode_without_english_changes_only_the_layout(tree, bare):
     assert ovr[over.EVENT_END_SECTOR * 0x800:insert.OVER_SECTORS * 0x800] == \
         (TREE / "OVER.BIN").read_bytes()[over.EVENT_END_SECTOR * 0x800:]
     exe, e0 = (tree / "SLPS_023.19").read_bytes(), (TREE / "SLPS_023.19").read_bytes()
-    assert [i for i in range(len(e0)) if exe[i] != e0[i]] and \
-        all(insert.TABLE <= i < insert.TABLE + 72 for i in range(len(e0)) if exe[i] != e0[i])
+    allowed = [(insert.TABLE, insert.TABLE + 72)] + [(o, o + 2 * 66) for _, o, _ in batquote.SETS] + \
+        [(w, w + 4) for w, _, _ in insert.BQ.values()] + [(t, t + 12 * 65) for _, _, t in insert.BQ.values()]
+    diff = [i for i in range(len(e0)) if exe[i] != e0[i]]
+    assert diff and all(any(a <= i < b for a, b in allowed) for i in diff)
+    assert quotes(tree) == quotes(TREE)  # same text behind every record after the move
+
+
+def quotes(tree):
+    """[(set, kind, text, quote id)] for every record, found the way the game does: the slot base from the exe's
+    load-address table, the block's sectors from its sector list, its records from the record-pointer table."""
+    exe, bat, out = (tree / "SLPS_023.19").read_bytes(), (tree / "BAT_OVER.BIN").read_bytes(), []
+    for name, off, _ in batquote.SETS:
+        word, _, tab = insert.BQ[name]
+        base = struct.unpack_from("<I", exe, word)[0]
+        s = batquote.sector_list(exe, off)
+        orig_blocks = [x for x in batquote.blocks((TREE / "SLPS_023.19").read_bytes()) if x[0] == name]
+        for k, (a, b) in enumerate(zip(s, s[1:])):
+            blk = bat[a * 0x800:b * 0x800]
+            assert len(blk) <= insert.BQ_MAX + 0x7FF
+            r = struct.unpack_from("<I", exe, tab + 12 * k + 4)[0] - base
+            n = len(batquote.parse((TREE / "BAT_OVER.BIN").read_bytes()[orig_blocks[k][2] * 0x800:orig_blocks[k][3] * 0x800],
+                                   orig_blocks[k][1])[2])
+            for i in range(n):
+                kind, p, q = struct.unpack_from("<3I", blk, r + 12 * i)
+                out.append((name, kind, blk[p - base:blk.index(0, p - base)], q))
+    return out
 
 
 def test_marker_every_pointer_reaches_its_marker(tree):
@@ -126,12 +154,22 @@ def test_pool_overflow_spills_past_the_block_end(tree, bare):
             spk = insert.speaker_names().get(ln["speaker"], ln["speaker"])
             assert blk[o:blk.index(0, o)] == font.encode(spk) + b"\n" + b"W" * 150
     with pytest.raises(insert.Overflow):
-        insert.insert(tree, bare, "en", {k: "W" * 400 for k in big})
+        insert.insert(copy_tree(tree / "again"), bare, "en", {k: "W" * 400 for k in big})
 
 
 def test_qa_override_and_overflow(tree, bare):
     insert.insert(tree, bare, "en", {"exe_00D38": "Astral Canon"})
     e = (tree / "SLPS_023.19").read_bytes()
     assert e[0xD38:0xD38 + 13] == font.encode("Astral Canon") + b"\0"
-    with pytest.raises(insert.Overflow):
-        insert.insert(tree, bare, "en", {"exe_00D38": "x" * 40})
+    with pytest.raises(insert.Overflow, match="fixed field"):  # a record field can't move
+        insert.insert(copy_tree(tree / "again"), bare, "en", {"exe_04070": "x" * 40})
+
+
+def test_long_exe_string_moves_to_free_space(tree, bare):
+    insert.insert(tree, bare, "en", {"exe_00D38": "x" * 40, "exe_D1F40": "Identify!"})
+    e = (tree / "SLPS_023.19").read_bytes()
+    p = struct.unpack_from("<I", e, 0xA7D00)[0]  # exe_00D38's pointer
+    assert p != 0x800A5800 + 0xD38 and e[p - insert.EXE_BASE:][:41] == font.encode("x" * 40) + b"\0"
+    lui, lo = struct.unpack_from("<2I", e, 0x3CB38)  # exe_D1F40: lui a3 + addiu a3
+    q = ((lui & 0xFFFF) << 16) + (lo & 0xFFFF) - (0x10000 if lo & 0x8000 else 0)
+    assert e[q - insert.EXE_BASE:][:10] == font.encode("Identify!") + b"\0"

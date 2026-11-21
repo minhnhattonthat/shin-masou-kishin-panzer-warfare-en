@@ -55,7 +55,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--marker", action="store_true", help="marker build: every string -> [id] + filler")
     ap.add_argument("--qa", action="append", default=[], metavar="ID=TEXT", help="override one line (repeatable)")
-    ap.add_argument("--only", nargs="+", help="with --marker: mark only these script/ paths (prefixes, e.g. exe events/ev0)")
+    ap.add_argument("--only", nargs="+", help="bisect: change only these script/ paths (prefixes, e.g. exe events/ev0); the rest stay JP")
     ap.add_argument("--out", default="build/smk_en", help="output name without extension")
     a = ap.parse_args()
     qa = dict(x.split("=", 1) for x in a.qa)
@@ -63,6 +63,7 @@ def main():
     disc = ROOT / "build/disc"
     unpack(disc)
     changed = patch(disc / "tree", "marker" if a.marker else "en", {k: v.replace("\\n", "\n") for k, v in qa.items()}, a.only)
+    subprocess.run([sys.executable, "-X", "utf8", ROOT / "tools/writes_check.py", "--tree", disc / "tree"], check=True)
     repack(disc, ROOT / a.out)
     print("text bytes changed:", changed)
     print("built %s.bin + .cue" % a.out)

@@ -6662,7 +6662,7 @@
   {
    "id": "exe_B4980",
    "jp": "真・魔装機神ＤＡＴＡ０１",
-   "en": "Shin Masoukishin DATA01",
+   "en": "",
    "lui": [
     "0x653C0"
    ],
@@ -6673,7 +6673,7 @@
   {
    "id": "exe_B4999",
    "jp": "真・魔装機神ＤＡＴＡ０２",
-   "en": "Shin Masoukishin DATA02",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6681,7 +6681,7 @@
   {
    "id": "exe_B49B2",
    "jp": "真・魔装機神ＤＡＴＡ０３",
-   "en": "Shin Masoukishin DATA03",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6689,7 +6689,7 @@
   {
    "id": "exe_B49CB",
    "jp": "真・魔装機神ＤＡＴＡ０４",
-   "en": "Shin Masoukishin DATA04",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6697,7 +6697,7 @@
   {
    "id": "exe_B49E4",
    "jp": "真・魔装機神ＤＡＴＡ０５",
-   "en": "Shin Masoukishin DATA05",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6705,7 +6705,7 @@
   {
    "id": "exe_B49FD",
    "jp": "真・魔装機神ＤＡＴＡ０６",
-   "en": "Shin Masoukishin DATA06",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6713,7 +6713,7 @@
   {
    "id": "exe_B4A16",
    "jp": "真・魔装機神ＤＡＴＡ０７",
-   "en": "Shin Masoukishin DATA07",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6721,7 +6721,7 @@
   {
    "id": "exe_B4A2F",
    "jp": "真・魔装機神ＤＡＴＡ０８",
-   "en": "Shin Masoukishin DATA08",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6729,7 +6729,7 @@
   {
    "id": "exe_B4A48",
    "jp": "真・魔装機神ＤＡＴＡ０９",
-   "en": "Shin Masoukishin DATA09",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6737,7 +6737,7 @@
   {
    "id": "exe_B4A61",
    "jp": "真・魔装機神ＤＡＴＡ１０",
-   "en": "Shin Masoukishin DATA10",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6745,7 +6745,7 @@
   {
    "id": "exe_B4A7A",
    "jp": "真・魔装機神ＤＡＴＡ１１",
-   "en": "Shin Masoukishin DATA11",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6753,7 +6753,7 @@
   {
    "id": "exe_B4A93",
    "jp": "真・魔装機神ＤＡＴＡ１２",
-   "en": "Shin Masoukishin DATA12",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6761,7 +6761,7 @@
   {
    "id": "exe_B4AAC",
    "jp": "真・魔装機神ＤＡＴＡ１３",
-   "en": "Shin Masoukishin DATA13",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6769,7 +6769,7 @@
   {
    "id": "exe_B4AC5",
    "jp": "真・魔装機神ＤＡＴＡ１４",
-   "en": "Shin Masoukishin DATA14",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"
@@ -6777,7 +6777,7 @@
   {
    "id": "exe_B4ADE",
    "jp": "真・魔装機神ＤＡＴＡ１５",
-   "en": "Shin Masoukishin DATA15",
+   "en": "",
    "region": "mcard",
    "max": 24,
    "status": "done"

@@ -2,12 +2,20 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7. Insert, fit, check: not started (2026-11-22). Phase 6 is **done**: all 73 batches have a reviewer
-  verdict in `docs/review/reports.tsv`, every C/I fix merged (b102: 9 from b001-b034; b103: 36 from b035-b073,
-  incl. Toto's defeat cry アリ…… → "That can't be..." in all 21 copies, the HQ caption = glossary "Ragash Royal Army
-  Headquarters" in all 4 copies, exe Altra Familia / Familialess / Spellbind / Victory header), 233 Minors in
-  `docs/polish.md` (ids with a merged C/I fix are left out). Check green. Raw reviewer outputs: `work/review_in/`.
-  `python build.py` currently **fails on 42 exe strings over their byte max** (pre-existing; phase 7 task (b) below).
+- **Phase:** 8. QA in the emulator: not started (2026-11-22). Phase 7 is **done**: `python build.py` is green
+  (build `smk_en.bin` sha1 3cbcd114…, smoke ok), `lint.py --final` 0 errors (control codes, px/lines per measured box),
+  `batches.py check` 0 problems, `tools/writes_check.py` (romdiff on exe / OVER / BAT_OVER vs planned ranges, run by
+  build.py) passes, Check 34 passed. Engine work (docs/re/battle.md §Runtime, §Relocation): (a) battle-quote blocks
+  rebuilt for new RAM slots A 0x801CB118 / B 0x801CE718 and appended to BAT_OVER.BIN; the record-pointer tables
+  (exe 0xC59D8 / 0xC5CE4) and load-address words follow; English quotes render from both sets (`work/qa/bq_en`).
+  (b) the 42 long exe strings move (`insert._relocate`) into slot tails / old slots / 0x8016DA60-0x8016DC3F, u32
+  ptrs + lui pairs re-aimed. (c) card titles stay JP (D14, `script/keep_jp.txt`). `tools/bisect_boot.py` bisects a
+  black boot by script file (`build.py --only` now works in en mode).
+  Phase 6 review fixes (2026-11-22, commit 1b3ec32): Havoc Beam / Caloric Buoy in both exe lists (b105, D13), Mira
+  cut + dropped translator questions + US-spelling ids in polish.md "Hand-kept" (survives `review_fixes.py --polish`),
+  D11 (harmonise), D12 (pilot waived), reviewer brief read-in-parts line.
+  Phase 6: all 73 batches have a reviewer verdict in `docs/review/reports.tsv`, C/I fixes b102-b104, 233 Minors in
+  `docs/polish.md`. Raw reviewer outputs: `work/review_in/`.
   Phase 6 history: glossary seeded (Akurasu/SRW names, D8-D10),
   `docs/synopsis.md`, `docs/style-reference.md`, `docs/translator-brief.md`, `docs/reviewer-brief.md`,
   `tools/batches.py` (split/check/merge/terms; msg and battle quotes auto-wrapped, lint rules as the width check),
@@ -67,13 +75,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
     measured box, glyph slots, stub last lines, byte max; `--final` fails untranslated lines. insert: speaker
     names from glossary.md Characters, msg newline padding, scroll centring. Tour: remaining Japanese on screen is
     all graphics (G6 option, G9 status labels/skills/spirits, G18 credits); no odd markers seen.
-- **Next (phase 7):** make `build.py` (en) build green and pass the phase-7 done-when (width/overflow lint clean,
-  control codes matched, `romdiff.py` no writes outside allowed ranges), then smoke. Field-size limits left as Minors
-  in polish.md: exe_B60F4 / ov_ECE34 "Those Who Tread on a Tiger's Tail" (27/31-byte fields), ov_ECE54 "Seven
-  Knights of the Wasteland" (31 bytes): apply if relocation frees those fields. Engine tasks: (a) battle quotes: RAM slot is 0xC60 bytes per set (slot table 0x800AB7B8), areas full;
-  move the slots to free RAM during battle (candidate 0x801CB118-0x801D1D18, trap-test with `trap.py --from` and
-  `tools/lua/loads.lua`) and relayout BAT_OVER like OVER; (b) exe strings longer than their JP bytes: relocate
-  (ptrs/lui known in exe.json) to trap-tested free space; (c) mcard titles stay Shift-JIS full-width.
+- **Next (phase 8):** `warp_all.py --rom build/smk_en.cue` on the English build (not yet run: only smoke + battle05
+  checked), then the QA tour/contact sheets with visual-QA verdicts (`qa_gate.py`), graphics-text redraws (G6, G9,
+  G18 + survey), inkbox on choices/centred menus, stress saves (needs `save.py` / unit record layout), `textcover.py`.
+  Exe px widths are unmeasured for most menus (lint "unmeasured exe 885"): judge them on the sheets. exe_B60F4
+  ("...Tiger's Tail") is pointer-reached, so its polish.md suggestion can now apply (it moves); ov_ECE34 / ov_ECE54
+  are fixed 31-byte fields.
+  Free exe space left for moved strings is small (0x8016DA60-0x8016DC3F + slot tails); if a polish pass makes more
+  exe lines longer and insert reports "no exe free space left", trap-test another run first (not 0x80170935+).
 - **Open questions for later phases:** the exe 「…」 quotes
   (no reference found, maybe unused: not seen on the marker tour); the u16
   table before each intro scroll (not per page; insert keeps each page's line count); the save-slot list copy of the
@@ -82,7 +91,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the
   warps reach every stage without saves; a forced intermission has zeroed stats, so menu stress values need RAM
   writes or the editor then.
-- **Open bugs:** none.
+- **Open bugs:** (1) battle HUD top-right unit name shows only its tail ("es" for Tilwes) while the left name
+  "El Zarila" is fine (`work/qa/bq_en/top_cmp.png`, battle05 f15240 vs original): likely the two top labels share a
+  glyph-slot range sized for the JP lengths (cf. event windows, tools/slots.py); trace and fix in phase 8.
 - **Waiting on the user:** nothing.
 
 Warp sweep (original disc, 2026-11-21): `warp_all.py --states` 123/123 scenes reached from a cold boot, every

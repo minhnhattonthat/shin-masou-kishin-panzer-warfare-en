@@ -12,10 +12,24 @@
   0 unreached strings; `python -X utf8 tools/batquote.py` re-checks it and exits 1 on any unreached string).
 - 2061 strings per set; **all 65 blocks have the same text in A and B** (same strings in the same order; only the
   record pointers differ by the base), checked by extract.py: set B lines carry `same` = the set-A id.
-- So a block can be repacked freely: rewrite strings, recompute record pointers. Size limit per block: the sector
-  table (growing past its sectors shifts every later entry) and the RAM gap 0x801DA5A0 - 0x801D79EC = 0x2BB4 for set
-  A; what follows set B's slot is not yet known.
-- Not yet traced at runtime (needs a battle from the debug tool, phase 2): which code picks the record by quote id.
+- **Runtime (verified 2026-11-22, `battle05` + watch.lua)**: per battle the game CD-loads, in order, set A's block
+  to 0x801D79EC, unit data to 0x801D864C and 0x801D8800, set B's block to 0x801DA5A0, more to 0x801DB200 (load
+  addresses = the exe's word table 0x800AB7B8, file 0x5FB8..). A 2-sector block spills past 0xC60 and is overwritten
+  by the next load, so each slot really holds 0xC60 bytes. Records are not found by scanning: the quote picker
+  (0x801194C0-0x801195E0) reads a **static exe table of 65 x 12-byte entries per set, +4 = the block's first record**:
+  set A RAM 0x8016B1D8 (file 0xC59D8), set B 0x8016B4E4 (file 0xC5CE4); record = kind (lh), string ptr, quote id (lh
+  at +8). Odd record: block 0x20/0xD6 +0xA10 (kind 0) aims past the strings at bytes `02 00`.
+- **§Relocation (phase 7, tools/insert.py `BQ`)**: every quote block is rebuilt (id, strings, records) for a new
+  slot in the event-slot tail, A 0x801CB118, B 0x801CE718 (≤ 0x3600 each), appended to the end of BAT_OVER.BIN set
+  by set; the sector lists, the two load-address words and the record-pointer tables follow. That RAM has no writes
+  from map load through a battle and back (trap f7700-f20000); the event block is CD-reloaded after every battle
+  (the transition image already overwrites 0x801C2518-0x801CB118). English quotes render from both sets (shots
+  `work/qa/bq_en/zoom.png`).
+- **Exe strings longer than their slot** (insert.py `_relocate`): a pointer/lui string gets only the JP string's own
+  4-aligned slot (the zero bytes extract's `max` counts past it may be zero-init variables); longer ones best-fit
+  into slot tails, the old slots of moved strings and 0x8016DA60-0x8016DC3F (after asm/vwf.asm). **Not** the exe
+  zero run 0x80170935-0x801719A0: live BSS (library code 0x80137xxx writes it at boot); strings there gave a black
+  screen from frame 0. `tools/writes_check.py` (run by build.py) checks every changed byte is in a planned range.
 - Other sector lists near it (exe 0xAFD02 `0 43 86 9B …`, 0xAFDA6 `4A … 8B`, 0xAFE2C `8B … B6`, 0xAFF72
   `141 … 171`) are battle code/data overlays.
 
