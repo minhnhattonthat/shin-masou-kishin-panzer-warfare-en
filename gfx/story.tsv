@@ -1,0 +1,9 @@
+file	tim	x	y	w	h	clut	text	font	ink	edge	bg	align	note
+T_TIM.BIN	0	0	16	256	200	0	gfx/out/story/p0.png	img	auto	none	auto	center	G1 prologue page 1
+T_TIM.BIN	8800	0	16	256	200	0	gfx/out/story/p1.png	img	auto	none	auto	center	G1 prologue page 2
+T_TIM.BIN	11000	0	16	256	200	0	gfx/out/story/p2.png	img	auto	none	auto	center	G1 prologue page 3
+T_TIM.BIN	19800	0	16	256	200	0	gfx/out/story/p3.png	img	auto	none	auto	center	G1 prologue page 4
+T_TIM.BIN	22000	0	16	256	200	0	gfx/out/story/p4.png	img	auto	none	auto	center	G1 prologue page 5
+GRA5.BIN	76800	0	0	160	40	0	Kingdom of Vartzpheem|Commissioning Trial Venue	vwf	15	outline:1	0	center,gap=8	G15 event location caption (ev01)
+BAT_TIM.BIN	4D5000	208	199	94	21	0	gfx/out/story/loading.png	img	auto	none	auto	center	G14 loading screen small text; spill-ok photo background
+BAT_TIM.BIN	45A000	4	10	120	22	0	gfx/out/story/devcard.png	img	auto	none	auto	center	G14 dev card (probably unused); spill-ok photo background

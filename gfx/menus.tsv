@@ -1,0 +1,24 @@
+file	tim	x	y	w	h	clut	text	font	ink	edge	bg	align	note
+T_TIM.BIN	1EE000	0	106	72	38	1	Plays the|movies used|in the game.	vwf	1	shadow:2	0	left,gap=0	G6 option help: movie
+T_TIM.BIN	1EE000	72	106	84	38	1	Plays sound|effects used|in the game.	vwf	1	shadow:2	0	left,gap=0	G6 option help: SE
+T_TIM.BIN	1EE000	0	146	72	38	1	Plays the|music used|in the game.	vwf	1	shadow:2	0	left,gap=0	G6 option help: BGM
+T_TIM.BIN	1EE000	72	146	84	38	1	Plays voice|lines used|in the game.	vwf	1	shadow:2	0	left,gap=0	G6 option help: voice
+T_TIM.BIN	1EE000	160	106	72	38	1	Aww...|You're really|quitting?	vwf	1	shadow:2	0	left,gap=0	G6 option help: exit
+T_TIM.BIN	1EE000	0	186	125	13	1	Left/Right to select,	vwf	1	shadow:2	0	left	G6 option bar piece 1
+T_TIM.BIN	1EE000	12	201	127	14	1	button to confirm	vwf	1	shadow:2	0	left,dy=1,dx=3	G6 option bar piece 2 (original circle glyph kept at x0-11)
+T_TIM.BIN	1EE000	12	217	168	14	1	button to return to title	vwf	1	shadow:2	0	left,dy=1,dx=3	G6 option bar piece 3 (original circle glyph kept at x0-11)
+GRA5.BIN	1740800	6	25	38	12	0	gfx/out/menus/btn00.png	img	-	-	-	-	G16 name button Keigo
+GRA5.BIN	1740800	6	41	38	12	0	gfx/out/menus/btn01.png	img	-	-	-	-	G16 name button Alma
+GRA5.BIN	1740800	6	57	38	12	0	gfx/out/menus/btn02.png	img	-	-	-	-	G16 name button Yen
+GRA5.BIN	1740800	6	73	38	12	0	gfx/out/menus/btn03.png	img	-	-	-	-	G16 name button Toto
+GRA5.BIN	1740800	6	89	38	12	0	gfx/out/menus/btn04.png	img	-	-	-	-	G16 name button Beumer
+GRA5.BIN	1740800	6	105	38	12	0	gfx/out/menus/btn05.png	img	-	-	-	-	G16 name button Furcas
+GRA5.BIN	1740800	6	121	38	12	0	gfx/out/menus/btn06.png	img	-	-	-	-	G16 name button Helena
+GRA5.BIN	1740800	6	137	38	12	0	gfx/out/menus/btn07.png	img	-	-	-	-	G16 name button Drawbi
+GRA5.BIN	1740800	6	153	38	12	0	gfx/out/menus/btn08.png	img	-	-	-	-	G16 name button Blacky
+GRA5.BIN	1740800	6	169	38	12	0	gfx/out/menus/btn09.png	img	-	-	-	-	G16 name button Shess
+GRA5.BIN	1740800	6	185	38	12	0	gfx/out/menus/btn10.png	img	-	-	-	-	G16 name button Alfredo
+GRA5.BIN	1740800	6	201	38	12	0	gfx/out/menus/btn11.png	img	-	-	-	-	G16 name button ???
+GRA5.BIN	1740800	41	221	37	13	0	Select	tiny5	auto	none	1	left,dx=2	G16 help bar: select
+GRA5.BIN	1740800	103	221	33	13	0	Back	tiny5	auto	none	1	left,dx=2	G16 help bar: back
+GRA5.BIN	1740800	160	221	38	13	0	Confirm	tiny5	auto	none	1	left,dx=2	G16 help bar: confirm

@@ -2,8 +2,34 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: not started (2026-11-22); the phase-7 review fixes are in (below), so phase 8
-  starts at its first step (warp_all on the English build).
+- **Phase:** 8. QA in the emulator, in progress (2026-11-22).
+  Phase 8 so far: `warp_all.py --rom build/smk_en.cue` 123/123 (`work/qa/warp_en`, states regenerated); JP
+  reference warps `work/qa/warp_jp` (16 UI scenes). **Graphics:** `tools/gfx.py` (rows in `gfx/<group>.tsv`, drawn
+  in palette-index space into every byte-identical copy of the TIM's pixel block; `img` rows for hand-drawn rects;
+  `export`/`preview`/`check`; build stage after armips, writes_check covers the copies; `tests/test_gfx.py`). OFL
+  fonts in `fonts/` (docs/fonts.md). Pilot done: 37 chapter cards (`gfx/cards.tsv`, Nunito 26/900, white + dark
+  outline, right-aligned, long titles on 2 lines; verified in game `work/qa/cards_en`). Graphics agents (sonnet,
+  `docs/graphics-brief.md`, row lists `work/gfx/<group>.txt`) drew the other groups, all merged: mapui (G11, 63 img
+  rows), status (G9, 38), menus (G6 option + G16 intermission buttons, 23), battle (G12 + G13 16 reaction TIMs, 21),
+  story (G1 prologue 5 pages, G15 caption, G14 loading + dev card, 8), credits (G18, 272 cells; roll = overlay 4
+  cell table OVER 0x13F0). 462 rows, `gfx.py check` ok, build sha1 87c51b59…, Check 42 passed. In-game look
+  verified on intermission/status/option/credits (`work/qa/gfx_en`); NOT yet seen in game: map command menu +
+  battle-confirm (mapui), battle damage/reaction labels, prologue pages, ev01 caption, loading screen — warp/zoom
+  them first (agents worked offline; check sprite clipping of Ranged/Gnd/Sea/Luk, "Rear Melee" width, prologue
+  page placement, the caption CLUT). Left JP (D17): mapui 14 single-kanji spirit tiles (GRA5 0x11000 x62-160
+  y33-62) and status 兵民騎官 tiles (x65-90 y80-100) — find where they show, then redraw; credits 摯 遺; T_TIM
+  0x19D000 (dead sheet). G7 map label is pseudo-Latin (no row). G10 FMV mov01 subtitles: not started (jPSXdec).
+  **Tour:** `tools/debug/tour.py` (warp each evNN with KEEP=1, mash circle, shot every 40, sheets in
+  `<out>/sheets/`). JP tour done: `work/qa/tour_jp` (35/35, 596 sheets). EN tour not yet run on the current build
+  (run it, then `qa_gate.py init work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin`, chunks of
+  30, visual-qa agents with `docs/visual-qa-brief.md`, up to 4 at a time).
+  **New bug (3):** ev01 tour, map player phase, weapon list (攻撃技): EN shows a column of garbage tiles right of
+  the list, the list window half drawn and the DATA panel's HIT label missing; JP at the same frame is clean
+  (`work/tmp/cmp.png` from work/qa/tour_try/f019960.png vs work/qa/tour_jp/ev01/f019960.png). Deterministic repro:
+  `emu.py build/smk_en.cue --state-in work/states/weapon_list_pre.sstate --mash 40 --mash-key circle` (state at
+  frame 19500 of the ev01 KEEP=1 run, made on build 87c51b59's predecessor b05f04a4 text; garbage at +460). Likely
+  the glyph-slot overflow of open bug (1) (weapon names longer than the JP: "Seal Prod" 8 glyphs, "Mid Hammer" 9
+  vs 7): find the list's slot bases (tools/lua/slots.lua) and re-base like slots.py WORDS.
   Phase-7 review fixes (2026-11-22, H:\translation\.harness\reviews\...-phase7.md, all 7 Important + 4 Minor):
   (1) fixed-field alignment: `insert.align` re-pads exe/overlay fields like the JP (leading = right, both = centre)
   within the slot's bytes (D16). (2) HUD bug fixed: battle labels had 8 glyph slots each (bases 0/8/0x10/0x18);
@@ -89,9 +115,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     measured box, glyph slots, stub last lines, byte max; `--final` fails untranslated lines. insert: speaker
     names from glossary.md Characters, msg newline padding, scroll centring. Tour: remaining Japanese on screen is
     all graphics (G6 option, G9 status labels/skills/spirits, G18 credits); no odd markers seen.
-- **Next (phase 8):** `warp_all.py --rom build/smk_en.cue` on the English build (not yet run: only smoke + battle05
-  checked), then the QA tour/contact sheets with visual-QA verdicts (`qa_gate.py`), graphics-text redraws (G6, G9,
-  G18 + survey), inkbox on choices/centred menus, stress saves (needs `save.py` / unit record layout), `textcover.py`.
+- **Next (phase 8), in order:** (a) fix bug (3) weapon-list slots + open bug (1) attack-confirm slots (same
+  pattern), rebuild; (b) warp + zoom the unverified graphics screens above, fix; (c) EN tour + qa_gate + visual-QA
+  verdicts on every sheet (UI warp scenes too: add their scene.png sheets to the manifest); (d) the left-JP tiles
+  and FMV mov01; (e) inkbox on choices/centred menus; (f) stress saves (needs `save.py` / unit record layout);
+  (g) `textcover.py` (strings.lua logs STR <ram ptr>; build must emit build/strings.tsv with RAM addresses).
   Exe px widths are unmeasured for most menus (lint "unmeasured exe 885"): judge them on the sheets. exe_B60F4
   ("...Tiger's Tail") is pointer-reached, so its polish.md suggestion can now apply (it moves); ov_ECE34 / ov_ECE54
   are fixed 31-byte fields.

@@ -1,0 +1,39 @@
+file	tim	x	y	w	h	clut	text	font	ink	edge	bg	align	note
+TIM.BIN	A5128	12	5	55	10	0	gfx/out/status/status.png	img	auto	none	auto	center	G9 ステータス -> Status
+TIM.BIN	A5128	74	2	36	14	0	gfx/out/status/pilot.png	img	auto	none	auto	center	G9 操者 -> Pilot
+TIM.BIN	A5128	114	2	36	14	0	gfx/out/status/machine.png	img	auto	none	auto	center	G9 機体 -> Unit
+TIM.BIN	A5128	154	2	52	14	0	gfx/out/status/attacks_tab.png	img	auto	none	auto	center	G9 攻撃技 -> Attacks
+TIM.BIN	A5128	88	117	50	11	0	gfx/out/status/attacks_hd.png	img	auto	none	auto	center	G9 攻 撃 技 -> Attacks
+TIM.BIN	A5128	0	33	24	13	0	gfx/out/status/melee.png	img	auto	none	auto	center	G9 格闘 -> Melee
+TIM.BIN	A5128	24	33	25	13	0	gfx/out/status/ranged.png	img	auto	none	auto	center	G9 射撃 -> Ranged
+TIM.BIN	A5128	49	33	47	13	0	gfx/out/status/clash.png	img	auto	none	auto	center	G9 せりあい -> Clash
+TIM.BIN	A5128	0	49	24	14	0	gfx/out/status/aim.png	img	auto	none	auto	center	G9 命中 -> Aim
+TIM.BIN	A5128	24	49	24	14	0	gfx/out/status/evade.png	img	auto	none	auto	center	G9 回避 -> Evade
+TIM.BIN	A5128	49	49	47	14	0	gfx/out/status/parry.png	img	auto	none	auto	center	G9 きり払い -> Parry
+TIM.BIN	A5128	1	65	13	13	0	gfx/out/status/luck.png	img	auto	none	auto	center	G9 運 -> Luk
+TIM.BIN	A5128	25	65	24	13	0	gfx/out/status/spirit.png	img	auto	none	auto	center	G9 精神 -> Spirit
+TIM.BIN	A5128	49	65	47	13	0	gfx/out/status/prana_heal.png	img	auto	none	auto	center	G9 プラーナ回復 -> Prana Heal
+TIM.BIN	A5128	32	81	24	14	0	gfx/out/status/armor.png	img	auto	none	auto	center	G9 装甲 -> Armor
+TIM.BIN	A5128	0	96	24	14	0	gfx/out/status/move.png	img	auto	none	auto	center	G9 移動 -> Move
+TIM.BIN	A5128	32	96	24	14	0	gfx/out/status/reflex.png	img	auto	none	auto	center	G9 反応 -> Reflex
+TIM.BIN	A5128	0	110	24	16	0	gfx/out/status/terrain.png	img	auto	none	auto	center	G9 適応 -> Terrain
+TIM.BIN	A5128	34	113	12	13	0	gfx/out/status/air.png	img	auto	none	auto	center	G9 空 -> Air
+TIM.BIN	A5128	50	113	13	13	0	gfx/out/status/ground.png	img	auto	none	auto	center	G9 地 -> Gnd
+TIM.BIN	A5128	66	113	13	13	0	gfx/out/status/sea.png	img	auto	none	auto	center	G9 水 -> Sea
+TIM.BIN	A5128	4	130	51	13	0	gfx/out/status/remaining.png	img	auto	none	auto	center	G9 残りポイント -> Remaining Points
+TIM.BIN	A5128	172	212	56	9	0	gfx/out/status/confirm.png	img	auto	none	auto	center	G9 ○ボタンで決定 -> =CONFIRM spill-ok row 211 is the line above's shadow
+TIM.BIN	A5128	66	17	29	14	0	gfx/out/status/valor.png	img	auto	none	auto	center	G9 熱血 -> Valor
+TIM.BIN	A5128	154	17	29	14	0	gfx/out/status/alert.png	img	auto	none	auto	center	G9 閃き -> Alert
+TIM.BIN	A5128	186	17	29	14	0	gfx/out/status/focus.png	img	auto	none	auto	center	G9 集中 -> Focus
+TIM.BIN	A5128	218	17	29	14	0	gfx/out/status/guts.png	img	auto	none	auto	center	G9 根性 -> Guts
+TIM.BIN	A5128	122	33	29	14	0	gfx/out/status/gain.png	img	auto	none	auto	center	G9 努力 -> Gain
+TIM.BIN	A5128	154	33	29	14	0	gfx/out/status/strike.png	img	auto	none	auto	center	G9 必中 -> Strike
+TIM.BIN	A5128	186	33	29	14	0	gfx/out/status/trust.png	img	auto	none	auto	center	G9 信頼 -> Trust
+TIM.BIN	A5128	218	33	29	14	0	gfx/out/status/ironwall.png	img	auto	none	auto	center	G9 鉄壁 -> Iron Wall
+TIM.BIN	A5128	154	49	29	14	0	gfx/out/status/grit.png	img	auto	none	auto	center	G9 ド根性 -> Grit
+TIM.BIN	A5128	186	49	29	14	0	gfx/out/status/pranaheal.png	img	auto	none	auto	center	G9 P回復 -> Prana Heal
+TIM.BIN	A5128	218	49	29	14	0	gfx/out/status/spellbind.png	img	auto	none	auto	center	G9 呪縛 -> Spell bind
+TIM.BIN	A5128	122	65	29	14	0	gfx/out/status/soul.png	img	auto	none	auto	center	G9 魂 -> Soul
+TIM.BIN	A5128	154	65	29	14	0	gfx/out/status/disrupt.png	img	auto	none	auto	center	G9 撹乱 -> Disrupt
+TIM.BIN	A5128	186	65	29	14	0	gfx/out/status/friendship.png	img	auto	none	auto	center	G9 友情 -> Friend ship
+TIM.BIN	A5128	218	65	29	14	0	gfx/out/status/love.png	img	auto	none	auto	center	G9 愛 -> Love

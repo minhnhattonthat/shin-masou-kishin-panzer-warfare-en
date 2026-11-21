@@ -1,0 +1,22 @@
+file	tim	x	y	w	h	clut	text	font	ink	edge	bg	align	note
+BAT_TIM.BIN	15E2000	46	16	156	94	0	gfx/out/battle/react00.png	img	-	-	-	-	G13 reaction: Evade
+BAT_TIM.BIN	15EA800	46	16	156	94	0	gfx/out/battle/react01.png	img	-	-	-	-	G13 reaction: Parry
+BAT_TIM.BIN	15F3000	46	16	156	94	0	gfx/out/battle/react02.png	img	-	-	-	-	G13 reaction: Clash
+BAT_TIM.BIN	15FB800	46	16	156	94	0	gfx/out/battle/react03.png	img	-	-	-	-	G13 reaction: Defend
+BAT_TIM.BIN	1604000	46	16	156	94	0	gfx/out/battle/react04.png	img	-	-	-	-	G13 reaction: Barrier
+BAT_TIM.BIN	160C800	46	16	156	94	0	gfx/out/battle/react05.png	img	-	-	-	-	G13 reaction: Hit
+BAT_TIM.BIN	1615000	46	16	156	94	0	gfx/out/battle/react06.png	img	-	-	-	-	G13 reaction: Melee / Evade
+BAT_TIM.BIN	161D800	46	16	156	94	0	gfx/out/battle/react07.png	img	-	-	-	-	G13 reaction: Melee / Defend
+BAT_TIM.BIN	1626000	46	16	156	94	0	gfx/out/battle/react08.png	img	-	-	-	-	G13 reaction: Melee / Barrier
+BAT_TIM.BIN	162E800	46	16	156	94	0	gfx/out/battle/react09.png	img	-	-	-	-	G13 reaction: Melee / Hit
+BAT_TIM.BIN	1637000	46	16	156	94	0	gfx/out/battle/react10.png	img	-	-	-	-	G13 reaction: Rear / Evade
+BAT_TIM.BIN	163F800	46	16	156	94	0	gfx/out/battle/react11.png	img	-	-	-	-	G13 reaction: Rear / Barrier
+BAT_TIM.BIN	1648000	46	16	156	94	0	gfx/out/battle/react12.png	img	-	-	-	-	G13 reaction: Rear / Hit
+BAT_TIM.BIN	1650800	46	16	156	94	0	gfx/out/battle/react13.png	img	-	-	-	-	G13 reaction: Rear Melee / Evade
+BAT_TIM.BIN	1659000	46	16	156	94	0	gfx/out/battle/react14.png	img	-	-	-	-	G13 reaction: Rear Melee / Barrier
+BAT_TIM.BIN	1661800	46	16	156	94	0	gfx/out/battle/react15.png	img	-	-	-	-	G13 reaction: Rear Melee / Hit
+BAT_TIM.BIN	499800	190	49	66	13	0	gfx/out/battle/ui00.png	img	-	-	-	-	G12 battle UI label: Damage
+BAT_TIM.BIN	499800	190	65	66	13	0	gfx/out/battle/ui01.png	img	-	-	-	-	G12 battle UI label: Critical
+BAT_TIM.BIN	499800	190	81	66	13	0	gfx/out/battle/ui02.png	img	-	-	-	-	G12 battle UI label: Defense Damage
+BAT_TIM.BIN	499800	190	97	66	13	0	gfx/out/battle/ui03.png	img	-	-	-	-	G12 battle UI label: Parry
+BAT_TIM.BIN	499800	190	113	66	13	0	gfx/out/battle/ui04.png	img	-	-	-	-	G12 battle UI label: Clash

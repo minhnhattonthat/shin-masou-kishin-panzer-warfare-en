@@ -1,0 +1,64 @@
+file	tim	x	y	w	h	clut	text	font	ink	edge	bg	align	note
+GRA5.BIN	11000	1	65	29	13	9	gfx/out/mapui/btn_0_0.png	img	auto	none	auto	center	G11 移動 -> Move
+GRA5.BIN	11000	33	65	29	13	9	gfx/out/mapui/btn_0_1.png	img	auto	none	auto	center	G11 飛行 -> Fly
+GRA5.BIN	11000	65	65	29	13	9	gfx/out/mapui/btn_0_2.png	img	auto	none	auto	center	G11 着陸 -> Land
+GRA5.BIN	11000	97	65	29	13	9	gfx/out/mapui/btn_0_3.png	img	auto	none	auto	center	G11 精神 -> Spirit
+GRA5.BIN	11000	129	65	29	13	9	gfx/out/mapui/btn_0_4.png	img	auto	none	auto	center	G11 待機 -> Wait
+GRA5.BIN	11000	161	65	29	13	9	gfx/out/mapui/btn_0_5.png	img	auto	none	auto	center	G11 データ -> Data
+GRA5.BIN	11000	193	65	29	13	9	gfx/out/mapui/btn_0_6.png	img	auto	none	auto	center	G11 システム -> System
+GRA5.BIN	11000	1	81	29	13	9	gfx/out/mapui/btn_1_0.png	img	auto	none	auto	center	G11 攻撃 -> Attack
+GRA5.BIN	11000	33	81	29	13	9	gfx/out/mapui/btn_1_1.png	img	auto	none	auto	center	G11 浮上 -> Surface
+GRA5.BIN	11000	65	81	29	13	9	gfx/out/mapui/btn_1_2.png	img	auto	none	auto	center	G11 潜水 -> Dive
+GRA5.BIN	11000	97	81	29	13	9	gfx/out/mapui/btn_1_3.png	img	auto	none	auto	center	G11 能力 -> Ability
+GRA5.BIN	11000	129	81	29	13	9	gfx/out/mapui/btn_1_4.png	img	auto	none	auto	center	G11 終了 -> End
+GRA5.BIN	11000	161	81	29	13	9	gfx/out/mapui/btn_1_5.png	img	auto	none	auto	center	G11 目的 -> Goal
+GRA5.BIN	11000	193	81	29	13	9	gfx/out/mapui/btn_1_6.png	img	auto	none	auto	center	G11 セーブ -> Save
+GRA5.BIN	11000	83	17	27	12	9	gfx/out/mapui/pos.png	img	auto	none	auto	center	G11 位置: -> Place:
+GRA5.BIN	11000	112	17	31	12	9	gfx/out/mapui/spirit_p.png	img	auto	none	auto	center	G11 精神P: -> Spirit P:
+GRA5.BIN	11000	147	17	24	12	9	gfx/out/mapui/air.png	img	auto	none	auto	center	G11 空中 -> Air
+GRA5.BIN	11000	179	17	24	12	9	gfx/out/mapui/ground.png	img	auto	none	auto	center	G11 地上 -> Ground
+GRA5.BIN	11000	211	17	24	12	9	gfx/out/mapui/water.png	img	auto	none	auto	center	G11 水中 -> Water
+GRA5.BIN	11000	194	33	61	14	9	gfx/out/mapui/terrain_info.png	img	auto	none	auto	center	G11 地形情報 -> Terrain Info
+GRA5.BIN	11000	194	49	61	14	9	gfx/out/mapui/terrain_fx.png	img	auto	none	auto	center	G11 地形効果 -> Terrain Effects
+GRA5.BIN	11000	225	65	30	13	9	gfx/out/mapui/height.png	img	auto	none	auto	center	G11 高さ: -> Height:
+GRA5.BIN	11000	225	81	30	13	9	gfx/out/mapui/movecost.png	img	auto	none	auto	center	G11 移動: -> Move:
+GRA5.BIN	11000	9	100	7	8	9	gfx/out/mapui/no_0.png	img	auto	none	auto	center	G11 の -> /
+GRA5.BIN	11000	25	100	7	8	9	gfx/out/mapui/no_1.png	img	auto	none	auto	center	G11 の -> /
+GRA5.BIN	11000	41	100	7	8	9	gfx/out/mapui/no_2.png	img	auto	none	auto	center	G11 の -> /
+GRA5.BIN	11000	57	100	7	8	9	gfx/out/mapui/no_3.png	img	auto	none	auto	center	G11 の -> /
+GRA5.BIN	11000	73	100	7	8	9	gfx/out/mapui/no_4.png	img	auto	none	auto	center	G11 の -> /
+GRA5.BIN	11000	89	100	7	8	9	gfx/out/mapui/no_5.png	img	auto	none	auto	center	G11 の -> /
+GRA5.BIN	11000	105	100	7	8	9	gfx/out/mapui/no_6.png	img	auto	none	auto	center	G11 の -> /
+GRA5.BIN	11000	113	97	11	14	9	gfx/out/mapui/month.png	img	auto	none	auto	center	G11 月 -> Mo
+GRA5.BIN	11000	129	97	10	14	9	gfx/out/mapui/day.png	img	auto	none	auto	center	G11 日 -> Dy
+GRA5.BIN	11000	168	97	29	12	9	gfx/out/mapui/lightday.png	img	auto	none	auto	center	G11 光の日 -> Lightday
+GRA5.BIN	11000	200	97	29	12	9	gfx/out/mapui/darkday.png	img	auto	none	auto	center	G11 闇の日 -> Darkday
+GRA5.BIN	11000	1	113	21	13	9	gfx/out/mapui/t_morning.png	img	auto	none	auto	center	G11 /朝 -> /Dawn
+GRA5.BIN	11000	25	113	21	13	9	gfx/out/mapui/t_noon.png	img	auto	none	auto	center	G11 /昼 -> /Noon
+GRA5.BIN	11000	49	113	20	13	9	gfx/out/mapui/t_dusk.png	img	auto	none	auto	center	G11 /夕 -> /Dusk
+GRA5.BIN	11000	73	113	21	13	9	gfx/out/mapui/t_night.png	img	auto	none	auto	center	G11 /夜 -> /Night
+GRA5.BIN	11000	97	113	21	13	9	gfx/out/mapui/t_dark.png	img	auto	none	auto	center	G11 /闇 -> /Dark
+GRA5.BIN	11000	120	113	39	13	9	gfx/out/mapui/turns.png	img	auto	none	auto	center	G11 ターン数: -> Turns:
+GRA5.BIN	11000	162	113	11	13	9	gfx/out/mapui/h_fly.png	img	auto	none	auto	center	G11 飛 -> Air
+GRA5.BIN	11000	178	113	12	13	9	gfx/out/mapui/h_ground.png	img	auto	none	auto	center	G11 地 -> Gnd
+GRA5.BIN	11000	194	113	12	13	9	gfx/out/mapui/h_dive.png	img	auto	none	auto	center	G11 潜 -> Sea
+GRA5.BIN	11000	208	113	15	13	9	gfx/out/mapui/h_def.png	img	auto	none	auto	center	G11 防: -> Def:
+GRA5.BIN	11000	224	113	15	13	9	gfx/out/mapui/h_eva.png	img	auto	none	auto	center	G11 回: -> Eva:
+GRA5.BIN	11000	240	113	15	13	9	gfx/out/mapui/h_spc.png	img	auto	none	auto	center	G11 特: -> Spc:
+GRA5.BIN	11000	162	130	53	13	9	gfx/out/mapui/spirit_pts.png	img	auto	none	auto	center	G11 精神ポイント -> Spirit Points
+GRA5.BIN	11000	161	177	46	16	9	gfx/out/mapui/hitrate.png	img	auto	none	auto	center	G11 命中率 -> Hit Rate
+GRA5.BIN	11000	164	194	12	11	9	gfx/out/mapui/a_ground.png	img	auto	none	auto	center	G11 地 -> Gnd
+GRA5.BIN	11000	180	194	24	11	9	gfx/out/mapui/a_air.png	img	auto	none	auto	center	G11 空中 -> Air
+GRA5.BIN	11000	212	194	24	11	9	gfx/out/mapui/a_water.png	img	auto	none	auto	center	G11 水中 -> Water
+GRA5.BIN	11000	0	189	32	16	9	gfx/out/mapui/yes.png	img	auto	none	auto	center	G11 はい -> YES
+GRA5.BIN	11000	0	209	32	13	9	gfx/out/mapui/no.png	img	auto	none	auto	center	G11 いいえ -> NO
+GRA5.BIN	11000	1	226	25	12	9	gfx/out/mapui/attack.png	img	auto	none	auto	center	G11 攻撃 -> Attack
+GRA5.BIN	11000	34	226	24	12	9	gfx/out/mapui/target.png	img	auto	none	auto	center	G11 受け -> Target
+GRA5.BIN	11000	69	226	25	12	9	gfx/out/mapui/front.png	img	auto	none	auto	center	G11 正面 -> Front
+GRA5.BIN	11000	100	226	26	12	9	gfx/out/mapui/side.png	img	auto	none	auto	center	G11 側面 -> Side
+GRA5.BIN	11000	132	226	26	12	9	gfx/out/mapui/rear.png	img	auto	none	auto	center	G11 背面 -> Rear
+GRA5.BIN	11000	161	226	38	12	9	gfx/out/mapui/anim.png	img	auto	none	auto	center	G11 戦闘アニメ -> Battle Animation
+GRA5.BIN	11000	5	241	55	13	9	gfx/out/mapui/start.png	img	auto	none	auto	center	G11 戦闘開始 -> Start Battle
+GRA5.BIN	11000	80	241	31	13	9	gfx/out/mapui/weapon.png	img	auto	none	auto	center	G11 武器 -> Weapon
+GRA5.BIN	11000	145	241	30	13	9	gfx/out/mapui/evade.png	img	auto	none	auto	center	G11 回避 -> Evade
+GRA5.BIN	11000	208	241	31	13	9	gfx/out/mapui/defend.png	img	auto	none	auto	center	G11 防御 -> Defend

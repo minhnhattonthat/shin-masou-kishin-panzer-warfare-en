@@ -188,3 +188,13 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
   b069 (Alert, Focus, Guts, ...). Exe list and "Learned Spirit Command: X" messages must match.
 - Stock defeat/retreat lines: one English form per JP line (consistency pass, `tools/terms.py --dupes`).
 - ● placeholder battle quotes stay ● (the font draws it).
+
+## Graphics labels (phase 8, gfx/*.tsv; full JP -> EN lists in the group scripts tools/gfx_<group>.py)
+- Prologue: メギストゥス暦 Megistus Calendar, 神聖バルツフィーム王国 Holy Kingdom of Vartzpheem, 錬金学協会 Alchemy
+  Guild, 異形のもの the misshapen ones, 深淵の穴 Abyssal Pit, 正史 the official histories.
+- Battle: 格闘 Melee, 射撃 Ranged, 回避 Evade, 被弾 Hit, 防御 Defend, バリア Barrier, 斬り払い/きり払い Parry,
+  つばぜりあい/せりあい Clash, 後 Rear, 防御ダメージ Defense Damage.
+- Map/status: 機体 Unit (tab), 命中 Aim, 適応 Terrain, 目的 Goal, 浮上 Surface, 受け Target, 正面/側面/背面
+  Front/Side/Rear, 位置 Place, 朝/昼/夕/夜/闇 Dawn/Noon/Dusk/Night/Dark, 光の日/闇の日 Lightday/Darkday, 高さ Height,
+  ターン数 Turns, 攻撃技 Attacks, 残りポイント Remaining Points. Flagged cell-size abbreviations (D17): 月 Mo, 日 Dy,
+  地 Gnd, 防/回/特 Def/Eva/Spc, 運 Luk, credits "Asst. Anim. Director", "Mecha Anim. Director".
