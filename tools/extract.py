@@ -39,6 +39,10 @@ EXE_REGIONS = {
     "status": (0xB7702, 0xB7AC8, (0x2E, ((0, 0x20),))),  # status-page labels + layout data
     "quote": (0xC3DC8, 0xC4CB0, None),  # 109 battle quotes 「…」, reader unknown (docs/re/battle.md)
 }
+# pointer-reached byte runs that decode as SJIS but are data (moving them breaks the game: status.md bug 3)
+NOT_TEXT = {
+    0xA72E8: "90 78 20 00 inside a 12-byte sprite-record table (map weapon-list window); 0xAC4B0 points at the record",
+}
 LABEL_TABLE = 0xED024  # OVER.BIN: u32 RAM pointers to the save-slot chapter labels, first at file 0xECB74
 LABEL_FIRST = 0xECB74
 
@@ -173,7 +177,7 @@ def exe_strings(e):
         if e[i] and (not e[i - 1] or i % 4 == 0 and e[i - 1] == 0x80) and (j := text_end(e, i)):
             a = T_BASE + i
             region = next((r for r, (lo, hi, _) in EXE_REGIONS.items() if lo <= i < hi), None)
-            if a in words or a in lui or region:
+            if (a in words or a in lui or region) and i not in NOT_TEXT:
                 ln = {"id": "exe_%05X" % i, "jp": decode(e[i:j]), "en": ""}
                 if a in words:
                     ln["ptrs"] = [h(k) for k in words[a]]

@@ -5701,16 +5701,6 @@
    "status": "done"
   },
   {
-   "id": "exe_A72E8",
-   "jp": "靭 ",
-   "en": "Tough",
-   "ptrs": [
-    "0xAC4B0"
-   ],
-   "max": 3,
-   "status": "done"
-  },
-  {
    "id": "exe_ACFD4",
    "jp": "閃き",
    "en": "Alert",

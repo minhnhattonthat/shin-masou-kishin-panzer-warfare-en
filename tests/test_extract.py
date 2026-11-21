@@ -71,7 +71,7 @@ def test_roundtrip(files, data):
         for name, off, raw, text in located(rel, obj, data):
             assert encode(text) == raw, (rel, hex(off))
             n += 1
-    assert n == 7640 + 71 + 2 * 2061 + 900 + 37
+    assert n == 7640 + 71 + 2 * 2061 + 899 + 37  # exe: 900 minus extract.NOT_TEXT
 
 
 def test_event_pools_fully_covered(data):
