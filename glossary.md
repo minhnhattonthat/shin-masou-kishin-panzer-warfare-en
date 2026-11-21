@@ -21,6 +21,7 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
   `"` and `'` as closing marks only, so avoid quote marks; apostrophes in contractions are fine.
 - ・・・ / … / …… -> `...`; ！？ -> `!?`; ── -> `--`; ！！ -> `!!` at most. Plain ASCII only.
 - Stammers keep their shape: も、もう -> "I-I can't..."
+- US spelling: color, honor, armor, defense, favorable, realize, recognize (UK forms are polish.md items).
 - Voices: see docs/style-reference.md.
 
 ## Characters
@@ -165,6 +166,8 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | ファミリア | Familiar / Familia | | Altra Familia (attack) | |
 | ファミリアレス | Familialess | | attack (matches Altra Familia) | Familiaress |
 | エレメンタルバスター | Elemental Buster | | | |
+| 破壊光線 | Havoc Beam | | attack; name table + weapon list | Blast Beam |
+| カロリックブイ | Caloric Buoy | | attack (beside Caloric Bomb); no official form | Caloric V |
 | 先の先 | Seizing the Initiative | | | |
 | 背徳神官 | fallen priest | | | |
 | 騎士見習い | squire | | | |

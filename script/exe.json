@@ -55,7 +55,7 @@
   {
    "id": "exe_00D84",
    "jp": "破壊光線",
-   "en": "Blast Beam",
+   "en": "Havoc Beam",
    "ptrs": [
     "0xA7CE8"
    ],
@@ -435,7 +435,7 @@
   {
    "id": "exe_01020",
    "jp": "カロリックブイ",
-   "en": "Caloric V",
+   "en": "Caloric Buoy",
    "ptrs": [
     "0xA7C44"
    ],

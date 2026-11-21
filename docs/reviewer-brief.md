@@ -5,7 +5,7 @@ Mechanical validity (ids, control codes, encodable characters, width, stub last 
 check tool - judge translation quality. Return the report as your final message: subagents cannot write files, so the
 controller saves it.
 
-## Inputs (paths in your dispatch)
+## Inputs (paths in your dispatch; files over ~4 KB: read with offset/limit, the Read tool may return a stub otherwise)
 - Pairs file: every translated entry as `>> id | JP` / `EN` with +-2 context lines. Read ALL of it, in passes if large.
 - `glossary.md` (rulings at the top), `docs/style-reference.md`, the translator's report (unverified claims).
 

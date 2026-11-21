@@ -14,6 +14,7 @@ import batches  # noqa: E402
 
 ROOT = batches.ROOT
 REPORTS = ROOT / 'docs' / 'review' / 'reports.tsv'
+HAND = '## Hand-kept'
 
 
 def rows(sevs):
@@ -34,7 +35,10 @@ def main(argv):
         for i, (b, _, en, why) in rows({'M'}).items():
             if i not in fixed:
                 out.append(f'- [ ] {i} ({b}) - {en} - {why}')
-        (ROOT / 'docs' / 'polish.md').write_text('\n'.join(out) + '\n', encoding='utf8', newline='\n')
+        old = (ROOT / 'docs' / 'polish.md').read_text(encoding='utf8')
+        hand = old[old.find(HAND):] if HAND in old else ''  # cuts / open questions added by hand survive a regen
+        (ROOT / 'docs' / 'polish.md').write_text('\n'.join(out) + '\n' + ('\n' + hand if hand else ''),
+                                                 encoding='utf8', newline='\n')
         return print(f'{len(out) - 5} polish lines')
     batch = argv[0]
     fix = rows({'C', 'I'})

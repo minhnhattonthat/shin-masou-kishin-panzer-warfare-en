@@ -236,3 +236,15 @@ Tick a line when applied or rejected. Format: id (batch) - suggested English - r
 - [ ] exe_D29A4 (b073) - Wasteland - 荒地 is rough ground; "Badland" reads as geology; keep if field too narrow
 - [ ] exe_C4B50 (b073) - Even if I die, there are replacements. - Closer to 替わりはいる; optional
 - [ ] exe_C4C58 (b073) - How careless! - 「うかつなぁっ！」 drawn-out jab; optional
+
+## Hand-kept (cuts, open translator questions; kept by `review_fixes.py --polish`)
+
+- [ ] bqA_20_6A8 (b102) - CUT: "knight" and the formal register (告げる / 貴殿 / するがいい) dropped to fit 188 px x 2 ("Vartzpheem soldiers! I'm Mira of Ragash. You're surrounded. Yield!"). Restore when the battle-quote box gets a 3rd line or a narrow font (phase 7 engine task (a)), else accept with a decisions.md row
+- [ ] exe_0151C (b067) - "Rieg Hell Garum" - translator UNSURE; glossary has Rieg Gram Garum but this JP reads ヘル: confirm against SRW usage (D2)
+- [ ] b067 attack romanizations (Paredory / Hyper Paredory / Chaos Paredory, Ein Rahl, Weg Spear) - translator guesses; check official SRW forms (D2)
+- [ ] ev179_1078 / exe_015DC - Duncan Lounsburg VII vs VI: source says ７世 and ６世; keep as is (source inconsistency), note only
+- [ ] exe all-blank strings written "-" - check in game (phase 8) that "-" shows where the JP showed blank
+- [ ] mcard titles - translator wrote ASCII "Shin Masoukishin DATA01"; status task (c) says they stay Shift-JIS full-width: settle in phase 7
+- [ ] exe_0131C / exe_05F74 Familialess - may read as "Familiares"; check SRW/Cybuster usage (D2) and settle in glossary
+- [ ] US spelling (glossary Style rule): favourable ev000_2FB0; colour ev000_31CC ev000_3228 ev086_16DC; defence ev000_38EC ev010_2194 ev010_24E4 ev05B_1200 ev078_66D8; recognise ev010_0A38; honour ev01C_5400 ev01C_558C; armour ev027_0B38 ev065_4550; realise ev090_4F8C
+- [ ] ev027_0C80 (b104) - The Arm of God's spirit pacts seem to follow One Machine, One Spirit, but that makes mass-producing Masouki hard. - C/I fix lines b102-b104 were never re-reviewed; current line stiff. Re-review the 46 fix ids in the polish pass
