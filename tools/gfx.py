@@ -7,7 +7,8 @@ gfx/<group>.tsv (cards.tsv is the pilot), one row per label (tab-separated, head
   x y w h     clear rect in TIM pixels: covers every original glyph (`gfx.py check` runs rectcover on it)
   clut        CLUT the game draws this rect with (preview only)
   text        English; `|` breaks lines; empty = clear only
-  font        vwf (the game's 12 px Latin cells) | tiny5 | silk | <dir/file.ttf>:SIZE[:wght] under fonts/
+  font        vwf (the game's 12 px Latin cells) | tiny5 | silk | <dir/file.ttf>:SIZE[:wght] under fonts/ |
+              img (text = repo path of a w x h PNG drawn on `gfx.py export` output; copied as is, other columns unused)
   ink         value of the letters; auto = commonest non-background value in the original rect
   edge        none | shadow:V (1 px down-right) | outline:V (8-neighbour) | shadow2:V (down-right + right)
   bg          auto (commonest value on the rect's border) | rows (per row: commonest of that row's two side
@@ -16,7 +17,8 @@ gfx/<group>.tsv (cards.tsv is the pilot), one row per label (tab-separated, head
 Hex values: 0x..; decimals otherwise.
 
     python -X utf8 tools/gfx.py preview [FILE:OFF..]   -> work/gfx/preview/<file>_<off>.png (JP | EN, x3)
-    python -X utf8 tools/gfx.py check                  rectcover + fit + no change outside rects; exit 1 on a problem
+    python -X utf8 tools/gfx.py check [--group G]      rectcover + fit + no change outside rects; exit 1 on a problem
+    python -X utf8 tools/gfx.py export FILE:OFF --rect x,y,w,h --clut N --out gfx/out/G/name.png
 Library: apply(tree, log) is the build stage; ranges(orig_tree) -> {file: [(a, b)]} for tools/writes_check.py."""
 import argparse
 import collections
@@ -156,6 +158,21 @@ def _common(vals):
 def draw(px, r):
     """Clear r's rect and draw its text, in place. Returns (text_w, text_h) for the fit check."""
     x, y, w, h = (num(r[k]) for k in "xywh")
+    if r["font"] == "img":  # text = a PNG of exactly w x h made from `gfx.py export` (indices, or RGB for 16 bpp)
+        from PIL import Image
+        im = Image.open(ROOT / r["text"])
+        assert im.size == (w, h), "%s is %s, rect is %dx%d" % (r["text"], im.size, w, h)
+        rgb = None if im.mode == "P" else im.convert("RGB")
+        for j in range(h):
+            for i in range(w):
+                if rgb is None:
+                    px[y + j][x + i] = im.getpixel((i, j))
+                else:
+                    c = rgb.getpixel((i, j))
+                    v = c[0] >> 3 | (c[1] >> 3) << 5 | (c[2] >> 3) << 10
+                    o = px[y + j][x + i]
+                    px[y + j][x + i] = o if v == o & 0x7FFF else v | (o & 0x8000)
+        return w, h
     border = [px[y][i] for i in range(x, x + w)] + [px[y + h - 1][i] for i in range(x, x + w)] + \
         [px[j][x] for j in range(y, y + h)] + [px[j][x + w - 1] for j in range(y, y + h)]
     if r["bg"] == "rows":
@@ -307,6 +324,32 @@ def preview(sel, zoom=3):
         print(p.relative_to(ROOT))
 
 
+def export(sel, rect, clut, out):
+    """The original rect as a PNG to draw on: 4/8 bpp -> palette PNG (indices = TIM values, palette = CLUT clut),
+    16 bpp -> RGB. Feed the edited file back with a row whose font is `img` and text is its path."""
+    from PIL import Image
+    file, off = sel.split(":")
+    d = _file(str(ROOT / "work/disc/tree"), file)
+    off = int(off, 16)
+    x, y, w, h = (int(v) for v in rect.split(","))
+    px = values(d, off)
+    bpp = info(d, off)[0]
+    sub = [row[x:x + w] for row in px[y:y + h]]
+    if bpp == 16:
+        im = Image.new("RGB", (w, h))
+        im.putdata([tim._rgb(v)[:3] for row in sub for v in row])
+    else:
+        im = Image.new("P", (w, h))
+        _, cl, _, _, _, _, _ = tim.parse(d, off)
+        n = 16 if bpp == 4 else 256
+        pal = [tim._rgb(struct.unpack_from("<H", d, cl + 2 * (clut * n + k))[0])[:3] for k in range(n)]
+        im.putpalette([c for p in pal for c in p] + [0] * (768 - 3 * n))
+        im.putdata([v for row in sub for v in row])
+    Path(out).parent.mkdir(parents=True, exist_ok=True)
+    im.save(out)
+    print(out)
+
+
 def check():
     orig = ROOT / "work/disc/tree"
     bad = 0
@@ -338,13 +381,18 @@ def check():
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("cmd", choices=("preview", "check"))
+    ap.add_argument("cmd", choices=("preview", "check", "export"))
     ap.add_argument("sel", nargs="*")
     ap.add_argument("--group", help="only gfx/GROUP.tsv")
+    ap.add_argument("--rect", help="export: x,y,w,h")
+    ap.add_argument("--clut", type=int, default=0, help="export: CLUT for the palette")
+    ap.add_argument("--out", help="export: PNG path")
     a = ap.parse_intermixed_args()
     global GROUP
     GROUP = a.group
-    if a.cmd == "preview":
+    if a.cmd == "export":
+        export(a.sel[0], a.rect, a.clut, a.out)
+    elif a.cmd == "preview":
         preview(set(a.sel))
     else:
         bad = check()
