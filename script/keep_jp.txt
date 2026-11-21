@@ -16,3 +16,5 @@ exe_B4A93  card title
 exe_B4AAC  card title
 exe_B4AC5  card title
 exe_B4ADE  card title
+exe_B4968  card title of the system file (lui 0x8010AE90, same pattern as DATA01's 0x8010ABC0)
+exe_B4944  mcard region next to the save file names, no code reference found: save-header text, kept like the titles

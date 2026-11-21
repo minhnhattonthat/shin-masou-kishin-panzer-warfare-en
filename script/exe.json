@@ -4027,7 +4027,7 @@
   {
    "id": "exe_0548C",
    "jp": "　反逆騎士",
-   "en": "Rebel Knight",
+   "en": "Rebel Kt.",
    "ptrs": [
     "0xC54F4",
     "0xC54F8"
@@ -4038,7 +4038,7 @@
   {
    "id": "exe_05498",
    "jp": "　反逆兵士",
-   "en": "Rebel Soldier",
+   "en": "Rebel Sol.",
    "ptrs": [
     "0xC54EC",
     "0xC54F0"
@@ -4049,7 +4049,7 @@
   {
    "id": "exe_054A4",
    "jp": "ラ軍　騎士",
-   "en": "Ragash Knight",
+   "en": "R. Knight",
    "ptrs": [
     "0xC54DC",
     "0xC54E0",
@@ -4066,7 +4066,7 @@
   {
    "id": "exe_054B0",
    "jp": "ラ軍　兵士",
-   "en": "Ragash Soldier",
+   "en": "R. Soldier",
    "ptrs": [
     "0xC54CC",
     "0xC54D0",
@@ -4154,7 +4154,7 @@
   {
    "id": "exe_05510",
    "jp": "ナ軍　騎士",
-   "en": "Natoure Knight",
+   "en": "N. Knight",
    "ptrs": [
     "0xC54AC",
     "0xC55C0"
@@ -4165,7 +4165,7 @@
   {
    "id": "exe_0551C",
    "jp": "ナ軍　兵士",
-   "en": "Natoure Soldier",
+   "en": "N. Soldier",
    "ptrs": [
     "0xC54A8",
     "0xC55BC"
@@ -4198,7 +4198,7 @@
   {
    "id": "exe_05540",
    "jp": "バ軍　騎士",
-   "en": "Vartzpheem Knight",
+   "en": "V. Knight",
    "ptrs": [
     "0xC548C",
     "0xC5490",
@@ -4213,7 +4213,7 @@
   {
    "id": "exe_0554C",
    "jp": "バ軍　兵士",
-   "en": "Vartzpheem Soldier",
+   "en": "V. Soldier",
    "ptrs": [
     "0xC5480",
     "0xC5484",
@@ -4562,7 +4562,7 @@
   {
    "id": "exe_056E4",
    "jp": "反逆騎士　",
-   "en": "Rebel Knight",
+   "en": "Rebel Kt.",
    "ptrs": [
     "0xC5608",
     "0xC560C"
@@ -4573,7 +4573,7 @@
   {
    "id": "exe_056F0",
    "jp": "反逆兵士　",
-   "en": "Rebel Soldier",
+   "en": "Rebel Sol.",
    "ptrs": [
     "0xC5600",
     "0xC5604"
@@ -6643,7 +6643,7 @@
   {
    "id": "exe_B4944",
    "jp": "まそうきしんのセーブ・データです。",
-   "en": "Masoukishin save data.",
+   "en": "",
    "region": "mcard",
    "max": 35,
    "status": "done"
@@ -6651,7 +6651,7 @@
   {
    "id": "exe_B4968",
    "jp": "真・魔装機神システム",
-   "en": "Shin Masoukishin System",
+   "en": "",
    "lui": [
     "0x65690"
    ],

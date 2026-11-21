@@ -1,0 +1,6 @@
+0B4944  save-data line, kept Japanese (keep_jp.txt, D14)
+0B496C  memory-card system title 真・魔装機神システム, kept Japanese (keep_jp.txt, D14)
+0CABBB  SJIS code table (waived in tests/test_extract.py)
+0CABCF  SJIS code table (waived in tests/test_extract.py)
+0CB00B  SJIS code table copy (waived in tests/test_extract.py)
+0CB01F  SJIS code table copy (waived in tests/test_extract.py)

@@ -114,7 +114,35 @@ def _text(ln, mode, qa, budget=None, body="jp"):
         en += "\n" * max(1, ln["jp"].count("\n") - en.count("\n"))
     elif ln.get("kind") == "scroll":
         en = center_scroll(en, ln["jp"].count("\n"))
+    elif budget is not None:
+        en = align(en, ln["jp"], budget)
     return font.encode(en)
+
+
+BLANKS = "　 "
+
+
+def _codes(s):
+    """(leading control codes like {b}, rest)."""
+    i = 0
+    while s[i:i + 1] == "{" and s[i + 2:i + 3] == "}":
+        i += 3
+    return s[:i], s[i:]
+
+
+def align(en, jp, nbytes):
+    """Exe/overlay fields: the JP pads with blanks to align inside its cell width (leading blanks only = right-
+    aligned, leading and trailing = centred; trailing only = left, as English is anyway). The English gets the same
+    alignment with spaces, only as many as fit in nbytes (the slot it already has: padding never moves a string)."""
+    _, core = _codes(jp)
+    lead, trail = len(core) - len(core.lstrip(BLANKS)), len(core) - len(core.rstrip(BLANKS))
+    pre, body = _codes(en)
+    if not lead or "\n" in jp or not core.strip(BLANKS) or not body.strip():
+        return en
+    body = body.strip(" ")
+    room = font.width_px(core) - font.width_px(body)
+    n = (room // 2 if trail else room) // font.SPACE
+    return pre + " " * max(0, min(n, nbytes - len(font.encode(pre + body)))) + body
 
 
 def center_scroll(en, n_newlines):
@@ -264,21 +292,47 @@ def _relocate(buf, longs, free):
             at[new] = EXE_BASE + a
             if b - ((a + len(new) + 4) & ~3) >= 4:
                 free = sorted(free + [((a + len(new) + 4) & ~3, b)], key=lambda r: r[1] - r[0])
-        ram = at[new]
+        ram, old = at[new], EXE_BASE + int(ln["id"][4:], 16)
         for p in ln.get("ptrs", []):
             struct.pack_into("<I", buf, int(p, 16), ram)
         for p in ln.get("lui", []):
             p = int(p, 16)
             lui = struct.unpack_from("<I", buf, p)[0]
             assert lui >> 26 == 0x0F, "lui at 0x%X" % p
-            # its low half: the first addiu/load/store on the same register within 16 instructions (tools/re.py)
-            q = next(q for q in range(p + 4, p + 68, 4) if (w := struct.unpack_from("<I", buf, q)[0]) >> 21 & 31 ==
-                     lui >> 16 & 31 and w >> 26 in (0x09, 0x0D, 0x20, 0x21, 0x23, 0x24, 0x25, 0x28, 0x29, 0x2B))
-            lo = struct.unpack_from("<I", buf, q)[0]
-            hi = ram >> 16 if lo >> 26 == 0x0D else (ram + 0x8000) >> 16  # ori is unsigned
-            struct.pack_into("<I", buf, p, lui & 0xFFFF0000 | hi)
-            struct.pack_into("<I", buf, q, lo & 0xFFFF0000 | ram & 0xFFFF)
+            users = lo_users(buf, p)
+            # every low half must build this string's address: a lui shared with another target can't move
+            targets = {lui_target(lui, struct.unpack_from("<I", buf, q)[0]) for q in users}
+            if not users or targets != {old}:
+                errs.append("%s: lui 0x%X builds %s, not only 0x%08X: can't move" % (
+                    ln["id"], p, sorted("%08X" % t for t in targets), old))
+                continue
+            for q in users:
+                lo = struct.unpack_from("<I", buf, q)[0]
+                hi = ram >> 16 if lo >> 26 == 0x0D else (ram + 0x8000) >> 16  # ori is unsigned
+                struct.pack_into("<I", buf, p, lui & 0xFFFF0000 | hi)
+                struct.pack_into("<I", buf, q, lo & 0xFFFF0000 | ram & 0xFFFF)
     return errs
+
+
+LO_OPS = (0x09, 0x0D, 0x20, 0x21, 0x23, 0x24, 0x25, 0x28, 0x29, 0x2B)  # addiu ori lb lh lw lbu lhu sb sh sw
+
+
+def lo_users(buf, p):
+    """File offsets of the low-half users of the lui at file offset p: addiu/ori/load/store on its register within
+    16 instructions, stopping where the register is loaded again (tools/re.py lui_targets)."""
+    rt, out = struct.unpack_from("<I", buf, p)[0] >> 16 & 31, []
+    for q in range(p + 4, min(p + 68, len(buf) - 3), 4):
+        w = struct.unpack_from("<I", buf, q)[0]
+        if w >> 26 in LO_OPS and w >> 21 & 31 == rt:
+            out.append(q)
+        if w >> 26 == 0x0F and w >> 16 & 31 == rt:
+            break
+    return out
+
+
+def lui_target(lui, lo):
+    imm = lo & 0xFFFF
+    return ((lui & 0xFFFF) << 16) + (imm if lo >> 26 == 0x0D else imm - (imm & 0x8000) * 2) & 0xFFFFFFFF
 
 
 def in_place(buf, f, off_of, mode, qa, relocate=False):
@@ -297,7 +351,8 @@ def in_place(buf, f, off_of, mode, qa, relocate=False):
         if len(new) >= slot_end - o:
             if movable:
                 longs.append((ln, new))
-                free.append((o, slot_end))  # unreached once its pointers move
+                buf[o:old_end] = bytes(old_end - o)  # unreached once its pointers move: no JP left behind
+                free.append((o, slot_end))
             else:
                 errs.append("%s: %d bytes > max %d%s" % (ln["id"], len(new), ln["max"], " (fixed field)" * relocate))
             continue
@@ -309,9 +364,36 @@ def in_place(buf, f, off_of, mode, qa, relocate=False):
     return errs
 
 
-def insert(tree, script="script", mode="en", qa=None, only=None):
+def log_diff(log, name, before, after, writer):
+    """Append the byte runs `writer` changed in file `name` (inside `before`'s length; appended bytes are range-
+    checked instead) to log[name] as (offset, old, new, writer): the write log for romdiff --writes, which then
+    catches a later stage overwriting an earlier one's bytes or writing over already-patched bytes."""
+    if log is None:
+        return
+    out, n, pos = log.setdefault(name, []), len(before), 0
+    for c in range(0, n, 0x800):
+        if before[c:c + 0x800] == after[c:c + 0x800]:
+            continue
+        i = max(c, pos)  # a run may have crossed into this chunk
+        while i < min(c + 0x800, n):
+            if before[i] == after[i]:
+                i += 1
+                continue
+            j = i
+            while j < n and before[j] != after[j]:
+                j += 1
+            out.append((i, bytes(before[i:j]), bytes(after[i:j]), writer))
+            i = pos = j
+
+
+def write_log(log, path):
+    """log[name] -> the romdiff --writes file: `OFFSET ORIG_HEX NEW_HEX writer` per line."""
+    Path(path).write_text("".join("%X %s %s %s\n" % (o, a.hex(), b.hex(), w) for o, a, b, w in log), encoding="ascii")
+
+
+def insert(tree, script="script", mode="en", qa=None, only=None, log=None):
     """only (bisecting): apply `mode` to script files whose path starts with one of these prefixes; the rest keep
-    their original bytes (layout moves still happen)."""
+    their original bytes (layout moves still happen). log: {file: [writes]} filled per stage (log_diff)."""
     tree, qa = Path(tree), dict(qa or {})
     files = _load(script)
     for rel, f in files.items():
@@ -320,20 +402,33 @@ def insert(tree, script="script", mode="en", qa=None, only=None):
                 qa.setdefault(ln["id"], None)  # None: keep the original bytes
     data = {n: bytearray((tree / n).read_bytes()) for n in ("OVER.BIN", "BAT_OVER.BIN", "SLPS_023.19")}
     orig = {n: bytes(v) for n, v in data.items()}
+    exe = data["SLPS_023.19"]
+
+    def stage(names, writer, fn):
+        before = {n: bytes(data[n]) for n in names}
+        r = fn()
+        for n in names:
+            log_diff(log, n, before[n], data[n], writer)
+        return r
+
     errs, blocks = events(data["OVER.BIN"], files, mode, qa)
-    e, quotes = battle(data["BAT_OVER.BIN"], data["SLPS_023.19"], files, mode, qa)
+    e, quotes = stage(["SLPS_023.19"], "insert.battle", lambda: battle(data["BAT_OVER.BIN"], exe, files, mode, qa))
     errs += e
-    errs += in_place(data["SLPS_023.19"], files["exe.json"], lambda ln: int(ln["id"][4:], 16), mode, qa, relocate=True)
-    errs += in_place(data["OVER.BIN"], files["overlay.json"], lambda ln: int(ln["id"][3:], 16), mode, qa)
+    errs += stage(["SLPS_023.19"], "insert.exe", lambda: in_place(exe, files["exe.json"], lambda ln: int(ln["id"][4:], 16),
+                                                                  mode, qa, relocate=True))
+    errs += stage(["OVER.BIN"], "insert.overlay", lambda: in_place(data["OVER.BIN"], files["overlay.json"],
+                                                                   lambda ln: int(ln["id"][3:], 16), mode, qa))
     if errs:
         raise Overflow("\n".join(errs))
-    relayout(data["OVER.BIN"], data["SLPS_023.19"], blocks, (tree / "T_TIM.BIN").read_bytes())
-    battle_relayout(data["BAT_OVER.BIN"], data["SLPS_023.19"], quotes)
+    stage(["OVER.BIN", "SLPS_023.19"], "insert.relayout",
+          lambda: relayout(data["OVER.BIN"], exe, blocks, (tree / "T_TIM.BIN").read_bytes()))
+    stage(["BAT_OVER.BIN", "SLPS_023.19"], "insert.battle_relayout",
+          lambda: battle_relayout(data["BAT_OVER.BIN"], exe, quotes))
     unknown = set(qa) - {ln["id"] for f in files.values() for ln in f["lines"]}
     if unknown:
         raise SystemExit("--qa ids not in script/: %s" % sorted(unknown))
     changed = {}
     for n, v in data.items():
-        changed[n] = sum(x != y for x, y in zip(v, orig[n]))
+        changed[n] = sum(x != y for x, y in zip(v, orig[n])) + max(len(v) - len(orig[n]), 0)  # + appended bytes
         (tree / n).write_bytes(v)
     return changed

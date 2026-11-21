@@ -35,19 +35,25 @@ def repack(disc, out):
                     "layout.xml"], cwd=disc, check=True)
 
 
-def patch(tree, mode, qa, only=None):
-    """Text (tools/insert.py), the VWF font cells (tools/font.py) and the renderer hook (asm/vwf.asm)."""
-    changed = insert.insert(tree, ROOT / "script", mode, qa, only)
-    exe = slots.patch((tree / "SLPS_023.19").read_bytes())
+def patch(tree, mode, qa, only=None, log=None):
+    """Text (tools/insert.py), glyph slots (tools/slots.py), the VWF font cells (tools/font.py) and the renderer
+    hook (asm/vwf.asm). log: {file: [writes]}, one entry per byte run each stage changed (insert.log_diff)."""
+    changed = insert.insert(tree, ROOT / "script", mode, qa, only, log=log)
+    exe0 = (tree / "SLPS_023.19").read_bytes()
+    exe = slots.patch(exe0)
+    insert.log_diff(log, "SLPS_023.19", exe0, exe, "slots")
     (tree / "SLPS_023.19").write_bytes(exe)
     for name, off in font.TIM_OFFS.items():
         p = tree / name
-        p.write_bytes(font.patch_tim(p.read_bytes(), off, exe))
+        old = p.read_bytes()
+        p.write_bytes(font.patch_tim(old, off, exe))
+        insert.log_diff(log, name, old, p.read_bytes(), "font")
     tables = ROOT / "build/vwf_tables.asm"
     tables.write_text(font.tables_asm(*font.tables((tree / "BAT_TIM.BIN").read_bytes(), font.TIM_OFFS["BAT_TIM.BIN"],
                                                    exe)), encoding="ascii")
     subprocess.run([ROOT / "tools/armips/armips.exe", ROOT / "asm/vwf.asm", "-strequ", "EXE", tree / "SLPS_023.19",
                     "-strequ", "TABLES", tables], check=True)
+    insert.log_diff(log, "SLPS_023.19", exe, (tree / "SLPS_023.19").read_bytes(), "armips")
     return changed
 
 
@@ -62,8 +68,16 @@ def main():
     check()
     disc = ROOT / "build/disc"
     unpack(disc)
-    changed = patch(disc / "tree", "marker" if a.marker else "en", {k: v.replace("\\n", "\n") for k, v in qa.items()}, a.only)
-    subprocess.run([sys.executable, "-X", "utf8", ROOT / "tools/writes_check.py", "--tree", disc / "tree"], check=True)
+    log = {}
+    changed = patch(disc / "tree", "marker" if a.marker else "en", {k: v.replace("\\n", "\n") for k, v in qa.items()},
+                    a.only, log)
+    wdir = ROOT / "build/writes"
+    shutil.rmtree(wdir, ignore_errors=True)
+    wdir.mkdir(parents=True)
+    for name, w in log.items():
+        insert.write_log(w, wdir / (name + ".log"))
+    subprocess.run([sys.executable, "-X", "utf8", ROOT / "tools/writes_check.py", "--tree", disc / "tree",
+                    "--writes", wdir], check=True)
     repack(disc, ROOT / a.out)
     print("text bytes changed:", changed)
     print("built %s.bin + .cue" % a.out)

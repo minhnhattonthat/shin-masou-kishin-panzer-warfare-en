@@ -152,8 +152,9 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | ジャメイム | Jameim | | | |
 | 操者 | pilot | | | |
 | 魔装兵 | Masouhei / Masou Soldier | | machine class (Masouhei Middast); 魔装兵士 unit = Masou Soldier | Grunt |
-| 反逆兵士 | Rebel Soldier | | | Grunt |
-| 反逆騎士 | Rebel Knight | | | Renegade |
+| 反逆兵士 | Rebel Soldier / Rebel Sol. | | "Rebel Sol." only in the battle-HUD pilot labels (60 px box, D15) | Grunt |
+| 反逆騎士 | Rebel Knight / Rebel Kt. | | "Rebel Kt." only in the battle-HUD pilot labels (D15) | Renegade |
+| バ軍／ナ軍／ラ軍 (兵士, 騎士) | V. / N. / R. Soldier, Knight | | battle-HUD pilot labels only: the JP abbreviates the army too (Vartzpheem, Natoure, Ragash), D15 | |
 | 魔装技師 | Masou Engineer | | | |
 | 叙任式 | knighting / ceremony | | knighting ceremony | |
 | オリハルコニウム | Orichalconium | | | |

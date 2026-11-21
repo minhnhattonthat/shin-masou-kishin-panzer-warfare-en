@@ -1,5 +1,6 @@
 """Phase 5: insertion (tools/insert.py) and the VWF tables (tools/font.py).
 Skipped on a clone without the unpacked disc (work/disc/tree)."""
+import importlib.util
 import json
 import shutil
 import struct
@@ -163,6 +164,71 @@ def test_qa_override_and_overflow(tree, bare):
     assert e[0xD38:0xD38 + 13] == font.encode("Astral Canon") + b"\0"
     with pytest.raises(insert.Overflow, match="fixed field"):  # a record field can't move
         insert.insert(copy_tree(tree / "again"), bare, "en", {"exe_04070": "x" * 40})
+
+
+def test_real_script(tree):
+    """The current script/ (not a fixture): inserts with no Overflow / "no exe free space left"; every write passes
+    writes_check (planned ranges + the per-stage write log); every exe pointer and lui pair reaches its English
+    bytes; no u32 or lui pair still aims at a vacated slot; no branch lands inside a VWF hook span."""
+    import writes_check
+    spec = importlib.util.spec_from_file_location("exe_refs", ROOT / "tools/re.py")  # not the stdlib re
+    refs = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(refs)
+    log, B = {}, insert.EXE_BASE
+    insert.insert(tree, ROOT / "script", "en", log=log)
+    for n, w in log.items():
+        insert.write_log(w, tree / (n + ".log"))
+    orig, e = (TREE / "SLPS_023.19").read_bytes(), (tree / "SLPS_023.19").read_bytes()
+    assert writes_check.run("SLPS_023.19", TREE, tree, writes_check.exe_ranges(orig), tree) == 0
+    assert writes_check.run("OVER.BIN", TREE, tree, writes_check.over_ranges((TREE / "OVER.BIN").read_bytes()), tree) == 0
+    assert writes_check.run("BAT_OVER.BIN", TREE, tree, [((TREE / "BAT_OVER.BIN").stat().st_size, 1 << 30)], tree) == 0
+    moved, now = set(), set()
+    for ln in json.loads((ROOT / "script/exe.json").read_text(encoding="utf-8"))["lines"]:
+        if not ln.get("en") or "region" in ln:
+            continue
+        o = int(ln["id"][4:], 16)  # in place it may carry the JP field's alignment padding (insert.align)
+        padded = font.encode(insert.align(ln["en"], ln["jp"], ((orig.index(0, o) + 4) & ~3) - o - 1)) + b"\0"
+        want = font.encode(ln["en"]) + b"\0"
+        if e[o:o + len(padded)] == padded:
+            want = padded
+        at = {struct.unpack_from("<I", e, int(p, 16))[0] for p in ln.get("ptrs", [])}
+        for p in ln.get("lui", []):  # a lui may serve other strings too (0x76E60): one low half must reach this one
+            lui = struct.unpack_from("<I", e, int(p, 16))[0]
+            ts = {insert.lui_target(lui, struct.unpack_from("<I", e, q)[0]) for q in insert.lo_users(e, int(p, 16))}
+            hit = {a for a in ts if e[a - B:a - B + len(want)] == want}
+            assert hit, (ln["id"], p)
+            at |= hit
+        for a in at:
+            assert e[a - B:a - B + len(want)] == want, (ln["id"], hex(a))
+        now |= at
+        if at and at != {B + int(ln["id"][4:], 16)}:
+            moved.add(B + int(ln["id"][4:], 16))
+    stale = moved - now  # vacated slots nothing should reach any more
+    words = set(struct.unpack_from("<%dI" % (len(e) // 4), e))
+    assert moved and not stale & words and not stale & set(refs.lui_targets(e))
+    hooks = [(0x8010365C, 0x80103664), (0x801030F4, 0x80103114)]  # asm/vwf.asm
+    for i in range(0x800, len(e), 4):
+        w, pc = struct.unpack_from("<I", e, i)[0], B + i
+        op = w >> 26
+        t = (pc + 4 + ((w & 0xFFFF) - ((w & 0x8000) << 1)) * 4 if op in (1, 4, 5, 6, 7, 0x14, 0x15, 0x16, 0x17)
+             else (pc & 0xF0000000) | (w & 0x3FFFFFF) << 2 if op in (2, 3) else None)
+        assert t is None or not any(a < t < b for a, b in hooks if not a <= pc < b), hex(pc)
+
+
+def test_align_keeps_the_jp_field_alignment():
+    assert insert.align("Tilwes", "ティルウェス　　", 19) == "Tilwes"  # trailing pad: left as is
+    right = insert.align("Tilwes", "　　ティルウェス", 40)  # 96 px field, right-aligned
+    assert right.strip() == "Tilwes" and font.width_px(right) <= 96 < font.width_px(right) + font.SPACE
+    assert insert.align("Tilwes", "　　ティルウェス", 8) == "  Tilwes"  # only the bytes the slot has
+    c = insert.align("{b}NO", "{b}　　ＮＯ　", 11)  # centred in 60 px
+    assert c.startswith("{b} ") and c.endswith("NO") and abs(60 - 2 * (font.width_px(c) - font.width_px("NO"))
+                                                              - font.width_px("NO")) <= 2 * font.SPACE
+
+
+def test_shared_lui_string_does_not_move(tree, bare):
+    """exe_B76D4's lui (0x76E60) also builds 0x8016002C: moving the string would break the other one."""
+    with pytest.raises(insert.Overflow, match="can't move"):
+        insert.insert(tree, bare, "en", {"exe_B76D4": "x" * 40})
 
 
 def test_long_exe_string_moves_to_free_space(tree, bare):

@@ -12,8 +12,16 @@ import lint  # noqa: E402
 
 
 def test_script_is_clean():
-    errs, _ = lint.lint()
+    errs, _ = lint.lint(final=True)  # final: an untranslated line fails the commit too
     assert errs == []
+
+
+def test_hud_tables():
+    ln = {"id": "exe_0554C", "jp": "バ軍　兵士", "en": "Vartzpheem Soldier", "ptrs": ["0xC5594"]}
+    errs = lint.check_line(ln, {})
+    assert any("glyphs > 12" in e for e in errs) and any("px > 60" in e for e in errs)
+    q = {"id": "bqA_31_098", "jp": "あ", "en": "W" * 40 + "\n" + "W" * 40}
+    assert any("quote slots" in e for e in lint.check_line(q, {}))
 
 
 def msg(en, jp="　あ\n\n\n", speaker=""):

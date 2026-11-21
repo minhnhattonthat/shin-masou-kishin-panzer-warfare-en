@@ -17,13 +17,17 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import font  # noqa: E402
 from insert import DIALOGUE_PX, SCROLL_PX, speaker_names  # noqa: E402
-from slots import WINDOW_GLYPHS  # noqa: E402
+from slots import HUD_GLYPHS, QUOTE_GLYPHS, WINDOW_GLYPHS  # noqa: E402
 
 JP = re.compile(r"[぀-ヿ一-鿿！-～]")
 CODES = re.compile(r"\{\w\}|\[[0-9A-F]{2}\]")
 # kind -> (px per line, max lines; 0 = the JP's line count), docs/re/windows.md (measured)
-BOXES = {"choice": (228, 0), "bqA": (188, 2), "bqB": (188, 2)}
-MEASURED = {"msg", "scroll", "choice", "bqA", "bqB"}  # the rest are counted as unmeasured
+BOXES = {"choice": (228, 0), "bqA": (188, 2), "bqB": (188, 2), "ov": (200, 0)}  # ov: chapter label from x=115
+MEASURED = {"msg", "scroll", "choice", "bqA", "bqB", "ov"}  # the rest are counted as unmeasured
+# Exe strings reached from these pointer tables (file offsets [lo, hi)) are drawn at fixed glyph-slot bases:
+# (lo, hi, max glyphs, max px, what), docs/re/windows.md
+TABLES = [(0xC52F8, 0xC5440, HUD_GLYPHS, 100, "battle HUD mech label"),
+          (0xC5440, 0xC5668, HUD_GLYPHS, 60, "battle HUD pilot label")]  # bottom-right box 60 px from x=250
 
 
 def relocatable(ln):
@@ -53,6 +57,14 @@ def check_line(ln, names):
         if len(body) > n:
             errs.append("%d lines > %d" % (len(body), n))
         errs += ["line %d px > %d: %r" % (font.width_px(t), px, t) for t in body if font.width_px(t) > px]
+        if kind.startswith("bq") and font.glyphs(en) > QUOTE_GLYPHS:
+            errs.append("%d glyphs > %d quote slots" % (font.glyphs(en), QUOTE_GLYPHS))
+    for lo, hi, g, px, what in TABLES:
+        if any(lo <= int(p, 16) < hi for p in ln.get("ptrs", [])):
+            if font.glyphs(en) > g:
+                errs.append("%s: %d glyphs > %d slots" % (what, font.glyphs(en), g))
+            if font.width_px(en) > px:
+                errs.append("%s: %d px > %d" % (what, font.width_px(en), px))
     if ln.get("kind") == "scroll":
         body = en.rstrip("\n").split("\n")
         if len(body) > ln["jp"].count("\n"):
@@ -90,7 +102,8 @@ def lint(script=ROOT / "script", final=False):
                         errs.append("%s: untranslated" % ln["id"])
                 continue
             counts["english"] += 1
-            if kind not in MEASURED:
+            if kind not in MEASURED and not any(lo <= int(p, 16) < hi for lo, hi, *_ in TABLES
+                                                for p in ln.get("ptrs", [])):
                 counts["unmeasured " + kind] += 1
             if relocatable(ln) and len(font.encode(ln["en"])) > ln["max"]:
                 counts["exe over max (insert.py moves them)"] += 1

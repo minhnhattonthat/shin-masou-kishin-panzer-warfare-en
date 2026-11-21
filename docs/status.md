@@ -2,7 +2,21 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: not started (2026-11-22). Phase 7 is **done**: `python build.py` is green
+- **Phase:** 8. QA in the emulator: not started (2026-11-22); the phase-7 review fixes are in (below), so phase 8
+  starts at its first step (warp_all on the English build).
+  Phase-7 review fixes (2026-11-22, H:\translation\.harness\reviews\...-phase7.md, all 7 Important + 4 Minor):
+  (1) fixed-field alignment: `insert.align` re-pads exe/overlay fields like the JP (leading = right, both = centre)
+  within the slot's bytes (D16). (2) HUD bug fixed: battle labels had 8 glyph slots each (bases 0/8/0x10/0x18);
+  `slots.py` WORDS re-bases mechs 0x70/0x7C (+ the VS-intro names that shared them), pilot L 0x0C, quote free count
+  0x20 → 0x48; 8 army labels abbreviated like the JP (D15); verified battle05 (`work/qa/hud_fix`), windows.md §Battle
+  HUD slots. (3) mcard system title + save line kept JP (keep_jp.txt). (4)(6) `tests/test_insert.py::test_real_script`
+  inserts the real script/ and runs writes_check + every-pointer/lui-reaches-its-string + no-stale-refs + no branch
+  into a hook; shared-lui guard in `_relocate` (`test_shared_lui_string_does_not_move`); lint final in Check.
+  (5) per-stage write log (`insert.log_diff` → `build/writes/*.log`, romdiff `--writes`), narrowed ranges, font
+  files checked, other disc files must be unchanged. (7) lint px/glyph budgets: ov 200 px, HUD tables, quote 72
+  glyphs. Minors: vacated slots zeroed, `script/jp_known.txt` (jp_left exits 0), D13/D14 order, appended bytes counted.
+  Build sha1 b05f04a4…, smoke ok, Check 38 passed.
+  Phase 7 is **done**: `python build.py` is green
   (build `smk_en.bin` sha1 3cbcd114…, smoke ok), `lint.py --final` 0 errors (control codes, px/lines per measured box),
   `batches.py check` 0 problems, `tools/writes_check.py` (romdiff on exe / OVER / BAT_OVER vs planned ranges, run by
   build.py) passes, Check 34 passed. Engine work (docs/re/battle.md §Runtime, §Relocation): (a) battle-quote blocks
@@ -91,9 +105,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the
   warps reach every stage without saves; a forced intermission has zeroed stats, so menu stress values need RAM
   writes or the editor then.
-- **Open bugs:** (1) battle HUD top-right unit name shows only its tail ("es" for Tilwes) while the left name
-  "El Zarila" is fine (`work/qa/bq_en/top_cmp.png`, battle05 f15240 vs original): likely the two top labels share a
-  glyph-slot range sized for the JP lengths (cf. event windows, tools/slots.py); trace and fix in phase 8.
+- **Open bugs:** (1) same glyph-slot pattern as the fixed HUD bug, not yet reachable by a warp: the attack-confirm
+  screen 0x8011C35C-0x8011C620 (pilot/mech 8 slots, weapon 16; English weapons up to 19 glyphs) — add a scene
+  (player-phase attack on a map warp), then re-base like `slots.py` WORDS (windows.md §Battle HUD slots). Also check
+  other screens' fixed slot bases on the phase-8 sheets (labels missing their first glyphs). (2) Not yet seen after
+  the HUD re-base: the map right after a battle (free-all 0x80103D34 should clear slots 0x70-0x87; confirm on a sheet).
 - **Waiting on the user:** nothing.
 
 Warp sweep (original disc, 2026-11-21): `warp_all.py --states` 123/123 scenes reached from a cold boot, every

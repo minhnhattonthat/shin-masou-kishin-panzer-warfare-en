@@ -17,9 +17,9 @@ checks the measured rows (msg, scroll, choice, battle quotes); exe/overlay field
 | Status page: pilot name (exe_01900, 31 bytes) | 188 px from x=83 | 1 | — | measured: marker fills the field to x≈272 (`im_status_pilot`) |
 | Status page: mech name (exe_01D80, 23 bytes) | 168 px from x=36 | 1 | — | measured: field divider at x≈207 (`im_status_mech`) |
 | Status page: weapon name (exe_01310, 11 bytes) | 157 px from x=42 | 1 | — | measured: inner field ends x≈199, PRANA label after (`im_status_weapons`) |
-| Battle screen: name labels (exe_052DC, 19 bytes; top bars exe_04F…/exe_050…, bottom exe_054A4/exe_055…) | ~108 px (bottom-right label x≈208 to the edge) | 1 | — | measured from `battle05` shots; top/bottom bar labels are cut by their byte `max` before px |
+| Battle screen: name labels (top bar: mech tables exe 0xC52F8 / 0xC539C; bottom bar: pilot tables 0xC5440 right, 0xC5554 left) | mech 100 px; pilot 60 px (bottom-right box x=250-310, the binding one); 12 glyphs each | 1 | — | measured 2026-11-22 (`battle05`, `work/qa/hud_probe`). §Battle HUD slots. lint.py `TABLES` |
 | exe menus in general (700 pointer strings, spirit / objective / status records) | ≤ `max` bytes in place; px per field as above | — | — | the in-place byte `max` (the JP length) binds before px for most fields; English names longer than the JP bytes need relocation (pointers and lui pairs are known: `ptrs`/`lui` in exe.json) |
-| mcard titles (exe region `mcard`) | keep Shift-JIS full-width | — | — | shown by the BIOS card manager: not translated in place (decision for phase 7: SJIS full-width English) |
+| mcard titles (exe region `mcard`) | keep Shift-JIS full-width | — | — | shown by the BIOS card manager: kept Japanese (D14, `script/keep_jp.txt`: DATA01-15, the system title, the save-data line) |
 
 Notes
 - Glyph torture line (`tools/debug/torture.py`, boxes ev000_1444 + ev000_1478, 2026-11-22, `work/qa/torture_z1.png`,
@@ -28,6 +28,15 @@ Notes
   `...` draws compact. Style choice for phase 6: straight quotes look closing-only.
 - Glyph slots: each window frees only its slot count on close; text over the count leaves stray glyphs that stay on
   screen (seen as grey "er the l" in the first marker build). `tools/slots.py` raised the count 80 → 140.
+- **Battle HUD slots** (2026-11-22): 0x80102D90's a0 is the first glyph slot; each drawn glyph takes the next one
+  (spaces and control letters take none). Battle labels (0x80119100-0x801191B0) drew at bases 0x10 (top-right mech,
+  x=+16), 0x18 (top-left, x=-112), 0 (bottom-right pilot, x=+90), 8 (bottom-left, x=-150): 8 slots each, so "Tilwes"
+  lost "Tilw" to the bottom-left label's 9th-12th glyphs. Quote box: base 0x20, freed 0x20 at a time
+  (0x80119540, 0x80119684). `tools/slots.py` WORDS moves the mechs to 0x70 / 0x7C, the bottom-left pilot to 0x0C and
+  frees 0x48 quote slots. Same pattern still open (phase 8, no warp scene yet): 0x801167DC/0x8011681C (mech names at
+  0x10/0x18) and the attack-confirm screen 0x8011C35C-0x8011C620 (pilot 0x188, mech 0x180, weapon 0x190 x16, right
+  side 0x1A0/0x1A8/0x1B0, items 0x1C0-0x1F8; each FREE(base, n) before its DRAW): English pilots up to 10 glyphs,
+  mechs 10, weapons 19 overflow there.
 - Glyphs fade in during the typewriter (late glyphs look grey in mid-typing shots): judge a box on its last frame.
 - **Event pools: solved by block growth** (scripts.md §Block growth): strings past a pool's end go after the block,
   blocks move to the end of OVER.BIN, max 0xF800 per block. The wide marker (each body line 240 px) needs at most
