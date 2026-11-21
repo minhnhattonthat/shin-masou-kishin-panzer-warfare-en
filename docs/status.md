@@ -6,10 +6,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `docs/synopsis.md`, `docs/style-reference.md`, `docs/translator-brief.md`, `docs/reviewer-brief.md`,
   `tools/batches.py` (split/check/merge/terms; msg and battle quotes auto-wrapped, lint rules as the width check),
   `tools/pairs.py` (reviewer pairs). 73 batches in `work/tl/` (b001-b013 battle quotes, b014-b067 events,
-  b067-b073 exe + overlay labels); outputs `work/tl/bNNN.out.tsv`. **b001-b069 translated and merged** (wave 1,
-  15 translator agents). Translator reports' NEW TERM / UNSURE / CUT lines are collected in `docs/terms-pending.md`.
-  Resume, in order: (1) b070-b073 if not merged: `batches.py check/merge b070..b073` (translate with
-  `translate-retro-game:translator` if no .out.tsv); (2) glossary: add `docs/terms-pending.md` terms, settle its two
+  b067-b073 exe + overlay labels); outputs `work/tl/bNNN.out.tsv`. **All 73 batches translated and merged** (wave 1,
+  15 translator agents; lint 0 errors, 10,706 English lines, 0 untranslated; 34 exe strings over their JP bytes
+  await phase-7 relocation). Translator reports' NEW TERM / UNSURE / CUT lines are collected in `docs/terms-pending.md`.
+  Resume, in order: (1) done; (2) glossary: add `docs/terms-pending.md` terms, settle its two
   CONFLICTs, then `batches.py terms` and `batches.py check` (all shipped English) - fix fallout through translator
   agents, no bulk rewrites; (3) consistency pass: the stock defeat/retreat lines (same JP, different EN across
   batches) - one form per JP line; (4) review every batch: `tools/review.py run` uses `codex exec`, but codex is
