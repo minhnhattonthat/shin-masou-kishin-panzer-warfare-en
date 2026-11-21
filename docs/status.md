@@ -6,11 +6,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `docs/synopsis.md`, `docs/style-reference.md`, `docs/translator-brief.md`, `docs/reviewer-brief.md`,
   `tools/batches.py` (split/check/merge/terms; msg and battle quotes auto-wrapped, lint rules as the width check),
   `tools/pairs.py` (reviewer pairs). 73 batches in `work/tl/` (b001-b013 battle quotes, b014-b067 events,
-  b067-b073 exe + overlay labels); outputs `work/tl/bNNN.out.tsv`. Merged into script/ = `git log`/`batches.py check`.
-  Resume: merge every passing .out.tsv (`batches.py merge bNNN`), translate missing batches with
-  `translate-retro-game:translator` ("Read docs/translator-brief.md and follow it for batches ..."), then review
-  (`pairs.py` → `translate-retro-game:reviewer`, reports in `work/qa/review/`), fix Critical/Important, Minors to
-  `docs/polish.md`.
+  b067-b073 exe + overlay labels); outputs `work/tl/bNNN.out.tsv`. **b001-b069 translated and merged** (wave 1,
+  15 translator agents). Translator reports' NEW TERM / UNSURE / CUT lines are collected in `docs/terms-pending.md`.
+  Resume, in order: (1) b070-b073 if not merged: `batches.py check/merge b070..b073` (translate with
+  `translate-retro-game:translator` if no .out.tsv); (2) glossary: add `docs/terms-pending.md` terms, settle its two
+  CONFLICTs, then `batches.py terms` and `batches.py check` (all shipped English) - fix fallout through translator
+  agents, no bulk rewrites; (3) consistency pass: the stock defeat/retreat lines (same JP, different EN across
+  batches) - one form per JP line; (4) review every batch: `tools/review.py run` uses `codex exec`, but codex is
+  quota-blocked until 2026-11-26, so use `translate-retro-game:reviewer` subagents on `pairs.py` files (ask for a
+  compact report: Critical/Important full, Minors at most 10), fix Critical/Important via translator agents,
+  Minors to `docs/polish.md`. Phase 6 is done when all that is clean.
   Last builds 2026-11-22: `build/smk_marker3` (wide marker + grown/relocated event blocks: 123/123 warps,
   `work/qa/marker3/summary.tsv`), `build/smk_torture` (ASCII torture boxes), `build/smk_qa` (battle-quote ruler).
 - **Done:**
