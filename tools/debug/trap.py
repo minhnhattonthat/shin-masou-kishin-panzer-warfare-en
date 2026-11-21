@@ -28,6 +28,8 @@ def main():
     ap.add_argument("--out", default=os.path.join(ROOT, "work", "qa", "trap"))
     ap.add_argument("--jobs", type=int, default=4)
     ap.add_argument("--read", action="store_true", help="watch reads instead (does the game read the range?)")
+    ap.add_argument("--from", dest="from_frame", type=int, default=0,
+                    help="log from this frame (watch.lua logs each PC once, so boot-time CD DMA hides later loads)")
     a = ap.parse_args()
     rows = {r["name"]: r for r in csv.DictReader(open(os.path.join(ROOT, "tools", "debug", "scenes.tsv"),
                                                       encoding="utf-8"), delimiter="\t")}
@@ -39,7 +41,7 @@ def main():
                "--script", os.path.join(ROOT, "tools", "debug", "warp.lua"), "--var", f"SCENE='{n}'",
                "--script", os.path.join(SKILL, "scripts", "lua", "probes", "watch.lua"),
                "--var", f"WATCH_LO={a.lo}", "--var", f"WATCH_HI={a.hi}", "--debugger",
-               *(["--var", "WATCH_MODE='read'"] if a.read else []),
+               *(["--var", "WATCH_MODE='read'"] if a.read else []), "--var", f"FROM={a.from_frame}",
                "--frames", rows[n]["frames"], "--timeout", "3000"]
         subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT, cwd=ROOT)
         log = open(os.path.join(out, "log.txt"), encoding="utf-8", errors="replace").read() \

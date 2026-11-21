@@ -22,9 +22,16 @@ FILES = ("OVER.BIN", "BAT_OVER.BIN", "SLPS_023.19")
 
 @pytest.fixture
 def tree(tmp_path):
-    for n in FILES:
+    for n in FILES + ("T_TIM.BIN",):
         shutil.copy(TREE / n, tmp_path / n)
     return tmp_path
+
+
+def event_blocks(tree):
+    """Event blocks as the loader reads them: [t[i], t[i+1]) sectors of OVER.BIN from the exe's sector list."""
+    ovr, exe = (tree / "OVER.BIN").read_bytes(), (tree / "SLPS_023.19").read_bytes()
+    t = struct.unpack_from("<36H", exe, insert.TABLE)
+    return [ovr[a * 0x800:b * 0x800] for a, b in zip(t, t[1:])]
 
 
 def test_encode():
@@ -51,28 +58,60 @@ def test_tables():
     assert font.tables(patched, font.TIM_OFFS["BAT_TIM.BIN"], exe) == (code, width)
 
 
-def test_en_mode_without_english_changes_nothing(tree):
+def test_en_mode_without_english_changes_only_the_layout(tree):
+    orig = [(TREE / "OVER.BIN").read_bytes()[s:e] for s, e in over.blocks((TREE / "OVER.BIN").read_bytes())]
     changed = insert.insert(tree, ROOT / "script", "en")
-    assert changed == {n: 0 for n in FILES}
+    assert changed["BAT_OVER.BIN"] == 0
+    assert event_blocks(tree) == orig  # moved to the end of OVER.BIN, same bytes
+    ovr = (tree / "OVER.BIN").read_bytes()
+    assert not any(ovr[:over.EVENT_END_SECTOR * 0x800])  # old copies zeroed
+    t_tim = (TREE / "T_TIM.BIN").read_bytes()
+    assert ovr[insert.OVER_SECTORS * 0x800:insert.OVER_READ_END * 0x800] == t_tim[:0x1800]
+    assert ovr[over.EVENT_END_SECTOR * 0x800:insert.OVER_SECTORS * 0x800] == \
+        (TREE / "OVER.BIN").read_bytes()[over.EVENT_END_SECTOR * 0x800:]
+    exe, e0 = (tree / "SLPS_023.19").read_bytes(), (TREE / "SLPS_023.19").read_bytes()
+    assert [i for i in range(len(e0)) if exe[i] != e0[i]] and \
+        all(insert.TABLE <= i < insert.TABLE + 72 for i in range(len(e0)) if exe[i] != e0[i])
 
 
 def test_marker_every_pointer_reaches_its_marker(tree):
     insert.insert(tree, ROOT / "script", "marker")
-    ovr = (tree / "OVER.BIN").read_bytes()
+    blocks = event_blocks(tree)
     n = 0
-    for p in sorted((ROOT / "script" / "events").glob("*.json")):
-        f = json.loads(p.read_text(encoding="utf-8"))
-        s = int(f["block"][0], 16)
+    for k, p in enumerate(sorted((ROOT / "script" / "events").glob("*.json"))):
+        f, blk = json.loads(p.read_text(encoding="utf-8")), blocks[k]
+        assert len(blk) <= insert.MAX_BLOCK
         for ln in f["lines"]:
             if ln["kind"] == "dummy":
                 continue
             want = insert.marker_text(ln, ln["jp"])
             want = font.encode(ln["speaker"]) + b"\n" + font.encode(want) if "speaker" in ln else font.encode(want)
             for ptr in ln["ptrs"]:
-                o = s + struct.unpack_from("<I", ovr, s + int(ptr, 16))[0] - over.BASE
-                assert ovr[o:ovr.index(0, o)] == want, ln["id"]
+                o = struct.unpack_from("<I", blk, int(ptr, 16))[0] - over.BASE
+                assert blk[o:blk.index(0, o)] == want, ln["id"]
                 n += 1
     assert n > 7600
+
+
+def test_speaker_names(tmp_path):
+    g = tmp_path / "g.md"
+    g.write_text("## Characters\n| JP | EN | max |\n|---|---|---|\n| ケイゴ | Keigo | |\n\n## Places\n| JP | EN |\n"
+                 "| 王都 | Capital |\n", encoding="utf-8")
+    assert insert.speaker_names(g) == {"ケイゴ": "Keigo"}
+
+
+def test_pool_overflow_spills_past_the_block_end(tree):
+    f = json.loads((ROOT / "script/events/ev000.json").read_text(encoding="utf-8"))
+    big = {ln["id"]: "W" * 150 for ln in f["lines"] if "speaker" in ln}  # far more than the pool holds
+    insert.insert(tree, ROOT / "script", "en", big)
+    blk = event_blocks(tree)[0]
+    assert 0x8000 < len(blk) <= insert.MAX_BLOCK
+    for ln in f["lines"]:
+        if ln["id"] in big:
+            o = struct.unpack_from("<I", blk, int(ln["ptrs"][0], 16))[0] - over.BASE
+            assert blk[o:blk.index(0, o)] == font.encode(ln["speaker"]) + b"\n" + b"W" * 150
+    with pytest.raises(insert.Overflow):
+        insert.insert(tree, ROOT / "script", "en", {k: "W" * 400 for k in big})
 
 
 def test_qa_override_and_overflow(tree):

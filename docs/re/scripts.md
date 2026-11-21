@@ -42,12 +42,24 @@ Every aligned u32 word in a block that holds a RAM pointer to a text string, gro
 - After the message pool comes more command data (`9C FF 0E 00 …` with pointers to 0x801C251C): the pool can't grow
   in place past its end; repacking within it is free. Pool bounds per block are in each `script/events/*.json`.
 
-## Free space — candidates (guess until a trap test passes)
-- Event slot: RAM dump during event 1 (`work/qa/ev_ram`, block 0 = 0x8000 bytes) shows OVER.BIN 0xDD800-0xE8800
-  (sector 0x1BB+, mostly data, few `jr ra`) loaded right after the block at 0x801CA518-0x801D5518, then zeros to
-  ~0x801E2000 (where battle quote slots 0x801D79EC / 0x801DA5A0 live during battles). Guess: a load heap that
-  follows the event block, so a block may grow if that follow-on load is placed by size; else the hard limit is the
-  largest block (0x9800). **Test in phase 4/5**: pad block 0 by 0x1000, rebuild, boot event 1, compare shots.
+## Block growth — verified (phase 5)
+- Loader 0x800F1F48: sector list u16 at 0x801557E4 (exe file 0xAFFE4), block for stage N = [t[N-1], t[N]) sectors,
+  read by 0x800E929C (CdSearchFile'd OVER.BIN position + t[i], count t[i+1]-t[i]) to the u32 at 0x800A8A3C
+  (= 0x801C2518). A block of 0x20+ sectors hangs on the error "over 0x10000" → **max 0x1F sectors (0xF800)**.
+  Only this loader uses entries 0-35 (xrefs of 0x801557DC-E4). The same slot also takes overlays 37+ (0x800F1EF0)
+  at other times; a second slot is 0x801D4B18 (0x800A8A40).
+- The "follow-on load" seen in the event-1 RAM dump was residue: overlay entry 39 (sectors 0x1AB-0x1D0, 0x12800
+  bytes) loads into the slot at boot, and the 0x8000-byte event block overwrites only its head.
+- `tools/insert.py` repacks each pool; strings that don't fit continue after the block's end (up to 0xF800), then
+  `relayout` moves all 35 blocks to the end of OVER.BIN (after a copy of T_TIM's first 3 sectors, which the last
+  overlay over-reads), rewrites the sector list and zeroes the old event sectors. All disc files are found with
+  CdSearchFile (names at exe 0xADE85+, no LBAs in the exe), so the later LBAs may shift.
+- RAM after a block (verified 2026-11-22, stage 5): `tools/lua/loads.lua` shows overlay 39 (0x12800 bytes) loads
+  into the slot at f2461, then the event block at f2558, then nothing else through card, map and battle;
+  `trap.py 0x801C7518 0x801D1D17 ev05 map05 battle05 --from 1000` saw only that overlay DMA and, in battle, the
+  battle-transition image (0x800E95B8, 14 × 0xA00 bytes from the slot base 0x801C2518), which overwrites the
+  event block from its start in the original game too (so block size doesn't change it). Grown blocks pass
+  all 123 warps (`work/qa/marker3`).
 - Repacking a pool never moves the command area: pools come after the commands and only op 0x384/0x0001 words
   point into them.
 - Exe zero runs (candidates only, may be live BSS-like buffers): file 0xC7F40-0xC8580 (0x640), 0xCB135-0xCC1A0

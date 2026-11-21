@@ -2,8 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5. Engine spike + marker build in progress (VWF and marker build done; width gate partly measured).
-  Last builds 2026-11-22: `build/smk_marker2` (full marker, boots, 11/11 warps), `build/smk_qa` (ruler lines).
+- **Phase:** 6. Translate: not started (phase 5 done 2026-11-22).
+  Last builds 2026-11-22: `build/smk_marker3` (wide marker + grown/relocated event blocks: 123/123 warps,
+  `work/qa/marker3/summary.tsv`), `build/smk_torture` (ASCII torture boxes), `build/smk_qa` (battle-quote ruler).
 - **Done:**
   - Step 0: repo set up; PCSX-Redux + SCPH-5500 in `tools/`, mkpsxiso 2.30, armips 0.11.0; original boots (`--smoke`
     ok), Start press works, Lua probe logs; pre-commit rejects a failing test; guard hook blocks `sed -i`.
@@ -38,19 +39,26 @@ Updated at the end of every session. Keep it to what the next session needs; his
     Event-window glyph slots raised 80 → 140 per window (`tools/slots.py`, verified word patches). Probes:
     `tools/lua/strings.lua` (which string pointer each box draws), `slots.lua`, `windows.lua`, `tools/debug/trap.py`.
     Dialogue budget measured: 240 px/line, speaker + 3 lines, 140 glyphs (windows.md).
-- **Next (finish phase 5):** (1) rebuild the full marker with 140 slots and tour: chapter-intro scroll, choices,
-  battle quotes (map05/battle05), intermission menus, status pages, save screen + labels, option, game over,
-  credits; anything still Japanese = unextracted text, odd markers = non-text strings (exclude them from
-  insertion). (2) Measure every remaining windows.md row with `--qa` rulers (exe fields: px budget from the next
-  thing on the row). (3) **Pool budget**: event pools are full with the JP (ev000: 0 bytes slack), so decide before
-  phase 6: grow/relocate event blocks (test: pad a block by 0x1000, boot its event; the slot after the block in
-  RAM looked like a load heap) or give translators per-pool byte budgets. Battle string areas are full too
-  (markers had to be ≤ JP length). (4) Speaker names: insert keeps the JP `speaker`; add a names map
-  (glossary-driven) before phase 7. (5) mcard titles (exe region `mcard`) stay Shift-JIS full-width (BIOS shows
-  them). (6) A width/glyph lint (`width_px`, `glyphs`) for phase 6/7.
+  - Phase 5 finish (2026-11-22): **event block growth** (scripts.md §Block growth): pools spill past the block end,
+    all 35 blocks move to the end of OVER.BIN (sector list exe 0xAFFE4 rewritten, max 0x1F sectors each), so event
+    text has no byte budget. Wide marker (every dialogue line filled to 240 px) tours clean: 123/123 warps.
+    Width gate rows all measured (windows.md): dialogue 240 px × 3, choices 228 px × JP options, scroll pages
+    256 px centred by insert, battle quotes 188 px × 2, chapter label 200 px, status name fields, battle labels.
+    Torture line ok. `tools/lint.py` (in Check via tests/test_lint.py): Japanese left, control codes, px/lines per
+    measured box, glyph slots, stub last lines, byte max; `--final` fails untranslated lines. insert: speaker
+    names from glossary.md Characters, msg newline padding, scroll centring. Tour: remaining Japanese on screen is
+    all graphics (G6 option, G9 status labels/skills/spirits, G18 credits); no odd markers seen.
+- **Next (phase 6):** set glossary register/voice, names (45 speakers → glossary Characters), punctuation (the font
+  has only closing ” ’: windows.md torture note), then batch translation per the skill (width limits from
+  windows.md; event text needs no byte budget). **Engine tasks before phase 7 insert** (insert.py; don't edit
+  while translators run): (a) battle quotes: RAM slot is 0xC60 bytes per set (slot table 0x800AB7B8), areas full;
+  move the slots to free RAM during battle (candidate 0x801CB118-0x801D1D18, trap-test with `trap.py --from` and
+  `tools/lua/loads.lua`) and relayout BAT_OVER like OVER; (b) exe strings longer than their JP bytes: relocate
+  (ptrs/lui known in exe.json) to trap-tested free space; (c) mcard titles stay Shift-JIS full-width.
 - **Open questions for later phases:** the exe 「…」 quotes
-  (no reference found, maybe unused: the marker build will tell); the u16
-  table before each intro scroll (line timing?); whether event blocks can grow (scripts.md §Free space); whether the dev
+  (no reference found, maybe unused: not seen on the marker tour); the u16
+  table before each intro scroll (not per page; insert keeps each page's line count); the save-slot list copy of the
+  chapter label (needs a save made by the patched build: measure in phase 8); whether the dev
   loading card BAT_TIM 0x45A000 is ever shown; the chapter-card picker / branch flags for cards 1 and 5 (debug.md);
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the
   warps reach every stage without saves; a forced intermission has zeroed stats, so menu stress values need RAM
