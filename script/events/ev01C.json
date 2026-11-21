@@ -1762,7 +1762,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": "Damn it! I can't go down here...",
+   "en": "Damn it! I can't go down in a place like this...",
    "status": "done"
   },
   {
@@ -1773,7 +1773,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　しまった、少しムリをしすぎた！\n\n\n",
-   "en": "Blast, I pushed myself a little too hard!",
+   "en": "Oh no, I pushed it a little too far!",
    "status": "done"
   },
   {
@@ -1784,7 +1784,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　戦闘区域外に待避します。\n\n\n",
-   "en": "Withdrawing outside the combat area.",
+   "en": "Withdrawing from the combat area.",
    "status": "done"
   },
   {
@@ -1795,7 +1795,7 @@
    ],
    "speaker": "ベウマー",
    "jp": "　くそっ、オレとしたことが……。\n\n\n",
-   "en": "Damn, can't believe I messed up...",
+   "en": "Damn, I can't believe I slipped up like this...",
    "status": "done"
   },
   {
@@ -1806,7 +1806,7 @@
    ],
    "speaker": "ベウマー",
    "jp": "　悪い！\n　戦闘区域から離脱する！！\n\n",
-   "en": "Sorry! I'm pulling out of the combat area!!",
+   "en": "Sorry! I'm pulling out of the combat zone!!",
    "status": "done"
   },
   {
@@ -1828,7 +1828,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　戦闘区域から後退する！\n　すまん、あとは頼むぞ……。\n\n",
-   "en": "Falling back from the combat area! Forgive\nme, I leave the rest to you...",
+   "en": "Falling back from the combat zone! Sorry, I\nleave the rest to you...",
    "status": "done"
   },
   {
@@ -1839,7 +1839,7 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　なんてこったい！\n　脱出するよ！！\n\n",
-   "en": "Well, whaddaya know! I'm bailin' out!!",
+   "en": "Aw, nuts! I'm bailing out!!",
    "status": "done"
   },
   {
@@ -1861,7 +1861,7 @@
    ],
    "speaker": "ブラッキー",
    "jp": "　脱出しますよ！！\n　\n\n",
-   "en": "I'm bailing out!!",
+   "en": "I'm bailing out, okay!!",
    "status": "done"
   },
   {

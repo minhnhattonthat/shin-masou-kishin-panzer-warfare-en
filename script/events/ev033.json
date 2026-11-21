@@ -1795,7 +1795,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　くっそぉっ！\n　オレは、こんなところで……。\n\n",
-   "en": "Damn it! I can't go down here...",
+   "en": "Damn it! I can't go down in a place like this...",
    "status": "done"
   },
   {
@@ -1806,7 +1806,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　しまった、少しムリをしすぎた！\n\n\n",
-   "en": "No, I pushed myself too hard!",
+   "en": "Oh no, I pushed it a little too far!",
    "status": "done"
   },
   {
@@ -1817,7 +1817,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　戦闘区域外に待避します。\n\n\n",
-   "en": "Withdrawing from the combat zone.",
+   "en": "Withdrawing from the combat area.",
    "status": "done"
   },
   {
