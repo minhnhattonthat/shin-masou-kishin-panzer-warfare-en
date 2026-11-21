@@ -30,8 +30,10 @@ def main(argv):
     if argv == ['--polish']:
         out = ['# Polish list', '', 'Minor reviewer notes (phase 6 review), applied in one polish pass before release.',
                'Tick a line when applied or rejected. Format: id (batch) - suggested English - reason.', '']
+        fixed = rows({'C', 'I'})  # an id with a merged C/I fix needs no polish line
         for i, (b, _, en, why) in rows({'M'}).items():
-            out.append(f'- [ ] {i} ({b}) - {en} - {why}')
+            if i not in fixed:
+                out.append(f'- [ ] {i} ({b}) - {en} - {why}')
         (ROOT / 'docs' / 'polish.md').write_text('\n'.join(out) + '\n', encoding='utf8', newline='\n')
         return print(f'{len(out) - 5} polish lines')
     batch = argv[0]

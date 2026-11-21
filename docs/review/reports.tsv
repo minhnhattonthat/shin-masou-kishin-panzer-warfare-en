@@ -171,3 +171,189 @@ b033	M	ev090_2718	I only hope you're alive somewhere...	stilted
 b033	M	ev090_2520	...Look at that!	見ろ
 b033	M	ev090_2270	I'm afraid no one else can ride it now.	Alfredo register
 b019	I	ev027_0C80	The Arm of God seems to have made a contract with its spirit on the principle of One Machine, One Spirit, but that makes mass-producing Masouki hard.	controller's glossary edit garbled it (promoted from M)
+b035	VERDICT	Approved - accurate, glossary-clean, voices hold; only minor polish items.
+b035	M	ev0A1_2130	Please... Mira... Please forgive me now...	"Forgive me already" reads exasperated; Alma is pleading
+b035	M	ev0A1_2690	...Was that so...?	"Did I, now?" is sly/teasing; Keigo is flustered and evasive
+b035	M	ev0A1_3074	Yes. And then she...	"that girl" is cold; あの子 is tender, "she" is warmer and clearer
+b035	M	ev0A1_2644	That's right. Don't you remember? You shouted my name for me...	"Alma!" with no quote marks reads oddly mid-sentence; the point is that he dropped "Captain"
+b036	VERDICT	Approved - no critical or important issues; voices (Alfredo, Toto, Shess, Yen, Shana, Jems) hold and names match the glossary.
+b036	M	ev0A1_3B3C	Waaaaagh... S-Stop... S-Stop it...	"Stop... it..." reads as a broken stammer; 「や……めろ」 is "S-stop..." with the "it" optional
+b036	M	ev0AF_0D80	Yen. Thank you, though you must be weary.	"Thank you, when you must be so weary" is a clumsy calque of お疲れのところを
+b036	M	ev0AF_0CEC	I'm afraid not...	はい answers a negative statement ("we don't know the details"), so a bare "No..." is ambiguous
+b036	M	ev0AF_0BA8	To think such a thing had happened...	"Can that be..." doesn't carry そのようなことが (shock at something already reported)
+b036	M	ev0AF_11E8	Captain, there are a lot of them. What should we do?	grammar: "there's a lot of them" for a plural
+b039	VERDICT	Needs fixes - one important mistranslation of Toto's defeat cry (アリ read as "fair"); the rest is solid and consistent with the glossary and voices.
+b039	I	ev0C2_2004	No way!! Me, getting beaten? That can't be...	おいらがやられるなんてアリ... is ありえない (impossible), not "so not fair"; "so not" is also off for Toto's voice
+b039	M	ev0C2_1C14	Keigo Ferdinand is the pilot!?	"Keigo Ferdinand is!?" is a calque of ケイゴ＝フェルディナンが！？
+b039	M	ev0CA_0BD0	...Do you mean to sortie and demand a duel with Alma?	"So you can sortie" misreads the sarcastic 所望するか
+b039	M	ev0CA_189C	Yes, Alma-sama.	JP is just はい; "my lady" adds a form of address, and the style reference has Yen using Alma-sama
+b045	VERDICT	Approved - no accuracy, glossary or voice problems found; two minor polish notes.
+b045	M	ev0F1_2DE4	To be ruthless to the core.	"So be ruthless" misreads 非情に徹しろと as a result; it is the content of what he taught
+b045	M	ev0F1_23C0	They asked to face those people in single combat, you see.	"those two" is ambiguous here (ヤツら = the Masoukishin pilots); later lines use "those two" for Zeldna and Mira
+b046	VERDICT	Approved - accurate, glossary-consistent, voices (Zeldna, Yadora, Shana, Keigo) hold; only minor polish.
+b046	M	ev0F1_4D14	Yen, of all people, is choosing to act of his own free will for the first time.	あの dropped; Shana's surprise at Yen
+b046	I	ev0F1_50B4	No way!! Me, getting beaten? That can't be...	アリ = ありえない; "that's so not fair" shifts meaning (same JP as b039 ev0C2_2004, raised to I to match)
+b046	M	ev0F1_5230	No... Is it what Luca wished for...?	JP is present-tense wish, not "would have"
+b037	VERDICT	Approved - accurate throughout, glossary terms and voices (Thodd formal/sardonic, Adenoid pompous, Toto bratty, Keigo casual) hold; no C or I issues.
+b038	VERDICT	Needs fixes - accurate and well voiced overall; one Alma かしら line flattened to neutral "Do you think".
+b038	I	ev0C2_0A84	I wonder if what Thodd said is true...	かしら lost: "Do you think" drops Alma's feminine wondering tone; style ref uses "I wonder..."
+b038	M	ev0C2_0640	(..................)	JP is （………………）, same as neighbouring lines; EN shortened to "(...)", which breaks the silent-beat rhythm
+b038	M	ev0C2_0D28	That's not true...	そんなことありませんよ is a modest denial; "No, I haven't..." is an odd reply to the praise
+b038	M	ev0C2_0924	Yes.	JP はい only; "Captain" added (harmless, optional)
+b040	VERDICT	Approved - accurate, glossary-clean, voices hold (Yen formal, Yadora coarse, Kyari swagger, Thodd cold); only minor polish.
+b040	M	ev0CA_1EFC	Toto, with the Masoukishin...	"would never take the Masoukishin" is not in the JP; the line trails off and 1F20 finishes it
+b040	M	ev0CA_1B64	Well, he keeps glaring at me, so there!	adds Toto's bratty だもん tag
+b040	M	ev0CA_21AC	(Give him a little praise and he's like this right away...)	すぐこれだ lost; current line reads unfinished
+b040	M	ev0CA_2270	Wait, I'm picking up enemy Prana!	more natural than "Prana readings"
+b041	VERDICT	Approved - accurate, glossary names and honorifics consistent, Shana/Yen/Alma/Toto/Keigo voices hold; no C or I issues.
+b041	M	ev0D6_0FAC	You two! How rude, in front of Shana-sama!	おまえたち addressee is lost in the current EN
+b041	M	ev0D6_1704	Still, I am truly sorry for it.	"But" implies contrast the JP does not carry; this is a plain apology
+b042	VERDICT	Needs fixes - one Important voice flattening (Toto), rest accurate and glossary-clean.
+b042	I	ev0E4_0C08	Nuh-uh! We look nothing alike!!	Toto is a bratty kid; "I do not look like you at all" is stiff and loses the 全然...って！ protest
+b042	M	ev0E4_078C	And Keigo! Alma-chan!! Oho, you're alive, eh!!	Alfredo's おお、生きとったか loses its old-man flavour; "Well, well" is neutral
+b044	VERDICT	Needs fixes - one Important glossary slip (HQ caption); rest is accurate, voices intact.
+b044	I	ev0F1_0F94	Ragash Royal Army Headquarters (Former Royal Capital of Vartzpheem)	JP ラガーシュ王国　軍司令部 = glossary 'Ragash Royal Army Headquarters'; EN drops 'Royal' and says 'Military'
+b044	M	ev0E4_2BAC	Hold it, Toto. You're helping me, eh?	Alfredo ワシ/じゃ register flat; add his 'eh' tag
+b044	M	ev0F1_1AC8	Yen, why would you of all people?	Shana gentle but concerned; 'why you?' reads curt
+b043	VERDICT	Approved - accurate, glossary-consistent, voices (Alfredo, Toto, Yen, Keigo) hold; only minor polish.
+b043	M	ev0E4_21C4	H-Huh? They're all gone already...	"Wh-Huh?" is a garbled stammer for ア、アレ？
+b043	M	ev0E4_2464	Enemies? Now that's news to me. I don't know a thing about it, eh.	Alfredo's ワシ/知らんぞ register slightly neutral; add old-man tag
+b043	M	ev0E4_22B4	Even I couldn't possibly do that in so little time, eh.	Alfredo register slightly neutral (いくらワシでも/なかろう)
+b047	VERDICT	Approved - no mistranslations, glossary slips or flattened voices found; only minor polish items.
+b047	M	ev0F1_8C30	(scroll page: "...they always pass from the former to the latter...", other lines as is)	前者から後者 = former to the latter (shock to turmoil); "first to the next" is vague
+b047	M	ev103_0D2C	Infantry, use the opening and fall back!	"while we do" is ambiguous; JP says the infantry retreats in the gap (そのスキに)
+b047	M	ev103_0DB4	And they only have three Masouki. Didn't need reinforcements after all.	"only three Masouki" is unclear about whose; it refers to the heroes' side
+b047	M	ev103_12F0	You fool. That's my line. Always making me worry like this.	"honestly" is Shess's device and weakens Furcas's gruff まったく...かけよって
+b047	M	ev103_1108	Let's talk later. Dealing with the enemy comes first.	Alma's 先決 reads stiff as "we need to defeat the enemy"
+b048	VERDICT	Needs fixes - one grammar/glossary slip ("militiaman volunteers"); otherwise accurate and voices hold.
+b048	I	ev10A_1490	Plus most of us are just militiamen, so even if we find him, I don't know if we can fight...	Singular "militiaman volunteers" is ungrammatical; glossary plural is Militiamen; "volunteers" is an addition.
+b048	M	ev10A_1C4C	I get it. So you're just buttering him up, huh?	JP ご機嫌取り is aimed at Magia (あんた); "we're supposed to" shifts the subject.
+b048	M	ev10A_25E0	I can't very well leave Keigo and the others to do something like this.	Closer to JP させるわけにもいくまい; "I can hardly have ... do a job" reads stiff.
+b048	M	ev103_3658	His teacher once again stood in his way	その師 + 立ちはだかった = blocked his path; "That teacher stood before him" is flat.
+b051	VERDICT	Approved - no C or I issues; accurate, glossary terms correct, Alfredo/Thodd/Keigo voices hold, only minor polish.
+b051	M	ev124_14F8	Especially these ones... At times I even wonder if they have a will of their own.	"Will" capitalised here but Keigo's reply is lowercase "A will?"; make consistent (JP 『意志』 is plain "will")
+b051	M	ev119_2B68	Hmm. So that's how it works, is it...	"Huh... huh" doubled; ねぇ tag reads better as "is it"
+b051	M	ev119_2C0C	(...But seeing the smiles of the people we rescued, I felt that what we'd been doing wasn't meaningless at all...)	JP 思えた = seemed/felt (ev119_2CAC repeats "seemed to me"); "knew" is stronger than JP
+b051	M	ev124_0BA8	You people of the surface. You will learn the hard way...	思い知るがいい is menacing; "learn your lesson" sounds mild
+b059	VERDICT	Approved - accurate, glossary-consistent, voices (Magia terse, Adenoid pompous, Toto bratty, Alma かしら) preserved; only minor polish.
+b059	M	ev15A_3704	(scroll page: "the chosen one sets out for the stolen homeland" and keep "the battlefield becomes a sea of blood washing blood")	選ばれしもの is likely singular; 戦場は...様相を呈す (battlefield) dropped
+b049	VERDICT	Needs fixes - one dangling-object line (ev10A_40F8) reads as broken English; otherwise accurate, glossary-clean, voices hold.
+b049	I	ev10A_40F8	(Something that could never be born from the way Ragash does things now...)	"could never create..." has no object; JP 生まれない = isn't born, and 4134 "The very thing they tried to destroy" must pick it up
+b049	M	ev10A_3370	Aw, c'mon, what's the harm? The knights are all together again, after all.	まあ、いいじゃないか = what's the harm; "ain't it great" shifts meaning
+b049	M	ev10A_3FEC	Hahaha...	glossary onomatopoeia rule: English laugh, not romaji "Wahahaha"
+b049	M	ev10A_2A9C	Well, never mind that!	"no matter" reads stiff for Helena's casual まあ、けどねぇ
+b049	M	ev10A_3344	Geez, you guys are shameless...	調子のいい = glib/opportunistic; "the nerve of you" slightly off
+b050	VERDICT	Approved - accurate, glossary-consistent, voices hold (Magia terse, Kyari tough, Adenoid formal); only polish items.
+b050	M	ev119_1D1C	Death.	Magia is laconic; the "...it is death." tail is wordy and the ellipsis is already in the previous line.
+b050	M	ev119_2140	If you two don't hurry, we'll leave you behind.	JP is plain 置いていきますよ, no "keep that up"; "shall" is stiffer than Yen needs. Acceptable as is.
+b052	VERDICT	Approved - accurate, glossary-consistent and in voice throughout; only minor polish.
+b052	M	ev124_1E30	Whoa, what the--!?	truncated curse reads as a typo; dash shows the cut-off
+b052	M	ev124_3094	What I mean is, the Arm of God is alive.	drops それは...ということじゃ (explanatory emphasis, old-man cadence)
+b052	M	ev124_35E8	(What do you intend to do by throwing the world into even more chaos...?)	どうするつもりだ is "what do you intend", not "what do you gain"
+b053	VERDICT	Approved - accurate, glossary-consistent and in voice throughout b053; only minor polish items.
+b053	M	ev131_1050	I look forward to our continued cooperation.	JP is a generic よろしくお願いいたします; "friendship" is an addition, and the preceding lines are about cooperation
+b053	M	ev131_115C	At present, they fight together under the Vartzpheem Liberation Army, Yen-dono included.	Clearer; "alongside us under" is slightly muddled
+b053	M	ev131_2098	Yes, ma'am. That is already fully prepared for activation.	"ready ... ready for activation" repeats the same word
+b054	VERDICT	Approved - accurate and consistent with the glossary, voices hold for Keigo, Mira, Alma and Toto; no C or I issues.
+b054	M	ev131_29CC	What good do you think that'll do!?	"What good is doing that gonna do" is clumsy grammar
+b055	VERDICT	Approved - accurate and consistent with the glossary, voices hold (Adenoid, Kyari, Toto, Magia); only minor style nits.
+b055	M	ev13D_2618	Pfft.	へん is Kyari's scoff; Magia already uses "Hmph."
+b055	M	ev13D_1F30	I beg you, would you grant me a Majuuki and troops?	"Majuuki and troops" reads bare; add the article
+b055	M	ev13D_1910	Say, Captain...	Keigo is polite to Alma; "Hey" is slightly too casual (optional)
+b056	VERDICT	Approved - accurate and in voice throughout, only a few minor polish points.
+b056	M	ev14B_153C	Beumer! Time we moved out.	Furcas is terse and grave; "We'll be setting out soon" is slightly soft and wordy
+b056	M	ev13D_6DB8	(scroll page: "Neither duty nor sentiment-- she hesitated to value her own heart.")	義でもなく、情でもなく is ambiguous as "Not by duty, nor by sentiment"; 貴ぶ is "value", not "trust"
+b056	M	ev13D_3270	There's no such thing as suiting you or not suiting you.	Closer to the JP 合う、合わないなどない; "it being your style or not" is clunky
+b057	VERDICT	Approved - accurate, voices (Magia, Kyari, Yen, Toto) hold; one HQ caption off the glossary, raised to I to match b044.
+b057	M	ev14B_2708	What's their strength!	Magia asks for enemy numbers; fragment reads oddly
+b057	M	ev14B_2CFC	Besides, if you didn't like it, you shouldn't have come along.	tense mismatch in "if you don't like it, you didn't have to"
+b057	I	ev14B_19DC	Ragash Royal Army Headquarters (Former Royal Capital of Vartzpheem)	glossary term 'Ragash Royal Army Headquarters' (same caption as b044 ev0F1_0F94)
+b057	M	ev14B_29B0	You're the commander, right? Give me a crisp order, then.	"make it snappy" shifts ビシッと (crisply) toward speed
+b057	M	ev14B_2F50	(...But, you know.)	dangling comma fragment
+b060	VERDICT	Approved - accurate, glossary-consistent, voices (Adenoid, Toto, Beumer, Yen, Shana) hold; only minor polish.
+b060	M	ev162_1D98	...Yes, you're right. You're the one who's got it most right.	一番正しい = "most right", current EN drifts to "put it better"
+b060	M	ev162_2654	It is I who think of this world more than anyone!!	subject-verb agreement
+b060	M	ev16B_0CD8	Hmmm. So the old guy's an important person, huh.	おっちゃん = old guy/mister; "big guy" adds size
+b060	M	ev162_42A0	(scroll page: "He knows well from experience that the rank and file have no stake in the meaning of war"; "It is not death he fears")	末端の人間にない = rank and file have no stake; singular 男
+b063	VERDICT	Approved - voices (Alfredo, Beumer, Thodd, Yen) and glossary terms hold; Toto's アリ line raised to I to match b039.
+b063	I	ev179_2BF8	No way!! Me, getting beaten? That can't be...	JP trails off at アリ (ありえない), "That's so not fair" adds a complaint the line lacks
+b058	VERDICT	Needs fixes - two Important issues (glossary HQ name; a scroll sentence that reads as a question), the rest is solid and voices hold.
+b058	I	ev15A_08EC	Ragash Royal Army Headquarters\n(Former Royal Capital of Vartzpheem)	Glossary: ラガーシュ王国軍司令部 = Ragash Royal Army Headquarters
+b058	I	ev14B_7018	His end was all too wretched and sad.\n\nWhat was it that man desired?\nWhat was it that he believed in?\n\nHaving betrayed everything, even plunging the world into chaos,\n\nthe contractor asks:\nWhy do we keep on fighting?\nWhat are we fighting for?\n\nAmid a tangle of countless intentions,\nKeigo's story approaches its climax...	JP すべてを裏切り、世界を混沌に招いてまで is a clause leading into 契約者は問う, not a question
+b058	M	ev14B_6EBC	(scroll page: last line "Only God knows..." without "?")	JP 神のみぞ知ると…… has no question mark
+b058	M	ev14B_38A8	Don't say it yourself.	JP 自分でいうな = do not admit it yourself
+b058	M	ev14B_411C	Yeah.	Magia is terse and flat; "Yes." is a bit stiff with Kyari, optional
+b061	VERDICT	Approved - no accuracy, glossary or voice problems found; only one minor awkward pair.
+b061	M	ev16B_1D94	(Kyari, the one who killed you...)	仇 = the enemy who killed her; "your vengeance" is a calque and the next line's "take it" depends on it
+b061	M	ev16B_1DB8	(I'll take him down myself!!)	Pairs with the 1D94 fix; 討つ = strike down the enemy
+b062	VERDICT	Approved - accurate and in voice throughout; only minor polish items.
+b062	M	ev179_0D44	The signing ceremony for the ceasefire treaty among the three nations will now be held.	JP 行います has no predicate in EN; fragment
+b062	M	ev16B_300C	Let me think. Why did I, I wonder?	"Why did I, I wonder." reads clumsy
+b062	M	ev179_15B0	Yen did? Of all people?	"Yen did? Him?" awkward
+b062	M	ev179_18E0	Since the late king's assassination, Adenoid had held the real power, so it seems their homeland was told nothing at all.	tense: had held
+b064	VERDICT	Approved - accurate and consistent with glossary and voices; only minor polish items.
+b064	M	ev185_20F4	Th-that's...	あ、あれが is a stammered recognition, not a question
+b064	M	ev185_1208	All of you, go on ahead!!	"You lot" is a British idiom out of tone for a softening Mira
+b064	M	ev185_1704	I cannot say whether this man Thodd truly is him.	elided object reads awkwardly
+b064	M	ev185_2170	Let's push through in one go!!	"Go all in at once" is a little off for 一気にいこう
+b065	VERDICT	Approved - accurate and voices hold; one awkward line (ev18D_2298) to fix.
+b065	I	ev18D_2298	What worth does something that can't grow even have!?	Garbled English; JP is "what value does a thing that doesn't grow have!"
+b065	M	ev18D_2974	You can judge things only by your own standards, fool.	ヤツめ contempt lost
+b065	M	ev18D_1D28	...Hmph. Just the reaction I expected.	"Exactly the reaction I said it would be" stiff
+b066	VERDICT	Approved - accurate, glossary-consistent, voices hold; only minor polish items.
+b066	M	ev18D_470C	See you again someday...	"Someday, again..." is a stiff literal rendering of また、いつか
+b066	M	ev18D_4220	Looks like you got bested there.	"she" is an unsupported addition; 一本取られた has no stated subject
+b066	M	ev18D_3EE4	Beumer. Keep up the good work, all right?	がんばってね is closer to "do your best" than "take care of things"
+b066	M	ev18D_4560	Hey, don't go, you guys! Please!!	Toto's whiny child plea ヤダよ is slightly flat
+b067	VERDICT	Needs fixes - two glossary/term slips in exe attack names (Altra Familiar, Familiaress); event text is accurate and in voice.
+b067	I	exe_01234	Altra Familia	Glossary ruling for アルトラファミリア is "Altra Familia (attack)"
+b067	I	exe_0131C	Familialess	ファミリアレス = Familia + "-less"; "Familiaress" reads as a typo; matches Altra Familia
+b067	M	ev18D_4DF8	I am sustained by my own existence!	"nothing but" is an addition not in the JP
+b067	M	ev18D_50E0	...That is what it means to be human...	"That is human" is stiff
+b068	VERDICT	Needs fixes - one glossary slip (呪縛 must read Spellbind); everything else is accurate and consistent.
+b068	I	exe_02834	That enemy unit is already under Spellbind.	Glossary decision: 呪縛 = Spellbind
+b068	M	exe_02C0C	Do you want to end the turn?	JP ですか is polite
+b068	M	exe_027C8	Please select an allied unit.	JP ください is polite, if the field is wide enough; same for exe_027E8 (Please select an enemy unit.)
+b069	VERDICT	Needs fixes - one Important mislabel of the victory-condition header; the rest is accurate and matches the glossary.
+b069	I	exe_02C6C	Victory	勝ち抜き条件 = condition to win the stage; "To Advance" is vague; pairs with 敗北条件 "Defeat" (that field max 11 bytes, so no "Lose Condition")
+b069	M	exe_04890	Near Trees	Make the pair consistent with 建物付近, e.g. "Near Building" / "Near Trees"
+b070	VERDICT	Approved - names match glossary, attack labels accurate and short; no C/I issues.
+b044	I	ev131_1708	Ragash Royal Army Headquarters\n(Former Royal Capital of Vartzpheem)	same caption as ev0F1_0F94, glossary term
+b044	I	ev0F1_0F94	Ragash Royal Army Headquarters\n(Former Royal Capital of Vartzpheem)	keep the caption's line break
+b057	I	ev14B_19DC	Ragash Royal Army Headquarters\n(Former Royal Capital of Vartzpheem)	keep the caption's line break
+b071	VERDICT	Approved - labels, spirit commands and memory-card strings are accurate and match the glossary; only one minor point.
+b071	M	exe_B5F6C	(chapter progress labels exe_B5F6C..B5F98 and B6200-B621C: add まで "up to", if the field is wide enough)	JP 魔装騎士　まで means "up to/through <chapter>"; EN drops まで
+b072	VERDICT	Needs fixes - two Important issues (a title missing its subject, a pronoun-swap joke flattened), otherwise accurate and glossary-consistent.
+b072	M	exe_B60F4	Those Who Tread on a Tiger's Tail	JP 虎の尾を踏む者たち drops 者たち; raised as I but the full title is 33 bytes vs a 27-byte field (ov_ECE34 31 bytes): kept "Tread on a Tiger's Tail" as a title form, revisit with relocation
+b072	I	exe_C40F4	Kou, when did 'boku' become 'ore'?	JP 僕から俺に乗り換えた = switched pronoun from boku to ore (the joke); "talking tough" loses it; field max 39 bytes
+b072	M	exe_C4130	Big Sister, I'll use that!	お姉様 formal/feminine address
+b072	M	exe_C4268	Hehehe, it doesn't work on me, you know!	効かないのよね smug feminine; "didn't even tickle" changes tense and register
+b072	M	exe_C45EC	Waah, n-no good! We can't hold out like this!	あかん / もたん Kansai dialect; optional casual tone
+b073	VERDICT	Approved - no accuracy or glossary errors; names match glossary and chapter labels match the exe stage titles, only minor polish left.
+b073	M	ov_ECE54	Clear: Seven Knights of the Wasteland	Glossary and ev10A use "Seven Knights of the Wasteland"; label is 37 chars vs 31 bytes in place, needs relocation (exe stage title too)
+b073	M	exe_D29A4	Wasteland	荒地 is rough ground; "Badland" reads as geology; keep if field too narrow
+b073	M	exe_C4B50	Even if I die, there are replacements.	Closer to 替わりはいる; optional
+b073	M	exe_C4C58	How careless!	「うかつなぁっ！」 drawn-out jab; optional
+b039	I	ev090_2F38	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev09B_19BC	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev0AF_23A0	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev0B8_28C0	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev0C2_2004	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev0CA_33DC	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev0D6_3E00	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev0E4_3C40	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev0F1_50B4	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev103_1F3C	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev10A_4258	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev119_2DC4	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev124_36E8	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev13D_3AB8	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev14B_4048	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev15A_1DE4	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev162_2518	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev16B_38F8	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev179_2BF8	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev185_22B8	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b039	I	ev18D_4A78	No way!! Me, getting beaten? That can't be...	Toto defeat cry: アリ…… = ありえない (impossible), not "so not fair"; all 21 copies
+b058	I	ev14B_7018	His end was all too wretched and sad.\n\nWhat was it that man desired?\nWhat was it that he believed in?\n\nBetraying all, plunging the world into chaos,\n\nthe contractor asks:\nWhy do we keep on fighting?\nWhat are we fighting for?\n\nAmid a tangle of countless intentions,\nKeigo's story approaches its climax...	width fit (256 px scroll line) of the b058 fix: no question mark, clause leads into the contractor asks
+b067	I	exe_05F74	{h}05 Familialess	second copy of ファミリアレス (glossary check)

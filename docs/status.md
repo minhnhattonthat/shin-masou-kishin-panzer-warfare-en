@@ -2,7 +2,13 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate in progress (2026-11-22). Setup done: glossary seeded (Akurasu/SRW names, D8-D10),
+- **Phase:** 7. Insert, fit, check: not started (2026-11-22). Phase 6 is **done**: all 73 batches have a reviewer
+  verdict in `docs/review/reports.tsv`, every C/I fix merged (b102: 9 from b001-b034; b103: 36 from b035-b073,
+  incl. Toto's defeat cry アリ…… → "That can't be..." in all 21 copies, the HQ caption = glossary "Ragash Royal Army
+  Headquarters" in all 4 copies, exe Altra Familia / Familialess / Spellbind / Victory header), 233 Minors in
+  `docs/polish.md` (ids with a merged C/I fix are left out). Check green. Raw reviewer outputs: `work/review_in/`.
+  `python build.py` currently **fails on 42 exe strings over their byte max** (pre-existing; phase 7 task (b) below).
+  Phase 6 history: glossary seeded (Akurasu/SRW names, D8-D10),
   `docs/synopsis.md`, `docs/style-reference.md`, `docs/translator-brief.md`, `docs/reviewer-brief.md`,
   `tools/batches.py` (split/check/merge/terms; msg and battle quotes auto-wrapped, lint rules as the width check),
   `tools/pairs.py` (reviewer pairs). 73 batches in `work/tl/` (b001-b013 battle quotes, b014-b067 events,
@@ -11,17 +17,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   await phase-7 relocation). Translator reports' NEW TERM / UNSURE / CUT lines are collected in `docs/terms-pending.md`.
   Steps (1)-(3) done 2026-11-22: glossary has all wave-1 terms, conflicts settled (Masouhei / Masou Soldier, spirit
   commands Gain/Grit/Spellbind, Sky Slash, Reslug/Bemlug, Rebel Knight...: see glossary "Decisions"); consistency pass
-  `tools/harmonise.py` (majority EN per repeated JP line + speaker, 204 lines merged). (4) review in progress:
-  **b001-b034 reviewed** (`translate-retro-game:reviewer` subagents, one per `work/qa/review/bNNN.txt` from
-  `pairs.py`; compact TSV report), reports in `docs/review/reports.tsv`, their 10 C/I fixes merged (batch b102 via
-  `tools/review_fixes.py b102` + `batches.py merge b102 --overwrite`), Minors in `docs/polish.md`
-  (`review_fixes.py --polish` regenerates it). **Resume:** dispatch reviewers for b035-b073 with this prompt: "Review batch bNNN ... Follow
-  docs/reviewer-brief.md. Inputs: work/qa/review/bNNN.txt, glossary.md, docs/style-reference.md. Read each file with
-  offset/limit (~120 lines). Line breaks auto-wrapped. Return ONLY `VERDICT: ...` then SEV<TAB>id<TAB>full
-  replacement English<TAB>reason; all C and I, at most 5 M." Append each report to reports.tsv as
-  `bNNN<TAB>VERDICT<TAB>...` / `bNNN<TAB>SEV<TAB>id<TAB>EN<TAB>reason`, then `review_fixes.py b103`, merge (fix
-  width/glossary failures by hand in the .out.tsv), `review_fixes.py --polish`. Phase 6 is done when every batch has a
-  verdict and all C/I are merged. Codex is quota-blocked until 2026-11-26.
+  `tools/harmonise.py` (majority EN per repeated JP line + speaker, 204 lines merged). (4) review: one
+  `translate-retro-game:reviewer` subagent per `work/qa/review/bNNN.txt` (`pairs.py`), compact TSV report appended
+  to `docs/review/reports.tsv`; `tools/review_fixes.py bNNN` turns C/I rows into a merge batch (later row per id
+  wins; fix width failures with an override row), `review_fixes.py --polish` regenerates polish.md.
+  Codex is quota-blocked until 2026-11-26.
   Last builds 2026-11-22: `build/smk_marker3` (wide marker + grown/relocated event blocks: 123/123 warps,
   `work/qa/marker3/summary.tsv`), `build/smk_torture` (ASCII torture boxes), `build/smk_qa` (battle-quote ruler).
 - **Done:**
@@ -67,8 +67,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     measured box, glyph slots, stub last lines, byte max; `--final` fails untranslated lines. insert: speaker
     names from glossary.md Characters, msg newline padding, scroll centring. Tour: remaining Japanese on screen is
     all graphics (G6 option, G9 status labels/skills/spirits, G18 credits); no odd markers seen.
-- **Next (phase 6):** finish translation + review (see Phase). **Engine tasks before phase 7 insert** (insert.py; don't edit
-  while translators run): (a) battle quotes: RAM slot is 0xC60 bytes per set (slot table 0x800AB7B8), areas full;
+- **Next (phase 7):** make `build.py` (en) build green and pass the phase-7 done-when (width/overflow lint clean,
+  control codes matched, `romdiff.py` no writes outside allowed ranges), then smoke. Field-size limits left as Minors
+  in polish.md: exe_B60F4 / ov_ECE34 "Those Who Tread on a Tiger's Tail" (27/31-byte fields), ov_ECE54 "Seven
+  Knights of the Wasteland" (31 bytes): apply if relocation frees those fields. Engine tasks: (a) battle quotes: RAM slot is 0xC60 bytes per set (slot table 0x800AB7B8), areas full;
   move the slots to free RAM during battle (candidate 0x801CB118-0x801D1D18, trap-test with `trap.py --from` and
   `tools/lua/loads.lua`) and relayout BAT_OVER like OVER; (b) exe strings longer than their JP bytes: relocate
   (ptrs/lui known in exe.json) to trap-tested free space; (c) mcard titles stay Shift-JIS full-width.

@@ -725,7 +725,7 @@
   {
    "id": "exe_01234",
    "jp": "アルトラファミリア",
-   "en": "Altra Familiar",
+   "en": "Altra Familia",
    "ptrs": [
     "0xA7BCC"
    ],
@@ -845,7 +845,7 @@
   {
    "id": "exe_0131C",
    "jp": "ファミリアレス",
-   "en": "Familiaress",
+   "en": "Familialess",
    "ptrs": [
     "0xA7B9C"
    ],
@@ -2407,7 +2407,7 @@
   {
    "id": "exe_02834",
    "jp": "その敵ユニットは、すでに呪縛がかけられています。",
-   "en": "That enemy unit is already bound by a spell.",
+   "en": "That enemy unit is already under Spellbind.",
    "lui": [
     "0x38000"
    ],
@@ -2468,7 +2468,7 @@
   {
    "id": "exe_02C6C",
    "jp": "勝ち抜き条件",
-   "en": "To Advance",
+   "en": "Victory",
    "lui": [
     "0x3C1A8"
    ],
@@ -5667,7 +5667,7 @@
   {
    "id": "exe_05F74",
    "jp": "{h}０５　ファミリアレス",
-   "en": "{h}05 Familiaress",
+   "en": "{h}05 Familialess",
    "ptrs": [
     "0xC5670",
     "0xC5684",
@@ -7689,7 +7689,7 @@
   {
    "id": "exe_C40F4",
    "jp": "「コウ、いつ僕から俺に乗り換えたの？」",
-   "en": "Kou, when did you start talking tough?",
+   "en": "Kou, when did 'boku' become 'ore'?",
    "region": "quote",
    "max": 39,
    "status": "done"

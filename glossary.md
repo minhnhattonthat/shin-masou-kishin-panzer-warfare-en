@@ -163,6 +163,7 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | アグ・ノイア | Ag Noia | | | |
 | アートカノン | Art Cannon | | | |
 | ファミリア | Familiar / Familia | | Altra Familia (attack) | |
+| ファミリアレス | Familialess | | attack (matches Altra Familia) | Familiaress |
 | エレメンタルバスター | Elemental Buster | | | |
 | 先の先 | Seizing the Initiative | | | |
 | 背徳神官 | fallen priest | | | |

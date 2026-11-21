@@ -69,7 +69,6 @@ Tick a line when applied or rejected. Format: id (batch) - suggested English - r
 - [ ] ev01C_2A84 (b018) - Ah, right. Got it... - Mira curt
 - [ ] ev01C_1B84 (b018) - Nothin' on the Prana scope, neither~ - sing-song
 - [ ] ev027_0940 (b019) - N-No, that's not it! I just came to check on Jameim, honest. - 違いますよ
-- [ ] ev027_0C80 (b019) - The Arm of God seems to have made a contract with its spirit on the principle of One Machine, One Spirit, but that makes mass-producing Masouki hard. - garbled
 - [ ] ev027_1B0C (b019) - Besides, for a while we'll be making a lot more sorties to Daus. - sortieing
 - [ ] ev027_2300 (b019) - (Captain Alma... acknowledged me...?) - 認めてた
 - [ ] ev01C_2E68 (b019) - Falling back from the combat zone! Sorry, I'm leaving the rest to you... - grammar; harmonise ev033/ev03E
@@ -133,3 +132,107 @@ Tick a line when applied or rejected. Format: id (batch) - suggested English - r
 - [ ] ev090_2718 (b033) - I only hope you're alive somewhere... - stilted
 - [ ] ev090_2520 (b033) - ...Look at that! - 見ろ
 - [ ] ev090_2270 (b033) - I'm afraid no one else can ride it now. - Alfredo register
+- [ ] ev0A1_2130 (b035) - Please... Mira... Please forgive me now... - "Forgive me already" reads exasperated; Alma is pleading
+- [ ] ev0A1_2690 (b035) - ...Was that so...? - "Did I, now?" is sly/teasing; Keigo is flustered and evasive
+- [ ] ev0A1_3074 (b035) - Yes. And then she... - "that girl" is cold; あの子 is tender, "she" is warmer and clearer
+- [ ] ev0A1_2644 (b035) - That's right. Don't you remember? You shouted my name for me... - "Alma!" with no quote marks reads oddly mid-sentence; the point is that he dropped "Captain"
+- [ ] ev0A1_3B3C (b036) - Waaaaagh... S-Stop... S-Stop it... - "Stop... it..." reads as a broken stammer; 「や……めろ」 is "S-stop..." with the "it" optional
+- [ ] ev0AF_0D80 (b036) - Yen. Thank you, though you must be weary. - "Thank you, when you must be so weary" is a clumsy calque of お疲れのところを
+- [ ] ev0AF_0CEC (b036) - I'm afraid not... - はい answers a negative statement ("we don't know the details"), so a bare "No..." is ambiguous
+- [ ] ev0AF_0BA8 (b036) - To think such a thing had happened... - "Can that be..." doesn't carry そのようなことが (shock at something already reported)
+- [ ] ev0AF_11E8 (b036) - Captain, there are a lot of them. What should we do? - grammar: "there's a lot of them" for a plural
+- [ ] ev0C2_1C14 (b039) - Keigo Ferdinand is the pilot!? - "Keigo Ferdinand is!?" is a calque of ケイゴ＝フェルディナンが！？
+- [ ] ev0CA_0BD0 (b039) - ...Do you mean to sortie and demand a duel with Alma? - "So you can sortie" misreads the sarcastic 所望するか
+- [ ] ev0CA_189C (b039) - Yes, Alma-sama. - JP is just はい; "my lady" adds a form of address, and the style reference has Yen using Alma-sama
+- [ ] ev0F1_2DE4 (b045) - To be ruthless to the core. - "So be ruthless" misreads 非情に徹しろと as a result; it is the content of what he taught
+- [ ] ev0F1_23C0 (b045) - They asked to face those people in single combat, you see. - "those two" is ambiguous here (ヤツら = the Masoukishin pilots); later lines use "those two" for Zeldna and Mira
+- [ ] ev0F1_4D14 (b046) - Yen, of all people, is choosing to act of his own free will for the first time. - あの dropped; Shana's surprise at Yen
+- [ ] ev0F1_5230 (b046) - No... Is it what Luca wished for...? - JP is present-tense wish, not "would have"
+- [ ] ev0C2_0640 (b038) - (..................) - JP is （………………）, same as neighbouring lines; EN shortened to "(...)", which breaks the silent-beat rhythm
+- [ ] ev0C2_0D28 (b038) - That's not true... - そんなことありませんよ is a modest denial; "No, I haven't..." is an odd reply to the praise
+- [ ] ev0C2_0924 (b038) - Yes. - JP はい only; "Captain" added (harmless, optional)
+- [ ] ev0CA_1EFC (b040) - Toto, with the Masoukishin... - "would never take the Masoukishin" is not in the JP; the line trails off and 1F20 finishes it
+- [ ] ev0CA_1B64 (b040) - Well, he keeps glaring at me, so there! - adds Toto's bratty だもん tag
+- [ ] ev0CA_21AC (b040) - (Give him a little praise and he's like this right away...) - すぐこれだ lost; current line reads unfinished
+- [ ] ev0CA_2270 (b040) - Wait, I'm picking up enemy Prana! - more natural than "Prana readings"
+- [ ] ev0D6_0FAC (b041) - You two! How rude, in front of Shana-sama! - おまえたち addressee is lost in the current EN
+- [ ] ev0D6_1704 (b041) - Still, I am truly sorry for it. - "But" implies contrast the JP does not carry; this is a plain apology
+- [ ] ev0E4_078C (b042) - And Keigo! Alma-chan!! Oho, you're alive, eh!! - Alfredo's おお、生きとったか loses its old-man flavour; "Well, well" is neutral
+- [ ] ev0E4_2BAC (b044) - Hold it, Toto. You're helping me, eh? - Alfredo ワシ/じゃ register flat; add his 'eh' tag
+- [ ] ev0F1_1AC8 (b044) - Yen, why would you of all people? - Shana gentle but concerned; 'why you?' reads curt
+- [ ] ev0E4_21C4 (b043) - H-Huh? They're all gone already... - "Wh-Huh?" is a garbled stammer for ア、アレ？
+- [ ] ev0E4_2464 (b043) - Enemies? Now that's news to me. I don't know a thing about it, eh. - Alfredo's ワシ/知らんぞ register slightly neutral; add old-man tag
+- [ ] ev0E4_22B4 (b043) - Even I couldn't possibly do that in so little time, eh. - Alfredo register slightly neutral (いくらワシでも/なかろう)
+- [ ] ev0F1_8C30 (b047) - (scroll page: "...they always pass from the former to the latter...", other lines as is) - 前者から後者 = former to the latter (shock to turmoil); "first to the next" is vague
+- [ ] ev103_0D2C (b047) - Infantry, use the opening and fall back! - "while we do" is ambiguous; JP says the infantry retreats in the gap (そのスキに)
+- [ ] ev103_0DB4 (b047) - And they only have three Masouki. Didn't need reinforcements after all. - "only three Masouki" is unclear about whose; it refers to the heroes' side
+- [ ] ev103_12F0 (b047) - You fool. That's my line. Always making me worry like this. - "honestly" is Shess's device and weakens Furcas's gruff まったく...かけよって
+- [ ] ev103_1108 (b047) - Let's talk later. Dealing with the enemy comes first. - Alma's 先決 reads stiff as "we need to defeat the enemy"
+- [ ] ev10A_1C4C (b048) - I get it. So you're just buttering him up, huh? - JP ご機嫌取り is aimed at Magia (あんた); "we're supposed to" shifts the subject.
+- [ ] ev10A_25E0 (b048) - I can't very well leave Keigo and the others to do something like this. - Closer to JP させるわけにもいくまい; "I can hardly have ... do a job" reads stiff.
+- [ ] ev103_3658 (b048) - His teacher once again stood in his way - その師 + 立ちはだかった = blocked his path; "That teacher stood before him" is flat.
+- [ ] ev124_14F8 (b051) - Especially these ones... At times I even wonder if they have a will of their own. - "Will" capitalised here but Keigo's reply is lowercase "A will?"; make consistent (JP 『意志』 is plain "will")
+- [ ] ev119_2B68 (b051) - Hmm. So that's how it works, is it... - "Huh... huh" doubled; ねぇ tag reads better as "is it"
+- [ ] ev119_2C0C (b051) - (...But seeing the smiles of the people we rescued, I felt that what we'd been doing wasn't meaningless at all...) - JP 思えた = seemed/felt (ev119_2CAC repeats "seemed to me"); "knew" is stronger than JP
+- [ ] ev124_0BA8 (b051) - You people of the surface. You will learn the hard way... - 思い知るがいい is menacing; "learn your lesson" sounds mild
+- [ ] ev15A_3704 (b059) - (scroll page: "the chosen one sets out for the stolen homeland" and keep "the battlefield becomes a sea of blood washing blood") - 選ばれしもの is likely singular; 戦場は...様相を呈す (battlefield) dropped
+- [ ] ev10A_3370 (b049) - Aw, c'mon, what's the harm? The knights are all together again, after all. - まあ、いいじゃないか = what's the harm; "ain't it great" shifts meaning
+- [ ] ev10A_3FEC (b049) - Hahaha... - glossary onomatopoeia rule: English laugh, not romaji "Wahahaha"
+- [ ] ev10A_2A9C (b049) - Well, never mind that! - "no matter" reads stiff for Helena's casual まあ、けどねぇ
+- [ ] ev10A_3344 (b049) - Geez, you guys are shameless... - 調子のいい = glib/opportunistic; "the nerve of you" slightly off
+- [ ] ev119_1D1C (b050) - Death. - Magia is laconic; the "...it is death." tail is wordy and the ellipsis is already in the previous line.
+- [ ] ev119_2140 (b050) - If you two don't hurry, we'll leave you behind. - JP is plain 置いていきますよ, no "keep that up"; "shall" is stiffer than Yen needs. Acceptable as is.
+- [ ] ev124_1E30 (b052) - Whoa, what the--!? - truncated curse reads as a typo; dash shows the cut-off
+- [ ] ev124_3094 (b052) - What I mean is, the Arm of God is alive. - drops それは...ということじゃ (explanatory emphasis, old-man cadence)
+- [ ] ev124_35E8 (b052) - (What do you intend to do by throwing the world into even more chaos...?) - どうするつもりだ is "what do you intend", not "what do you gain"
+- [ ] ev131_1050 (b053) - I look forward to our continued cooperation. - JP is a generic よろしくお願いいたします; "friendship" is an addition, and the preceding lines are about cooperation
+- [ ] ev131_115C (b053) - At present, they fight together under the Vartzpheem Liberation Army, Yen-dono included. - Clearer; "alongside us under" is slightly muddled
+- [ ] ev131_2098 (b053) - Yes, ma'am. That is already fully prepared for activation. - "ready ... ready for activation" repeats the same word
+- [ ] ev131_29CC (b054) - What good do you think that'll do!? - "What good is doing that gonna do" is clumsy grammar
+- [ ] ev13D_2618 (b055) - Pfft. - へん is Kyari's scoff; Magia already uses "Hmph."
+- [ ] ev13D_1F30 (b055) - I beg you, would you grant me a Majuuki and troops? - "Majuuki and troops" reads bare; add the article
+- [ ] ev13D_1910 (b055) - Say, Captain... - Keigo is polite to Alma; "Hey" is slightly too casual (optional)
+- [ ] ev14B_153C (b056) - Beumer! Time we moved out. - Furcas is terse and grave; "We'll be setting out soon" is slightly soft and wordy
+- [ ] ev13D_6DB8 (b056) - (scroll page: "Neither duty nor sentiment-- she hesitated to value her own heart.") - 義でもなく、情でもなく is ambiguous as "Not by duty, nor by sentiment"; 貴ぶ is "value", not "trust"
+- [ ] ev13D_3270 (b056) - There's no such thing as suiting you or not suiting you. - Closer to the JP 合う、合わないなどない; "it being your style or not" is clunky
+- [ ] ev14B_2708 (b057) - What's their strength! - Magia asks for enemy numbers; fragment reads oddly
+- [ ] ev14B_2CFC (b057) - Besides, if you didn't like it, you shouldn't have come along. - tense mismatch in "if you don't like it, you didn't have to"
+- [ ] ev14B_29B0 (b057) - You're the commander, right? Give me a crisp order, then. - "make it snappy" shifts ビシッと (crisply) toward speed
+- [ ] ev14B_2F50 (b057) - (...But, you know.) - dangling comma fragment
+- [ ] ev162_1D98 (b060) - ...Yes, you're right. You're the one who's got it most right. - 一番正しい = "most right", current EN drifts to "put it better"
+- [ ] ev162_2654 (b060) - It is I who think of this world more than anyone!! - subject-verb agreement
+- [ ] ev16B_0CD8 (b060) - Hmmm. So the old guy's an important person, huh. - おっちゃん = old guy/mister; "big guy" adds size
+- [ ] ev162_42A0 (b060) - (scroll page: "He knows well from experience that the rank and file have no stake in the meaning of war"; "It is not death he fears") - 末端の人間にない = rank and file have no stake; singular 男
+- [ ] ev14B_6EBC (b058) - (scroll page: last line "Only God knows..." without "?") - JP 神のみぞ知ると…… has no question mark
+- [ ] ev14B_38A8 (b058) - Don't say it yourself. - JP 自分でいうな = do not admit it yourself
+- [ ] ev14B_411C (b058) - Yeah. - Magia is terse and flat; "Yes." is a bit stiff with Kyari, optional
+- [ ] ev16B_1D94 (b061) - (Kyari, the one who killed you...) - 仇 = the enemy who killed her; "your vengeance" is a calque and the next line's "take it" depends on it
+- [ ] ev16B_1DB8 (b061) - (I'll take him down myself!!) - Pairs with the 1D94 fix; 討つ = strike down the enemy
+- [ ] ev179_0D44 (b062) - The signing ceremony for the ceasefire treaty among the three nations will now be held. - JP 行います has no predicate in EN; fragment
+- [ ] ev16B_300C (b062) - Let me think. Why did I, I wonder? - "Why did I, I wonder." reads clumsy
+- [ ] ev179_15B0 (b062) - Yen did? Of all people? - "Yen did? Him?" awkward
+- [ ] ev179_18E0 (b062) - Since the late king's assassination, Adenoid had held the real power, so it seems their homeland was told nothing at all. - tense: had held
+- [ ] ev185_20F4 (b064) - Th-that's... - あ、あれが is a stammered recognition, not a question
+- [ ] ev185_1208 (b064) - All of you, go on ahead!! - "You lot" is a British idiom out of tone for a softening Mira
+- [ ] ev185_1704 (b064) - I cannot say whether this man Thodd truly is him. - elided object reads awkwardly
+- [ ] ev185_2170 (b064) - Let's push through in one go!! - "Go all in at once" is a little off for 一気にいこう
+- [ ] ev18D_2974 (b065) - You can judge things only by your own standards, fool. - ヤツめ contempt lost
+- [ ] ev18D_1D28 (b065) - ...Hmph. Just the reaction I expected. - "Exactly the reaction I said it would be" stiff
+- [ ] ev18D_470C (b066) - See you again someday... - "Someday, again..." is a stiff literal rendering of また、いつか
+- [ ] ev18D_4220 (b066) - Looks like you got bested there. - "she" is an unsupported addition; 一本取られた has no stated subject
+- [ ] ev18D_3EE4 (b066) - Beumer. Keep up the good work, all right? - がんばってね is closer to "do your best" than "take care of things"
+- [ ] ev18D_4560 (b066) - Hey, don't go, you guys! Please!! - Toto's whiny child plea ヤダよ is slightly flat
+- [ ] ev18D_4DF8 (b067) - I am sustained by my own existence! - "nothing but" is an addition not in the JP
+- [ ] ev18D_50E0 (b067) - ...That is what it means to be human... - "That is human" is stiff
+- [ ] exe_02C0C (b068) - Do you want to end the turn? - JP ですか is polite
+- [ ] exe_027C8 (b068) - Please select an allied unit. - JP ください is polite, if the field is wide enough; same for exe_027E8 (Please select an enemy unit.)
+- [ ] exe_04890 (b069) - Near Trees - Make the pair consistent with 建物付近, e.g. "Near Building" / "Near Trees"
+- [ ] exe_B5F6C (b071) - (chapter progress labels exe_B5F6C..B5F98 and B6200-B621C: add まで "up to", if the field is wide enough) - JP 魔装騎士　まで means "up to/through <chapter>"; EN drops まで
+- [ ] exe_B60F4 (b072) - Those Who Tread on a Tiger's Tail - JP 虎の尾を踏む者たち drops 者たち; raised as I but the full title is 33 bytes vs a 27-byte field (ov_ECE34 31 bytes): kept "Tread on a Tiger's Tail" as a title form, revisit with relocation
+- [ ] exe_C4130 (b072) - Big Sister, I'll use that! - お姉様 formal/feminine address
+- [ ] exe_C4268 (b072) - Hehehe, it doesn't work on me, you know! - 効かないのよね smug feminine; "didn't even tickle" changes tense and register
+- [ ] exe_C45EC (b072) - Waah, n-no good! We can't hold out like this! - あかん / もたん Kansai dialect; optional casual tone
+- [ ] ov_ECE54 (b073) - Clear: Seven Knights of the Wasteland - Glossary and ev10A use "Seven Knights of the Wasteland"; label is 37 chars vs 31 bytes in place, needs relocation (exe stage title too)
+- [ ] exe_D29A4 (b073) - Wasteland - 荒地 is rough ground; "Badland" reads as geology; keep if field too narrow
+- [ ] exe_C4B50 (b073) - Even if I die, there are replacements. - Closer to 替わりはいる; optional
+- [ ] exe_C4C58 (b073) - How careless! - 「うかつなぁっ！」 drawn-out jab; optional
