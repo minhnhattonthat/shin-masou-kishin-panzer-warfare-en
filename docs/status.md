@@ -238,6 +238,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
   save-slot labels B5E40-B61EC (title LOAD with `--sav tools/debug/saves/stage05_intermission.mcd` draws DATA 01 +
   label: 0x8015B640 / 0x8015B7B0, f4476 of warp title_load; force there), status B76D4-B7A9A, elements/terrain
   D1E40-D29C8.
+- **Session 2026-11-22 (8):** **text coverage 0 failing** (12350/12769 shown, 419 waived; `work/qa/textcover.txt`).
+  New force kinds (doc in `tools/debug/force_text.py`): `sdata`/`schap` (save-slot labels, `--sav`), `mcmsg`,
+  `spname`/`sphelp` (`force_spirit.sstate`, map sub-mode byte 0x80178240 = 17, debug.md), `gwin`/`glose`/`glabel`
+  (Goal box), `endturn`, `lvban`/`lvhelp`/`lvdlg` (level-up, sub-mode 24). Waivers: dev battle-test labels, dead code
+  proven by `tools/callers.py` (caller tree), "screen not found" 0x8010BE78 strings. Spirit grid: SP cost moved +14
+  px (asm 0x800DD3CC/0x800DD530) and grid label Friendship → "Friend." (D19); spirit help indent rule in insert/lint.
+  Force sheets gated: `work/qa/force_manifest.tsv` + `work/qa/force_verdicts` 35 sheets ok. Re-tour on 860d0e73
+  complete (`work/qa/tour`, logs tour_full/tour_rest/tour_ev35), 558 sheets; manifest re-inited on 860d0e73 (40
+  vanished sheet ids dropped), 272 changed sheets → chunks `chunk_847f929d261e_*`. Then built **ea1259ab** (the D19
+  asm sites were missing from writes_check's allowed ranges: added; the earlier "860d0e73" was the last good build,
+  so spirit/level-up checks before this were on pokes + forced strings.tsv bytes). On ea1259ab: spirit grid cost at
+  the new x (`work/qa/regen/spirit/f000120.png`). States `ev01_map_p1`, `force_spirit`, `force_lvup_banner`,
+  `force_lvup` regenerated on ea1259ab, BUT forcing from them does not take (spname sheets all show Guts; a poke of
+  the record name before menu open also shows Guts; force_lvup at banner+360 still shows the banner): re-derive
+  the recipes before using these kinds again.
 - **Next (phase 8), in order:** (0) finish the re-tour, gate (above); exe coverage (above); (a) done (bugs 1-3);
   (b) done except G13/G15 (unseen on both tours: waive with the VRAM evidence); (c) tour gate done (598/598, session
   4) but bug 7 changes long lines: re-tour after its fix; UI warp shots → verdicts (above); (d) the left-JP tiles
