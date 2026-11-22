@@ -53,6 +53,8 @@ def check_line(ln, names):
         errs.append("Japanese left: %r" % JP.findall(en)[:5])
     if sorted(CODES.findall(en)) != sorted(CODES.findall(jp)):
         errs.append("control codes %s != JP %s" % (CODES.findall(en), CODES.findall(jp)))
+    if "\n/ " in en or en.startswith("/ "):  # polish.md / report display form of "\n" pasted back (ev086_4970)
+        errs.append("line starts with '/ ': a ' / ' newline marker was merged as text")
     try:
         b = font.encode(en)
     except Exception as e:  # noqa: BLE001  (unencodable character)

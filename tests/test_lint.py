@@ -36,6 +36,7 @@ def msg(en, jp="　あ\n\n\n", speaker=""):
     ("{h}Hi", "control codes"),
     ("If only I had committed more of our\nforces...", "one-word last line"),
     ("Ardennes Island\nHeadquarters", None),  # a hard break: the word fitted, the translator broke there
+    ("Here stands a woman\n/ Between a spirit", "' / ' newline marker"),
 ])
 def test_rules(en, rule):
     errs = lint.check_line(msg(en), {})
