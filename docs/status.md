@@ -25,8 +25,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   y33-62) and status 兵民騎官 tiles (x65-90 y80-100) — find where they show, then redraw; credits 摯 遺; T_TIM
   0x19D000 (dead sheet). G7 map label is pseudo-Latin (no row). G10 FMV mov01 subtitles: not started (jPSXdec).
   **Tour:** `tools/debug/tour.py` (warp each evNN with KEEP=1, mash circle, shot every 40, sheets in
-  `<out>/sheets/`). JP tour done: `work/qa/tour_jp` (35/35, 596 sheets). EN tour run 2026-11-22 on the build after
-  ffac57d into `work/qa/tour` (log `work/qa/tour_run.log`; manifest status below). Then `qa_gate.py init work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin`, chunks of
+  `<out>/sheets/`). JP tour done: `work/qa/tour_jp` (35/35, 596 sheets). EN tour 2026-11-22 on build sha1 b6f10e61
+  (= HEAD c0d0cd1): ev01-ev16 done in `work/qa/tour` (238 sheets in `work/qa/tour/sheets`); the run was killed
+  for low system memory at ev17-ev20 (partials deleted). Resume: `python -X utf8 tools/debug/tour.py ev17 ev18 ..
+  ev35 --jobs 2` (4 parallel PCSX ran the machine out of memory). Then `qa_gate.py init work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin`, chunks of
   30, visual-qa agents with `docs/visual-qa-brief.md`, up to 4 at a time).
   **Bug (3) fixed** (commit ffac57d): the map weapon list's garbage column / half window / missing HIT label was
   not glyph slots (the list uses a running slot counter from 0) but `exe_A72E8` 靭: bytes `90 78 20 00` of a 12-byte
@@ -120,8 +122,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     measured box, glyph slots, stub last lines, byte max; `--final` fails untranslated lines. insert: speaker
     names from glossary.md Characters, msg newline padding, scroll centring. Tour: remaining Japanese on screen is
     all graphics (G6 option, G9 status labels/skills/spirits, G18 credits); no odd markers seen.
-- **Next (phase 8), in order:** (a) done (bugs 1-3 above); (b) warp + zoom the unverified graphics screens above
-  (map command menu + map confirm now seen clean in `work/play/confirm`), fix; (c) EN tour + qa_gate + visual-QA
+- **Next (phase 8), in order:** (a) done (bugs 1-3 above); (b) done except G12/G13/G15 (unseen, see
+  above: look for them on the tour sheets, else waive with the VRAM evidence); (c) finish the EN tour (ev17-ev35,
+  `--jobs 2`), then qa_gate + visual-QA
   verdicts on every sheet (UI warp scenes too: add their scene.png sheets to the manifest); (d) the left-JP tiles
   and FMV mov01; (e) inkbox on choices/centred menus; (f) stress saves (needs `save.py` / unit record layout);
   (g) `textcover.py` (strings.lua logs STR <ram ptr>; build must emit build/strings.tsv with RAM addresses).
