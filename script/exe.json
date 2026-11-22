@@ -2377,7 +2377,7 @@
   {
    "id": "exe_027C8",
    "jp": "味方ユニットを選んでください",
-   "en": "Select an allied unit",
+   "en": "Please select an allied unit.",
    "lui": [
     "0x37F98"
    ],
@@ -2387,7 +2387,7 @@
   {
    "id": "exe_027E8",
    "jp": "敵ユニットを選んでください",
-   "en": "Select an enemy unit",
+   "en": "Please select an enemy unit.",
    "lui": [
     "0x37FBC"
    ],
@@ -2427,7 +2427,7 @@
   {
    "id": "exe_02C0C",
    "jp": "ターンを終わらせるんですか？",
-   "en": "You want to end the turn?",
+   "en": "Do you want to end the turn?",
    "lui": [
     "0x3B8C0"
    ],
@@ -2437,7 +2437,7 @@
   {
    "id": "exe_02C2C",
    "jp": "じゃあ、ターンを終わらせます。",
-   "en": "All right, ending the turn.",
+   "en": "Ending the turn, then.",
    "lui": [
     "0x3B948"
    ],
@@ -2638,7 +2638,7 @@
   {
    "id": "exe_03760",
    "jp": "きり払い　　　　　ＬＶ",
-   "en": "Parry LV",
+   "en": "Parry　　　　　　　LV",
    "lui": [
     "0x582E0"
    ],
@@ -2648,7 +2648,7 @@
   {
    "id": "exe_03778",
    "jp": "せりあい　　　　　ＬＶ",
-   "en": "Clash LV",
+   "en": "Clash　　　　　　　LV",
    "lui": [
     "0x58360"
    ],
@@ -2658,7 +2658,7 @@
   {
    "id": "exe_03790",
    "jp": "プラーナ回復　　　ＬＶ",
-   "en": "Prana Recovery LV",
+   "en": "Prana Recovery　　 LV",
    "lui": [
     "0x583E0"
    ],
@@ -3063,7 +3063,7 @@
   {
    "id": "exe_04890",
    "jp": "木の付近",
-   "en": "Near Trees",
+   "en": "By Trees",
    "ptrs": [
     "0xB84D0"
    ],
@@ -7145,7 +7145,7 @@
   {
    "id": "exe_B60F4",
    "jp": "虎の尾を踏む者たち　まで",
-   "en": "Tread on a Tiger's Tail",
+   "en": "Those Who Tread on a Tiger's Tail",
    "ptrs": [
     "0xB6258"
    ],
@@ -7695,7 +7695,7 @@
   {
    "id": "exe_C4130",
    "jp": "「お姉様っ、あれを使うわっ」",
-   "en": "Big sister, I'm using that!",
+   "en": "Big Sister, I'll use that!",
    "region": "quote",
    "max": 31,
    "status": "done"
@@ -8295,7 +8295,7 @@
   {
    "id": "exe_C4C58",
    "jp": "「うかつなぁっ！」",
-   "en": "Careless!",
+   "en": "How careless!",
    "region": "quote",
    "max": 19,
    "status": "done"
@@ -8773,7 +8773,7 @@
   {
    "id": "exe_D29A4",
    "jp": "荒地",
-   "en": "Badland",
+   "en": "Wasteland",
    "ptrs": [
     "0xB84EC"
    ],

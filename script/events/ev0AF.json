@@ -178,7 +178,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　そのようなことが……。\n\n\n",
-   "en": "Can that be...",
+   "en": "To think such a thing had happened...",
    "status": "done"
   },
   {
@@ -244,7 +244,7 @@
    ],
    "speaker": "イェン",
    "jp": "　はい……。\n\n\n",
-   "en": "No...",
+   "en": "I'm afraid not...",
    "status": "done"
   },
   {
@@ -277,7 +277,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　イェン。\n　お疲れのところをありがとう。\n\n",
-   "en": "Yen. Thank you, when\nyou must be so weary.",
+   "en": "Yen. Thank you, though you must be weary.",
    "status": "done"
   },
   {
@@ -519,7 +519,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　隊長、かなりの数ですが\n　どうしますか？\n\n",
-   "en": "Captain, there's a lot of them. What should\nwe do?",
+   "en": "Captain, there are a lot of them. What\nshould we do?",
    "status": "done"
   },
   {

@@ -35,7 +35,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（………………）\n\n\n",
-   "en": "(...)",
+   "en": "(..................)",
    "status": "done"
   },
   {
@@ -255,7 +255,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　はい。\n\n\n",
-   "en": "Yes, Captain.",
+   "en": "Yes.",
    "status": "done"
   },
   {
@@ -519,7 +519,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そんなことありませんよ……。\n\n\n",
-   "en": "No, I haven't...",
+   "en": "That's not true...",
    "status": "done"
   },
   {
@@ -1399,7 +1399,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ケイゴ＝フェルディナンが！？\n\n\n",
-   "en": "Keigo Ferdinand is!?",
+   "en": "Keigo Ferdinand is the pilot!?",
    "status": "done"
   },
   {

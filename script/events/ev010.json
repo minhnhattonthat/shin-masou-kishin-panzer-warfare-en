@@ -145,7 +145,7 @@
    ],
    "speaker": "バージェス",
    "jp": "　我、バルツフィームの国王として\n　ケイゴ＝フェルディナンを騎士と認め\n『クルツ』の称号を与えるものとする。\n",
-   "en": "I, as King of Vartzpheem, do recognise\nKeigo Ferdinand as a knight and grant him\nthe title of Kurtz.",
+   "en": "I, as King of Vartzpheem, do recognize\nKeigo Ferdinand as a knight and grant him\nthe title of Kurtz.",
    "status": "done"
   },
   {
@@ -409,7 +409,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　大丈夫だ。\n　おまえみたいに苦労させられる生徒は、\n　めったにいるもんではないからな。\n",
-   "en": "I'll be fine. Students who give me as much\ntrouble as you are rare.",
+   "en": "I'll be fine. It's not every day\nI get a student who gives\nme as much trouble as you.",
    "status": "done"
   },
   {
@@ -1113,7 +1113,7 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ワシは、神の称号を持っている\n　ということになる。\n\n",
-   "en": "I bear the title of a god!",
+   "en": "Which means I bear the\ntitle of a god, no less!",
    "status": "done"
   },
   {
@@ -1333,7 +1333,7 @@
    ],
    "speaker": "通信兵",
    "jp": "　防衛線を突破したプラーナ反応が\n　急速に、こちらに接近しています。\n\n",
-   "en": "The Prana readings that broke through the\ndefence line are closing in on us fast.",
+   "en": "The Prana readings that broke through the\ndefense line are closing in on us fast.",
    "status": "done"
   },
   {
@@ -1388,7 +1388,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　アルフレードじいさん。\n　こいつ、動くんだろ？\n\n",
-   "en": "Old man Alfredo. This thing runs, right?",
+   "en": "Old Man Alfredo. This thing runs, right?",
    "status": "done"
   },
   {
@@ -1487,7 +1487,7 @@
    ],
    "speaker": "通信兵",
    "jp": "　プラーナ反応、警戒空域に突入。\n　６体のツァディが\n　最終防衛線を突破しました！\n",
-   "en": "Prana readings entering the alert zone. Six\nTsadi have broken through the final\ndefence line!",
+   "en": "Prana readings entering the alert zone. Six\nTsadi have broken through the final\ndefense line!",
    "status": "done"
   },
   {
@@ -2213,7 +2213,7 @@
    ],
    "speaker": "ベウマー",
    "jp": "　へ！？　俺がですかぁ！\n\n\n",
-   "en": "Huh!? Me!?",
+   "en": "Huh!? Me, Captain!?",
    "status": "done"
   },
   {

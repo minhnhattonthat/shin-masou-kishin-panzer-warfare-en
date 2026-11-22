@@ -288,7 +288,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　そのスキに歩兵部隊は退却しろ！\n\n\n",
-   "en": "The infantry will fall back while we do!",
+   "en": "Infantry, use the opening and fall back!",
    "status": "done"
   },
   {
@@ -321,7 +321,7 @@
    ],
    "speaker": "ラガーシュ兵士",
    "jp": "　しかも魔装機は３機。\n　増援は必要なかったな。\n\n",
-   "en": "And only three Masouki. Didn't need\nreinforcements after all.",
+   "en": "And they only have three Masouki. Didn't\nneed reinforcements after all.",
    "status": "done"
   },
   {
@@ -530,7 +530,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　話はあとにしましょう。\n　とりあえず、敵を倒すのが先決だわ。\n\n",
-   "en": "Let's talk later. First, we need to defeat\nthe enemy.",
+   "en": "Let's talk later. Dealing with the enemy\ncomes first.",
    "status": "done"
   },
   {
@@ -640,7 +640,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　バカもの。\n　それは、オレのセリフだ。\n　まったく心配ばかりかけよって。\n",
-   "en": "You fool. That's my line. Always making me\nworry, honestly.",
+   "en": "You fool. That's my line. Always making me\nworry like this.",
    "status": "done"
   },
   {
@@ -1331,7 +1331,7 @@
     "0x37B4"
    ],
    "jp": "　　その師が今一度、彼の前に立ちはだかった\n\n　　　　　　　動揺する若き騎士\n　　しかし、その心の乱れを女騎士が救った\n\n　　　　　　己の心の痛みを乗り越え\n　　　　　　自分の姿を見せることで\n　　　　　　若き騎士に勇気を与えた\n\n　　そして、若き騎士とその師が相対するとき\n　　　　　　物語は悲劇の結末を迎える\n\n　　　　　ケイゴ、師の壁を越えよ……\n",
-   "en": "That teacher stood before him once again\n\nThe young knight was shaken,\nbut the lady knight steadied his heart\n\nRising above the pain in her own heart,\nby showing him who she truly was,\nshe gave the young knight courage\n\nAnd when the knight faced his teacher,\nthe tale came to its tragic end\n\nKeigo, rise above your teacher's wall...",
+   "en": "His teacher once again stood in his way\n\nThe young knight was shaken,\nbut the lady knight steadied his heart\n\nRising above the pain in her own heart,\nby showing him who she truly was,\nshe gave the young knight courage\n\nAnd when the knight faced his teacher,\nthe tale came to its tragic end\n\nKeigo, rise above your teacher's wall...",
    "status": "done"
   }
  ]

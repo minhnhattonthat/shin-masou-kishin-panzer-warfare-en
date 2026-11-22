@@ -629,7 +629,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　イェン、\n　なぜ、あなたが？\n\n",
-   "en": "Yen, why you?",
+   "en": "Yen, why would you of all people?",
    "status": "done"
   },
   {
@@ -1102,7 +1102,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ヤツらと一騎打ちをさせろ\n　というのでな。\n\n",
-   "en": "They asked to face those\ntwo in single combat.",
+   "en": "They asked to face those people in single\ncombat, you see.",
    "status": "done"
   },
   {
@@ -1586,7 +1586,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　非情に徹しろと。\n\n\n",
-   "en": "So be ruthless to the core.",
+   "en": "To be ruthless to the core.",
    "status": "done"
   },
   {
@@ -3423,7 +3423,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　あのイェンが\n　初めて、自分の意志で\n　動こうとしているのです。\n",
-   "en": "For the first time, Yen is choosing to act\nof his own free will.",
+   "en": "Yen, of all people, is choosing to act of his\nown free will for the first time.",
    "status": "done"
   },
   {
@@ -3676,7 +3676,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　いえ、ルカが\n　望んだものだというの……。\n\n",
-   "en": "No... Is it what Luca\nwould have wished for...?",
+   "en": "No... Is it what Luca wished for...?",
    "status": "done"
   },
   {
@@ -4060,7 +4060,7 @@
     "0x8EC0"
    ],
    "jp": "　　　　　　　　衝撃と動揺\n\n　　人は信じられない出来事に遭遇したとき\n　　　　必ず前者から後者へと移行する\n\n　　騎士たちが受けた衝撃は癒える間もなく\n　　　　　　若い心に動揺を呼んだ\n\n　　　ただ、心の揺れを押さえられるなら\n精霊は彼のものに力を与えなかったかもしれない\n\n　　揺れる心こそが契約の前提となるならば\n　精霊はこの先、彼らにどんな試練与えるのか\n",
-   "en": "Shock and Turmoil\n\nWhen people meet the unbelievable,\nthey always pass from the first to the next\n\nThe knights' shock had no time to heal\nbefore it stirred turmoil in young hearts\n\nYet had he stilled his wavering heart,\nthe spirit might not have lent him power\n\nIf a contract rests on a wavering heart,\nwhat trials will the spirit set them now?",
+   "en": "Shock and Turmoil\n\nWhen people meet the unbelievable,\nthey always pass from former to latter\n\nThe knights' shock had no time to heal\nbefore it stirred turmoil in young hearts\n\nYet had he stilled his wavering heart,\nthe spirit might not have lent him power\n\nIf a contract rests on a wavering heart,\nwhat trials will the spirit set them now?",
    "status": "done"
   },
   {

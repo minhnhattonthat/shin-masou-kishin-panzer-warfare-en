@@ -871,7 +871,7 @@
    ],
    "speaker": "ドロービ",
    "jp": "　プラーナ観測器にも、反応な～し。\n\n\n",
-   "en": "Nothin' on the Prana scope, neither.",
+   "en": "Nothin' on the Prana scope, neither~",
    "status": "done"
   },
   {
@@ -1619,7 +1619,7 @@
    ],
    "speaker": "ミラ",
    "jp": "　ああ、わかった……。\n\n\n",
-   "en": "Yes, I know...",
+   "en": "Ah, right. Got it...",
    "status": "done"
   },
   {
@@ -1828,7 +1828,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　戦闘区域から後退する！\n　すまん、あとは頼むぞ……。\n\n",
-   "en": "Falling back from the combat zone! Sorry, I\nleave the rest to you...",
+   "en": "Falling back from the combat zone! Sorry,\nI'm leaving the rest to you...",
    "status": "done"
   },
   {
@@ -1850,7 +1850,7 @@
    ],
    "speaker": "ドロービ",
    "jp": "　脱出します！！\n\n\n",
-   "en": "Bailin' out!!",
+   "en": "I'm bailin' out!!",
    "status": "done"
   },
   {
@@ -1871,7 +1871,7 @@
     "0x5720"
    ],
    "jp": "　　我が剣はすべての人々を護るために……\n\n　古きΙに誓いを立て、騎士となったものには\n　　　　　　無私の心と王への忠誠\n　そしてつねに真実を見極める目が要求される\n\n　　　　　　なぜなら騎士の剣には\n　　　闇を払い未来を切り開く力も宿るが\n　　　輝かしい希望を打ち砕く邪悪な力をも\n　　　　併せ持つことになるからである\n\n　　　　礼と儀と徳とを重んずる騎士らは\n　自らの精神を厳しく律し、騎士道を追求する\n",
-   "en": "My sword is to protect all people...\n\nThose who swore the ancient oath as knights\nmust have a selfless heart, loyalty to\nthe king, and eyes that always seek truth.\n\nFor a knight's sword holds the power\nto banish darkness and carve out a future,\nyet it holds as well an evil power\nthat can shatter a shining hope.\n\nKnights who honour courtesy, rite and virtue\nrule their spirits strictly, seeking chivalry.",
+   "en": "My sword is to protect all people...\n\nThose who swore the ancient oath as knights\nmust have a selfless heart, loyalty to\nthe king, and eyes that always seek truth.\n\nFor a knight's sword holds the power\nto banish darkness and carve out a future,\nyet it holds as well an evil power\nthat can shatter a shining hope.\n\nKnights who honor courtesy, rite and virtue\nrule their spirits strictly, seeking chivalry.",
    "status": "done"
   },
   {
@@ -1881,7 +1881,7 @@
     "0x5724"
    ],
    "jp": "　　　　　　炎の如き闘志を秘めて\n　　偉大な理想のためにその剣と命とを捧げる\n\n　　　　未だ若きものは情熱の中に……\n　　　　老いたるものは老練の中に……\n\n　　見返りもなく、ただ栄誉のみを糧として\n　有事の際には喜んで我が身を投げ出す騎士らの\n　　　古より連綿と重ねられてきた歴史は\n　まさにア・ゼルス本来の良心の結晶である\n\n　　　　彼らの誇りある働きによってこそ\n　人々は今日も、命を健やかに育めるのだ……\n",
-   "en": "With a fighting spirit like a hidden flame,\nthey give sword and life for a great ideal.\n\nThe young, in their passion...\nThe old, in their seasoned skill...\n\nWith no reward, living on honour alone,\nknights who gladly give themselves in need,\ntheir long history, handed down from old,\nis the very essence of A-Zeluth's conscience.\n\nIt is by their proud service alone\nthat people can live and thrive today...",
+   "en": "With a fighting spirit like a hidden flame,\nthey give sword and life for a great ideal.\n\nThe young, in their passion...\nThe old, in their seasoned skill...\n\nWith no reward, living on honor alone,\nknights who gladly give themselves in need,\ntheir long history, handed down from old,\nis the very essence of A-Zeluth's conscience.\n\nIt is by their proud service alone\nthat people can live and thrive today...",
    "status": "done"
   }
  ]

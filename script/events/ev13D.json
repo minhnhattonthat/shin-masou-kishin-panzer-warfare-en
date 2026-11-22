@@ -827,7 +827,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ねえ、隊長……。\n\n\n",
-   "en": "Hey, Captain...",
+   "en": "Say, Captain...",
    "status": "done"
   },
   {
@@ -1157,7 +1157,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ぜひ、私に魔重機と部隊を\n　与えていただけないでしょうか？\n\n",
-   "en": "I beg you, would you grant\nme Majuuki and troops?",
+   "en": "I beg you, would you grant me a Majuuki\nand troops?",
    "status": "done"
   },
   {
@@ -1575,7 +1575,7 @@
    ],
    "speaker": "キャリ",
    "jp": "　へん。\n\n\n",
-   "en": "Hmph.",
+   "en": "Pfft.",
    "status": "done"
   },
   {
@@ -2290,7 +2290,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　そんなものに\n　合う、合わないなどない。\n\n",
-   "en": "There's no such thing as it being your style\nor not.",
+   "en": "There's no such thing as suiting you or not\nsuiting you.",
    "status": "done"
   },
   {
@@ -3047,7 +3047,7 @@
     "0x6F34"
    ],
    "jp": "　　　　　　女騎士は迷っていた\n　　左右に分かれる道を選べずに苦悩していた\n\n　　　　　　義でもなく、情でもなく\n　　自らの感性を貴ぶことにためらっていた\n\n　　　　祖国の勝利のために流される血を\n　　　　　　　正義と呼ぶならば\n　　自分はいったいなにをしているのだろうと\n\n　　　　　　　しかし、善意の光は\n　　　　　女騎士の心の闇を晴れ渡らせ\n　　　　　悪しき光の暴走を食い止めた\n",
-   "en": "The lady knight was lost,\ntorn, unable to choose between two paths.\n\nNot by duty, nor by sentiment--\nshe hesitated to trust her own heart.\n\nIf blood shed so her homeland might win\nis to be called justice,\nthen what, she wondered, was she doing?\n\nBut the light of goodwill\ncleared the darkness in her heart\nand stopped the evil light's rampage.",
+   "en": "The lady knight was lost,\ntorn, unable to choose between two paths.\n\nNeither duty nor sentiment--\nshe hesitated to value her own heart.\n\nIf blood shed so her homeland might win\nis to be called justice,\nthen what, she wondered, was she doing?\n\nBut the light of goodwill\ncleared the darkness in her heart\nand stopped the evil light's rampage.",
    "status": "done"
   }
  ]

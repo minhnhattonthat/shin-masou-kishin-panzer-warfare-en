@@ -717,7 +717,7 @@
    ],
    "speaker": "ヘレーナ",
    "jp": "　そうだよ。\n　案外ひょっこりと、\n　戻ってくるかもしれないしさ。\n",
-   "en": "That's right. He might just pop back up\nwhen you least expect it.",
+   "en": "Yeah, that's right. He might\njust come strolling back when\nyou least expect it, y'know.",
    "status": "done"
   },
   {
@@ -1014,7 +1014,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　アルフレードじいさん！\n　生きてたのか！！\n\n",
-   "en": "Old man Alfredo! You're alive!!",
+   "en": "Old Man Alfredo! You're alive!!",
    "status": "done"
   },
   {
@@ -1135,7 +1135,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　アルフレードじいさん！\n　どこだ！！\n\n",
-   "en": "Old man Alfredo! Where are you!!",
+   "en": "Old Man Alfredo! Where are you!!",
    "status": "done"
   },
   {
@@ -1212,7 +1212,7 @@
    ],
    "speaker": "アルフレード",
    "jp": "　ああ、なんとかな。\n\n\n",
-   "en": "Yes, more or less.",
+   "en": "Yeah, more or less, more or less.",
    "status": "done"
   },
   {
@@ -1432,7 +1432,7 @@
    ],
    "speaker": "アルフレード",
    "jp": "　よ～し、出すぞ！\n\n\n",
-   "en": "Alright, here it comes!",
+   "en": "All right, here it comes!",
    "status": "done"
   },
   {
@@ -2356,7 +2356,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　……無念。\n\n\n",
-   "en": "...To end like this.",
+   "en": "...How bitter.",
    "status": "done"
   },
   {
@@ -2653,7 +2653,7 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　おそろしいヤツだ。\n\n\n",
-   "en": "Scary thing.",
+   "en": "That thing's terrifying.",
    "status": "done"
   },
   {
@@ -2961,7 +2961,7 @@
    ],
    "speaker": "アルフレード",
    "jp": "　よし、\n　わしは出発の準備をしてくる。\n\n",
-   "en": "Good. I'll go get ready to leave.",
+   "en": "Right, then. I'll go get ready to leave.",
    "status": "done"
   },
   {
@@ -3059,7 +3059,7 @@
     "0x69B4"
    ],
    "jp": "　　　　　　最終防衛線は王都にあり\n\n　　　敗北を喫したバルツフィーム王国軍は\n　　　　全軍、王都への撤退を開始した\n\n　　国境線はすでにラガーシュの魔装機により\n　　　突破され、激しい追撃が容赦なく続く\n\n　　　戦況は掃討戦の様相を呈してきた\n\n　　殿としての務めを果たした西方騎士隊も\n　残存部隊との合流をはかるべく王都をめざす\n\n",
-   "en": "The last line of defence: the Royal Capital\n\nDefeated, the army of Vartzpheem\nbegan a full retreat to the capital\n\nRagash's Masouki had broken the border,\nand their fierce pursuit gave no quarter\n\nThe war took on the look of a final sweep\n\nTheir duty as rearguard done,\nthe Western Knights made for the capital\nto join the forces that remained",
+   "en": "The last line of defense: the Royal Capital\n\nDefeated, the army of Vartzpheem\nbegan a full retreat to the capital\n\nRagash's Masouki had broken the border,\nand their fierce pursuit gave no quarter\n\nThe war took on the look of a final sweep\n\nTheir duty as rearguard done,\nthe Western Knights made for the capital\nto join the forces that remained",
    "status": "done"
   },
   {

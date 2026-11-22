@@ -57,7 +57,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（いったい、ここはどこなのか……）\n\n\n",
-   "en": "(Where on earth were we...)",
+   "en": "(Where on earth are we...)",
    "status": "done"
   },
   {
@@ -420,7 +420,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、あなたが入れてくれた\n　コーヒーだって\n　なかなかなものだと思うけど？\n",
-   "en": "I think the coffee you make is pretty good\ntoo, don't you?",
+   "en": "I think even the coffee you make for me is\npretty good, you know.",
    "status": "done"
   },
   {
@@ -739,7 +739,7 @@
    ],
    "speaker": "トト",
    "jp": "　おいらの名前かい？\n　トト＝クアル＝ユロってんだ。\n\n",
-   "en": "My name? It's Toto Qual Yuro, that's who!",
+   "en": "My name? It's Toto Qual Yuro, you know!",
    "status": "done"
   },
   {
@@ -1718,7 +1718,7 @@
    ],
    "speaker": "アルフレード",
    "jp": "『これでは\n　もうほかの人間を乗せられん』\n\n",
-   "en": "Well, now no one else can ride it.",
+   "en": "I'm afraid no one else can ride it now.",
    "status": "done"
   },
   {
@@ -1751,7 +1751,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　な……なんて、いい加減な……。\n\n\n",
-   "en": "Wh... what a slapdash...",
+   "en": "Wh... what a careless old man...",
    "status": "done"
   },
   {
@@ -1784,7 +1784,7 @@
    ],
    "speaker": "トト",
    "jp": "　子供、子供ってバカにすんない！\n\n\n",
-   "en": "Quit callin' me a kid all the time!",
+   "en": "Quit makin' fun of me for bein' a kid!",
    "status": "done"
   },
   {
@@ -1872,7 +1872,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……見ろ！\n\n\n",
-   "en": "...See!?",
+   "en": "...Look at that!",
    "status": "done"
   },
   {
@@ -2004,7 +2004,7 @@
    ],
    "speaker": "バージェス",
    "jp": "　どこかで生きていてくれればいいが……。\n\n\n",
-   "en": "If only you are alive, somewhere...",
+   "en": "I only hope you're alive somewhere...",
    "status": "done"
   },
   {
@@ -2508,7 +2508,7 @@
     "0x5108"
    ],
    "jp": "　　願いを聞き届けるなら天使とも呼ばれよう\n\n　瞬時の殺意も戸惑いもすべて叶えるなら……\n　　　それはなんと呼ばれるであろう？\n\n　　　　　礼と義と徳を知る騎士のみが\n　　　　　　　精霊に愛されるという\n　　　　　　　　　欲望を律し\n　　　　迷いを断つ意思の強いもののみが\n　　　　精霊の力の触媒たる資格を持つ\n\n　　　　　　　選ばれし若き騎士は\n　　　そのことに気づいていなかった……\n",
-   "en": "What grants wishes may be called an angel\n\nIf it grants even sudden bloodlust or doubt...\nwhat would it be called then?\n\nOnly a knight of grace, justice and virtue\nis said to be loved by the spirits\nOnly those who master their desires\nwith the will to cut away all doubt\nare fit to channel the spirits' power\n\nThe young knight who had been chosen\nhad yet to realise this...",
+   "en": "What grants wishes may be called an angel\n\nIf it grants even sudden bloodlust or doubt...\nwhat would it be called then?\n\nOnly a knight of grace, justice and virtue\nis said to be loved by the spirits\nOnly those who master their desires\nwith the will to cut away all doubt\nare fit to channel the spirits' power\n\nThe young knight who had been chosen\nhad yet to realize this...",
    "status": "done"
   }
  ]

@@ -306,7 +306,7 @@
   {
    "id": "bqA_00_458",
    "jp": "よっし、いっけぇぇぇっ！",
-   "en": "All right, here goes!",
+   "en": "All right, go get 'em!",
    "recs": 1,
    "status": "done"
   },
@@ -320,7 +320,7 @@
   {
    "id": "bqA_00_498",
    "jp": "オレは…オレの義を正す！",
-   "en": "I... I'll stand by my\nown sense of justice!",
+   "en": "I... I'll set my own sense of\njustice right!",
    "recs": 1,
    "status": "done"
   },
@@ -467,7 +467,7 @@
   {
    "id": "bqA_00_6B8",
    "jp": "そんな攻撃で、落ちるものか！",
-   "en": "Like an attack like that could take\nme down!",
+   "en": "As if an attack like that could take\nme down!",
    "recs": 1,
    "status": "done"
   },
@@ -831,7 +831,7 @@
   {
    "id": "bqA_02_4A0",
    "jp": "いけぇぇっ！",
-   "en": "Gooo!",
+   "en": "Go!!",
    "recs": 1,
    "status": "done"
   },
@@ -901,7 +901,7 @@
   {
    "id": "bqA_02_584",
    "jp": "くっ！　うしろからですって！？",
-   "en": "Ngh! From behind, you say!?",
+   "en": "Ngh! From behind!?",
    "recs": 1,
    "status": "done"
   },
@@ -1195,7 +1195,7 @@
   {
    "id": "bqA_04_23C",
    "jp": "落ちてしまえぇぇぇっ！",
-   "en": "Down you goooo!",
+   "en": "Down with you!!",
    "recs": 1,
    "status": "done"
   },
@@ -1496,7 +1496,7 @@
   {
    "id": "bqA_06_004",
    "jp": "つ、疲れたー\nもうダメー…",
-   "en": "So tired... I can't go on...",
+   "en": "I-I'm so tired... I can't go on...",
    "recs": 1,
    "status": "done"
   },
@@ -1510,7 +1510,7 @@
   {
    "id": "bqA_06_03C",
    "jp": "だーりー\nまだ敵いるのぉ？",
-   "en": "Ugh, what a drag... There's still\nmore enemies?",
+   "en": "Ugh, what a drag... Are there still\nmore enemies?",
    "recs": 1,
    "status": "done"
   },
@@ -2315,7 +2315,7 @@
   {
    "id": "bqA_09_1A4",
    "jp": "その程度の腕で！",
-   "en": "With skill like that!?",
+   "en": "With skill that poor!?",
    "recs": 1,
    "status": "done"
   },
@@ -2644,7 +2644,7 @@
   {
    "id": "bqA_0B_078",
    "jp": "ちっ、届かんとわな！",
-   "en": "Tch, who'd have thought it\nwouldn't reach!",
+   "en": "Tch, it won't even\nreach from here!",
    "recs": 1,
    "status": "done"
   },
@@ -3071,7 +3071,7 @@
   {
    "id": "bqA_0D_024",
    "jp": "あら、プラーナゲージがっ！？",
-   "en": "Huh, my Prana Gauge!?",
+   "en": "Oh, my Prana Gauge!?",
    "recs": 1,
    "status": "done"
   },
@@ -3099,7 +3099,7 @@
   {
    "id": "bqA_0D_090",
    "jp": "いっけぇーい！！",
-   "en": "Goooo!!",
+   "en": "Go get 'em!!",
    "recs": 1,
    "status": "done"
   },
@@ -3288,7 +3288,7 @@
   {
    "id": "bqA_0D_2F4",
    "jp": "いったあい！",
-   "en": "Owwie!",
+   "en": "Ow! That hurts!",
    "recs": 1,
    "status": "done"
   },
@@ -3708,7 +3708,7 @@
   {
    "id": "bqA_0F_1A8",
    "jp": "ヘレーナさまっ！！\nやられっちまいました",
-   "en": "Helena-sama!! I've gone and lost...",
+   "en": "Helena-sama!! I got taken out!",
    "recs": 1,
    "status": "done"
   },
@@ -3757,14 +3757,14 @@
   {
    "id": "bqA_0F_278",
    "jp": "もうなんで自分ばっかり\nやられるの！！",
-   "en": "Why am I always the one who\ngets beaten!!",
+   "en": "Why's it always\nme getting beaten!!",
    "recs": 1,
    "status": "done"
   },
   {
    "id": "bqA_0F_2A0",
    "jp": "だ、ダメっ！！\nこれ以上もたない！！！",
-   "en": "N-No good!! I can't\nhold out any longer!!",
+   "en": "N-No good!! I can't take any more!!",
    "recs": 1,
    "status": "done"
   },
@@ -4359,14 +4359,14 @@
   {
    "id": "bqA_12_190",
    "jp": "当たりは、せん！",
-   "en": "You won't... hit me!",
+   "en": "It won't hit me!",
    "recs": 1,
    "status": "done"
   },
   {
    "id": "bqA_12_1A4",
    "jp": "その程度の腕で！",
-   "en": "With skill like that!?",
+   "en": "You think skill like that is enough!?",
    "recs": 1,
    "status": "done"
   },
@@ -4877,7 +4877,7 @@
   {
    "id": "bqA_14_21C",
    "jp": "そんな攻撃がきくものかよ！！",
-   "en": "Like an attack like that would\nwork on me!!",
+   "en": "As if an attack like that would\nwork on me!!",
    "recs": 1,
    "status": "done"
   },
@@ -5325,7 +5325,7 @@
   {
    "id": "bqA_16_21C",
    "jp": "そんな攻撃がきくものかよ！！",
-   "en": "Like an attack like that would\nwork on me!!",
+   "en": "As if an attack like that would\nwork on me!!",
    "recs": 1,
    "status": "done"
   },
@@ -5353,7 +5353,7 @@
   {
    "id": "bqA_17_02C",
    "jp": "くっ、弾切れとはな！",
-   "en": "Ngh, out of ammo!",
+   "en": "Ngh, out of ammo\nnow of all times!",
    "recs": 1,
    "status": "done"
   },
@@ -5556,7 +5556,7 @@
   {
    "id": "bqA_17_238",
    "jp": "しまった、やられる！！",
-   "en": "No! I'm done for!!",
+   "en": "Damn, I'm done for!!",
    "recs": 1,
    "status": "done"
   },
@@ -5577,7 +5577,7 @@
   {
    "id": "bqA_18_02C",
    "jp": "くっ、弾切れとはな！",
-   "en": "Ngh, out of ammo!",
+   "en": "Ngh, out of ammo\nnow of all times!",
    "recs": 1,
    "status": "done"
   },
@@ -5780,7 +5780,7 @@
   {
    "id": "bqA_18_234",
    "jp": "しまった、やられる！！",
-   "en": "No! I'm done for!!",
+   "en": "Damn, I'm done for!!",
    "recs": 1,
    "status": "done"
   },
@@ -5801,7 +5801,7 @@
   {
    "id": "bqA_19_02C",
    "jp": "くっ、弾切れとはな！",
-   "en": "Ngh, out of ammo!",
+   "en": "Ngh, out of ammo\nnow of all times!",
    "recs": 1,
    "status": "done"
   },
@@ -6004,7 +6004,7 @@
   {
    "id": "bqA_19_230",
    "jp": "しまった、やられる！！",
-   "en": "No! I'm done for!!",
+   "en": "Damn, I'm done for!!",
    "recs": 1,
    "status": "done"
   },
@@ -6557,7 +6557,7 @@
   {
    "id": "bqA_1C_10C",
    "jp": "あまい！　あまい！",
-   "en": "Too easy! Too easy!",
+   "en": "Too sloppy! Too sloppy!",
    "recs": 1,
    "status": "done"
   },
@@ -6634,7 +6634,7 @@
   {
    "id": "bqA_1C_1F8",
    "jp": "く、な、なんと！",
-   "en": "Ngh! Wh-What the!?",
+   "en": "Ngh! Wh-what the!?",
    "recs": 1,
    "status": "done"
   },
@@ -7103,7 +7103,7 @@
   {
    "id": "bqA_1E_1DC",
    "jp": "少しはやるようだな！",
-   "en": "So you're not bad!",
+   "en": "Not bad at all!",
    "recs": 1,
    "status": "done"
   },
@@ -7404,7 +7404,7 @@
   {
    "id": "bqA_20_094",
    "jp": "落とさせてもらうわっ！",
-   "en": "I'll be shooting you down!",
+   "en": "I'll have to shoot you down!",
    "recs": 1,
    "status": "done"
   },
@@ -7978,7 +7978,7 @@
   {
    "id": "bqA_22_33C",
    "jp": "しまった！\nとでもいえば、満足かね",
-   "en": "Oh no! ...Is that what you wanted\nto hear?",
+   "en": "Oh no! Is that what you'd like me\nto say?",
    "recs": 1,
    "status": "done"
   },
@@ -8174,7 +8174,7 @@
   {
    "id": "bqA_22_6E8",
    "jp": "良かったな、当たったようだよ…",
-   "en": "Good for you, it seems you hit...",
+   "en": "Lucky you, it seems\nyou landed a hit...",
    "recs": 1,
    "status": "done"
   },
@@ -8510,7 +8510,7 @@
   {
    "id": "bqA_24_40C",
    "jp": "たっぷりかわいがってやるよ！",
-   "en": "I'm gonna have lots of fun with ya!",
+   "en": "I'm gonna play with\nya good and proper!",
    "recs": 1,
    "status": "done"
   },
@@ -8524,7 +8524,7 @@
   {
    "id": "bqA_24_454",
    "jp": "あーらら！　一発必中だなっ！！",
-   "en": "Oh my! One shot, one hit!!",
+   "en": "Heh, dead on! One shot, one hit!!",
    "recs": 1,
    "status": "done"
   },
@@ -8587,7 +8587,7 @@
   {
    "id": "bqA_24_594",
    "jp": "もうへばったか！\nしょうがねえなあ！！",
-   "en": "Pooped out already!? Pathetic!!",
+   "en": "Pooped out already!? Whaddaya\ngonna do with ya!!",
    "recs": 1,
    "status": "done"
   },
@@ -8601,7 +8601,7 @@
   {
    "id": "bqA_24_5E0",
    "jp": "オレさまの相手になると\n思ってんのか！",
-   "en": "Ya think you can take me on!?",
+   "en": "Ya think ya can take\non the great me!?",
    "recs": 1,
    "status": "done"
   },
@@ -8839,7 +8839,7 @@
   {
    "id": "bqA_26_240",
    "jp": "ちっ！　こんなやつに！\nヤキがまわったね、あたしも",
-   "en": "Tch! By the likes of this! I must be\nlosing my touch.",
+   "en": "Tch! Beaten by a nobody like this! I\nmust be losing my touch.",
    "recs": 1,
    "status": "done"
   },
@@ -9203,7 +9203,7 @@
   {
    "id": "bqA_28_148",
    "jp": "自分から倒されにくるとはな！",
-   "en": "Coming to be defeated of your\nown accord!",
+   "en": "Walking right into\nyour own defeat!",
    "recs": 1,
    "status": "done"
   },
@@ -9588,7 +9588,7 @@
   {
    "id": "bqA_2A_050",
    "jp": "なぜ、弾切れなどを起こす！",
-   "en": "Why are we out of ammo!?",
+   "en": "Why would I run out of ammo!?",
    "recs": 1,
    "status": "done"
   },
@@ -9616,7 +9616,7 @@
   {
    "id": "bqA_2A_0B8",
    "jp": "不要な人間は処分しないとな！！",
-   "en": "Useless people must be\ndisposed of!!",
+   "en": "Unneeded people must be\ndisposed of!!",
    "recs": 1,
    "status": "done"
   },
@@ -9630,7 +9630,7 @@
   {
    "id": "bqA_2A_0FC",
    "jp": "アグ・ゲブラの前に出てくるとは\nいい度胸だ！　だがっっ！！",
-   "en": "Bold of you to face\nthe Ag Gebra! But!!",
+   "en": "You've got guts to face the Ag\nGebra! But!!",
    "recs": 1,
    "status": "done"
   },
@@ -9700,7 +9700,7 @@
   {
    "id": "bqA_2A_21C",
    "jp": "アグ・ゲブラの力をもってすれば\nおまえらなど取るにたらん！！",
-   "en": "With the Ag Gebra's power, you\nare nothing!!",
+   "en": "With the power of the Ag Gebra,\nyou're beneath notice!!",
    "recs": 1,
    "status": "done"
   },
@@ -9896,7 +9896,7 @@
   {
    "id": "bqA_2B_11C",
    "jp": "私は間違っては・・・",
-   "en": "I wasn't wrong...",
+   "en": "I can't be wrong...",
    "recs": 1,
    "status": "done"
   },
@@ -10610,14 +10610,14 @@
   {
    "id": "bqA_2E_104",
    "jp": "どこを狙っている",
-   "en": "Where are you aiming?",
+   "en": "Where the hell are you aiming?",
    "recs": 1,
    "status": "done"
   },
   {
    "id": "bqA_2E_118",
    "jp": "なめるなっ！",
-   "en": "Don't underestimate me!",
+   "en": "Don't mess with me!",
    "recs": 1,
    "status": "done"
   },
@@ -10841,7 +10841,7 @@
   {
    "id": "bqA_2F_118",
    "jp": "なめるなっ！",
-   "en": "Don't underestimate me!",
+   "en": "Don't mess with me!",
    "recs": 1,
    "status": "done"
   },
@@ -11716,7 +11716,7 @@
   {
    "id": "bqA_33_10C",
    "jp": "あまいなっ！",
-   "en": "Too soft!",
+   "en": "Too sloppy!",
    "recs": 1,
    "status": "done"
   },
@@ -11758,7 +11758,7 @@
   {
    "id": "bqA_33_174",
    "jp": "直撃を受けているだと！？",
-   "en": "A direct hit!?",
+   "en": "I took a direct hit!?",
    "recs": 1,
    "status": "done"
   },
@@ -12276,7 +12276,7 @@
   {
    "id": "bqA_36_03C",
    "jp": "くっ、弾切れとはな！",
-   "en": "Ngh, out of ammo!",
+   "en": "Ngh, out of ammo, of all times!",
    "recs": 1,
    "status": "done"
   },
@@ -12346,7 +12346,7 @@
   {
    "id": "bqA_36_10C",
    "jp": "やられたぁぁぁっ！",
-   "en": "I'm hiiiit!",
+   "en": "I'm doooone for!",
    "recs": 1,
    "status": "done"
   },
@@ -12668,7 +12668,7 @@
   {
    "id": "bqA_37_1F8",
    "jp": "やってくれるな！",
-   "en": "You'll pay for that!",
+   "en": "Nice one, you did it to me!",
    "recs": 1,
    "status": "done"
   },
@@ -12850,7 +12850,7 @@
   {
    "id": "bqA_38_190",
    "jp": "当たりは、せん！",
-   "en": "You won't... hit me!",
+   "en": "You won't hit me!",
    "recs": 1,
    "status": "done"
   },
@@ -12864,7 +12864,7 @@
   {
    "id": "bqA_38_1B8",
    "jp": "あまい！",
-   "en": "Naive!",
+   "en": "Too naive!",
    "recs": 1,
    "status": "done"
   },
@@ -13746,7 +13746,7 @@
   {
    "id": "bqA_3C_190",
    "jp": "当たりは、せん！",
-   "en": "You won't... hit me!",
+   "en": "You won't land a hit!",
    "recs": 1,
    "status": "done"
   },
@@ -13760,7 +13760,7 @@
   {
    "id": "bqA_3C_1B8",
    "jp": "あまい！",
-   "en": "Naive!",
+   "en": "Too easy!",
    "recs": 1,
    "status": "done"
   },

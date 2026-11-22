@@ -464,7 +464,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　ベウマー！\n　そろそろ出発するぞ。\n\n",
-   "en": "Beumer! We'll be setting out soon.",
+   "en": "Beumer! Time we moved out.",
    "status": "done"
   },
   {
@@ -1564,7 +1564,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　兵力は！\n\n\n",
-   "en": "Their strength!",
+   "en": "What's their strength!",
    "status": "done"
   },
   {
@@ -1729,7 +1729,7 @@
    ],
    "speaker": "キャリ",
    "jp": "　司令官なんだろう。\n　ビシッと命令してくれよ。\n\n",
-   "en": "You're the commander, right? Give me a\nproper order, and make it snappy.",
+   "en": "You're the commander, right? Give me a\ncrisp order, then.",
    "status": "done"
   },
   {
@@ -1960,7 +1960,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それに\n　だったらついてこなきゃいいだろう。\n\n",
-   "en": "Besides, if you don't like it, you didn't have\nto come along.",
+   "en": "Besides, if you didn't like it, you shouldn't\nhave come along.",
    "status": "done"
   },
   {
@@ -2092,7 +2092,7 @@
    ],
    "speaker": "キャリ",
    "jp": "（……けどね）\n\n\n",
-   "en": "(...But y'know,)",
+   "en": "(...But, you know.)",
    "status": "done"
   },
   {
@@ -2642,7 +2642,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　自分でいうな。\n\n\n",
-   "en": "You're not supposed to agree.",
+   "en": "Don't say it yourself.",
    "status": "done"
   },
   {
@@ -3126,7 +3126,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　ああ。\n\n\n",
-   "en": "Yes.",
+   "en": "Yeah.",
    "status": "done"
   },
   {
@@ -3301,7 +3301,7 @@
     "0x716C"
    ],
    "jp": "　すべてはこの男から始まったのかもしれない\n\n　　　その男は神の代弁者たる存在であった\n　　だが、彼は神を否定し、故国を否定した\n\n　　　　　　　　味方を裏切り\n　　　　そして神までも敵に回した男は\n　　　自身が否定されたとき大きな賭に出る\n\n　偽りの神の代弁者はその賭の結果を問われたら\n　　　　　　こう答えるのだろうか\n\n　　　　　　　神のみぞ知ると……\n",
-   "en": "Perhaps it all began with this man.\n\nHe was one who spoke on behalf of God,\nyet he denied God, and his homeland.\n\nThe man who betrayed his allies\nand turned even God into his enemy\nmade a great gamble when he was denied.\n\nAsked how that gamble turned out,\nwould the false voice of God reply...\n\nOnly God knows...?",
+   "en": "Perhaps it all began with this man.\n\nHe was one who spoke on behalf of God,\nyet he denied God, and his homeland.\n\nThe man who betrayed his allies\nand turned even God into his enemy\nmade a great gamble when he was denied.\n\nAsked how that gamble turned out,\nwould the false voice of God reply...\n\nOnly God knows...",
    "status": "done"
   },
   {

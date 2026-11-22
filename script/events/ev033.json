@@ -233,7 +233,7 @@
    ],
    "speaker": "バージェス",
    "jp": "　向こうは、この件に関しては\n　状況の説明だけを求めておる。\n\n",
-   "en": "As for this matter, they ask only for an\nexplanation of what happened.",
+   "en": "As for this matter, they only ask for an\nexplanation of what happened, you see.",
    "status": "done"
   },
   {
@@ -783,7 +783,7 @@
    ],
    "speaker": "ダンカン",
    "jp": "　それまで\n　おとなしくしていろ。\n\n",
-   "en": "Until then, keep quiet.",
+   "en": "Until then, behave yourself.",
    "status": "done"
   },
   {
@@ -871,7 +871,7 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ラガーシュは\n　バルツフィームの属国では\n　ないというのに……。\n",
-   "en": "As if Ragash were some\nvassal state of Vartzpheem...",
+   "en": "Ragash is no vassal state of Vartzpheem,\nyet he acts like it...",
    "status": "done"
   },
   {
@@ -1124,7 +1124,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　これっ、静かにせんか！\n\n\n",
-   "en": "You there, quiet down!",
+   "en": "Hey now, hush up, will you!",
    "status": "done"
   },
   {
@@ -1377,7 +1377,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　まさか……、\n　まさかこんなことが……。\n\n",
-   "en": "It can't be... It can't be that this...",
+   "en": "It can't be... How could this be happening...",
    "status": "done"
   },
   {
@@ -1773,7 +1773,7 @@
    ],
    "speaker": "ドロービ",
    "jp": "　戦争なんか始まったら、\n　命がいくつあっても足りまへんがな。\n\n",
-   "en": "Once a war starts, ya can't have enough\nlives to go 'round, I tell ya.",
+   "en": "Once a war starts, no number of lives'd be\nenough, I tell ya.",
    "status": "done"
   },
   {

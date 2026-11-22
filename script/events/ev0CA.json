@@ -277,7 +277,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　……出撃して、\n　アルマに一騎打ちを所望するか？\n\n",
-   "en": "...So you can sortie and demand a duel\nwith Alma?",
+   "en": "...Do you mean to sortie and demand a duel\nwith Alma?",
    "status": "done"
   },
   {
@@ -1080,7 +1080,7 @@
    ],
    "speaker": "イェン",
    "jp": "　はい。\n\n\n",
-   "en": "Yes, my lady.",
+   "en": "Yes, Alma-sama.",
    "status": "done"
   },
   {
@@ -1245,7 +1245,7 @@
    ],
    "speaker": "トト",
    "jp": "　だって、あいつ、\n　おいらのことをニラむんだもん。\n\n",
-   "en": "But that guy keeps glaring at me!",
+   "en": "Well, he keeps glaring at me, so there!",
    "status": "done"
   },
   {
@@ -1410,7 +1410,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　トトは魔装機神を……。\n\n\n",
-   "en": "Toto would never take the Masoukishin...",
+   "en": "Toto, with the Masoukishin...",
    "status": "done"
   },
   {
@@ -1586,7 +1586,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ちょっと、ほめられると\n　すぐこれだ……）\n\n",
-   "en": "(Give him a little praise and look at him...)",
+   "en": "(Give him a little praise and he's like this\nright away...)",
    "status": "done"
   },
   {
@@ -1630,7 +1630,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　待った、\n　敵のプラーナ反応だ！\n\n\n",
-   "en": "Wait, enemy Prana readings!",
+   "en": "Wait, I'm picking up enemy Prana!",
    "status": "done"
   },
   {
