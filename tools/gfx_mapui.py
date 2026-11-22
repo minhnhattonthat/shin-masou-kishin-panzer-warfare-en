@@ -83,6 +83,12 @@ SPEC += [
     ("weapon", 80, 241, 31, 13, "Weapon", "tiny5", "w", W, "c", "武器"),
     ("evade", 145, 241, 30, 13, "Evade", "tiny5", "w", W, "c", "回避"),
     ("defend", 208, 241, 31, 13, "Defend", "tiny5", "w", W, "c", "防御"),
+] + [
+    # spirit markers (unit box after Lv., status bit = spirit id; D17 cell size): 16x16 bevelled tiles, glyph rect
+    # inside the bevel, white (1) on a left-to-right gradient. 加幸旋結協超 have no spirit in this game: left JP.
+    ("sp_%s" % en, 48 + 16 * c + 1, 32 + 16 * r + 1, 13, 13, en, "tiny5", "col", 1, "c", jp)
+    for jp, en, c, r in (("必", "St", 0, 0), ("集", "Fo", 1, 0), ("閃", "Al", 2, 0), ("鉄", "IW", 3, 0),
+                         ("熱", "Va", 4, 0), ("魂", "So", 5, 0), ("縛", "Sb", 2, 1), ("努", "Ga", 5, 1))
 ]
 
 
@@ -129,6 +135,14 @@ def draw_one(px, spec):
             t, b = (t if 9 <= t <= 14 else main), (b if 9 <= b <= 14 else main)
             for j in range(h):
                 grid[j][i] = t if (i + j) % 2 == 0 else b
+    elif kind == "col":  # horizontal gradient: each column takes its commonest non-ink, non-shadow value
+        cols = [collections.Counter(px[j][x + i] for j in range(y, y + h) if px[j][x + i] not in (1, 15))
+                for i in range(w)]
+        vals = [c.most_common(1)[0][0] if c else None for c in cols]
+        for i in range(w):  # an all-ink column takes its neighbour's value
+            if vals[i] is None:
+                vals[i] = vals[i - 1] if i else vals[1]
+        grid = [vals[:] for _ in range(h)]
     elif kind == "bar":  # dim bar: rows keep the left column's value
         for j in range(h):
             grid[j] = [px[y + j][x]] * w

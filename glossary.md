@@ -197,4 +197,6 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 - Map/status: 機体 Unit (tab), 命中 Aim, 適応 Terrain, 目的 Goal, 浮上 Surface, 受け Target, 正面/側面/背面
   Front/Side/Rear, 位置 Place, 朝/昼/夕/夜/闇 Dawn/Noon/Dusk/Night/Dark, 光の日/闇の日 Lightday/Darkday, 高さ Height,
   ターン数 Turns, 攻撃技 Attacks, 残りポイント Remaining Points. Flagged cell-size abbreviations (D17): 月 Mo, 日 Dy,
-  地 Gnd, 防/回/特 Def/Eva/Spc, 運 Luk, credits "Asst. Anim. Director", "Mecha Anim. Director".
+  地 Gnd, 防/回/特 Def/Eva/Spc, 運 Luk, credits "Asst. Anim. Director", "Mecha Anim. Director"; map unit box spirit
+  markers 閃集努必鉄熱魂縛 Al/Fo/Ga/St/IW/Va/So/Sb (加幸旋結協超: no spirit uses them, left JP); status class badges
+  兵民騎官 S/C/K/O (Soldier, Civilian, Knight, Officer).

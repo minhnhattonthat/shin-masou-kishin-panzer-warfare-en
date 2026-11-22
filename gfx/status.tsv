@@ -37,3 +37,7 @@ TIM.BIN	A5128	122	65	29	14	0	gfx/out/status/soul.png	img	auto	none	auto	center	G
 TIM.BIN	A5128	154	65	29	14	0	gfx/out/status/disrupt.png	img	auto	none	auto	center	G9 撹乱 -> Disrupt
 TIM.BIN	A5128	186	65	29	14	0	gfx/out/status/friendship.png	img	auto	none	auto	center	G9 友情 -> Friend ship
 TIM.BIN	A5128	218	65	29	14	0	gfx/out/status/love.png	img	auto	none	auto	center	G9 愛 -> Love
+TIM.BIN	A5128	65	81	11	10	0	gfx/out/status/cls_soldier.png	img	auto	none	auto	center	G9 兵 -> S
+TIM.BIN	A5128	81	81	11	10	0	gfx/out/status/cls_civilian.png	img	auto	none	auto	center	G9 民 -> C
+TIM.BIN	A5128	65	97	11	10	0	gfx/out/status/cls_knight.png	img	auto	none	auto	center	G9 騎 -> K
+TIM.BIN	A5128	81	97	11	10	0	gfx/out/status/cls_officer.png	img	auto	none	auto	center	G9 官 -> O

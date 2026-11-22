@@ -39,6 +39,14 @@ Addresses for the dump in `rom.sha1`. `$gp` = 0x801775C0 (set at 0x80129DA8: `lu
 - **Battle**: mashing circle on the map ends the player's turn (cursor starts on an empty tile); stage 5's enemies
   attack within ~6000 frames (mode 11, battle quotes). Stage 1's never engage within 24000 frames.
 
+- **Pilot records** (verified session 9, spirit menu fn 0x800DCEE4): 0x801786C0 + idx * 0xF0, idx = byte
+  0x801775D9 (current pilot); +0x0E SP, +0x0F.. spirit ids (0 Alert 1 Focus 2 Guts 3 Gain 4 Strike 5 Trust 6 Iron
+  Wall 7 Valor 8 Grit 9 Prana Heal 10 Spellbind 11 Soul 12 Disrupt 13 Friendship 14 Love 15 ???, 0x10 = empty).
+  Active-spirit bits of stage-1 Keigo's unit: u16 0x80178604, bit n = spirit id n; the map unit box draws one marker
+  after "Lv." (GRA5 0x11000 tiles). Recipe: `tools/lua/poke.lua --var AT=8 --var "POKE={[0x80178604]=2}"` from
+  `ev01_map_p1.sstate`, route "10 -;4 circle;60 -". **Pokes at frame 1 are overwritten by the state load**: use
+  AT >= 8 (why session 8's force_spirit / force_lvup recipes "did not take"). `tools/lua/peek.lua` logs bytes.
+
 ## Guess / open
 - Unit records near 0x178670 (stride guess 0x2D0, HP u16 at +0x16A): layout and team field not confirmed (stage 1:
   Keigo's ミッダスト shows HP 660 on screen; 5760/2760/910/660×3/550 in that range). Needed for GOD / stress values.

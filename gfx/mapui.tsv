@@ -62,3 +62,11 @@ GRA5.BIN	11000	5	241	55	13	9	gfx/out/mapui/start.png	img	auto	none	auto	center	G
 GRA5.BIN	11000	80	241	31	13	9	gfx/out/mapui/weapon.png	img	auto	none	auto	center	G11 武器 -> Weapon
 GRA5.BIN	11000	145	241	30	13	9	gfx/out/mapui/evade.png	img	auto	none	auto	center	G11 回避 -> Evade
 GRA5.BIN	11000	208	241	31	13	9	gfx/out/mapui/defend.png	img	auto	none	auto	center	G11 防御 -> Defend
+GRA5.BIN	11000	49	33	13	13	9	gfx/out/mapui/sp_St.png	img	auto	none	auto	center	G11 必 -> St
+GRA5.BIN	11000	65	33	13	13	9	gfx/out/mapui/sp_Fo.png	img	auto	none	auto	center	G11 集 -> Fo
+GRA5.BIN	11000	81	33	13	13	9	gfx/out/mapui/sp_Al.png	img	auto	none	auto	center	G11 閃 -> Al
+GRA5.BIN	11000	97	33	13	13	9	gfx/out/mapui/sp_IW.png	img	auto	none	auto	center	G11 鉄 -> IW
+GRA5.BIN	11000	113	33	13	13	9	gfx/out/mapui/sp_Va.png	img	auto	none	auto	center	G11 熱 -> Va
+GRA5.BIN	11000	129	33	13	13	9	gfx/out/mapui/sp_So.png	img	auto	none	auto	center	G11 魂 -> So
+GRA5.BIN	11000	81	49	13	13	9	gfx/out/mapui/sp_Sb.png	img	auto	none	auto	center	G11 縛 -> Sb
+GRA5.BIN	11000	129	49	13	13	9	gfx/out/mapui/sp_Ga.png	img	auto	none	auto	center	G11 努 -> Ga

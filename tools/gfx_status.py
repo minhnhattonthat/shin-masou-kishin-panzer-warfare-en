@@ -70,6 +70,11 @@ TILES = [("valor", 64, 16, "Valor", "熱血"), ("alert", 152, 16, "Alert", "閃�
          ("love", 216, 64, "Love", "愛")]
 for n, tx, ty, t, jp in TILES:
     SPEC.append((n, tx + 2, ty + 1, 29, 14, t, "tiny5", "tile", 14, 7, "c", jp))
+# pilot class badges (status pilot page, top right; one letter like the W badge beside them, D17 cell size)
+SPEC += [("cls_soldier", 65, 81, 11, 10, "S", "vwf", "badge", 8, None, "c", "兵"),
+         ("cls_civilian", 81, 81, 11, 10, "C", "vwf", "badge", 8, None, "c", "民"),
+         ("cls_knight", 65, 97, 11, 10, "K", "vwf", "badge", 7, None, "c", "騎"),
+         ("cls_officer", 81, 97, 11, 10, "O", "vwf", "badge", 7, None, "c", "官")]
 
 
 def _bitmap(f, t):
@@ -128,6 +133,8 @@ def draw_one(px, spec):
                         for a in range(max(0, i - 1), min(w, i + 2))):
                     grid[j][i] = 14
         _fill_rows(grid, lambda v: v in (7, 8, 9, 14, 15), random.Random(name))
+    elif kind == "badge":  # top-to-bottom gradient: each row takes the rect's right column (clear of the kanji)
+        grid = [[px[y + j][x + w - 1]] * w for j in range(h)]
     elif kind == "teal":
         _fill_rows(grid, lambda v: v not in (7, 9), random.Random(name))
     elif kind == "gold":  # the plate's own clean first and last rows, mixed at random: keeps its horizontal gradient
@@ -143,10 +150,11 @@ def draw_one(px, spec):
     total = cap_h * len(lines) + gap * (len(lines) - 1)
     cap0 = (h - total) // 2
     for n, (m, ct, ch) in enumerate(rend):
-        tw = len(m[0]) + (1 if edge is not None else 0)
+        bold = kind == "badge"  # 1 px strokes vanish on the badge gradient: smear 1 px right
+        tw = len(m[0]) + (1 if edge is not None else 0) + bold
         x0 = {"l": 0, "c": (w - tw) // 2, "r": w - tw}[align]
         y0 = cap0 + n * (cap_h + gap) - ct
-        on = {(x0 + i, y0 + j) for j, r in enumerate(m) for i, v in enumerate(r) if v}
+        on = {(x0 + i + b, y0 + j) for j, r in enumerate(m) for i, v in enumerate(r) if v for b in range(1 + bold)}
         sh = {(i + 1, j + 1) for i, j in on} - on if edge is not None else set()
         for i, j in on | sh:
             assert 0 <= i < w and 0 <= j < h, "%s: %r leaves its %dx%d rect (x %d..%d)" % (name, text, w, h, x0, x0 + tw)
