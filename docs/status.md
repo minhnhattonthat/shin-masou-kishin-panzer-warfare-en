@@ -253,6 +253,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `force_lvup` regenerated on ea1259ab, BUT forcing from them does not take (spname sheets all show Guts; a poke of
   the record name before menu open also shows Guts; force_lvup at banner+360 still shows the banner): re-derive
   the recipes before using these kinds again.
+  **Tour gate passes** (`qa_gate.py check work/qa/manifest.tsv work/qa/verdicts`: 558 ok/fixed, build 5b9f8e53
+  waived as a hotfix with the evidence above; verdicts `chunk_847f929d261e_*` + `fix_s8.tsv`). Visual QA found:
+  card 24 (and 1 px of card 18) kept a JP ち remnant right of the redraw rect → `gfx/cards.tsv` rect w 248, dx -26
+  (verified warp card17/card23); Alfredo's ev179_229C split "Rieg Gram / Garum" and bqA_2A_0FC split "Ag / Gebra"
+  → rewrapped (forced, `work/qa/explore/fix_wrap.png`; other glossary splits are titles like Royal/Capital, left);
+  unit box "Masoukishin Cybuster" tail appears a few frames late during the box fade-in (settled box whole and
+  bright: `work/qa/explore/cyb_z.png`) → ok. Build **5b9f8e53**, Check 44, smoke ok, textcover 0 failing.
 - **Next (phase 8), in order:** (0) finish the re-tour, gate (above); exe coverage (above); (a) done (bugs 1-3);
   (b) done except G13/G15 (unseen on both tours: waive with the VRAM evidence); (c) tour gate done (598/598, session
   4) but bug 7 changes long lines: re-tour after its fix; UI warp shots → verdicts (above); (d) the left-JP tiles
