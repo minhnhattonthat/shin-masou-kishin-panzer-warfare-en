@@ -42,6 +42,11 @@ Notes
   screen x=82 / 242, so 64 / 72 px. asm/vwf.asm `pilot_short` (0x8016DB80) swaps long class names for
   `script/confirm_short.tsv` forms there only (D18). The table's other user, the map unit-info box (0x800E2DF4,
   x=-38), has ~81 px.
+- **Map unit box** (circle on a unit; mech name exe string x=-38 y=74, pilot name = the unit record's copy at
+  0x801776E0 x=-38 y=90, `jal 0x80102D90` at 0x800E2DDC / 0x800E2E14): "Lv." is a sprite (0x800FE96C, x=`a1` at
+  0x800E2E28), the level number 0x80103774 (x at 0x800E2E64 for 1-9, 0x800E2E8C for 10+). "Masou Soldier" touched
+  Lv. at x=+0x28, so asm/vwf.asm moves Lv. and the number 8 px right (0x30 / 0x48 / 0x40): 86 px for the pilot.
+  Forced display of every name in both fields: `force_text.py pilot|mech` (2026-11-22).
 - **Intro scroll slots**: pages draw from slot 0 (0x80115998 / 0x80115A10, renderer x=-128 y=-88) and freed 0xC8;
   English pages draw up to ~336 glyphs, so `slots.py` frees 430 there (bug 4).
 - Glyphs fade in during the typewriter (late glyphs look grey in mid-typing shots): judge a box on its last frame.

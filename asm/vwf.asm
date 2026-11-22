@@ -109,6 +109,14 @@ vwf_byte:                               ; a0 byte, s1 -1, s2 sprite, s3 pen stat
   jal   pilot_short
 .org 0x800C6C2C                         ; right pilot
   jal   pilot_short
+; Map unit box: "Masou Soldier" (80 px) touched the "Lv." graphic at x 160+0x28. Lv. and the level number move
+; 8 px right (the row is empty up to the frame; docs/re/windows.md §Map unit box).
+.org 0x800E2E28
+  addiu a1, zero, 0x30                  ; Lv. graphic (was 0x28)
+.org 0x800E2E64
+  addiu a1, zero, 0x48                  ; level 1-9 (was 0x40)
+.org 0x800E2E8C
+  addiu a1, zero, 0x40                  ; level 10+ (was 0x38)
 .org SHORT_FREE
 pilot_short:                            ; a3 = string; a0-a2 and the stack args pass through untouched
   lui   t0, hi(SHORT_MAP)

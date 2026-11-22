@@ -39,6 +39,16 @@ KINDS = {
     # into the strings after it, which this list does not show
     "wpn": dict(prefix="exe_", lo=0xD38, hi=0x133C, state="work/states/force_wpn.sstate", addr=0x800A69E0,
                 crop="0,20,320,90"),
+    # map unit box (ev01_map_p1, circle on Keigo at f10 draws at f13): pilot field reads the unit record's name copy
+    # 0x801776E0, mech field the exe name exe_01CB8 (0x800A74B8); short names (No Pilot .. Zeldna) go in the pilot
+    # field, mech short + full names in the mech field
+    "pilot": dict(prefix="exe_", lo=0x134C, hi=0x14E0, state="work/states/ev01_map_p1.sstate", addr=0x801776E0,
+                  press=(10, "circle"), crop="0,170,320,70"),
+    "mech": dict(prefix="exe_", lo=0x193C, hi=0x1D68, state="work/states/ev01_map_p1.sstate", addr=0x800A74B8,
+                 press=(10, "circle"), crop="0,170,320,70"),
+    # status pilot page name (exe_01900 at 0x800A7100), redrawn by left from the mech page (warp im_status_mech)
+    "pfull": dict(prefix="exe_", lo=0x14E8, hi=0x1920, state="work/states/im_status_mech.sstate", addr=0x800A7100,
+                  press=(10, "left"), crop="0,0,320,110"),
 }
 
 
@@ -59,8 +69,8 @@ def run_chunk(n, items, a, k, keyrows):
            "--script", lua, "--script", os.path.join(ROOT, "tools/debug/force_text.lua"),
            "--var", "STATE='%s'" % os.path.abspath(k["state"]).replace("\\", "/"), "--var", "ADDR=%d" % k["addr"],
            "--var", "HOLD=%d" % a.hold, "--frames", str((a.hold + 2) * (len(items) + 2)), "--timeout", "3000"]
-    if a.press:
-        cmd += ["--var", "PRESS=%d" % a.press]
+    if a.press or k.get("press"):
+        cmd += ["--var", "PRESS=%d" % (a.press or k["press"][0]), "--var", "PRESS_KEY='%s'" % k.get("press", (0, "circle"))[1]]
     rc = subprocess.run(cmd, capture_output=True, text=True).returncode
     with open(os.path.join(out, "log.txt"), encoding="utf-8") as f:
         shown = [line.split()[1] for line in f if line.startswith("FORCED ")]
@@ -120,8 +130,9 @@ def main():
     p.add_argument("--press", type=int, default=0, help="press circle at this frame of each item")
     p.add_argument("--first", type=int, default=0, help="number of the first chunk (to add chunks to a run)")
     p.add_argument("--replace", metavar="DIR", help="copy a re-run's shots over OUT's and rebuild those sheets")
+    p.add_argument("--state", help="base savestate instead of the kind's (e.g. one made on another build)")
     a = p.parse_args()
-    k = KINDS[a.kind]
+    k = dict(KINDS[a.kind], **({"state": a.state} if a.state else {}))
     if a.replace:
         return replace(a, k)
     rows = cover.read_strings(os.path.splitext(a.rom)[0] + ".strings.tsv")

@@ -31,6 +31,7 @@ def exe_ranges(orig):
          (0x8010365C - B, 0x80103664 - B), (0x801030F4 - B, 0x80103114 - B),  # asm/vwf.asm hooks
          (insert.SHORT_FREE[0] - B, insert.SHORT_FREE[1] - B),  # pilot_short + its jal sites
          (0x800C6BFC - B, 0x800C6C00 - B), (0x800C6C2C - B, 0x800C6C30 - B)]
+    r += [(a - B, a - B + 4) for a in (0x800E2E28, 0x800E2E64, 0x800E2E8C)]  # map unit box Lv. x (asm/vwf.asm)
     r += [(o, o + 2 * 66) for _, o, _ in batquote.SETS]
     r += [(w, w + 4) for w, _, _ in insert.BQ.values()] + [(t, t + 12 * 65) for _, _, t in insert.BQ.values()]
     r += [(a - B, a - B + 4) for a, _, _ in slots.SITES] + [(a - B, a - B + 4) for a, _, _ in slots.WORDS]

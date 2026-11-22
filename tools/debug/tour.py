@@ -7,14 +7,19 @@ Per scene: OUT/<scene>/f*.png + log.txt, sheets in OUT/sheets/<scene>_sheet*.png
 Then: qa_gate.py init work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin. Exit 1 if a run failed."""
 import argparse
 import concurrent.futures as cf
+import glob
 import os
 import shutil
 import subprocess
 import sys
+import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.join(ROOT, "tools"))
 from skill import SKILL  # noqa: E402
+
+# PCSX-Redux failing to start: 0xC0000142 = out of desktop heap (too many emulators open machine-wide), retried
+RETRY_RC = {0xC0000142}
 
 
 def run(scene, a):
@@ -24,9 +29,17 @@ def run(scene, a):
            "--script", os.path.join(ROOT, "tools/debug/warp.lua"), "--var", "SCENE='%s'" % scene, "--var", "KEEP=1",
            "--frames", str(a.frames), "--shot-every", str(a.every), "--timeout", "3000",
            "--script", os.path.join(ROOT, "tools/lua/textcover.lua"), "--debugger"]  # PTR lines: tools/cover.py
-    rc = subprocess.run(cmd, capture_output=True, text=True).returncode
+    for _ in range(a.retry + 1):
+        rc = subprocess.run(cmd, capture_output=True, text=True).returncode
+        if rc not in RETRY_RC:
+            break
+        time.sleep(30)
     sheets = os.path.join(a.out, "sheets")
     os.makedirs(sheets, exist_ok=True)
+    if rc:
+        return scene, rc  # keep the scene's old sheets out of a fresh gate: the caller lists it as failed
+    for f in glob.glob(os.path.join(sheets, scene + "_sheet*.png")):  # a shorter run must not leave stale pages
+        os.remove(f)
     subprocess.run([sys.executable, "-X", "utf8", os.path.join(SKILL, "scripts", "sheet.py"), out, "--changed", "0.01",
                     "--out", os.path.join(sheets, scene + "_sheet.png")], capture_output=True, text=True)
     return scene, rc
@@ -40,6 +53,7 @@ def main():
     ap.add_argument("--jobs", type=int, default=4)
     ap.add_argument("--frames", type=int, default=20000)
     ap.add_argument("--every", type=int, default=40)
+    ap.add_argument("--retry", type=int, default=3, help="re-runs of a scene whose emulator failed to start")
     a = ap.parse_args()
     scenes = a.scenes or ["ev%02d" % k for k in range(1, 36)]
     bad = []

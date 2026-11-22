@@ -21,7 +21,8 @@ L.on_frame(function()
   if i == 0 then start(); return end
   t = t + 1
   if t == 1 then poke() end
-  if PRESS and t == PRESS then L.press("circle", 4) end  -- complete the text reveal (it stalls without input)
+  -- circle completes a text reveal (it stalls without input); PRESS_KEY opens the screen that draws ADDR
+  if PRESS and t == PRESS then L.press(PRESS_KEY or "circle", 4) end
   if t == (HOLD or 90) then
     L.shot("s_" .. ITEMS[i][1] .. ".png")
     L.log("FORCED " .. ITEMS[i][1])
