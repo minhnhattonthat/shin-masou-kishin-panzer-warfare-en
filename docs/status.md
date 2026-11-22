@@ -122,12 +122,28 @@ Updated at the end of every session. Keep it to what the next session needs; his
     measured box, glyph slots, stub last lines, byte max; `--final` fails untranslated lines. insert: speaker
     names from glossary.md Characters, msg newline padding, scroll centring. Tour: remaining Japanese on screen is
     all graphics (G6 option, G9 status labels/skills/spirits, G18 credits); no odd markers seen.
+- **Session 2026-11-22 (later):** EN tour ev17-35 finished on b6f10e61 (kept as `work/qa/tour_b6f1`). Build now
+  3813f21e (smoke ok): ev000 choice options [Other] / [Back to ...] centred like the JP (inkbox ok on 0005/0006/0007
+  of `work/play/choice_ch`; the other 15 op-0001 "choices" are plain messages, left-aligned like the JP).
+  **Text coverage tooling** (commit d8bfeb9): `tools/lua/textcover.lua` logs `PTR addr bytes`; build.py writes
+  `build/<out>.strings.tsv` (id, key, RAM addr, built bytes, quote twin) via `tools/cover.py`; `cover.py logs DIR..
+  --out work/qa/cover` matches PTRs by address+bytes (event blocks/overlays/quote slots share RAM) and writes TEXT
+  keys for `$SKILL/scripts/textcover.py work/qa/cover build/smk_en.strings.tsv --waive docs/text_unshown.tsv`.
+  tour.py always loads the probe; `warp_all.py --cover` too. `tools/lua/stop_at.lua STOP=<addr>` saves a state when
+  a string is drawn (play.py start point for any event line). Running: full EN tour ev01-35 on 3813f21e with the
+  probe → `work/qa/tour` (log `work/qa/tour_full.log`); manifest `work/qa/manifest.tsv` (596 sheets, init'd from the
+  b6f1 sheets copied into `work/qa/tour/sheets`; re-run `qa_gate.py init` after the tour: unchanged sheets keep
+  their verdicts); visual-QA chunks `work/qa/chunks/chunk_343280f8144c_000..019`, verdicts `work/qa/verdicts/`
+  (000-007 dispatched).
 - **Next (phase 8), in order:** (a) done (bugs 1-3 above); (b) done except G12/G13/G15 (unseen, see
-  above: look for them on the tour sheets, else waive with the VRAM evidence); (c) finish the EN tour (ev17-ev35,
-  `--jobs 2`), then qa_gate + visual-QA
-  verdicts on every sheet (UI warp scenes too: add their scene.png sheets to the manifest); (d) the left-JP tiles
-  and FMV mov01; (e) inkbox on choices/centred menus; (f) stress saves (needs `save.py` / unit record layout);
-  (g) `textcover.py` (strings.lua logs STR <ram ptr>; build must emit build/strings.tsv with RAM addresses).
+  above: look for them on the tour sheets, else waive with the VRAM evidence); (c) visual-QA verdicts for the rest
+  of the chunks, fix issues, re-init after the tour, `qa_gate.py check`; UI warp scenes: `warp_all.py --rom
+  build/smk_en.cue --out work/qa/warp_en --cover`, add their scene.png to the manifest; (d) the left-JP tiles
+  (GRA5 0x11000 single-kanji icons 必集閃鉄熱魂加 / 幸旋縛結協努超 = spirit/status markers: find the screen) and FMV
+  mov01; (e) centred menus left for inkbox: YES/NO exe_04064/040B0, win/lose condition lines exe_AD684-AD8B1 (find
+  their screen on the tour sheets); (f) stress saves (needs `save.py` / unit record layout); (g) coverage report
+  after the tour: `cover.py logs work/qa/tour work/qa/warp_en`, then textcover; battle quotes (2061 x 2) need a
+  forced-quote run (picker 0x801194C0, docs/re/battle.md) or waivers with reasons.
   Exe px widths are unmeasured for most menus (lint "unmeasured exe 885"): judge them on the sheets. exe_B60F4
   ("...Tiger's Tail") is pointer-reached, so its polish.md suggestion can now apply (it moves); ov_ECE34 / ov_ECE54
   are fixed 31-byte fields.
