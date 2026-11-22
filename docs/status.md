@@ -134,7 +134,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   probe → `work/qa/tour` (log `work/qa/tour_full.log`); manifest `work/qa/manifest.tsv` (596 sheets, init'd from the
   b6f1 sheets copied into `work/qa/tour/sheets`; re-run `qa_gate.py init` after the tour: unchanged sheets keep
   their verdicts); visual-QA chunks `work/qa/chunks/chunk_343280f8144c_000..019`, verdicts `work/qa/verdicts/`
-  (000-007 dispatched).
+  (000-007 reviewed on the b6f1 sheets; 001 and 006 flagged bug 4 below; 008-019 not dispatched). The full tour
+  run was still going (ev03+) at hand-back: if `work/qa/tour_full.log` is short of ev35, re-run the missing scenes.
 - **Next (phase 8), in order:** (a) done (bugs 1-3 above); (b) done except G12/G13/G15 (unseen, see
   above: look for them on the tour sheets, else waive with the VRAM evidence); (c) visual-QA verdicts for the rest
   of the chunks, fix issues, re-init after the tour, `qa_gate.py check`; UI warp scenes: `warp_all.py --rom
@@ -157,7 +158,25 @@ Updated at the end of every session. Keep it to what the next session needs; his
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the
   warps reach every stage without saves; a forced intermission has zeroed stats, so menu stress values need RAM
   writes or the editor then.
-- **Open bugs:** none known. Closed 2026-11-22: (1) the fixed-slot screen 0x8011C178 (slots 0x180-0x1FF) is a
+- **Open bugs:** (4) **chapter-intro scroll text stays on screen** after the intro/card in EN (JP clears it):
+  ev03_sheet tile 16 + ev03_sheet_2 tiles 1-6, ev04_sheet_2 1-4, ev13_sheet_2 1-8, ev14_sheet_2 1-8, ev15_sheet 16 ->
+  ev15_sheet_2 (b6f1 tour, `work/qa/tour_b6f1/sheets`, JP `work/qa/tour_jp/sheets` same names): the last scroll
+  page's centred lines freeze near the screen bottom and stay over the logo, map, base picture and the next dialogue
+  box. Likely every stage. Suspects: the u16 table before each intro scroll (scripts.md §All text: per-line
+  timing/positions, insert keeps each page's line count but not the table), or more glyph sprites per page than the
+  scroll's clear loop releases (EN lines are far longer in glyphs than the JP's). Repro: warp evNN KEEP=1 (tour.py),
+  compare frames with the JP run; fix in insert/asm, re-tour. Fix it BEFORE dispatching chunks 008-019 (most sheets
+  would flag it). Also ev05/ev06 (chunk 002): the last 2 lines of the final page stay lit while the rest fades.
+  Unconfirmed (chunk 002): battle forecast row 2 (ev05_sheet_16 t4, ev05_sheet_24 t2) shows dots where the JP has
+  ⅠⅡ; check at full resolution. ev07_sheet t14: two crawl strings drawn on top of each other; ev08_sheet t15 a
+  stray "ing," fragment (same bug). (6) **pilot class overlaps "Lv."** on the battle confirm screen: "Masou
+  SoldieLv. 5" (ev06_sheet_14 t6, _18 t15), "Masou KnightLv. 8" touches (ev06_sheet_13 t11): every battle; measure
+  the class field and shorten/re-place (D4: engine first). Chunks 000-007 verdicts all written (bugs 4-6 + one-word
+  last lines are the issues). (5) **one-word last lines** in dialogue ("anyway?", "contractor.", ...): chunk 007 lists ids
+  (ev0A1_08E8 0C68 0CC0 1070 139C 14F0 16F0 19F4, ev0AF_0A38 0AB0 0CA8 0D80 0DB8 10E4, ev0B8_18C4 194C); ~21 in
+  ev0A1 and ~15 in ev0AF alone, ~566 script-wide (chunk 005 count; some chunks marked them ok, so re-check chunk
+  verdicts after the fix). lint flags only last lines under 6 chars, so it misses them: tighten it (one word on the last line of a
+  box) and rewrap/reword script-wide, then re-tour. Earlier, none known. Closed 2026-11-22: (1) the fixed-slot screen 0x8011C178 (slots 0x180-0x1FF) is a
   battle-test setup screen (labels 味方 右側 / 敵 左側, mode 11 state 0 of 0x8011A4F8); the real map confirm and
   enemy-phase counter screens use the running counter (0x800C6Bxx) and slots 0x180-0x1FF stayed empty through a
   whole battle (`work/qa/confirm_battle`): left as is. (2) map after a battle: clean (`work/play/confirm/0014.png`).
