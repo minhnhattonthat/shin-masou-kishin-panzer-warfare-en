@@ -34,8 +34,9 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - anything identical in the original's sheet.
 - Japanese inside graphics (chapter-card logo 真魔装機神 / PANZER WARFARE, the title logo, the Cybuster advert FMV
   mov01, the memory-card system title 真・魔装機神システム and the card's save line: kept Japanese, D5 / D14);
-- graphics-text screens not yet redrawn in the build the tour ran on (map command / status / option / battle
-  labels, prologue pages, credits): `ok` with the note "gfx pending" unless the text layer itself is broken;
+- credits pseudonyms 摯 and 遺 (single kanji kept JP, D17) and abbreviated graphics labels Mo, Dy, Gnd, Def/Eva/Spc,
+  Luk (D17). Other graphics text (map command / status / option / battle labels, prologue, credits) is redrawn in
+  English: Japanese left in it (e.g. single-kanji spirit icons, 兵民騎官 status tiles) is an `issue`;
 - dialogue speaker label above the text, honorifics like -san / -sama (D1), no 「」 quotes (D8);
 - the 8 HUD army labels abbreviated V./N./R. Soldier/Knight, Rebel Sol./Kt. (D15, the JP abbreviates too).
 

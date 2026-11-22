@@ -1014,7 +1014,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（移動のやり方が思い出せない……！？）\n（攻撃のやり方が思い出せない……！？）\n　　　　　　{h}　【その他】\n",
-   "en": "(I can't remember how to move...!?)\n(I can't remember how to attack...!?)\n{h}[Other]",
+   "en": "(I can't remember how to move...!?)\n(I can't remember how to attack...!?)\n                        {h}[Other]",
    "status": "done"
   },
   {
@@ -1025,7 +1025,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（飛行や潜水のやり方が思い出せない！）\n（プラーナゲージってなんだ！？）\n　　　　　　{h}　【その他】\n",
-   "en": "(I can't remember how to fly or dive!)\n(What's the Prana Gauge again!?)\n{h}[Other]",
+   "en": "(I can't remember how to fly or dive!)\n(What's the Prana Gauge again!?)\n                        {h}[Other]",
    "status": "done"
   },
   {
@@ -1036,7 +1036,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（もう大丈夫。全部、思い出したよな）\n　　　　【最初の選択にもどる】\n　　　　【１つ前の選択に戻る】\n",
-   "en": "(I'm fine now. I remember it all.)\n[Back to the first choice]\n[Back to the previous choice]",
+   "en": "(I'm fine now. I remember it all.)\n            [Back to the first choice]\n         [Back to the previous choice]",
    "status": "done"
   },
   {
