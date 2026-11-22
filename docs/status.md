@@ -146,15 +146,29 @@ Updated at the end of every session. Keep it to what the next session needs; his
   if short of ev35, re-run the missing scenes. Then re-init the manifest, re-check chunks 000-007 (bugs fixed) and
   dispatch the rest. Spirit marker tiles (GRA5 0x11000): not shown by Guts (instant); need a pilot with a lasting
   spirit (Focus/Alert/...) on a later map, or the unit record's spirit flags.
-- **Next (phase 8), in order:** (a) done (bugs 1-3 above); (b) done except G12/G13/G15 (unseen, see
-  above: look for them on the tour sheets, else waive with the VRAM evidence); (c) visual-QA verdicts for the rest
-  of the chunks, fix issues, re-init after the tour, `qa_gate.py check`; UI warp scenes: `warp_all.py --rom
-  build/smk_en.cue --out work/qa/warp_en --cover`, add their scene.png to the manifest; (d) the left-JP tiles
+- **Session 2026-11-22 (4):** full EN tour on c62b2dce done (35/35, deterministic: a re-tour of ev23 on the next
+  build changed only the 2 sheets whose text changed). **Visual-QA gate passes**: 598/598 sheets have a verdict
+  (`qa_gate.py check` exit 0, manifest `work/qa/manifest.tsv` init'd on build d4f5130a). Codex was out of quota
+  (until 2026-11-26), so the verdicts are from a separate read-only pass in this session, every sheet viewed, menus/
+  confirm/battle HUD/3-line boxes zoomed from the raw frames (scratch helper wrote `work/qa/codex/zoom/`), oddities
+  compared with `work/qa/tour_jp`. Bugs 4/5/6 confirmed fixed on the sheets. One new bug, fixed (a49d7f5): speaker
+  label 民間兵 drew "Militiaman / Militiamen" (insert.speaker_names took the whole glossary cell; now the first form;
+  test). G12 battle "Damage" label seen in English (ev20_sheet_21 t9, ev27_sheet_19 t16): closed. G13 reaction
+  cut-ins and G15 caption: still on no sheet of either tour (EN or JP) → waive with the VRAM evidence above.
+  Running at hand-back: `warp_all.py --rom build/smk_en.cue --out work/qa/warp_en --cover --jobs 2` (log
+  `work/qa/warp_en.log`) for the coverage logs; if the log is short of 123 scenes, re-run with `--resume`.
+- **Next (phase 8), in order:** (a) done (bugs 1-3); (b) done except G13/G15 (unseen on both tours: waive with
+  the VRAM evidence); (c) tour gate done (598/598, session 4); still: smoke on d4f5130a, and once the warp sweep
+  above finishes add its UI scene.png shots to the manifest (`qa_gate.py init ... work/qa/warp_en --glob
+  "scene.png"`) and give them verdicts; (d) the left-JP tiles
   (GRA5 0x11000 single-kanji icons 必集閃鉄熱魂加 / 幸旋縛結協努超 = spirit/status markers: find the screen) and FMV
   mov01; (e) centred menus left for inkbox: YES/NO exe_04064/040B0, win/lose condition lines exe_AD684-AD8B1 (find
   their screen on the tour sheets); (f) stress saves (needs `save.py` / unit record layout); (g) coverage report
   after the tour: `cover.py logs work/qa/tour work/qa/warp_en`, then textcover; battle quotes (2061 x 2) need a
-  forced-quote run (picker 0x801194C0, docs/re/battle.md) or waivers with reasons.
+  forced-quote run (picker 0x801194C0, docs/re/battle.md) or waivers with reasons. Still unconfirmed from the
+  b6f1 chunk 002: battle forecast row 2 dots where the JP has ⅠⅡ (ev05_sheet_16 t4): check at full resolution.
+  Visual QA: read sheets via the visual-qa subagent or `codex exec` (quota back 2026-11-26) where the dispatch
+  allows; a main-thread pass costs ~600 images of context.
   Exe px widths are unmeasured for most menus (lint "unmeasured exe 885"): judge them on the sheets. exe_B60F4
   ("...Tiger's Tail") is pointer-reached, so its polish.md suggestion can now apply (it moves); ov_ECE34 / ov_ECE54
   are fixed 31-byte fields.
@@ -168,25 +182,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the
   warps reach every stage without saves; a forced intermission has zeroed stats, so menu stress values need RAM
   writes or the editor then.
-- **Open bugs:** (4) **chapter-intro scroll text stays on screen** after the intro/card in EN (JP clears it):
-  ev03_sheet tile 16 + ev03_sheet_2 tiles 1-6, ev04_sheet_2 1-4, ev13_sheet_2 1-8, ev14_sheet_2 1-8, ev15_sheet 16 ->
-  ev15_sheet_2 (b6f1 tour, `work/qa/tour_b6f1/sheets`, JP `work/qa/tour_jp/sheets` same names): the last scroll
-  page's centred lines freeze near the screen bottom and stay over the logo, map, base picture and the next dialogue
-  box. Likely every stage. Suspects: the u16 table before each intro scroll (scripts.md §All text: per-line
-  timing/positions, insert keeps each page's line count but not the table), or more glyph sprites per page than the
-  scroll's clear loop releases (EN lines are far longer in glyphs than the JP's). Repro: warp evNN KEEP=1 (tour.py),
-  compare frames with the JP run; fix in insert/asm, re-tour. Fix it BEFORE dispatching chunks 008-019 (most sheets
-  would flag it). Also ev05/ev06 (chunk 002): the last 2 lines of the final page stay lit while the rest fades.
-  Unconfirmed (chunk 002): battle forecast row 2 (ev05_sheet_16 t4, ev05_sheet_24 t2) shows dots where the JP has
-  ⅠⅡ; check at full resolution. ev07_sheet t14: two crawl strings drawn on top of each other; ev08_sheet t15 a
-  stray "ing," fragment (same bug). (6) **pilot class overlaps "Lv."** on the battle confirm screen: "Masou
-  SoldieLv. 5" (ev06_sheet_14 t6, _18 t15), "Masou KnightLv. 8" touches (ev06_sheet_13 t11): every battle; measure
-  the class field and shorten/re-place (D4: engine first). Chunks 000-007 verdicts all written (bugs 4-6 + one-word
-  last lines are the issues). (5) **one-word last lines** in dialogue ("anyway?", "contractor.", ...): chunk 007 lists ids
-  (ev0A1_08E8 0C68 0CC0 1070 139C 14F0 16F0 19F4, ev0AF_0A38 0AB0 0CA8 0D80 0DB8 10E4, ev0B8_18C4 194C); ~21 in
-  ev0A1 and ~15 in ev0AF alone, ~566 script-wide (chunk 005 count; some chunks marked them ok, so re-check chunk
-  verdicts after the fix). lint flags only last lines under 6 chars, so it misses them: tighten it (one word on the last line of a
-  box) and rewrap/reword script-wide, then re-tour. Earlier, none known. Closed 2026-11-22: (1) the fixed-slot screen 0x8011C178 (slots 0x180-0x1FF) is a
+- **Open bugs:** none. Fixed 2026-11-22: (4) intro scroll left on screen, (5) one-word last lines, (6) class
+  over "Lv." (session 3), militiaman speaker label (session 4); all re-checked on the tour sheets. Closed 2026-11-22: (1) the fixed-slot screen 0x8011C178 (slots 0x180-0x1FF) is a
   battle-test setup screen (labels 味方 右側 / 敵 左側, mode 11 state 0 of 0x8011A4F8); the real map confirm and
   enemy-phase counter screens use the running counter (0x800C6Bxx) and slots 0x180-0x1FF stayed empty through a
   whole battle (`work/qa/confirm_battle`): left as is. (2) map after a battle: clean (`work/play/confirm/0014.png`).
