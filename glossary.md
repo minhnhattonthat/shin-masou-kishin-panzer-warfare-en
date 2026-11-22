@@ -88,7 +88,7 @@ any of several EN forms separated by ` / ` counts). Rows marked (speaker) are th
 | 騎士候補兵 | Knight Cadet | | (speaker) | |
 | 従者 | Attendant | | (speaker) | |
 | 整備兵 | Mechanic | | (speaker) | |
-| 民間兵 | Militiaman / Militiamen | | (speaker) | |
+| 民間兵 | Militiaman / Militiamen | | (speaker label = the first form) | |
 | ツァディ | Tsadi | | | |
 | ベウマーのおっちゃん | Uncle Beumer | | Toto's name for him | |
 | シェスねえちゃん | Sis Shess | | Toto's name for her | |

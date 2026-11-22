@@ -106,7 +106,7 @@ def speaker_names(glossary=Path(__file__).resolve().parents[1] / "glossary.md"):
         elif on and row.startswith("|"):
             cells = [c.strip() for c in row.strip("|").split("|")]
             if len(cells) > 1 and cells[0] not in ("JP", "") and not set(cells[0]) <= set("-"):
-                names[cells[0]] = cells[1]
+                names[cells[0]] = cells[1].split(" / ")[0]  # "A / B" = accepted forms; the label is A
     return names
 
 

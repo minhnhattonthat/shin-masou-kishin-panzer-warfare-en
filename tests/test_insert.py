@@ -138,9 +138,9 @@ def test_marker_every_pointer_reaches_its_marker(tree):
 
 def test_speaker_names(tmp_path):
     g = tmp_path / "g.md"
-    g.write_text("## Characters\n| JP | EN | max |\n|---|---|---|\n| ケイゴ | Keigo | |\n\n## Places\n| JP | EN |\n"
-                 "| 王都 | Capital |\n", encoding="utf-8")
-    assert insert.speaker_names(g) == {"ケイゴ": "Keigo"}
+    g.write_text("## Characters\n| JP | EN | max |\n|---|---|---|\n| ケイゴ | Keigo | |\n| 民間兵 | Militiaman / Militiamen | |\n"
+                 "\n## Places\n| JP | EN |\n| 王都 | Capital |\n", encoding="utf-8")
+    assert insert.speaker_names(g) == {"ケイゴ": "Keigo", "民間兵": "Militiaman"}
 
 
 def test_pool_overflow_spills_past_the_block_end(tree, bare):
