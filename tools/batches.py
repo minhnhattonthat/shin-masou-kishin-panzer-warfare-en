@@ -3,6 +3,7 @@
     python -X utf8 tools/batches.py split [--size 3500]   work/tl/bNNN.tsv and build/terms_bNNN.txt for untranslated JP
     python -X utf8 tools/batches.py check [bNNN ...]      a batch's .out.tsv; with no batch, all shipped English (for check.py)
     python -X utf8 tools/batches.py merge bNNN ... [--overwrite]   check, then write the English into script/
+    python -X utf8 tools/batches.py rewrap                re-wrap all shipped msg/bq English (hard breaks kept)
     python -X utf8 tools/batches.py terms                 refresh build/terms_bNNN.txt after a glossary edit
 
 Copied from the skill's assets/batches.py. Fit the ADAPTER section to this game's text format; the rest is shared.
@@ -69,7 +70,7 @@ def jp_cell(entry):
     return entry["jp"].rstrip("\n").replace("\n", " / ")
 
 
-def _wrap1(seg, px):
+def _greedy(seg, px):
     if font.width_px(seg) <= px:
         return [seg]
     lines, cur = [], ""
@@ -80,11 +81,35 @@ def _wrap1(seg, px):
         else:
             cur = (cur + " " + w) if cur else w
     lines.append(cur)
-    if len(lines) > 1 and len(lines[-1]) < 6:  # pull a word down rather than leave a stub
-        head, _, last = lines[-2].rpartition(" ")
-        if head and font.width_px(last + " " + lines[-1]) <= px:
-            lines[-2:] = [head, last + " " + lines[-1]]
     return lines
+
+
+def _wrap1(seg, px):
+    """Greedy wrap; if that leaves one word alone on the last line (bug 5), balance instead: the narrowest width
+    that still gives the same number of lines."""
+    lines = _greedy(seg, px)
+    if len(lines) > 1 and len(lines[-1].split()) == 1:
+        lo, hi = 1, px
+        while lo < hi:
+            mid = (lo + hi) // 2
+            if len(_greedy(seg, mid)) <= len(lines):
+                hi = mid
+            else:
+                lo = mid + 1
+        lines = _greedy(seg, lo)
+    return lines
+
+
+def soft_segments(en, px):
+    """Stored wrapped English -> its segments: a break is soft (made by the wrap) when the next line's first word
+    would not have fitted on the line before it; a hard break (the translator's) is kept as a literal \\n."""
+    lines, segs = en.split("\n"), []
+    for i, t in enumerate(lines):
+        if i and lines[i - 1] and t and font.width_px(lines[i - 1] + " " + t.split()[0]) > px:
+            segs[-1] += " " + t
+        else:
+            segs.append(t)
+    return "\\n".join(segs)
 
 
 def wrap(entry, en):
@@ -282,6 +307,10 @@ def main(argv):
     overwrite = "--overwrite" in args
     names = [a for a in args if a != "--overwrite"]
     entries, terms = index(), glossary()
+    if cmd == "rewrap":  # re-run the wrap on shipped English (after a wrap rule change), keeping hard breaks
+        new = {k: wrap(e, soft_segments(e["en"], WRAP[form(e)])) for k, e in entries.items()
+               if e.get("en") and form(e) in WRAP}
+        return merge(new, True)
     if cmd == "check" and not names:
         bad = [f"{i}: {p}: {e['en']!r}" for i, e in entries.items() if e.get("en") for p in problems(e, e["en"], terms)]
         print(f"{len(entries)} entries, {len(bad)} problems")
@@ -308,6 +337,11 @@ def _selftest():
     out = wrap(msg, long).split("\n")
     assert len(out) > 1 and all(font.width_px(t) <= DIALOGUE_PX for t in out) and len(out[-1]) >= 6
     assert wrap(msg, "A\\nB") == "A\nB"  # literal \n from the TSV forces a break
+    orphan = "If only I had committed more of our forces..."  # greedy leaves "forces..." alone (bug 5)
+    out = wrap(msg, orphan).split("\n")
+    assert len(out) == 2 and len(out[-1].split()) > 1, out
+    assert soft_segments("\n".join(_greedy(orphan, DIALOGUE_PX)), DIALOGUE_PX) == orphan  # greedy breaks are soft
+    assert soft_segments("Hi.\nYes.", DIALOGUE_PX) == "Hi.\\nYes."  # "Yes." fits after "Hi.": a hard break
     assert wrap({"id": "exe_1", "jp": "あ", "max": 4}, "Hi there") == "Hi there"  # menus are never wrapped
     assert width_problems({"id": "exe_1", "jp": "あ", "max": 4}, "Hi there")  # 8 bytes > 4
     print("selftest ok")

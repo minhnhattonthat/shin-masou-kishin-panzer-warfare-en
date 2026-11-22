@@ -79,7 +79,7 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　だが、その道を進まねば\n　我々の未来はない。\n\n",
-   "en": "But unless we walk that road, we have no\nfuture.",
+   "en": "But unless we walk that\nroad, we have no future.",
    "status": "done"
   },
   {
@@ -266,7 +266,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　それに副長たちが\n　後ろに控えていてくれるんですから\n　こんな心強いことはありませんよ。\n",
-   "en": "Besides, with you and the others backing\nus up, Vice-Captain, nothing could be more\nreassuring.",
+   "en": "Besides, with you and the others\nbacking us up, Vice-Captain,\nnothing could be more reassuring.",
    "status": "done"
   },
   {
@@ -277,7 +277,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　あら、\n　ずいぶん立派な言葉ね。\n　ケイゴらしくない。\n",
-   "en": "My, what fine words. That's not like you,\nKeigo.",
+   "en": "My, what fine words.\nThat's not like you, Keigo.",
    "status": "done"
   },
   {
@@ -926,7 +926,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　おそらく\n　魔装機神隊が先陣を切って\n　攻撃してくるはずです。\n",
-   "en": "Most likely, the Masoukishin unit will lead the\ncharge.",
+   "en": "Most likely, the Masoukishin\nunit will lead the charge.",
    "status": "done"
   },
   {
@@ -948,7 +948,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　我々が\n　反撃にでることも可能でしょう。\n\n",
-   "en": "...it should be possible for us to mount a\ncounterattack.",
+   "en": "...it should be possible for us\nto mount a counterattack.",
    "status": "done"
   },
   {
@@ -992,7 +992,7 @@
    ],
    "speaker": "アデノイド",
    "jp": "　バルツフィーム解放軍の攻勢作戦を\n　食い止めるのだ。\n\n",
-   "en": "Stop the Vartzpheem Liberation Army's\noffensive.",
+   "en": "Stop the Vartzpheem\nLiberation Army's offensive.",
    "status": "done"
   },
   {
@@ -1113,7 +1113,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　……いや、\n　へたをするとすぐにでも……。\n\n",
-   "en": "...No, at worst, they could be here any\nmoment...",
+   "en": "...No, at worst, they could\nbe here any moment...",
    "status": "done"
   },
   {
@@ -1135,7 +1135,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　王都周辺に\n　全部隊を配置し迎撃に当たる。\n\n",
-   "en": "Deploy all units around the Royal Capital and\nintercept.",
+   "en": "Deploy all units around the\nRoyal Capital and intercept.",
    "status": "done"
   },
   {
@@ -1289,7 +1289,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　オレは部下の血を\n　ムダに流し過ぎた。\n\n",
-   "en": "I've spilled too much of my men's blood for\nnothing.",
+   "en": "I've spilled too much of my\nmen's blood for nothing.",
    "status": "done"
   },
   {
@@ -1388,7 +1388,7 @@
    ],
    "speaker": "キャリ",
    "jp": "　あのときも\n　勝ち目はないといわれてたっけ。\n\n",
-   "en": "Back then, too, they said you didn't stand a\nchance.",
+   "en": "Back then, too, they said\nyou didn't stand a chance.",
    "status": "done"
   },
   {
@@ -1586,7 +1586,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　しまった。\n　魔装機神だけで\n　攻撃を仕掛けてくるとは……。\n",
-   "en": "Damn. To attack with only the\nMasoukishin...",
+   "en": "Damn. To attack with\nonly the Masoukishin...",
    "status": "done"
   },
   {
@@ -1597,7 +1597,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　部隊の再編状況はどうなっている。\n\n\n",
-   "en": "What's the status of the unit\nreorganization?",
+   "en": "What's the status of\nthe unit reorganization?",
    "status": "done"
   },
   {
@@ -1927,7 +1927,7 @@
    ],
    "speaker": "イェン",
    "jp": "　なにしろ、魔装機神４機だけで\n　本陣を奇襲するなんて\n　普通は考えませんからね。\n",
-   "en": "After all, no one would normally think of\nraiding their headquarters with only four\nMasoukishin.",
+   "en": "After all, no one would normally\nthink of raiding their headquarters\nwith only four Masoukishin.",
    "status": "done"
   },
   {
@@ -2136,7 +2136,7 @@
    ],
    "speaker": "キャリ",
    "jp": "　王都には\n　絶対近づけるな！！\n\n",
-   "en": "Don't let them anywhere near the Royal\nCapital!!",
+   "en": "Don't let them anywhere\nnear the Royal Capital!!",
    "status": "done"
   },
   {
@@ -2334,7 +2334,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうね。\n　深追いすると危険だわ。\n\n",
-   "en": "Yes. Pursuing them too far would be\ndangerous.",
+   "en": "Yes. Pursuing them too\nfar would be dangerous.",
    "status": "done"
   },
   {
@@ -2378,7 +2378,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうですね。\n　思ったよりも\n　激しい戦闘だったし……。\n",
-   "en": "Yeah. The battle was fiercer than I\nexpected...",
+   "en": "Yeah. The battle was\nfiercer than I expected...",
    "status": "done"
   },
   {
@@ -2389,7 +2389,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　副長に\n　連絡を取らなきゃ。\n\n",
-   "en": "I need to get in touch with the\nVice-Captain.",
+   "en": "I need to get in touch\nwith the Vice-Captain.",
    "status": "done"
   },
   {
@@ -2433,7 +2433,7 @@
    ],
    "speaker": "イェン",
    "jp": "　口だけは\n　まだ、戦えそうですね。\n\n",
-   "en": "His mouth, at least, seems ready to keep\nfighting.",
+   "en": "His mouth, at least, seems\nready to keep fighting.",
    "status": "done"
   },
   {
@@ -2576,7 +2576,7 @@
    ],
    "speaker": "ベウマー",
    "jp": "　隊長は、やめてくださいよ。\n　フルカス副長。\n\n",
-   "en": "Please, don't call me Captain, Vice-Captain\nFurcas.",
+   "en": "Please, don't call me Captain,\nVice-Captain Furcas.",
    "status": "done"
   },
   {
@@ -2598,7 +2598,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　今さらながら\n　おまえの苦労がわかったよ。\n\n",
-   "en": "Only now do I understand what you went\nthrough.",
+   "en": "Only now do I understand\nwhat you went through.",
    "status": "done"
   },
   {
@@ -2697,7 +2697,7 @@
    ],
    "speaker": "ベウマー",
    "jp": "　最初は、あいつ一人で\n　いくつもりだったようですけどね。\n\n",
-   "en": "At first, seems he meant to go all by\nhimself.",
+   "en": "At first, seems he meant\nto go all by himself.",
    "status": "done"
   },
   {
@@ -2829,7 +2829,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　兵の上に立つ人間の言葉ではないな。\n\n\n",
-   "en": "Hardly the words of a man who leads\nsoldiers.",
+   "en": "Hardly the words of a\nman who leads soldiers.",
    "status": "done"
   },
   {
@@ -3214,7 +3214,7 @@
    ],
    "speaker": "キャリ",
    "jp": "　いい男が台無しじゃないか。\n\n\n",
-   "en": "You're ruining that handsome face of\nyours.",
+   "en": "You're ruining that\nhandsome face of yours.",
    "status": "done"
   },
   {

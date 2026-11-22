@@ -57,7 +57,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　だが、ラガーシュ王国側は、\n　警告を無視して\n　国境線を越えたといっている。\n",
-   "en": "Yet the Kingdom of Ragash claims you\nignored their warnings and crossed the\nborder.",
+   "en": "Yet the Kingdom of Ragash\nclaims you ignored their warnings\nand crossed the border.",
    "status": "done"
   },
   {
@@ -200,7 +200,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　彼は、確かに経験は浅いですが\n　有能な騎士です。\n\n",
-   "en": "He may lack experience, but he is a capable\nknight.",
+   "en": "He may lack experience,\nbut he is a capable knight.",
    "status": "done"
   },
   {
@@ -563,7 +563,7 @@
    ],
    "speaker": "ダンカン",
    "jp": "　バルツフィームと\n　戦争でもするつもりか！！\n\n",
-   "en": "Do you mean to start a war with\nVartzpheem!?",
+   "en": "Do you mean to start a\nwar with Vartzpheem!?",
    "status": "done"
   },
   {
@@ -574,7 +574,7 @@
    ],
    "speaker": "アデノイド",
    "jp": "　陛下。\n　よくお考えになってください。\n\n",
-   "en": "Your Majesty. Please, consider this\ncarefully.",
+   "en": "Your Majesty. Please,\nconsider this carefully.",
    "status": "done"
   },
   {
@@ -871,7 +871,7 @@
    ],
    "speaker": "アデノイド",
    "jp": "　ラガーシュは\n　バルツフィームの属国では\n　ないというのに……。\n",
-   "en": "As if Ragash were some vassal state of\nVartzpheem...",
+   "en": "As if Ragash were some\nvassal state of Vartzpheem...",
    "status": "done"
   },
   {
@@ -1025,7 +1025,7 @@
    ],
    "speaker": "ベウマー",
    "jp": "　いわれてみれば、\n　確かにそうだな……。\n\n",
-   "en": "Now that you mention it, you've got a\npoint...",
+   "en": "Now that you mention\nit, you've got a point...",
    "status": "done"
   },
   {
@@ -1036,7 +1036,7 @@
    ],
    "speaker": "シェス",
    "jp": "　ラガーシュの騎馬隊より\n　連絡が入りました。\n\n",
-   "en": "We've received word from the Ragash\ncavalry.",
+   "en": "We've received word\nfrom the Ragash cavalry.",
    "status": "done"
   },
   {
@@ -1168,7 +1168,7 @@
    ],
    "speaker": "従者",
    "jp": "　ダンカン王。\n　あれが西方騎士隊です。\n\n\n",
-   "en": "King Duncan. Those are the Western\nKnights.",
+   "en": "King Duncan. Those are\nthe Western Knights.",
    "status": "done"
   },
   {
@@ -1190,7 +1190,7 @@
    ],
    "speaker": "ダンカン",
    "jp": "　さすがに\n　バルツフィームが誇る精鋭部隊。\n\n",
-   "en": "Truly the elite unit that is Vartzpheem's\npride.",
+   "en": "Truly the elite unit that\nis Vartzpheem's pride.",
    "status": "done"
   },
   {
@@ -1432,7 +1432,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　ま、待ちなさい！\n　あの魔装機は、\n　バルツフィームのものではないわ！\n",
-   "en": "W-Wait! That Masouki doesn't belong to\nVartzpheem!",
+   "en": "W-Wait! That Masouki doesn't\nbelong to Vartzpheem!",
    "status": "done"
   },
   {
@@ -1454,7 +1454,7 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　いいか、野郎ども！\n　ダンカン王の弔い合戦だ！\n\n",
-   "en": "Listen up, boys! This fight's to avenge King\nDuncan!",
+   "en": "Listen up, boys! This fight's\nto avenge King Duncan!",
    "status": "done"
   },
   {
@@ -1597,7 +1597,7 @@
    ],
    "speaker": "アデノイド",
    "jp": "　諸君！\n　我々の正義は踏みにじられた！\n　薄汚いものどもに裏切られたのだ！\n",
-   "en": "My countrymen! Our justice has been\ntrampled! We have been betrayed by filthy\nwretches!",
+   "en": "My countrymen! Our justice has\nbeen trampled! We have been\nbetrayed by filthy wretches!",
    "status": "done"
   },
   {
@@ -1641,7 +1641,7 @@
    ],
    "speaker": "アデノイド",
    "jp": "　愚劣なバルツフィーム王国に\n　正義の鉄槌をくだすときがきたのだ！\n\n",
-   "en": "The time has come to bring the hammer of\njustice down on the vile Kingdom of\nVartzpheem!",
+   "en": "The time has come to bring the\nhammer of justice down on the\nvile Kingdom of Vartzpheem!",
    "status": "done"
   },
   {

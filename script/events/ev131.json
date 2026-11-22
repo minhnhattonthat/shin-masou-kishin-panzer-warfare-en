@@ -123,7 +123,7 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　いいえ、シャーナ様。\n　彼らは部下でありません。\n\n",
-   "en": "No, Shana-sama. They are not my\nsubordinates.",
+   "en": "No, Shana-sama. They\nare not my subordinates.",
    "status": "done"
   },
   {
@@ -552,7 +552,7 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　私はこれからの未来を\n　国や権力といったものではなく\n　人間の良心に判断してもらいたい。\n",
-   "en": "I would have the future decided not by\nnations or by power, but by human\nconscience.",
+   "en": "I would have the future decided\nnot by nations or by power,\nbut by human conscience.",
    "status": "done"
   },
   {
@@ -596,7 +596,7 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　しかし、私は\n　あの若者たちを信じたいのです。\n\n",
-   "en": "Even so, I wish to believe in those young\npeople.",
+   "en": "Even so, I wish to believe\nin those young people.",
    "status": "done"
   },
   {
@@ -618,7 +618,7 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　願わくば\n　シャーナ様にも\n　ご理解をいただければ……。\n",
-   "en": "If only you, too, Shana-sama, might\nunderstand...",
+   "en": "If only you, too, Shana-sama,\nmight understand...",
    "status": "done"
   },
   {
@@ -728,7 +728,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　神ではなく\n　人が選ぶ未来を……。\n\n",
-   "en": "In a future chosen not by gods, but by\npeople...",
+   "en": "In a future chosen not\nby gods, but by people...",
    "status": "done"
   },
   {
@@ -904,7 +904,7 @@
    ],
    "speaker": "アデノイド",
    "jp": "　我が軍の領内で\n　爆発させるということか。\n\n",
-   "en": "You mean to detonate it within our own\nterritory?",
+   "en": "You mean to detonate it\nwithin our own territory?",
    "status": "done"
   },
   {
@@ -1047,7 +1047,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　……アルフレードじいさん。\n　偵察に出る時間なんだけど\n　サイバスターの整備は？\n",
-   "en": "...Old Man Alfredo. It's time for me to head\nout scouting. How's Cybuster's\nmaintenance?",
+   "en": "...Old Man Alfredo. It's time for\nme to head out scouting. How's\nCybuster's maintenance?",
    "status": "done"
   },
   {
@@ -1278,7 +1278,7 @@
    ],
    "speaker": "兵士",
    "jp": "　はい。\n　そちらはすでに、\n　稼働準備完了です。\n",
-   "en": "Yes, ma'am. That is already ready for\nactivation.",
+   "en": "Yes, ma'am. That is\nalready ready for activation.",
    "status": "done"
   },
   {
@@ -1377,7 +1377,7 @@
    ],
    "speaker": "ミラ",
    "jp": "（最初はアルマを倒すことだけを\n　考えていたのに……）\n\n",
-   "en": "(At first, all I thought of was defeating\nAlma...)",
+   "en": "(At first, all I thought of\nwas defeating Alma...)",
    "status": "done"
   },
   {
@@ -1575,7 +1575,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あんた、ミラだろ。\n　隊長の妹の。\n\n",
-   "en": "You're Mira, aren't you? The Captain's\nsister.",
+   "en": "You're Mira, aren't you?\nThe Captain's sister.",
    "status": "done"
   },
   {
@@ -1652,7 +1652,7 @@
    ],
    "speaker": "ミラ",
    "jp": "　おまえたちを倒すための作戦に\n　決まっているだろう。\n\n",
-   "en": "An operation to defeat you people, of\ncourse.",
+   "en": "An operation to defeat\nyou people, of course.",
    "status": "done"
   },
   {
@@ -1674,7 +1674,7 @@
    ],
    "speaker": "ミラ",
    "jp": "　ああ。\n　もう間もなく、\n　プラーナボムの準備が終わる。\n",
-   "en": "Yes. Very soon, the Prana Bomb will be\nready.",
+   "en": "Yes. Very soon, the\nPrana Bomb will be ready.",
    "status": "done"
   },
   {
@@ -1883,7 +1883,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　その人たちに\n　おまえはなんというつもりだ！\n\n",
-   "en": "What are you going to say to those\npeople!?",
+   "en": "What are you going to\nsay to those people!?",
    "status": "done"
   },
   {
@@ -1894,7 +1894,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　アルマ隊長のことを\n　おまえは非難できるのか！！\n\n",
-   "en": "Can you really blame Captain Alma after\nthat!?",
+   "en": "Can you really blame\nCaptain Alma after that!?",
    "status": "done"
   },
   {
@@ -2312,7 +2312,7 @@
    ],
    "speaker": "兵士",
    "jp": "　作業が終了したものから撤退しろ。\n\n\n",
-   "en": "Anyone who's finished their work,\nwithdraw.",
+   "en": "Anyone who's finished\ntheir work, withdraw.",
    "status": "done"
   },
   {

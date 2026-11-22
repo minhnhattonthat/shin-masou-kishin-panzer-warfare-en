@@ -79,7 +79,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　……わかった。\n　着替えたら、すぐにいく。\n\n",
-   "en": "...Understood. I'll go as soon as I've\nchanged.",
+   "en": "...Understood. I'll go as\nsoon as I've changed.",
    "status": "done"
   },
   {
@@ -167,7 +167,7 @@
    ],
    "speaker": "キャリ",
    "jp": "　だいたい、\n　なぜそこまでして戦う。\n\n",
-   "en": "And anyway, why do you go that far to\nfight?",
+   "en": "And anyway, why do\nyou go that far to fight?",
    "status": "done"
   },
   {
@@ -189,7 +189,7 @@
    ],
    "speaker": "キャリ",
    "jp": "　まさか、そこらの兵士と一緒で、\n　愛国心とか忠誠心とか\n　いうんじゃないだろうね。\n",
-   "en": "Don't tell me it's patriotism or loyalty or\nsome junk, like every other soldier out\nthere.",
+   "en": "Don't tell me it's patriotism\nor loyalty or some junk, like\nevery other soldier out there.",
    "status": "done"
   },
   {
@@ -200,7 +200,7 @@
    ],
    "speaker": "キャリ",
    "jp": "　そんなんじゃ\n　生き残れないよ。\n\n",
-   "en": "Think like that and you won't survive,\ny'know.",
+   "en": "Think like that and you\nwon't survive, y'know.",
    "status": "done"
   },
   {
@@ -343,7 +343,7 @@
    ],
    "speaker": "キャリ",
    "jp": "（あんたこそ\n　死なれちゃ困るんだよ……）\n\n\n",
-   "en": "(You're the one who'd better not die on\nme...)",
+   "en": "(You're the one who'd\nbetter not die on me...)",
    "status": "done"
   },
   {
@@ -409,7 +409,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　我々の出撃前に\n　魔装機で出かけられたのですが。\n\n",
-   "en": "He went out in a Masouki before we\nsortied.",
+   "en": "He went out in a Masouki\nbefore we sortied.",
    "status": "done"
   },
   {
@@ -1300,7 +1300,7 @@
    ],
    "speaker": "ベウマー",
    "jp": "　よし、ケイゴ。\n　オレたちは、\n　神官長の脱出を手伝う。\n",
-   "en": "All right, Keigo. We'll help the High Priest\nescape.",
+   "en": "All right, Keigo. We'll help\nthe High Priest escape.",
    "status": "done"
   },
   {
@@ -1333,7 +1333,7 @@
    ],
    "speaker": "ベウマー",
    "jp": "　よし、全部隊！\n　作戦開始だ！！\n\n\n",
-   "en": "All right, all units! Let's get this operation\ngoing!!",
+   "en": "All right, all units! Let's\nget this operation going!!",
    "status": "done"
   },
   {
@@ -1355,7 +1355,7 @@
    ],
    "speaker": "シェス",
    "jp": "　神殿内の部隊から連絡が入りました！\n\n\n",
-   "en": "We've got word from the unit inside the\ntemple!",
+   "en": "We've got word from\nthe unit inside the temple!",
    "status": "done"
   },
   {
@@ -1366,7 +1366,7 @@
    ],
    "speaker": "シェス",
    "jp": "　ロセリニ神官長を無事に\n　保護したそうです。\n\n",
-   "en": "They've safely secured High Priest\nRossellini!",
+   "en": "They've safely secured\nHigh Priest Rossellini!",
    "status": "done"
   },
   {
@@ -1498,7 +1498,7 @@
    ],
    "speaker": "イェン",
    "jp": "　二人とも\n　置いていきますよ。\n\n",
-   "en": "If you two keep that up, we shall leave you\nbehind.",
+   "en": "If you two keep that up,\nwe shall leave you behind.",
    "status": "done"
   },
   {
@@ -1619,7 +1619,7 @@
    ],
    "speaker": "フルカス",
    "jp": "　ロセリニ神官長も\n　よくご無事で……。\n\n",
-   "en": "High Priest Rossellini, I am glad to see you\nsafe...",
+   "en": "High Priest Rossellini, I\nam glad to see you safe...",
    "status": "done"
   },
   {
@@ -1718,7 +1718,7 @@
    ],
    "speaker": "ドロービ",
    "jp": "　成長してませんからね。\n　みんな……。\n\n",
-   "en": "That's 'cause none of us has grown up any,\nright?",
+   "en": "That's 'cause none of us\nhas grown up any, right?",
    "status": "done"
   },
   {
@@ -2180,7 +2180,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（誰かがやらなければならなかったこと）\n\n\n",
-   "en": "(...that it was something someone had to\ndo...)",
+   "en": "(...that it was something\nsomeone had to do...)",
    "status": "done"
   },
   {

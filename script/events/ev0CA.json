@@ -35,7 +35,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　魔装機神の所在が確認された。\n\n\n",
-   "en": "The Masoukishin's whereabouts have been\nconfirmed.",
+   "en": "The Masoukishin's whereabouts\nhave been confirmed.",
    "status": "done"
   },
   {
@@ -68,7 +68,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ソッド様の部隊が到着するまで、\n　ヤツらを足止めし、\n　魔装機神どものとどめを刺すのだ。\n",
-   "en": "Until Thodd-sama's unit arrives, you are to\nhold them there and finish off those\nMasoukishin.",
+   "en": "Until Thodd-sama's unit arrives,\nyou are to hold them there and\nfinish off those Masoukishin.",
    "status": "done"
   },
   {
@@ -79,7 +79,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ア・ゼルスで１、２を争う\n　おまえの腕前。\n\n",
-   "en": "Your skill ranks among the very best in all\nA-Zeluth.",
+   "en": "Your skill ranks among the\nvery best in all A-Zeluth.",
    "status": "done"
   },
   {
@@ -321,7 +321,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　おまえの腕では、\n　勝ち目はない。\n\n",
-   "en": "With your skill, you have no chance of\nwinning.",
+   "en": "With your skill, you have\nno chance of winning.",
    "status": "done"
   },
   {
@@ -442,7 +442,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　でも、\n　バルツフィームが\n　占領されたのは……。\n",
-   "en": "But is it true that Vartzpheem was\noccupied...?",
+   "en": "But is it true that\nVartzpheem was occupied...?",
    "status": "done"
   },
   {
@@ -541,7 +541,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうか？\n　そんなたいしたことないと思うけど。\n\n",
-   "en": "You think so? I don't think he's all that\ngreat.",
+   "en": "You think so? I don't\nthink he's all that great.",
    "status": "done"
   },
   {
@@ -1102,7 +1102,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（だいぶ、\n　ムリをしているようだけど……）\n\n",
-   "en": "(She seems to be pushing herself pretty\nhard...)",
+   "en": "(She seems to be pushing\nherself pretty hard...)",
    "status": "done"
   },
   {
@@ -1113,7 +1113,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（王都が占領されたってことは、\n　バージェス王だって\n　どうなったかわからないのに……）\n\n",
-   "en": "(With the Royal Capital occupied, there's no\ntelling what's happened to King Burgess,\neither...)",
+   "en": "(With the Royal Capital occupied,\nthere's no telling what's happened\nto King Burgess, either...)",
    "status": "done"
   },
   {
@@ -1135,7 +1135,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（ここは、やっぱり\n　オレがしっかりしないと……）\n\n",
-   "en": "(This is when I've really gotta hold it\ntogether...)",
+   "en": "(This is when I've really\ngotta hold it together...)",
    "status": "done"
   },
   {
@@ -1256,7 +1256,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　なんか、\n　いたずらでも\n　したんじゃないのか？\n",
-   "en": "Didn't you pull some prank on him or\nsomething?",
+   "en": "Didn't you pull some prank\non him or something?",
    "status": "done"
   },
   {
@@ -1278,7 +1278,7 @@
    ],
    "speaker": "トト",
    "jp": "　アイツ！\n　絶対、性格悪いね。\n\n",
-   "en": "That guy! He's got a totally rotten\npersonality.",
+   "en": "That guy! He's got a\ntotally rotten personality.",
    "status": "done"
   },
   {
@@ -1377,7 +1377,7 @@
    ],
    "speaker": "イェン",
    "jp": "　確かに先ほどの戦いぶりを見れば、\n　魔装機神を乗りこなしているのは\n　わかります。\n",
-   "en": "Certainly, judging by how he fought just\nnow, I can see he has mastered his\nMasoukishin.",
+   "en": "Certainly, judging by how he\nfought just now, I can see he\nhas mastered his Masoukishin.",
    "status": "done"
   },
   {
@@ -1806,7 +1806,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　進むべき道が\n　違ったということだ。\n\n",
-   "en": "Our paths simply turned out to be\ndifferent.",
+   "en": "Our paths simply turned\nout to be different.",
    "status": "done"
   },
   {
@@ -2246,7 +2246,7 @@
    ],
    "speaker": "ソッド",
    "jp": "　おまえたちには、\n　ナトゥーレを強襲してもらいたい。\n\n",
-   "en": "I want you two to launch an assault on\nNatoure.",
+   "en": "I want you two to launch\nan assault on Natoure.",
    "status": "done"
   },
   {
@@ -2378,7 +2378,7 @@
    ],
    "speaker": "マギーア",
    "jp": "　よほどの戦力を投入するか、\n　バルツフィーム攻略時のような\n　手でも打たない限りは……。\n",
-   "en": "Unless we commit overwhelming forces, or\nplay a hand like the one in the Vartzpheem\ncampaign...",
+   "en": "Unless we commit overwhelming\nforces, or play a hand like the one\nin the Vartzpheem campaign...",
    "status": "done"
   },
   {
@@ -2499,7 +2499,7 @@
    ],
    "speaker": "ソッド",
    "jp": "　とりあえず魔装機神を\n　倒すのが目的だ。\n\n",
-   "en": "For now, the objective is to defeat the\nMasoukishin.",
+   "en": "For now, the objective is\nto defeat the Masoukishin.",
    "status": "done"
   },
   {
@@ -2532,7 +2532,7 @@
    ],
    "speaker": "キャリ",
    "jp": "　さて、じゃあ魔重機ってヤツを\n　見せてもらうおうかね。\n\n",
-   "en": "Well then, let's have a look at this Majuuki\nthing.",
+   "en": "Well then, let's have a\nlook at this Majuuki thing.",
    "status": "done"
   },
   {

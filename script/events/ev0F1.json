@@ -442,7 +442,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　アルマ。\n　よい部下に恵まれましたね。\n\n",
-   "en": "Alma. You have been blessed with a fine\nsubordinate.",
+   "en": "Alma. You have been blessed\nwith a fine subordinate.",
    "status": "done"
   },
   {
@@ -827,7 +827,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　わかりました。\n　認めましょう、イェン。\n　ただ……。\n",
-   "en": "Very well. You have my permission, Yen.\nHowever...",
+   "en": "Very well. You have my\npermission, Yen. However...",
    "status": "done"
   },
   {
@@ -882,7 +882,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　ジェムス。\n　あなたもよろしいですね？\n\n",
-   "en": "Jems. You have no objection either, I\ntrust?",
+   "en": "Jems. You have no\nobjection either, I trust?",
    "status": "done"
   },
   {
@@ -904,7 +904,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　イェン、気をつけて。\n　また無事にナトゥーレへ\n　戻ってくるのですよ。\n",
-   "en": "Take care, Yen. And come back safely to\nNatoure.",
+   "en": "Take care, Yen. And come\nback safely to Natoure.",
    "status": "done"
   },
   {
@@ -937,7 +937,7 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　神様に謝まんなきゃならねえことは\n　たくさんあるが……。\n\n",
-   "en": "Sure, I got plenty I oughta apologize to God\nfor...",
+   "en": "Sure, I got plenty I oughta\napologize to God for...",
    "status": "done"
   },
   {
@@ -1003,7 +1003,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　目的地はまだ不明だが、\n　どうやら、魔装機神がそろって\n　ナトゥーレを出たらしい。\n",
-   "en": "Their destination is still unknown, but it\nseems the Masoukishin have left Natoure\ntogether.",
+   "en": "Their destination is still unknown,\nbut it seems the Masoukishin\nhave left Natoure together.",
    "status": "done"
   },
   {
@@ -1069,7 +1069,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　それにおまえのへらず口を\n　ふさぐつもりなら、\n　もっと合理的に行うよ。\n",
-   "en": "Besides, if I wanted to shut that insolent\nmouth of yours, I would go about it more\nefficiently.",
+   "en": "Besides, if I wanted to shut that\ninsolent mouth of yours, I would\ngo about it more efficiently.",
    "status": "done"
   },
   {
@@ -1102,7 +1102,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　ヤツらと一騎打ちをさせろ\n　というのでな。\n\n",
-   "en": "They asked to face those two in single\ncombat.",
+   "en": "They asked to face those\ntwo in single combat.",
    "status": "done"
   },
   {
@@ -1124,7 +1124,7 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　また、好き好んで\n　そんな時代がかったものを……。\n",
-   "en": "Of all the old-fashioned crap to go lookin'\nfor...",
+   "en": "Of all the old-fashioned\ncrap to go lookin' for...",
    "status": "done"
   },
   {
@@ -1201,7 +1201,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　まあ、そんなことはいい。\n　許可を出したのは、\n　魔装機神を倒すためだ。\n",
-   "en": "But never mind that. I gave them\npermission in order to destroy the\nMasoukishin.",
+   "en": "But never mind that. I gave\nthem permission in order to\ndestroy the Masoukishin.",
    "status": "done"
   },
   {
@@ -1234,7 +1234,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　だが、魔装機神に勝てなくとも\n　その操者につけ入る隙はある。\n\n",
-   "en": "But even if we cannot beat the Masoukishin,\ntheir pilots have weaknesses we can\nexploit.",
+   "en": "But even if we cannot beat the\nMasoukishin, their pilots have\nweaknesses we can exploit.",
    "status": "done"
   },
   {
@@ -1256,7 +1256,7 @@
    ],
    "speaker": "ルジェロ",
    "jp": "　おそらく、二人が一騎打ちを望めば、\n　ヤツらのことだ、それを受け、\n　正々堂々と戦うことになるだろう。\n",
-   "en": "If those two ask for a duel, then knowing\nthat lot, they will accept it and fight fair and\nsquare.",
+   "en": "If those two ask for a duel, then\nknowing that lot, they will accept\nit and fight fair and square.",
    "status": "done"
   },
   {
@@ -1366,7 +1366,7 @@
    ],
    "speaker": "ヤドラ",
    "jp": "　わかってるよ。\n　もう、この次はねえ……。\n\n",
-   "en": "Yeah, I know. There ain't gonna be a next\ntime...",
+   "en": "Yeah, I know. There ain't\ngonna be a next time...",
    "status": "done"
   },
   {
@@ -1608,7 +1608,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　ケイゴ、忘れたの。\n　あなたは戦うことを選択したのよ。\n\n",
-   "en": "Keigo, have you forgotten? You chose to\nfight.",
+   "en": "Keigo, have you forgotten?\nYou chose to fight.",
    "status": "done"
   },
   {
@@ -2081,7 +2081,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　でも、私にはまだ、\n　守るべき大切なものがある。\n\n",
-   "en": "But I still have something precious I must\nprotect.",
+   "en": "But I still have something\nprecious I must protect.",
    "status": "done"
   },
   {
@@ -2147,7 +2147,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　私にも守りたいものができた……。\n\n\n",
-   "en": "I've found something I want to protect,\ntoo...",
+   "en": "I've found something I\nwant to protect, too...",
    "status": "done"
   },
   {
@@ -2367,7 +2367,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　もし、できないというなら\n　私が代わりに……。\n\n\n",
-   "en": "If you say you can't do it, then I'll take your\nplace...",
+   "en": "If you say you can't do it,\nthen I'll take your place...",
    "status": "done"
   },
   {
@@ -2433,7 +2433,7 @@
    ],
    "speaker": "ヤドラ",
    "jp": "（やはり、あいつらだけでは\n　倒せねえか……）\n\n",
-   "en": "(Figures. Those two can't take 'em down\nalone...)",
+   "en": "(Figures. Those two can't\ntake 'em down alone...)",
    "status": "done"
   },
   {
@@ -2554,7 +2554,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　娘が重い病に冒されてな。\n\n\n",
-   "en": "My daughter was stricken with a grave\nillness.",
+   "en": "My daughter was stricken\nwith a grave illness.",
    "status": "done"
   },
   {
@@ -2752,7 +2752,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "（……これが閃剣のゼルドナの力）\n\n\n",
-   "en": "(...So this is the power of Zeldna the Flash\nBlade.)",
+   "en": "(...So this is the power of\nZeldna the Flash Blade.)",
    "status": "done"
   },
   {
@@ -3060,7 +3060,7 @@
    ],
    "speaker": "アルマ",
    "jp": "（ルジェロに\n　ついていったものたちのようね）\n\n\n",
-   "en": "(They must be the ones who followed\nRuggero.)",
+   "en": "(They must be the ones\nwho followed Ruggero.)",
    "status": "done"
   },
   {
@@ -3148,7 +3148,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　あれが\n　彼らの選んだ道なのだから……。\n\n\n",
-   "en": "This is the path they chose for\nthemselves...",
+   "en": "This is the path they\nchose for themselves...",
    "status": "done"
   },
   {
@@ -3346,7 +3346,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　私は、この戦いを、\n　単なる侵略戦争ではないと、\n　考えています。\n",
-   "en": "I do not believe this is merely a war of\ninvasion.",
+   "en": "I do not believe this is\nmerely a war of invasion.",
    "status": "done"
   },
   {
@@ -3357,7 +3357,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　この世界の存在自体を揺るがしかねない\n　なにか邪悪な力を感じるのです。\n\n",
-   "en": "I sense some evil power at work, one that\ncould shake the very existence of this\nworld.",
+   "en": "I sense some evil power at\nwork, one that could shake the\nvery existence of this world.",
    "status": "done"
   },
   {
@@ -3401,7 +3401,7 @@
    ],
    "speaker": "シャーナ",
    "jp": "　でも、そういった意味では\n　私は少し安心しています。\n\n",
-   "en": "But in that sense, I feel somewhat\nreassured.",
+   "en": "But in that sense, I feel\nsomewhat reassured.",
    "status": "done"
   },
   {
@@ -3665,7 +3665,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　この今の状況は\n　あなたが望んだもの……。\n\n",
-   "en": "Is the way things are now what you wished\nfor...",
+   "en": "Is the way things are now\nwhat you wished for...",
    "status": "done"
   },
   {
@@ -3676,7 +3676,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　いえ、ルカが\n　望んだものだというの……。\n\n",
-   "en": "No... Is it what Luca would have wished\nfor...?",
+   "en": "No... Is it what Luca\nwould have wished for...?",
    "status": "done"
   },
   {
@@ -3797,7 +3797,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　本当は、\n　手を抜くつもりだったが……。\n\n",
-   "en": "The truth is, I meant to go easy on you,\nbut...",
+   "en": "The truth is, I meant to\ngo easy on you, but...",
    "status": "done"
   },
   {
@@ -3907,7 +3907,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　騎士として\n　手強い相手と戦いたかった。\n\n",
-   "en": "I wanted to face a tough opponent as a\nknight.",
+   "en": "I wanted to face a tough\nopponent as a knight.",
    "status": "done"
   },
   {
@@ -3918,7 +3918,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　戦うことしかできないオレには……。\n\n\n",
-   "en": "For a man like me, who can do nothing but\nfight...",
+   "en": "For a man like me, who\ncan do nothing but fight...",
    "status": "done"
   },
   {
@@ -3984,7 +3984,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こんなのが\n　いいことあるわけないでしょう！！\n\n\n",
-   "en": "How could anything like this be a good\nthing!?",
+   "en": "How could anything like\nthis be a good thing!?",
    "status": "done"
   },
   {

@@ -35,7 +35,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "「彼ら、勇敢なる騎士たちに光あれ！」\n\n\n",
-   "en": "Let there be light upon them, the brave\nknights!",
+   "en": "Let there be light upon\nthem, the brave knights!",
    "status": "done"
   },
   {
@@ -266,7 +266,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まったく……。\n　少しは、実技以外に興味を持っても\n　よさそうなものだが……。\n",
-   "en": "Honestly... You'd do well to take an interest\nin something besides practical training, for\nonce...",
+   "en": "Honestly... You'd do well to take\nan interest in something besides\npractical training, for once...",
    "status": "done"
   },
   {
@@ -365,7 +365,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　では、これですべての講義を終了する。\n\n\n",
-   "en": "Then with that, all of my lectures are\nconcluded.",
+   "en": "Then with that, all of my\nlectures are concluded.",
    "status": "done"
   },
   {
@@ -607,7 +607,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　まあ、おまえの力なら\n　問題なかろう。\n\n",
-   "en": "Well, with your skills, you should have no\ntrouble.",
+   "en": "Well, with your skills, you\nshould have no trouble.",
    "status": "done"
   },
   {
@@ -948,7 +948,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　操作パネルに関しては以上だ。\n　わかったか？\n\n",
-   "en": "That's all for the Control Panel.\nUnderstood?",
+   "en": "That's all for the Control\nPanel. Understood?",
    "status": "done"
   },
   {
@@ -1003,7 +1003,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　では、\n　ほかに思い出せないことは？\n\n",
-   "en": "Then, is there anything else you can't\nremember?",
+   "en": "Then, is there anything\nelse you can't remember?",
    "status": "done"
   },
   {
@@ -1223,7 +1223,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　飛行、潜水といった特別な移動は\n　操作自体は、簡単なのだが\n　どんな場所でも実行できるわけではない。\n",
-   "en": "Special movement like flying or diving is\nsimple to operate, but it can't be done just\nanywhere.",
+   "en": "Special movement like flying or\ndiving is simple to operate, but\nit can't be done just anywhere.",
    "status": "done"
   },
   {
@@ -1256,7 +1256,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　だが、水中に潜ることはできないため\n『潜水』というコマンドは\n　操作パネル上には表示されていない。\n",
-   "en": "But you can't dive underwater here, so the\nDive command isn't shown on the Control\nPanel.",
+   "en": "But you can't dive underwater\nhere, so the Dive command isn't\nshown on the Control Panel.",
    "status": "done"
   },
   {
@@ -1377,7 +1377,7 @@
    ],
    "speaker": "ゼルドナ",
    "jp": "　その色で、搭乗している機体の性能が\n　完全に引き出されているか、どうかを\n　操者は確認することができる。\n",
-   "en": "By that colour, the pilot can see whether\nhe's drawing out his machine's full\nperformance.",
+   "en": "By that colour, the pilot can\nsee whether he's drawing out\nhis machine's full performance.",
    "status": "done"
   },
   {
@@ -1894,7 +1894,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　こうなった以上、\n　やるしかないな！\n\n",
-   "en": "Now that it's come to this, I've just gotta\nfight!",
+   "en": "Now that it's come to\nthis, I've just gotta fight!",
    "status": "done"
   },
   {
@@ -1938,7 +1938,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　私は、バルツフィーム王国\n　西方騎士隊、隊長\n　アルマ＝クルツ＝カーリナ。\n",
-   "en": "I am Alma Kurtz Karina, captain of the\nWestern Knights of the Kingdom of\nVartzpheem.",
+   "en": "I am Alma Kurtz Karina, captain\nof the Western Knights of the\nKingdom of Vartzpheem.",
    "status": "done"
   },
   {
@@ -1960,7 +1960,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　ち、ちょっと待ってください。\n　動けない仲間を置き去りにして\n　自分だけ逃げるなんてできませんよ。\n",
-   "en": "W-Wait a minute. I can't just run off by\nmyself and leave a comrade who can't move\nbehind.",
+   "en": "W-Wait a minute. I can't just run\noff by myself and leave a\ncomrade who can't move behind.",
    "status": "done"
   },
   {
@@ -2136,7 +2136,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　騎士として、\n　あなたに忠告しておきます。\n\n",
-   "en": "As a knight, let me give you a word of\nadvice.",
+   "en": "As a knight, let me give\nyou a word of advice.",
    "status": "done"
   },
   {
@@ -2323,7 +2323,7 @@
    ],
    "speaker": "ソッド",
    "jp": "　それより\n　そちらの首尾はどうだ？\n\n",
-   "en": "More to the point, how goes your end of\nthings?",
+   "en": "More to the point, how\ngoes your end of things?",
    "status": "done"
   },
   {

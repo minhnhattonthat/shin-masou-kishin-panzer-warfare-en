@@ -4,7 +4,7 @@
 
 Per line with English: no Japanese left, control codes ({x}, [XX]) same multiset as the JP, encodable; event
 dialogue (msg): at most 3 body lines, each <= DIALOGUE_PX of VWF advance, speaker + text <= WINDOW_GLYPHS glyph
-slots, no stub last line (< 6 characters) in a multi-line message; exe/overlay: <= `max` bytes.
+slots, no wrap-made one-word last line in a multi-line message; exe/overlay: <= `max` bytes.
 Library: lint(script_dir) -> (errors, counts)."""
 import argparse
 import collections
@@ -86,8 +86,11 @@ def check_line(ln, names):
         g = font.glyphs(names.get(ln["speaker"], ln["speaker"]) + en)
         if g > WINDOW_GLYPHS:
             errs.append("%d glyphs > %d" % (g, WINDOW_GLYPHS))
-        if len(body) > 1 and len(body[-1].strip()) < 6:
-            errs.append("stub last line %r" % body[-1])
+        # one word alone on the last line, pushed there by the wrap (it didn't fit after the line before; a hard
+        # break, where it would have fitted, is the translator's choice): batches.py rewrap balances these (bug 5)
+        if len(body) > 1 and len(body[-1].split()) == 1 and \
+                font.width_px(body[-2] + " " + body[-1].strip()) > DIALOGUE_PX:
+            errs.append("one-word last line %r" % body[-1])
     return errs
 
 
