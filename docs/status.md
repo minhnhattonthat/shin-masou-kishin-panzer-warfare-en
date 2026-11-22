@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release in progress (latest: "Session 2026-11-23 (11)" below).
+- **Phase:** 9. Release done: `release/SMK_EN_v1.0.zip` built and verified on build b7c455cf (session 12 below).
+  Publishing (`gh release create`, repo visibility) is the user's call; nothing else is left.
   Phase 8 so far: `warp_all.py --rom build/smk_en.cue` 123/123 (`work/qa/warp_en`, states regenerated); JP
   reference warps `work/qa/warp_jp` (16 UI scenes). **Graphics:** `tools/gfx.py` (rows in `gfx/<group>.tsv`, drawn
   in palette-index space into every byte-identical copy of the TIM's pixel block; `img` rows for hand-drawn rects;
@@ -296,7 +297,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
   the dead old quote blocks, every `*manifest.tsv` gate, textcover, polish, README placeholders, xdelta3 -B, re-apply
   compare, zip with `docs/release-readme.txt`); README filled. GRA5/BAT_TIM/T_TIM jp_left hits are TIM pixel noise.
   (D) warp_all 123/123 on ef6484d5 (`work/qa/warp_ef64`); `ev01_map_p1.sstate` regenerated on ef6484d5.
-- **Next (phase 9, release), in order:** the tour / gfx / stress gates are STALE (recorded builds 860d0e73 /
+- **Session 2026-11-23 (12), build b7c455cf (HEAD c058fed, Check 47): phase 9 DONE.** Full EN re-tour on ef6484d5
+  (35/35, 596 sheets; 261 changed/new → 9 chunks `chunk_301e85e900cb_*`, visual-qa subagents): 2 issues, both
+  fixed (commit 1cfaa78): ev086_4970 intro scroll had "\n/ " instead of "\n\n" (story-pass merge pasted polish.md's
+  " / " display form; only such line; lint now fails "/ " line starts, c058fed), ev033_2028 wrap after "mention it,";
+  plus ev01C_2010 wrap made the same as its twin ev01C_1FD4. Re-tour on b7c455cf: 7 sheets changed (exactly those
+  scenes), verdicts `chunk_127318d24d2d_000` ok. Gfx gate: UI warps `work/qa/warp_b7c4` + FMV cold boot
+  `work/qa/fmv_b7c4` (376/376 frames equal fmv_boot2) pixel-identical, battle05 re-shot (verdict `gfx_verdicts/s12`).
+  Stress: `ev01_map_p1.sstate` regenerated on b7c455cf, `stress.py` all cases, shots identical. `tools/release.py
+  --version 1.0` exit 0: build, Check, smoke, jp_left, 5 gates, textcover 0 failing, xdelta made + re-applied →
+  `release/SMK_EN_v1.0.zip` (xdelta + README.txt; patched .bin CRC32 8AD8670A, SHA-1 b7c455cf…). Never
+  `gh release create`: the user publishes.
+- **Old next list (phase 9, done in session 12):** the tour / gfx / stress gates are STALE (recorded builds 860d0e73 /
   3c63e899, now ef6484d5). `qa_gate.py waive` was refused by the auto-mode permission classifier this session, so
   re-run them for real: (1) `python -X utf8 tools/debug/tour.py ev01 .. ev35 --jobs 2` (all 35; 4 PCSX ran out of
   memory before), then `qa_gate.py init work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin`; only
