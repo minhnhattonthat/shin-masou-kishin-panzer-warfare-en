@@ -21,6 +21,9 @@ import sjis  # noqa: E402
 import tim  # noqa: E402
 
 TIM_OFFS = {"BAT_TIM.BIN": 0x480000, "GRA5.BIN": 0x0}
+# more byte-identical copies of the first font TIM: GRA5 0x199A800 is the one the title-screen LOAD/CONTINUE
+# memory-card screen loads (left unpatched, its English had JP cell spacing)
+TIM_COPIES = [("GRA5.BIN", 0x199A800)]
 GLYPH_TABLE = 0xB191C  # exe file offset: 164 x (u16 first, u8 tpage, u8 row, u16 page)
 CELL = 12
 SPACE = 4  # advance of ' '

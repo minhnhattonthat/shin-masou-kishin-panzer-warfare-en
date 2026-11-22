@@ -49,6 +49,9 @@ KINDS = {
     # status pilot page name (exe_01900 at 0x800A7100), redrawn by left from the mech page (warp im_status_mech)
     "pfull": dict(prefix="exe_", lo=0x14E8, hi=0x1920, state="work/states/im_status_mech.sstate", addr=0x800A7100,
                   press=(10, "left"), crop="0,0,320,110"),
+    # intermission chapter label (overlay fields ov_ECB74.., 31 bytes each; stage 5 reads ov_ECBF4 at 0x801C710C,
+    # drawn f3306 of warp intermission --debugger; state at f3295)
+    "imlabel": dict(prefix="ov_", state="work/states/force_imlabel.sstate", addr=0x801C710C, crop="0,0,320,60"),
 }
 
 

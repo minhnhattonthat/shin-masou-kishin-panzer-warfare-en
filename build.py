@@ -45,7 +45,7 @@ def patch(tree, mode, qa, only=None, log=None):
     exe = slots.patch(exe0)
     insert.log_diff(log, "SLPS_023.19", exe0, exe, "slots")
     (tree / "SLPS_023.19").write_bytes(exe)
-    for name, off in font.TIM_OFFS.items():
+    for name, off in [*font.TIM_OFFS.items(), *font.TIM_COPIES]:
         p = tree / name
         old = p.read_bytes()
         p.write_bytes(font.patch_tim(old, off, exe))

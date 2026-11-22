@@ -89,13 +89,21 @@ def main():
     bad |= run("BAT_OVER.BIN", a.orig, a.tree, [(len(rd("BAT_OVER.BIN")), 1 << 30)], a.writes)  # quotes appended
     g = gfx.ranges(a.orig)  # graphics-text redraws: the pixel block of every copy of a redrawn TIM
     for n in sorted(set(font.TIM_OFFS) | set(g)):  # VWF glyph cells: inside the first font TIM only
-        off = font.TIM_OFFS.get(n)
-        bad |= run(n, a.orig, a.tree, ([(off, off + FONT_TIM)] if off is not None else []) + g.get(n, []), a.writes)
+        offs = [o for m, o in [*font.TIM_OFFS.items(), *font.TIM_COPIES] if m == n]
+        bad |= run(n, a.orig, a.tree, [(o, o + FONT_TIM) for o in offs] + g.get(n, []), a.writes)
     checked = {"SLPS_023.19", "OVER.BIN", "BAT_OVER.BIN", *font.TIM_OFFS, *g}
     for p in sorted(a.orig.rglob("*")):
         rel = p.relative_to(a.orig).as_posix()
         if p.is_file() and rel not in checked and p.read_bytes() != (a.tree / rel).read_bytes():
             print(rel, "FAIL: changed, but the build has no writer for it")
+            bad = 1
+    # every copy of the font must carry the VWF cells: a 64-byte run the patch changes, searched in every built file
+    o_font = rd("BAT_TIM.BIN")[font.TIM_OFFS["BAT_TIM.BIN"]:][:FONT_TIM]
+    b_font = (a.tree / "BAT_TIM.BIN").read_bytes()[font.TIM_OFFS["BAT_TIM.BIN"]:][:FONT_TIM]
+    k = next(i for i in range(0x1000, FONT_TIM, 0x40) if o_font[i:i + 0x40] != b_font[i:i + 0x40])
+    for p in sorted(a.tree.rglob("*")):
+        if p.is_file() and o_font[k:k + 0x40] in p.read_bytes():
+            print(p.relative_to(a.tree).as_posix(), "FAIL: holds an unpatched copy of the font TIM (font.TIM_COPIES)")
             bad = 1
     sys.exit(1 if bad else 0)
 
