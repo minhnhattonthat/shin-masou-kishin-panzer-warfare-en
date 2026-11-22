@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (2026-11-22; latest: "Session 2026-11-22 (7)" below).
+- **Phase:** 8. QA in the emulator, in progress (2026-11-22; latest: "Session 2026-11-22 (8)" below).
   Phase 8 so far: `warp_all.py --rom build/smk_en.cue` 123/123 (`work/qa/warp_en`, states regenerated); JP
   reference warps `work/qa/warp_jp` (16 UI scenes). **Graphics:** `tools/gfx.py` (rows in `gfx/<group>.tsv`, drawn
   in palette-index space into every byte-identical copy of the TIM's pixel block; `img` rows for hand-drawn rects;
@@ -260,14 +260,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   → rewrapped (forced, `work/qa/explore/fix_wrap.png`; other glossary splits are titles like Royal/Capital, left);
   unit box "Masoukishin Cybuster" tail appears a few frames late during the box fade-in (settled box whole and
   bright: `work/qa/explore/cyb_z.png`) → ok. Build **5b9f8e53**, Check 44, smoke ok, textcover 0 failing.
-- **Next (phase 8), in order:** (0) finish the re-tour, gate (above); exe coverage (above); (a) done (bugs 1-3);
-  (b) done except G13/G15 (unseen on both tours: waive with the VRAM evidence); (c) tour gate done (598/598, session
-  4) but bug 7 changes long lines: re-tour after its fix; UI warp shots → verdicts (above); (d) the left-JP tiles
-  (GRA5 0x11000 single-kanji icons 必集閃鉄熱魂加 / 幸旋縛結協努超 = spirit/status markers: find the screen) and FMV
-  mov01; (e) centred menus left for inkbox: YES/NO exe_04064/040B0, win/lose condition lines exe_AD684-AD8B1 (find
-  their screen on the tour sheets); (f) stress saves (needs `save.py` / unit record layout); (g) coverage report
-  after the tour: `cover.py logs work/qa/tour work/qa/warp_en`, then textcover; battle quotes (2061 x 2) need a
-  forced-quote run (picker 0x801194C0, docs/re/battle.md) or waivers with reasons. Still unconfirmed from the
+- **Next (phase 8), in order:** DONE: re-tour + gate, exe coverage/textcover, bugs 1-10, force-sheet gate.
+  Inkbox: save confirm YES/NO (`work/qa/warp_ui/im_save_confirm/scene.png`, rects 114,135,27,11 l4/r3 and
+  179,135,27,11 `--ink 255,255,255 --diff 60` l5/r7) ok; Goal box lines match the JP's padding (session 8);
+  exe_04064/040B0 YES/NO are dead code (waived). LEFT for the done-when: (1) G13/G15 unseen on both tours: waive in
+  the gate with the VRAM evidence (top of this file); (2) left-JP tiles D17 (GRA5 0x11000 single-kanji icons
+  必集閃鉄熱魂加 / 幸旋縛結協努超 = spirit/status markers, status 兵民騎官 tiles, credits 摯 遺: find the screen,
+  redraw, zoomed cold-boot shot); (3) G10 FMV mov01 subtitles (jPSXdec; not started); (4) stress saves (needs
+  `save.py` / unit record layout; longest names, full lists, max numbers) with menu sheets passed; (5) UI warp shots
+  not yet given verdicts: im_next, option, gameover, credits, credits_late, battle05, card_k01/05. Still unconfirmed from the
   b6f1 chunk 002: battle forecast row 2 dots where the JP has ⅠⅡ (ev05_sheet_16 t4): check at full resolution.
   Visual QA: read sheets via the visual-qa subagent or `codex exec` (quota back 2026-11-26) where the dispatch
   allows; a main-thread pass costs ~600 images of context.
