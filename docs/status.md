@@ -3,7 +3,8 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** 9. Release done: `release/SMK_EN_v1.0.zip` built and verified on build b7c455cf (session 12 below).
-  Publishing (`gh release create`, repo visibility) is the user's call; nothing else is left.
+  Published 2026-11-23 on the user's go: GitHub release v1.0 (tag on main, zip attached). Repo is still PRIVATE,
+  so the release and README's issues link are not public until the user changes visibility.
   Phase 8 so far: `warp_all.py --rom build/smk_en.cue` 123/123 (`work/qa/warp_en`, states regenerated); JP
   reference warps `work/qa/warp_jp` (16 UI scenes). **Graphics:** `tools/gfx.py` (rows in `gfx/<group>.tsv`, drawn
   in palette-index space into every byte-identical copy of the TIM's pixel block; `img` rows for hand-drawn rects;
