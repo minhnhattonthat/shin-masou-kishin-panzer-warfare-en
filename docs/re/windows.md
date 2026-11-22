@@ -37,6 +37,13 @@ Notes
   0x10/0x18) and the attack-confirm screen 0x8011C35C-0x8011C620 (pilot 0x188, mech 0x180, weapon 0x190 x16, right
   side 0x1A0/0x1A8/0x1B0, items 0x1C0-0x1F8; each FREE(base, n) before its DRAW): English pilots up to 10 glyphs,
   mechs 10, weapons 19 overflow there.
+- **Confirm screen** (map attack confirm, 2026-11-22): pilot names via table 0x8014E010 (exe 0xA8810, index = unit
+  byte +0x4C) drawn at x=-142 (left, 0x800C6BFC) / x=+10 (right, 0x800C6C2C), y=-62; the "Lv." graphic sits at
+  screen x=82 / 242, so 64 / 72 px. asm/vwf.asm `pilot_short` (0x8016DB80) swaps long class names for
+  `script/confirm_short.tsv` forms there only (D18). The table's other user, the map unit-info box (0x800E2DF4,
+  x=-38), has ~81 px.
+- **Intro scroll slots**: pages draw from slot 0 (0x80115998 / 0x80115A10, renderer x=-128 y=-88) and freed 0xC8;
+  English pages draw up to ~336 glyphs, so `slots.py` frees 430 there (bug 4).
 - Glyphs fade in during the typewriter (late glyphs look grey in mid-typing shots): judge a box on its last frame.
 - **Event pools: solved by block growth** (scripts.md §Block growth): strings past a pool's end go after the block,
   blocks move to the end of OVER.BIN, max 0xF800 per block. The wide marker (each body line 240 px) needs at most

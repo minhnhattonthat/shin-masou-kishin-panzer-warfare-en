@@ -28,6 +28,9 @@ MEASURED = {"msg", "scroll", "choice", "bqA", "bqB", "ov"}  # the rest are count
 # (lo, hi, max glyphs, max px, what), docs/re/windows.md
 TABLES = [(0xC52F8, 0xC5440, HUD_GLYPHS, 100, "battle HUD mech label"),
           (0xC5440, 0xC5668, HUD_GLYPHS, 60, "battle HUD pilot label")]  # bottom-right box 60 px from x=250
+# Battle confirm screen pilot names (table exe 0xA8810, docs/re/windows.md §Confirm screen): left name x=18, "Lv."
+# graphic at x=82, less a 3 px gap; longer names need a short form in script/confirm_short.tsv (D18)
+PILOTS, CONFIRM_PX, SHORT_TSV = (0xA8810, 0xA8900), 61, ROOT / "script/confirm_short.tsv"
 
 
 def relocatable(ln):
@@ -91,6 +94,9 @@ def check_line(ln, names):
 def lint(script=ROOT / "script", final=False):
     names, errs, counts = speaker_names(), [], collections.Counter()
     keep = set()
+    st = Path(script) / SHORT_TSV.name
+    short = dict(r.split("\t") for r in st.read_text(encoding="utf-8").splitlines() if r and r[0] != "#") \
+        if st.exists() else {}
     kp = Path(script) / "keep_jp.txt"
     if kp.exists():
         keep = {r.split()[0] for r in kp.read_text(encoding="utf-8").splitlines() if r.strip() and r[0] != "#"}
@@ -110,6 +116,14 @@ def lint(script=ROOT / "script", final=False):
             if relocatable(ln) and len(font.encode(ln["en"])) > ln["max"]:
                 counts["exe over max (insert.py moves them)"] += 1
             errs += ["%s: %s" % (ln["id"], e) for e in check_line(ln, names)]
+            if any(PILOTS[0] <= int(p, 16) < PILOTS[1] for p in ln.get("ptrs", [])):
+                t = short.get(ln["id"], ln["en"])
+                if font.width_px(t) > CONFIRM_PX:
+                    errs.append("%s: confirm-screen pilot %r %d px > %d (add a short form to %s)"
+                                % (ln["id"], t, font.width_px(t), CONFIRM_PX, SHORT_TSV.name))
+    for sid, t in short.items():
+        if font.width_px(t) > CONFIRM_PX:
+            errs.append("%s: short form %r %d px > %d" % (sid, t, font.width_px(t), CONFIRM_PX))
     return errs, counts
 
 

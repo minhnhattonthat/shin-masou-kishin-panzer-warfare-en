@@ -7,7 +7,9 @@
 .open EXE, 0x800A5800                   ; PS-X EXE: RAM = 0x800A5800 + file offset (header included)
 
 VWF_FREE      equ 0x8016D740            ; exe zero run 0x8016D740-0x8016DC3F (trap-tested, docs/re/font.md)
-VWF_FREE_END  equ 0x8016DA60            ; 0x8016DA60-0x8016DC3F holds moved exe strings (tools/insert.py EXE_FREE)
+VWF_FREE_END  equ 0x8016DA60            ; 0x8016DA60-0x8016DB7F holds moved exe strings (tools/insert.py EXE_FREE)
+SHORT_FREE    equ 0x8016DB80            ; pilot_short + its table (insert.SHORT_FREE)
+SHORT_FREE_END equ 0x8016DC40
 GLYPH_TABLE   equ 0x8015711C
 GLYPH_FIND    equ 0x80103174            ; (a0 code, a1 first row, a2 last row) -> entry index or -1
 CLUT_ID       equ 0x801444E4
@@ -98,5 +100,33 @@ vwf_byte:                               ; a0 byte, s1 -1, s2 sprite, s3 pen stat
 .include TABLES                         ; VWF_WIDTH: .byte x 0xC0, VWF_CODE: .halfword x 0xC0 (tools/font.py)
 .if org() > VWF_FREE_END
   .error "VWF code and tables overflow the free run"
+.endif
+
+; Battle confirm screen: the pilot name has ~61 px before the "Lv." graphic (docs/re/windows.md §Confirm screen).
+; Its two name draws go through pilot_short, which swaps a long class name for its short form
+; (script/confirm_short.tsv, pairs written by build.py into SHORT), then tail-jumps to the renderer.
+.org 0x800C6BFC                         ; left pilot
+  jal   pilot_short
+.org 0x800C6C2C                         ; right pilot
+  jal   pilot_short
+.org SHORT_FREE
+pilot_short:                            ; a3 = string; a0-a2 and the stack args pass through untouched
+  lui   t0, hi(SHORT_MAP)
+  addiu t0, t0, lo(SHORT_MAP)
+@@loop:
+  lw    t1, 0(t0)
+  nop                                   ; load delay
+  beqz  t1, @@draw
+  nop
+  bne   t1, a3, @@loop
+  addiu t0, t0, 8
+  lw    a3, -4(t0)
+@@draw:
+  j     0x80102D90
+  nop
+.align 4
+.include SHORT                          ; SHORT_MAP: .word long, short pairs, 0; then the short strings
+.if org() > SHORT_FREE_END
+  .error "pilot_short overflows its free run"
 .endif
 .close

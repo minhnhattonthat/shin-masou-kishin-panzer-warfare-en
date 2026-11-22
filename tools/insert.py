@@ -33,7 +33,22 @@ BQ_MAX = 0x3600
 EXE_BASE = 0x800A5800  # RAM = EXE_BASE + exe file offset
 # Moved exe strings: the tail of the trap-tested VWF run after asm/vwf.asm (its VWF_FREE_END). Not 0x80170938+:
 # a zero run there is live BSS (library code writes it at boot; the build went black), docs/re/battle.md.
-EXE_FREE = (0x8016DA60, 0x8016DC40)
+EXE_FREE = (0x8016DA60, 0x8016DB80)
+SHORT_FREE = (0x8016DB80, 0x8016DC40)  # asm/vwf.asm pilot_short (confirm-screen short names)
+
+
+def short_asm(exe, tsv):
+    """armips source for asm/vwf.asm's SHORT include: (long string address, short string) pairs for pilot_short.
+    The long address is the word at the line's first pointer in the built exe (it may have moved)."""
+    lines = {ln["id"]: ln for ln in json.loads((Path(tsv).parent / "exe.json").read_text(encoding="utf-8"))["lines"]}
+    rows = [r.split("\t") for r in Path(tsv).read_text(encoding="utf-8").splitlines() if r and r[0] != "#"]
+    out = ["SHORT_MAP:"]
+    for i, (sid, _) in enumerate(rows):
+        out.append("  .word 0x%08X, short_%d" % (struct.unpack_from("<I", exe, int(lines[sid]["ptrs"][0], 16))[0], i))
+    out.append("  .word 0")
+    for i, (_, text) in enumerate(rows):
+        out.append("short_%d: .byte %s,0" % (i, ",".join("0x%02X" % b for b in font.encode(text))))
+    return "\n".join(out) + "\n"
 FILLER ="The quick brown fox jumps over the lazy dog. Sphinx of black quartz, judge my vow. "
 
 

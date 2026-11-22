@@ -53,8 +53,10 @@ def patch(tree, mode, qa, only=None, log=None):
     tables = ROOT / "build/vwf_tables.asm"
     tables.write_text(font.tables_asm(*font.tables((tree / "BAT_TIM.BIN").read_bytes(), font.TIM_OFFS["BAT_TIM.BIN"],
                                                    exe)), encoding="ascii")
+    short = ROOT / "build/short.asm"
+    short.write_text(insert.short_asm(exe, ROOT / "script/confirm_short.tsv"), encoding="ascii")
     subprocess.run([ROOT / "tools/armips/armips.exe", ROOT / "asm/vwf.asm", "-strequ", "EXE", tree / "SLPS_023.19",
-                    "-strequ", "TABLES", tables], check=True)
+                    "-strequ", "TABLES", tables, "-strequ", "SHORT", short], check=True)
     insert.log_diff(log, "SLPS_023.19", exe, (tree / "SLPS_023.19").read_bytes(), "armips")
     if mode == "en":
         gfx.apply(tree, log)  # graphics-text redraws, gfx/<group>.tsv

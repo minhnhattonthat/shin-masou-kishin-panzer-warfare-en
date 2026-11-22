@@ -1,0 +1,6 @@
+# Battle confirm screen only: pilot/class names wider than the room left of the "Lv." graphic get these short
+# forms (asm/vwf.asm pilot_short, D18). id = the exe.json line; short = what the confirm screen draws instead.
+exe_01448	Masou Kt.
+exe_01454	Masou Sol.
+exe_01400	Rebel Kt.
+exe_0140C	Rebel Sol.
