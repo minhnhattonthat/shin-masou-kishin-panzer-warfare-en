@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (2026-11-22; latest: "Session 2026-11-22 (9)" below).
+- **Phase:** 9. Release, not started (phase 8 done 2026-11-23; latest: "Session 2026-11-23 (10)" below).
   Phase 8 so far: `warp_all.py --rom build/smk_en.cue` 123/123 (`work/qa/warp_en`, states regenerated); JP
   reference warps `work/qa/warp_jp` (16 UI scenes). **Graphics:** `tools/gfx.py` (rows in `gfx/<group>.tsv`, drawn
   in palette-index space into every byte-identical copy of the TIM's pixel block; `img` rows for hand-drawn rects;
@@ -270,10 +270,25 @@ Updated at the end of every session. Keep it to what the next session needs; his
   verdicts + markers + badge, all ok). Tour gate waived for 15fa7205 (graphics-only). G13/G15 waived in
   docs/re/graphics.md with the VRAM evidence. Forecast "dots vs ⅠⅡ" (ev05 f13680): the JP has エル・ザーリラ (・),
   EN "El Zarila"; terrain labels are atlas lookups: ok. `ev01_map_p1.sstate` regenerated on this build.
-- **Next (phase 8), in order:** (A) G10 FMV mov01 subtitles: jPSXdec (Java 8 is installed) + ffmpeg ASS burn,
-  `-replaceframes` (platform-ps1 §FMV); 3 lines + end card, see graphics.md G10; recheck mov12 at 1-s steps.
-  (B) stress saves: pilot records above (+0x0E SP, names via the unit box), unit HP u16 +0x16A guess; poke max
-  values / longest names from `ev01_map_p1` and an intermission state, sheets through the gate. Then phase 8 is done.
+- **Session 2026-11-23 (10), build 3c63e899 (Check 46, smoke ok, 4 gates ok, textcover 0 failing): phase 8 DONE.**
+  (A) G10 FMV: `tools/fmv.py` + `gfx/fmv/subtitles.tsv` burn English into mov01 (boot attract advert) frames
+  171-213 / 251-300 / 419-455: JP glyphs filled from their surroundings, blurred dark band, Nunito 900; own MDEC v2
+  encoder (the permission classifier refused to run a downloaded jPSXdec), each frame back in its own sectors.
+  Frames need the 0x1FF end code (without it the game froze on frame 171). build.py stage after gfx (needs ffmpeg;
+  cached in `build/fmv_cache/`, first build ~4-6 min); writes_check covers MOV.STR; `tests/test_fmv.py`. Seen in
+  game on a cold boot (`work/qa/fmv_boot2`), then Banpresto + title (`work/qa/fmv_after`). mov12 at 1-s steps: only
+  the game logo (D5). Gate: `work/qa/gfx_manifest.tsv` + `gfx_verdicts/s10.tsv` (fmv_mov01_*).
+  (B) stress: `tools/debug/stress.py` (cases status / battle / levelup: Lv 99, EXP 9999999, stats 0xFF, SP 255,
+  HP 65535 incl. enemies; real level-up from Lv 1 EXP 199) → `work/qa/stress_proof` (8 shots), gate
+  `work/qa/stress_manifest.tsv` + `work/qa/stress_verdicts`: all fit. Record layout in debug.md. The game clamps
+  stats to 55 and EXP to 6 digits. Names are fixed (no name entry); longest names/lists were forced in session 7-8
+  (force kinds, gated). Full weapon lists of late units not reached (map20/map35 states land mid-event), covered by
+  the forced `wpn` names. `work/states/ev01_map_p1.sstate` regenerated on 3c63e899 (the old one had stale VRAM: 兵
+  badge) + `jp_ev01_map_p1.sstate` (JP disc). Tour + force gates waived for 3c63e899 (MOV.STR-only change).
+- **Next (phase 9, release):** story-pass verdict per chapter (`qa_gate.py check work/qa/story/manifest.tsv ..`,
+  translation.md §Review); `docs/polish.md` has unticked lines (233 Minors): apply or tick each; `tools/release.py`
+  (runs qa_gate on every manifest + textcover, jp_left, debug tool off, xdelta made/re-applied/verified), README
+  without template placeholders and with the base ROM hashes, zip = patch + README. Never `gh release create`.
   Older list: DONE: re-tour + gate, exe coverage/textcover, bugs 1-10, force-sheet gate.
   Inkbox: save confirm YES/NO (`work/qa/warp_ui/im_save_confirm/scene.png`, rects 114,135,27,11 l4/r3 and
   179,135,27,11 `--ink 255,255,255 --diff 60` l5/r7) ok; Goal box lines match the JP's padding (session 8);

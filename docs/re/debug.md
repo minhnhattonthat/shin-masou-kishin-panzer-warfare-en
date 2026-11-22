@@ -48,7 +48,10 @@ Addresses for the dump in `rom.sha1`. `$gp` = 0x801775C0 (set at 0x80129DA8: `lu
   AT >= 8 (why session 8's force_spirit / force_lvup recipes "did not take"). `tools/lua/peek.lua` logs bytes.
 
 ## Guess / open
-- Unit records near 0x178670 (stride guess 0x2D0, HP u16 at +0x16A): layout and team field not confirmed (stage 1:
-  Keigo's ミッダスト shows HP 660 on screen; 5760/2760/910/660×3/550 in that range). Needed for GOD / stress values.
+- **Unit / pilot fields** (session 10, used by `tools/debug/stress.py`): 0xF0-byte records from 0x801785D0 (stage 1:
+  Keigo's unit 0x801785D0, his pilot record 0x801786C0, enemies 0x80178F30 + k*0xF0). Unit part: u16 +0x2A HP,
+  +0xBA max HP, +0xB8 (121 = Armor? the Unit page showed 1199 after pokes, so Armor is computed). Pilot part:
+  +0x00 Lv, u32 +0x04 EXP, u16 +0x08 NEXT (0xFFFF shows ----), +0x0E SP, +0x15..+0x1A stats (Melee Aim Ranged
+  Evade ? Luk; 0xFF shows 55 = the game's cap). Team field and which record is which unit: not mapped.
 - No save editor yet: the game-written fixture `tools/debug/saves/stage05_intermission.mcd` loads clean; layout and
   checksum unmapped (save = `BISLPS-02319MASOU00`, system = `BISLPS-02319MASOU`).
