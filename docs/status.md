@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (2026-11-22; latest: "Session 2026-11-22 (6)" below).
+- **Phase:** 8. QA in the emulator, in progress (2026-11-22; latest: "Session 2026-11-22 (7)" below).
   Phase 8 so far: `warp_all.py --rom build/smk_en.cue` 123/123 (`work/qa/warp_en`, states regenerated); JP
   reference warps `work/qa/warp_jp` (16 UI scenes). **Graphics:** `tools/gfx.py` (rows in `gfx/<group>.tsv`, drawn
   in palette-index space into every byte-identical copy of the TIM's pixel block; `img` rows for hand-drawn rects;
@@ -210,7 +210,35 @@ Updated at the end of every session. Keep it to what the next session needs; his
   screen: maybe the battle-test setup 0x8011C178 of bug 1, then waive as unreachable), map messages 027C8/02BF0,
   level-up 035A8-039C8, memcard 0403C-040B0 + B3930-B460C, spirit names/help + objectives ACFD4-AD8B1, chapter
   labels B5E40-B61EC + ov_* (36), status B76D4-B7A9A, elements/terrain D1E40-D29C8.
-- **Next (phase 8), in order:** (0) finish the re-tour, build, gate (above); exe coverage (above); (a) done (bugs 1-3);
+- **Session 2026-11-22 (7), build 860d0e73 (= HEAD 57a68e9 + this status; smoke ok, Check 44 passed):** the session-6
+  re-tour had died (31/35 rc 0xC0000142 with extra emulators open); `tour.py` now retries that rc (`--retry 3`) and
+  drops a scene's old sheets only after a good run. **Full EN re-tour running at hand-back** on 860d0e73:
+  `tools/debug/tour.py --jobs 2` → `work/qa/tour` (log `work/qa/tour_full.log`, started 19:38, ~2.5 min/scene;
+  old sheets kept in `work/qa/tour_prev_sheets` for `sheet.py --compare`). If no tour.py runs and the log is short
+  of 35 ok, re-run the missing scenes (`tour.py evNN ..`). Do not build while it runs. Then `qa_gate.py init
+  work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin`, verdicts for the changed sheets.
+  Fixed: (8) map unit box "Masou Soldier" touched "Lv." → asm moves Lv./level 8 px right (windows.md §Map unit
+  box); (9) end-turn prompt exe_02BF0: the game draws the unmoved-unit count at text x+48 (x+44 for 10+) over the
+  JP's two spaces; EN ran under it ("u|nits") → "Oh, still     to move..." (verified count 1, `work/qa/explore/cnt1`);
+  (10) title LOAD/CONTINUE card screen had JP cell spacing: a third font TIM copy GRA5 0x199A800 was unpatched →
+  `font.TIM_COPIES`; writes_check fails any built file holding original font cells. Verified `work/qa/explore/tl4`.
+  **Coverage:** force kinds `pilot` (31, unit box pilot field), `mech` (49), `pfull` (46, status pilot page),
+  `imlabel` (36 intermission labels; the last two are JP placeholders "」まで終了" → "Clear:"), all shown and
+  viewed: fit (Super Majuuki Ag Gebra 4 px from the gauge). Map menu End/Goal/System/Save reached by route from
+  `ev01_map_p1.sstate` (`work/qa/mapmenu`, cover logs in work/qa/cover/mapmenu). 228 battle-test strings waived
+  (table 0x8016AAF8 read by the dev screen 0x8011C3B8). textcover: **301 failing** (`work/qa/textcover.txt`).
+  Force sheets (`work/qa/force/sheets` pilot/mech/pfull/imlabel/wpn) have no gate verdicts yet: make a separate
+  manifest (`qa_gate.py init work/qa/force_manifest.tsv work/qa/force/sheets --glob "<kind>_*"` per kind or all)
+  and write verdicts (all viewed ok this session; pilot re-run after the Lv. fix). `tools/cover_ids.py`: which ids
+  a cover dir shows / which are new. States `work/states/{ev01_map_p1,im_*,option,title*,gameover,intermission,
+  force_imlabel}.sstate` regenerated on e036a999/98bbd2b9 (UI ones were stale JP-graphics states from 08:59).
+  Left 301: memcard 0403C-040B0 (YES/NO, Memory Card 1/2), 042B0-042D4, 043F8-04410 (-Holy/-High/-Low), 0486C-04890,
+  level-up screen 035A8-039C8 (skill LV lines: JP pads with spaces before ＬＶ, check for a number drawn at a fixed
+  x like bug 9), map msgs 027C8-02834, spirit names/help + objectives ACFD4-AD8B1, memcard msgs B3930-B460C,
+  save-slot labels B5E40-B61EC (title LOAD with `--sav tools/debug/saves/stage05_intermission.mcd` draws DATA 01 +
+  label: 0x8015B640 / 0x8015B7B0, f4476 of warp title_load; force there), status B76D4-B7A9A, elements/terrain
+  D1E40-D29C8.
+- **Next (phase 8), in order:** (0) finish the re-tour, gate (above); exe coverage (above); (a) done (bugs 1-3);
   (b) done except G13/G15 (unseen on both tours: waive with the VRAM evidence); (c) tour gate done (598/598, session
   4) but bug 7 changes long lines: re-tour after its fix; UI warp shots → verdicts (above); (d) the left-JP tiles
   (GRA5 0x11000 single-kanji icons 必集閃鉄熱魂加 / 幸旋縛結協努超 = spirit/status markers: find the screen) and FMV
@@ -234,7 +262,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the
   warps reach every stage without saves; a forced intermission has zeroed stats, so menu stress values need RAM
   writes or the editor then.
-- **Open bugs:** none open. Fixed 2026-11-22: (7) glyphs past the 80th drawn dim (session 6); (4) intro scroll left on screen, (5) one-word last lines, (6) class
+- **Open bugs:** none open. Fixed 2026-11-22: (8) unit box Lv., (9) end-turn count overdraw, (10) title card-screen
+  font copy (session 7); (7) glyphs past the 80th drawn dim (session 6); (4) intro scroll left on screen, (5) one-word last lines, (6) class
   over "Lv." (session 3), militiaman speaker label (session 4); all re-checked on the tour sheets. Closed 2026-11-22: (1) the fixed-slot screen 0x8011C178 (slots 0x180-0x1FF) is a
   battle-test setup screen (labels 味方 右側 / 敵 左側, mode 11 state 0 of 0x8011A4F8); the real map confirm and
   enemy-phase counter screens use the running counter (0x800C6Bxx) and slots 0x180-0x1FF stayed empty through a
