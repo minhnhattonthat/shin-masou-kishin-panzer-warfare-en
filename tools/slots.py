@@ -40,6 +40,7 @@ def _addiu(rt, imm):
 # 0x20) freed only 0x20 slots, too few for English quotes (up to 58 glyphs). New: pilot labels 0 / 0x0C, mech labels
 # 0x70 / 0x7C (12 each; 0x46-0x95 had no user in battle05, tools/lua/slotdump.lua), quote frees 0x48 (0x20-0x67).
 HUD_GLYPHS, QUOTE_GLYPHS = 12, 0x48
+SCROLL_GLYPHS = NEW["shadow"]  # 430
 WORDS = [  # (RAM address, original word, new word)
     (0x801190FC, _addiu(4, 0x10), _addiu(4, 0x70)),  # top-right mech label slot base
     (0x80119100, 0x00802821, _addiu(5, 0x10)),       # its x was `move a1, a0` (= the old base 0x10)
@@ -51,6 +52,12 @@ WORDS = [  # (RAM address, original word, new word)
     (0x8011681C, _addiu(4, 0x18), _addiu(4, 0x7C)),
     (0x80119540, _addiu(5, 0x20), _addiu(5, QUOTE_GLYPHS)),  # quote free(0x20, count)
     (0x80119684, 0x00802821, _addiu(5, QUOTE_GLYPHS)),       # quote free(0x20, count): count was `move a1, a0`
+    # chapter-intro scroll pages (0x80115998 first page, 0x80115A10 skip / next page) draw from slot 0 and freed
+    # 0..199 only, so an English page (up to ~336 glyphs) left its last lines on screen (bug 4). No window is open
+    # during the scroll (the JP's 200 already covered windows 0-1), so free everything below the shadows.
+    (0x801159B8, _addiu(5, 0xC8), _addiu(5, SCROLL_GLYPHS)),
+    (0x80115A54, _addiu(5, 0xC8), _addiu(5, SCROLL_GLYPHS)),
+    (0x80115A90, _addiu(5, 0xC8), _addiu(5, SCROLL_GLYPHS)),
 ]
 
 

@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import font  # noqa: E402
 from insert import DIALOGUE_PX, SCROLL_PX, speaker_names  # noqa: E402
-from slots import HUD_GLYPHS, QUOTE_GLYPHS, WINDOW_GLYPHS  # noqa: E402
+from slots import HUD_GLYPHS, QUOTE_GLYPHS, SCROLL_GLYPHS, WINDOW_GLYPHS  # noqa: E402
 
 JP = re.compile(r"[぀-ヿ一-鿿！-～]")
 CODES = re.compile(r"\{\w\}|\[[0-9A-F]{2}\]")
@@ -71,6 +71,8 @@ def check_line(ln, names):
             errs.append("%d lines > %d" % (len(body), ln["jp"].count("\n")))
         errs += ["line %d px > %d: %r" % (font.width_px(t.strip()), SCROLL_PX, t) for t in body
                  if font.width_px(t.strip()) > SCROLL_PX]
+        if font.glyphs(en) > SCROLL_GLYPHS:
+            errs.append("%d glyphs > %d scroll slots" % (font.glyphs(en), SCROLL_GLYPHS))
     if ln.get("kind") == "msg":
         body = en.rstrip("\n").split("\n")
         if len(body) > 3:
