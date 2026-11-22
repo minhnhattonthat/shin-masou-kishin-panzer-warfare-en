@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import batquote  # noqa: E402
 import font  # noqa: E402
+import fmv  # noqa: E402
 import gfx  # noqa: E402
 import insert  # noqa: E402
 import over  # noqa: E402
@@ -92,7 +93,9 @@ def main():
     for n in sorted(set(font.TIM_OFFS) | set(g)):  # VWF glyph cells: inside the first font TIM only
         offs = [o for m, o in [*font.TIM_OFFS.items(), *font.TIM_COPIES] if m == n]
         bad |= run(n, a.orig, a.tree, [(o, o + FONT_TIM) for o in offs] + g.get(n, []), a.writes)
-    checked = {"SLPS_023.19", "OVER.BIN", "BAT_OVER.BIN", *font.TIM_OFFS, *g}
+    for n, r in fmv.ranges(a.orig).items():  # FMV subtitles: the sectors of every captioned frame
+        bad |= run(n, a.orig, a.tree, r, a.writes)
+    checked = {"SLPS_023.19", "OVER.BIN", "BAT_OVER.BIN", *font.TIM_OFFS, *g, "MOV.STR"}
     for p in sorted(a.orig.rglob("*")):
         rel = p.relative_to(a.orig).as_posix()
         if p.is_file() and rel not in checked and p.read_bytes() != (a.tree / rel).read_bytes():

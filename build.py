@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "tools"))
 from check_rom import check  # noqa: E402
 import cover  # noqa: E402
+import fmv  # noqa: E402
 import font  # noqa: E402
 import gfx  # noqa: E402
 import insert  # noqa: E402
@@ -60,6 +61,7 @@ def patch(tree, mode, qa, only=None, log=None):
     insert.log_diff(log, "SLPS_023.19", exe, (tree / "SLPS_023.19").read_bytes(), "armips")
     if mode == "en":
         gfx.apply(tree, log)  # graphics-text redraws, gfx/<group>.tsv
+        fmv.apply(tree, log)  # FMV subtitles burned into MOV.STR frames, gfx/fmv/subtitles.tsv (needs ffmpeg)
     return changed
 
 
