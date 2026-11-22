@@ -16,7 +16,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import font  # noqa: E402
-from insert import DIALOGUE_PX, SCROLL_PX, speaker_names  # noqa: E402
+from insert import (DIALOGUE_PX, SCROLL_PX, SPIRIT_HELP_PX, SPIRIT_NAME_MAX, SPIRIT_NAME_PX,  # noqa: E402
+                    speaker_names)
 from slots import HUD_GLYPHS, QUOTE_GLYPHS, SCROLL_GLYPHS, WINDOW_GLYPHS  # noqa: E402
 
 JP = re.compile(r"[぀-ヿ一-鿿！-～]")
@@ -31,6 +32,12 @@ TABLES = [(0xC52F8, 0xC5440, HUD_GLYPHS, 100, "battle HUD mech label"),
 # Battle confirm screen pilot names (table exe 0xA8810, docs/re/windows.md §Confirm screen): left name x=18, "Lv."
 # graphic at x=82, less a 3 px gap; longer names need a short form in script/confirm_short.tsv (D18)
 PILOTS, CONFIRM_PX, SHORT_TSV = (0xA8810, 0xA8900), 61, ROOT / "script/confirm_short.tsv"
+
+
+def spirit_cost(off, exe=ROOT / "work/disc/tree/SLPS_023.19"):
+    """SP cost of the spirit whose name is at exe offset off (u16 at name + 0x5C, read by 0x800DD330)."""
+    b = exe.read_bytes()
+    return b[off + 0x5C] | b[off + 0x5D] << 8
 
 
 def relocatable(ln):
@@ -68,6 +75,12 @@ def check_line(ln, names):
                 errs.append("%s: %d glyphs > %d slots" % (what, font.glyphs(en), g))
             if font.width_px(en) > px:
                 errs.append("%s: %d px > %d" % (what, font.width_px(en), px))
+    if ln.get("region") == "spirit":
+        px = SPIRIT_HELP_PX
+        if ln.get("max", 0) <= SPIRIT_NAME_MAX:  # a 1-digit SP cost leaves its tens cell blank: 10 px more
+            px = SPIRIT_NAME_PX + (10 if spirit_cost(int(ln["id"][4:], 16)) < 10 else 0)
+        if font.width_px(en) > px:
+            errs.append("spirit %s: %d px > %d" % ("name" if px == SPIRIT_NAME_PX else "help", font.width_px(en), px))
     if ln.get("kind") == "scroll":
         body = en.rstrip("\n").split("\n")
         if len(body) > ln["jp"].count("\n"):

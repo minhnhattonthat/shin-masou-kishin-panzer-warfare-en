@@ -117,6 +117,21 @@ vwf_byte:                               ; a0 byte, s1 -1, s2 sprite, s3 pen stat
   addiu a1, zero, 0x48                  ; level 1-9 (was 0x40)
 .org 0x800E2E8C
   addiu a1, zero, 0x40                  ; level 10+ (was 0x38)
+; Map Spirit menu grid (72 px cells, name at col*72-0x8E): the SP cost drew at +38, over Iron Wall / Prana Heal /
+; Spellbind. Cost moves 14 px right (units digit just past the cursor box, 6 px before the next column); every
+; branch of 0x800DCEE4 that draws it (docs/re/windows.md §Spirit grid).
+.org 0x800DD16C
+  addiu a1, s2, -0x68+14
+.org 0x800DD304
+  addiu a1, s2, -0x68+14
+.org 0x800DD4D8
+  addiu a1, s2, -0x68+14
+.org 0x800DD234
+  addiu s2, s2, -0x67+14                ; shadow pass
+.org 0x800DD3CC
+  addiu s2, s2, -0x67+14
+.org 0x800DD530
+  addiu s2, s2, -0x67+14
 .org SHORT_FREE
 pilot_short:                            ; a3 = string; a0-a2 and the stack args pass through untouched
   lui   t0, hi(SHORT_MAP)

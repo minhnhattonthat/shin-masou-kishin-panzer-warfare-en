@@ -2598,7 +2598,7 @@
   {
    "id": "exe_036C0",
    "jp": "入手したポイントをすべて振りわけてください",
-   "en": "Please allocate all the points earned",
+   "en": "Please allocate all the points earned.",
    "lui": [
     "0x580C4"
    ],
@@ -2608,7 +2608,7 @@
   {
    "id": "exe_036EC",
    "jp": "レベルアップポイントの振りわけを終了します",
-   "en": "Finish allocating level-up points",
+   "en": "Finish allocating level-up points?",
    "lui": [
     "0x580E0"
    ],
@@ -5879,7 +5879,7 @@
   {
    "id": "exe_AD38B",
    "jp": "指定した敵{h}ユニット１{z}体を、{h}１タ－ン{z}の間だけ移動不能にします",
-   "en": "Leaves {h}1 enemy unit{z} you choose unable to move for {h}1 turn{z}",
+   "en": "{h}1 enemy unit{z} you choose cannot move for {h}1 turn{z}",
    "region": "spirit",
    "max": 78,
    "status": "done"
@@ -5919,7 +5919,7 @@
   {
    "id": "exe_AD49A",
    "jp": "友情",
-   "en": "Friendship",
+   "en": "Friend.",
    "region": "spirit",
    "max": 10,
    "status": "done"

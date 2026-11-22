@@ -129,12 +129,20 @@ def _text(ln, mode, qa, budget=None, body="jp"):
         en += "\n" * max(1, ln["jp"].count("\n") - en.count("\n"))
     elif ln.get("kind") == "scroll":
         en = center_scroll(en, ln["jp"].count("\n"))
+    elif ln.get("region") == "spirit" and ln.get("max", 0) > SPIRIT_NAME_MAX:
+        # spirit help bar: the JP's one leading blank is a 12 px indent, not right-alignment (align would push
+        # the English off-screen)
+        room = (SPIRIT_HELP_PX - font.width_px(en)) // font.SPACE
+        en = " " * max(0, min(3, room, (budget or 0) - len(font.encode(en)))) + en
     elif budget is not None:
         en = align(en, ln["jp"], budget)
     return font.encode(en)
 
 
 BLANKS = "　 "
+# map Spirit menu (docs/re/windows.md §Spirit grid): help bar drawn from screen x=4; name cells (max 10-11 bytes)
+# end where the SP cost's tens digit starts (+50 px since asm/vwf.asm moved it)
+SPIRIT_HELP_PX, SPIRIT_NAME_PX, SPIRIT_NAME_MAX = 314, 47, 11
 
 
 def _codes(s):

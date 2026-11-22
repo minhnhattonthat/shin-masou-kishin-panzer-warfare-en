@@ -52,6 +52,49 @@ KINDS = {
     # intermission chapter label (overlay fields ov_ECB74.., 31 bytes each; stage 5 reads ov_ECBF4 at 0x801C710C,
     # drawn f3306 of warp intermission --debugger; state at f3295)
     "imlabel": dict(prefix="ov_", state="work/states/force_imlabel.sstate", addr=0x801C710C, crop="0,0,320,60"),
+    # title LOAD slot info box (warp title_load + --sav tools/debug/saves/stage05_intermission.mcd, state f4300,
+    # drawn ~f4470: run with --hold 220): DATA NN line 0x8015B640 (exe_B5E40), chapter label 0x8015B7B0 (exe_B5FB0)
+    "sdata": dict(prefix="exe_", lo=0xB5E40, hi=0xB5F20, state="work/states/force_slabel.sstate", addr=0x8015B640,
+                  sav="tools/debug/saves/stage05_intermission.mcd", crop="0,170,320,70"),
+    "schap": dict(prefix="exe_", lo=0xB5F6C, hi=0xB61EC, state="work/states/force_slabel.sstate", addr=0x8015B7B0,
+                  sav="tools/debug/saves/stage05_intermission.mcd", crop="0,170,320,70"),
+    # memory-card messages (table 0x80159E48): the same state's card check draws "Checking..." (exe_B3BC0) at
+    # 0x801593C0 ~f4340 (ra 0x80110EA0) until the slot list draws: run with --hold 100
+    "mcmsg": dict(prefix="exe_", lo=0xB3930, hi=0xB460C, state="work/states/force_slabel.sstate", addr=0x801593C0,
+                  sav="tools/debug/saves/stage05_intermission.mcd", crop="0,0,320,240"),
+    # map Spirit menu (ev01_map_p1 + press_seq SEQ={{10,'circle'},{40,'down'},{55,'down'},{70,'down'},{90,'circle'}}
+    # STATE_AT=98, drawn f103): spirit records 0x5E apart from 0xACFD4 (name +0, help +0xB); first cell Guts
+    # (exe_AD090 at 0x80152890), help line at the top from its help 0x8015289B
+    "spname": dict(prefix="exe_", lo=0xACFD4, hi=0xAD5B4, step=0x5E, state="work/states/force_spirit.sstate",
+                   addr=0x80152890, crop="0,150,320,90"),
+    "sphelp": dict(prefix="exe_", lo=0xACFDF, hi=0xAD5BF, step=0x5E, state="work/states/force_spirit.sstate",
+                   addr=0x8015289B, crop="0,0,320,50"),
+    # map menu Goal (ev01_map_p1 + press_seq SEQ={{10,'right'},{34,'right'},{58,'right'},{82,'circle'},
+    # {146,'down'}} STATE_AT=160 = cursor on Goal; circle at t10 draws it ~t22: --hold 40): 36-byte objective
+    # fields, victory line 0x80152E84 (exe_AD684), defeat line 0x80152FF8 (exe_AD7F8)
+    "gwin": dict(prefix="exe_", lo=0xAD684, hi=0xAD7F7, state="work/states/force_goal.sstate", addr=0x80152E84,
+                 press=(10, "circle"), crop="0,40,320,170"),
+    "glose": dict(prefix="exe_", lo=0xAD7F8, hi=0xAD8B1, state="work/states/force_goal.sstate", addr=0x80152FF8,
+                  press=(10, "circle"), crop="0,40,320,170"),
+    # Goal box heading 勝利条件 (exe_02C60 at 0x800A8460) for its variant 勝ち抜き条件 (exe_02C6C)
+    "glabel": dict(prefix="exe_", lo=0x2C6C, hi=0x2C6C, state="work/states/force_goal.sstate", addr=0x800A8460,
+                   press=(10, "circle"), crop="0,40,320,170"),
+    # end-turn prompt (map mode 22; ev01_map_p1 + poke.lua POKE={[0x80178240]=22} AT=2, STATE_AT=5, drawn f11):
+    # line 0x800A83F0 (exe_02BF0)
+    "endturn": dict(prefix="exe_", lo=0x2C2C, hi=0x2C2C, state="work/states/force_endturn.sstate",
+                    addr=0x800A83F0, crop="0,0,320,240"),
+    # level-up flow (map mode index byte 0x80178240 = 24 opens it for the selected unit; force_spirit.sstate +
+    # tools/lua/poke.lua POKE={[0x80178240]=24,[0x8014D098]=0} AT=2, state 58 frames later; docs/re/debug.md):
+    # Information box "Level Up -> LV" 0x800A8DA8 (exe_035A8, ~f12 from force_lvup_banner.sstate); the learned
+    # skill / spirit lines and Max HP / Armor go in the same box
+    "lvban": dict(prefix="exe_", lo=0x35A8, hi=0x39C8, state="work/states/force_lvup_banner.sstate",
+                  addr=0x800A8DA8, crop="0,80,320,60"),
+    # level-up screen (force_lvup.sstate = banner state + 360 frames): stat help bar 0x800A8DD0 (exe_035D0, f22),
+    # circle at f150 opens the "Finish allocating?" dialog 0x800A8EEC (exe_036EC, f158)
+    "lvhelp": dict(prefix="exe_", lo=0x35D0, hi=0x3688, state="work/states/force_lvup.sstate", addr=0x800A8DD0,
+                   crop="0,190,320,50"),
+    "lvdlg": dict(prefix="exe_", lo=0x36C0, hi=0x3718, state="work/states/force_lvup.sstate", addr=0x800A8EEC,
+                  press=(150, "circle"), crop="0,40,320,100"),
 }
 
 
@@ -72,6 +115,8 @@ def run_chunk(n, items, a, k, keyrows):
            "--script", lua, "--script", os.path.join(ROOT, "tools/debug/force_text.lua"),
            "--var", "STATE='%s'" % os.path.abspath(k["state"]).replace("\\", "/"), "--var", "ADDR=%d" % k["addr"],
            "--var", "HOLD=%d" % a.hold, "--frames", str((a.hold + 2) * (len(items) + 2)), "--timeout", "3000"]
+    if k.get("sav"):  # the state does not hold the memory card the screen reads after the load
+        cmd += ["--sav", os.path.join(ROOT, k["sav"])]
     if a.press or k.get("press"):
         cmd += ["--var", "PRESS=%d" % (a.press or k["press"][0]), "--var", "PRESS_KEY='%s'" % k.get("press", (0, "circle"))[1]]
     rc = subprocess.run(cmd, capture_output=True, text=True).returncode
@@ -144,7 +189,8 @@ def main():
     keyrows = {i: (key, twin or back.get(i)) for i, key, _, _, twin in rows}
     ids = a.ids or (open(a.ids_file, encoding="utf-8").read().split() if a.ids_file else
                     [i for i in never_shown("work/qa/textcover.txt") if i.startswith(k["prefix"])
-                     and k.get("lo", 0) <= int(i.split("_")[-1], 16) <= k.get("hi", 1 << 32)])
+                     and k.get("lo", 0) <= int(i.split("_")[-1], 16) <= k.get("hi", 1 << 32)
+                     and (int(i.split("_")[-1], 16) - k.get("lo", 0)) % k.get("step", 1) == 0])
     items = [(i, byid[i]) for i in ids]
     chunks = [items[x:x + a.chunk] for x in range(0, len(items), a.chunk)]
     bad = 0

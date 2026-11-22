@@ -47,6 +47,10 @@ Notes
   0x800E2E28), the level number 0x80103774 (x at 0x800E2E64 for 1-9, 0x800E2E8C for 10+). "Masou Soldier" touched
   Lv. at x=+0x28, so asm/vwf.asm moves Lv. and the number 8 px right (0x30 / 0x48 / 0x40): 86 px for the pilot.
   Forced display of every name in both fields: `force_text.py pilot|mech` (2026-11-22).
+- **Spirit grid** (map command Spirit; fn 0x800DCEE4): 3 x 72 px cells, name x = col*72-0x8E (renderer), SP cost
+  via 0x80103774 (`lhu 0x5C` of the 0x5E-byte record from 0x801527D4, 2 digits, blank-padded) at x+38, cursor box
+  ~61 px. asm/vwf.asm moves the cost to x+52 (0x800DD16C/304/4D8, shadow 0x800DD234/3CC/530); D19. Forced names
+  and help lines: `force_text.py spname|sphelp` (state `work/states/force_spirit.sstate`).
 - **Intro scroll slots**: pages draw from slot 0 (0x80115998 / 0x80115A10, renderer x=-128 y=-88) and freed 0xC8;
   English pages draw up to ~336 glyphs, so `slots.py` frees 430 there (bug 4).
 - Glyphs fade in during the typewriter (late glyphs look grey in mid-typing shots): judge a box on its last frame.

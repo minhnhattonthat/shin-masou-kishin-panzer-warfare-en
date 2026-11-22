@@ -14,6 +14,11 @@ Addresses for the dump in `rom.sha1`. `$gp` = 0x801775C0 (set at 0x80129DA8: `lu
   display setup is wrong and draws garbage): 12 Game Over, 14/15 intermission (label 「<stage card>」まで終了
   follows the stage byte; ~800 frames to fade in), 21/22 option screen, 23/24, 25/26, 27/28 memory-card
   screens, 29/30 ending staff roll. 20 = re-inits the battle map (garbled).
+- **Map sub-mode** byte 0x80178240 (battle map, game mode 9): index k of the {handler, state byte} table at
+  0x8014CFD4 + 8k (dispatcher reads the state byte at +4). Seen: 3 command menu, 10 map idle, 16 battle confirm,
+  17 Spirit menu (0x800DD8B8), 22 end-turn prompt (0x800E1198), 24 level-up flow (0x800FAD84: "Level Up -> LV"
+  box, then the point-allocation screen, ~370 frames). Poke it from a map state with a unit selected
+  (`tools/lua/poke.lua POKE={[0x80178240]=24,[0x8014D098]=0}`) to open that screen; used by force_text.py.
 - **Intermission menu**: cursor starts on SAVE; down = LOAD, STATUS, NEXT. STATUS: character select, circle = pilot
   page (操者), right = 機体, 攻撃技. A forced intermission has zeroed stats (no party set up); stress values need
   RAM writes or a save editor later.
