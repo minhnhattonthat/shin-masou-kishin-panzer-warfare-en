@@ -295,7 +295,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
   (`work/qa/force_lv/lv_zoom.png`). (C) `tools/release.py` (build, check, smoke, jp_left on exe/OVER/BAT_OVER minus
   the dead old quote blocks, every `*manifest.tsv` gate, textcover, polish, README placeholders, xdelta3 -B, re-apply
   compare, zip with `docs/release-readme.txt`); README filled. GRA5/BAT_TIM/T_TIM jp_left hits are TIM pixel noise.
-- **Next (phase 9, release):** story-pass verdict per chapter (`qa_gate.py check work/qa/story/manifest.tsv ..`,
+  (D) warp_all 123/123 on ef6484d5 (`work/qa/warp_ef64`); `ev01_map_p1.sstate` regenerated on ef6484d5.
+- **Next (phase 9, release), in order:** the tour / gfx / stress gates are STALE (recorded builds 860d0e73 /
+  3c63e899, now ef6484d5). `qa_gate.py waive` was refused by the auto-mode permission classifier this session, so
+  re-run them for real: (1) `python -X utf8 tools/debug/tour.py ev01 .. ev35 --jobs 2` (all 35; 4 PCSX ran out of
+  memory before), then `qa_gate.py init work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin`; only
+  sheets whose pixels changed lose their verdicts: `qa_gate.py todo ... --size 30 --out-dir work/qa/chunks`, one
+  visual-qa subagent per chunk (`docs/visual-qa-brief.md`, up to 4 at a time). (2) gfx gate: re-shoot
+  `work/qa/gfx_proof` (UI warps `work/qa/warp_ef64` + fmv shots per session 9/10 notes), `init --build`, verdicts.
+  (3) stress: `tools/debug/stress.py --rom build/smk_en.cue` (all cases), `init work/qa/stress_manifest.tsv
+  work/qa/stress_proof --glob "*.png" --build build/smk_en.bin`, verdicts. (4) `python -X utf8 tools/release.py`
+  (version 1.0): it runs every gate and stops at the first failure; it ends at release/SMK_EN_v1.0.zip. Never
+  `gh release create`. Story gate, polish (0 unticked), README, jp_left (exe/OVER/BAT_OVER) and textcover already pass.
+- **Older next list (phase 9):** story-pass verdict per chapter (`qa_gate.py check work/qa/story/manifest.tsv ..`,
   translation.md §Review); `docs/polish.md` has unticked lines (233 Minors): apply or tick each; `tools/release.py`
   (runs qa_gate on every manifest + textcover, jp_left, debug tool off, xdelta made/re-applied/verified), README
   without template placeholders and with the base ROM hashes, zip = patch + README. Never `gh release create`.
