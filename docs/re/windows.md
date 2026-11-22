@@ -45,6 +45,13 @@ Notes
 - **Intro scroll slots**: pages draw from slot 0 (0x80115998 / 0x80115A10, renderer x=-128 y=-88) and freed 0xC8;
   English pages draw up to ~336 glyphs, so `slots.py` frees 430 there (bug 4).
 - Glyphs fade in during the typewriter (late glyphs look grey in mid-typing shots): judge a box on its last frame.
+- **Bug 7 (open, 2026-11-22): glyph 80+ of a message stays grey for good.** Slot records (*0x801B7184 = 0x8017BC78,
+  0x44 each): colour byte +0x0C is 0x80 for slots 10-89 and 0x40 (the dim inactive-speaker colour) for 90+, written
+  once at layout by 0x80103C64 (copies the template the caller passes in s3; caller ra 0x80103C44). Slot 90 = the OLD
+  window-1 start (0x5A): some code still picks the colour by the old 80-slot window ranges, which `slots.py` did not
+  re-base. Leads: `slti 0x12c` + `addiu 0x5a` at 0x80109BEC-0x8010AA90 (0x80109C54, 0x80109CC4, 0x8010A678), and
+  0x800FB948 (0x5a) / 0x800FB968 (0x50). Seen in normal play (tour ev01 f3600, ev000_14C0 "...face your final exam"),
+  not just forced. Probes: `tools/lua/poke_dump.lua` (RAM dumps after a poke), `tools/lua/who_writes.lua`.
 - **Event pools: solved by block growth** (scripts.md §Block growth): strings past a pool's end go after the block,
   blocks move to the end of OVER.BIN, max 0xF800 per block. The wide marker (each body line 240 px) needs at most
   25 sectors (0xC800). So translators get px/line budgets only, no byte budget for events.

@@ -72,6 +72,10 @@ def run(row, a, card):
     cmd = [sys.executable, "-X", "utf8", os.path.join(SKILL, "scripts", "emu.py"), a.rom, "--out", out,
            "--script", os.path.join(ROOT, "tools", "debug", "warp.lua"), "--var", f"SCENE='{row['name']}'",
            "--frames", row["frames"], "--sav", card, "--timeout", "1500"]
+    if row["how"].startswith("card:"):  # warp.lua copies card K from GRA5: take it from the disc under test
+        built = os.path.join(ROOT, "build", "disc", "tree", "GRA5.BIN")
+        under_build = os.path.abspath(a.rom).startswith(os.path.join(ROOT, "build") + os.sep)
+        cmd += ["--var", "GRA5='%s'" % (built if under_build else GRA5).replace("\\", "/")]
     if a.states:
         cmd += ["--state-out", os.path.join(ROOT, "work", "states", row["name"] + ".sstate")]
     if a.cover:

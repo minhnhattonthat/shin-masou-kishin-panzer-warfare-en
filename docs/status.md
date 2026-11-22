@@ -157,10 +157,36 @@ Updated at the end of every session. Keep it to what the next session needs; his
   cut-ins and G15 caption: still on no sheet of either tour (EN or JP) → waive with the VRAM evidence above.
   Running at hand-back: `warp_all.py --rom build/smk_en.cue --out work/qa/warp_en --cover --jobs 2` (log
   `work/qa/warp_en.log`) for the coverage logs; if the log is short of 123 scenes, re-run with `--resume`.
-- **Next (phase 8), in order:** (a) done (bugs 1-3); (b) done except G13/G15 (unseen on both tours: waive with
-  the VRAM evidence); (c) tour gate done (598/598, session 4); still: smoke on d4f5130a, and once the warp sweep
-  above finishes add its UI scene.png shots to the manifest (`qa_gate.py init ... work/qa/warp_en --glob
-  "scene.png"`) and give them verdicts; (d) the left-JP tiles
+- **Session 2026-11-22 (5), build d4f5130a (= HEAD build; smoke ok):** warp sweep `work/qa/warp_en` 123/123
+  (re-ran the 46 that failed with rc 0xC0000142 = out of desktop heap with other projects' emulators running: use
+  `--jobs 1`/2 and `--resume`). **Text coverage** first report: 4475/12769 shown (`work/qa/textcover.txt`; events
+  ~60 %, bq 3 %, exe 76/899, ov 1/37). New **forced display** (`tools/debug/force_text.py` + `.lua`, doc in the
+  script): from one state per box (`work/states/force_msg.sstate` ev01 f3480, `force_bq.sstate` ev05 f15082, both
+  made with `tools/lua/state_at.lua --debugger`) it writes each unshown string's built bytes over the string the box
+  is about to draw and shoots it; cover logs in `work/qa/cover/force_*`. Done: all 3441 unshown event strings
+  (msg_000-022, long ones re-shot at --hold 180 from `work/qa/force_long`) and all 1997 set-A quotes (B twins count
+  too). `tools/debug/force_check.py msg|bq`: ink inside the box for every shot (msg max x 306 of 310, bq 250 of 252,
+  no 4th line), 0 fail; samples viewed (`work/qa/force/sample/`). Not yet re-run: `cover.py logs` + textcover with
+  the force logs (they are already in work/qa/cover: just run textcover).
+  **Bug 7 found (open, real, not a force artefact):** in any message with more than 80 glyphs (speaker included) the
+  glyphs from the 81st on stay dim grey forever (tour ev01 f3600 shows it; 598 tour verdicts read it as typing).
+  Analysis + leads in docs/re/windows.md "Bug 7": colour chosen by the OLD window slot ranges (slot ≥ 90 = window 1
+  = dim). Fix it in `tools/slots.py`, then re-run `force_text.py msg` (all) + `force_check.py` and re-tour (glyph
+  colours change on every long line).
+  Warp UI shots: `work/qa/warp_en/{credits,credits_late,card_k01,card_k05}/scene.png` were stale/JP (card:K read
+  the JP GRA5: fixed, warp_all.py now passes the build's GRA5); fresh credits shots are English. A fresh UI sweep
+  was running at hand-back → `work/qa/warp_ui` (log `work/qa/warp_ui.log`; finish with `--resume`), then sheet its
+  scene.png files and give them verdicts. **im_status_mech is Japanese** (ステータス, 操者/機体/攻撃技 tabs, 装甲 反応
+  移動 空地水 適応: a TIM other than TIM.BIN A5128 that G9 drew): find its TIM (vram_find.py) and add gfx rows.
+  **Exe coverage plan** (823 exe + 36 ov unshown): same force method per box, one base state each: weapon list
+  (exe_00D38-01D80, 192), unit/pilot names (exe_04DDC-05FA4, 226; HUD/status/confirm fields), spirit names + help
+  and win/lose lines (exe_ACFD4-AD8B1), map messages (exe_027C8, 02BF0), level-up lines (exe_035A8), elements and
+  terrain (exe_D1E38-D29C8), memory-card lines (exe_0403C, B3930-B61EC), chapter labels (ov_*, intermission label);
+  exe_C3DC8-C4C98 (109 exe 「…」 quotes, no pointers): prove unused (xref) and waive in docs/text_unshown.tsv. Fixed
+  fields: write only same-category strings (same `max`).
+- **Next (phase 8), in order:** (0) bug 7; im_status_mech graphics; exe coverage plan above; (a) done (bugs 1-3);
+  (b) done except G13/G15 (unseen on both tours: waive with the VRAM evidence); (c) tour gate done (598/598, session
+  4) but bug 7 changes long lines: re-tour after its fix; UI warp shots → verdicts (above); (d) the left-JP tiles
   (GRA5 0x11000 single-kanji icons 必集閃鉄熱魂加 / 幸旋縛結協努超 = spirit/status markers: find the screen) and FMV
   mov01; (e) centred menus left for inkbox: YES/NO exe_04064/040B0, win/lose condition lines exe_AD684-AD8B1 (find
   their screen on the tour sheets); (f) stress saves (needs `save.py` / unit record layout); (g) coverage report
@@ -182,7 +208,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the
   warps reach every stage without saves; a forced intermission has zeroed stats, so menu stress values need RAM
   writes or the editor then.
-- **Open bugs:** none. Fixed 2026-11-22: (4) intro scroll left on screen, (5) one-word last lines, (6) class
+- **Open bugs:** (7) glyphs past the 80th of a message drawn dim grey (docs/re/windows.md "Bug 7"); mech status
+  page graphics left Japanese. Fixed 2026-11-22: (4) intro scroll left on screen, (5) one-word last lines, (6) class
   over "Lv." (session 3), militiaman speaker label (session 4); all re-checked on the tour sheets. Closed 2026-11-22: (1) the fixed-slot screen 0x8011C178 (slots 0x180-0x1FF) is a
   battle-test setup screen (labels 味方 右側 / 敵 左側, mode 11 state 0 of 0x8011A4F8); the real map confirm and
   enemy-phase counter screens use the running counter (0x800C6Bxx) and slots 0x180-0x1FF stayed empty through a
