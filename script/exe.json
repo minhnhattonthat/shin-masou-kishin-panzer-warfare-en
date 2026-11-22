@@ -2988,7 +2988,7 @@
   {
    "id": "exe_0441C",
    "jp": "メモリーカードを抜かないで下さい",
-   "en": "Do not remove the Memory Card",
+   "en": "Leave the Memory Card in",
    "lui": [
     "0x6BBC8"
    ],

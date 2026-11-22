@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (2026-11-22).
+- **Phase:** 8. QA in the emulator, in progress (2026-11-22; latest: "Session 2026-11-22 (6)" below).
   Phase 8 so far: `warp_all.py --rom build/smk_en.cue` 123/123 (`work/qa/warp_en`, states regenerated); JP
   reference warps `work/qa/warp_jp` (16 UI scenes). **Graphics:** `tools/gfx.py` (rows in `gfx/<group>.tsv`, drawn
   in palette-index space into every byte-identical copy of the TIM's pixel block; `img` rows for hand-drawn rects;
@@ -184,7 +184,33 @@ Updated at the end of every session. Keep it to what the next session needs; his
   terrain (exe_D1E38-D29C8), memory-card lines (exe_0403C, B3930-B61EC), chapter labels (ov_*, intermission label);
   exe_C3DC8-C4C98 (109 exe 「…」 quotes, no pointers): prove unused (xref) and waive in docs/text_unshown.tsv. Fixed
   fields: write only same-category strings (same `max`).
-- **Next (phase 8), in order:** (0) bug 7; im_status_mech graphics; exe coverage plan above; (a) done (bugs 1-3);
+- **Session 2026-11-22 (6):** **bug 7 fixed** (abc43ab, build 98bbd2b9, Check 44 passed): 0x80115B4C dims the
+  inactive windows with the old 80-slot ranges as immediates; `slots.py` WORDS re-aims them (windows.md "Bug 7"),
+  verified `work/qa/b7_fix/f003550.png`. **Full EN re-tour started** for bug 7 (`tour.py --jobs 2` → `work/qa/tour`,
+  log `work/qa/tour_full.log`; ev01-02 done at hand-back, ~20 min a scene with other projects' emulators running).
+  If the log is short of ev35 and no tour.py runs (`tasklist | grep pcsx`), re-run the missing scenes. **NOT built
+  yet:** `script/exe.json` exe_0441C (save/load screen header) "Do not remove the Memory Card" was cut after
+  "Memory" (runtime limit 24 chars / 20 glyphs, `work/qa/ui_sheets/m1.png`) → "Leave the Memory Card in" (fits
+  both). Build after the tour ends (never while it runs), cold-boot im_save to check, then `qa_gate.py init
+  work/qa/manifest.tsv work/qa/tour/sheets --build build/smk_en.bin` (that string is on no tour sheet) and give
+  verdicts to the changed sheets. UI warps `work/qa/warp_ui` now complete (all 19 UI scenes + card_k01/05; logs
+  warp_ui*.log); viewed so far: title_load/continue, im_save(+confirm), intermission, im_load, im_status_pilot/
+  mech/weapons: English and clean except the header above; **im_status_mech is English** (the old "Japanese" note
+  was a stale shot). Not yet viewed: im_next, option, gameover, credits, credits_late, battle05, card_k01/05.
+  **Text coverage** 11975/12769 shown, 126 waived (`docs/text_unshown.tsv`: 109 exe quotes 0xC3DC8-0xC4CB3 with
+  no pointer/lui into them; 17 memory-card file titles kept JP), 668 failing (`work/qa/textcover.txt`). Fixed
+  force_text twin credit (set-A forced quotes now credit their set-B twin; force_bq cover logs rewritten: all
+  quotes covered). New force kind `wpn` (weapon names exe_00D38-0133C in the map weapon list, state
+  `work/states/force_wpn.sstate`; 65 forced, sheets `work/qa/force/sheets/wpn_000*`, longest name fits; no
+  verdict file yet). `work/states/ev01_map_p1.sstate` regenerated on the current build (`weapon_list_pre.sstate`
+  is stale: its RAM holds the pre-bug-3 exe). `tools/lua/press_seq.lua` (SEQ presses + STATE_AT state).
+  Left 668: exe names 0x134C-0x1D68 (pilot short 13AC-14D0, pilot full 14E8-1920, mech short 193C-1AF4, mech
+  full 1B24-1D68: unit box mech name 0x800A74B8 draws at f13 of ev01_map_p1 after circle; the pilot name is a RAM
+  copy 0x801776E0, so force pilot names there), the {h}NN weapon/unit table exe_04DDC-05FA4 (226; find its
+  screen: maybe the battle-test setup 0x8011C178 of bug 1, then waive as unreachable), map messages 027C8/02BF0,
+  level-up 035A8-039C8, memcard 0403C-040B0 + B3930-B460C, spirit names/help + objectives ACFD4-AD8B1, chapter
+  labels B5E40-B61EC + ov_* (36), status B76D4-B7A9A, elements/terrain D1E40-D29C8.
+- **Next (phase 8), in order:** (0) finish the re-tour, build, gate (above); exe coverage (above); (a) done (bugs 1-3);
   (b) done except G13/G15 (unseen on both tours: waive with the VRAM evidence); (c) tour gate done (598/598, session
   4) but bug 7 changes long lines: re-tour after its fix; UI warp shots → verdicts (above); (d) the left-JP tiles
   (GRA5 0x11000 single-kanji icons 必集閃鉄熱魂加 / 幸旋縛結協努超 = spirit/status markers: find the screen) and FMV
@@ -208,8 +234,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   unit record layout (GOD mode, stress values) and a save editor (`save.py`), deferred to phase 8 stress saves: the
   warps reach every stage without saves; a forced intermission has zeroed stats, so menu stress values need RAM
   writes or the editor then.
-- **Open bugs:** (7) glyphs past the 80th of a message drawn dim grey (docs/re/windows.md "Bug 7"); mech status
-  page graphics left Japanese. Fixed 2026-11-22: (4) intro scroll left on screen, (5) one-word last lines, (6) class
+- **Open bugs:** none open. Fixed 2026-11-22: (7) glyphs past the 80th drawn dim (session 6); (4) intro scroll left on screen, (5) one-word last lines, (6) class
   over "Lv." (session 3), militiaman speaker label (session 4); all re-checked on the tour sheets. Closed 2026-11-22: (1) the fixed-slot screen 0x8011C178 (slots 0x180-0x1FF) is a
   battle-test setup screen (labels 味方 右側 / 敵 左側, mode 11 state 0 of 0x8011A4F8); the real map confirm and
   enemy-phase counter screens use the running counter (0x800C6Bxx) and slots 0x180-0x1FF stayed empty through a

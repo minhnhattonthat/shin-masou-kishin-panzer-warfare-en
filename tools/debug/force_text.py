@@ -7,6 +7,8 @@ current build: make it with tools/lua/state_at.lua) and the string set:
     msg  event messages (ev*), state work/states/force_msg.sstate (ev01 f3480), ADDR 0x801C3960 (ev000_1444)
     bq   battle quotes set A (bqA*; the set-B twin has the same text and box), state work/states/force_bq.sstate
          (tour.py's ev05 run, warp.lua KEEP=1 --debugger, f15082), ADDR 0x801CB1C0 (drawn f15087)
+    wpn  weapon names, state work/states/force_wpn.sstate (ev01_map_p1.sstate + tools/lua/press_seq.lua
+         SEQ={{10,'circle'},{50,'down'},{70,'circle'}} STATE_AT=80: the weapon list draws at f84)
 Without ids it takes every string of the kind that textcover reported NEVER SHOWN in work/qa/textcover.txt.
 For each chunk, tools/debug/force_text.lua loads the state, writes the string's built bytes (build/<rom>.strings.tsv)
 at ADDR, runs --hold frames with no input and shoots s_<id>.png. Then per chunk: OUT/<kind>_NNN/ (shots, log),
@@ -33,6 +35,10 @@ import cover  # noqa: E402
 KINDS = {
     "msg": dict(prefix="ev", state="work/states/force_msg.sstate", addr=0x801C3960, crop="0,150,320,90"),
     "bq": dict(prefix="bqA", state="work/states/force_bq.sstate", addr=0x801CB1C0, crop="0,184,320,56"),
+    # weapon names exe_00D38-0133C into the map weapon list's first row (Seal Prod, exe_011E0); a longer name runs
+    # into the strings after it, which this list does not show
+    "wpn": dict(prefix="exe_", lo=0xD38, hi=0x133C, state="work/states/force_wpn.sstate", addr=0x800A69E0,
+                crop="0,20,320,90"),
 }
 
 
@@ -120,9 +126,11 @@ def main():
         return replace(a, k)
     rows = cover.read_strings(os.path.splitext(a.rom)[0] + ".strings.tsv")
     byid = {i: b for i, _, _, b, _ in rows}
-    keyrows = {i: (key, twin) for i, key, _, _, twin in rows}
+    back = {twin: i for i, _, _, _, twin in rows if twin}  # set-A quote -> its set-B twin (the tsv lists B -> A)
+    keyrows = {i: (key, twin or back.get(i)) for i, key, _, _, twin in rows}
     ids = a.ids or (open(a.ids_file, encoding="utf-8").read().split() if a.ids_file else
-                    [i for i in never_shown("work/qa/textcover.txt") if i.startswith(k["prefix"])])
+                    [i for i in never_shown("work/qa/textcover.txt") if i.startswith(k["prefix"])
+                     and k.get("lo", 0) <= int(i.split("_")[-1], 16) <= k.get("hi", 1 << 32)])
     items = [(i, byid[i]) for i in ids]
     chunks = [items[x:x + a.chunk] for x in range(0, len(items), a.chunk)]
     bad = 0

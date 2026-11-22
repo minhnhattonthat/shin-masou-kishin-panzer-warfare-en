@@ -1,0 +1,127 @@
+# id	reason (textcover.py --waive): strings no tour or forced run shows, and why
+exe_B4944	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4968	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4980	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4999	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B49B2	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B49CB	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B49E4	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B49FD	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4A16	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4A2F	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4A48	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4A61	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4A7A	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4A93	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4AAC	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4AC5	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_B4ADE	kept JP (script/keep_jp.txt): memory-card file title, shown by the console's card manager, not by the game
+exe_C3DC8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3DE4	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3E04	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3E28	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3E44	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3E5C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3E70	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3E80	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3E9C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3EB8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3ED0	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3F00	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3F28	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3F48	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3F68	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3F94	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3FA8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3FB8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3FE8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C3FF8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C400C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C402C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C405C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C407C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4098	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C40A8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C40BC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C40D0	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C40F4	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C411C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4130	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4150	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C416C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4194	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C41CC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C41E4	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4208	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4240	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4268	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4288	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C42D4	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C42E8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C430C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4330	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4340	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4360	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4384	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C43A0	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C43B8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C43CC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C43E0	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4404	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4428	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4434	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C445C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4488	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C44DC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4518	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4558	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C457C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C45A0	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C45D0	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C45EC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4618	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4644	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4674	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4694	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C46C4	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C46D8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C46EC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4714	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4734	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4754	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4774	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4798	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C47C0	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C47E8	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4814	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C482C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4870	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4880	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4894	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C492C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C495C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4978	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C49BC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C49CC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C49DC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C49EC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4A1C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4A34	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4A58	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4A74	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4A90	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4AC0	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4AD4	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4AEC	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4B30	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4B50	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4B70	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4BC4	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4BE0	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4C00	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4C24	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4C40	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4C58	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4C6C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4C7C	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
+exe_C4C98	unused: exe quote block 0xC3DC8-0xC4CB3 has no pointer word or lui pair into it (scan 2026-11-22), not on the marker tour
