@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator, in progress (2026-11-22; latest: "Session 2026-11-22 (8)" below).
+- **Phase:** 8. QA in the emulator, in progress (2026-11-22; latest: "Session 2026-11-22 (9)" below).
   Phase 8 so far: `warp_all.py --rom build/smk_en.cue` 123/123 (`work/qa/warp_en`, states regenerated); JP
   reference warps `work/qa/warp_jp` (16 UI scenes). **Graphics:** `tools/gfx.py` (rows in `gfx/<group>.tsv`, drawn
   in palette-index space into every byte-identical copy of the TIM's pixel block; `img` rows for hand-drawn rects;
@@ -260,10 +260,24 @@ Updated at the end of every session. Keep it to what the next session needs; his
   → rewrapped (forced, `work/qa/explore/fix_wrap.png`; other glossary splits are titles like Royal/Capital, left);
   unit box "Masoukishin Cybuster" tail appears a few frames late during the box fade-in (settled box whole and
   bright: `work/qa/explore/cyb_z.png`) → ok. Build **5b9f8e53**, Check 44, smoke ok, textcover 0 failing.
-- **Next (phase 8), in order:** DONE: re-tour + gate, exe coverage/textcover, bugs 1-10, force-sheet gate.
+- **Session 2026-11-22 (9), build 15fa7205 (Check 44, gates ok):** D17 tiles done (commit bc0c5ad): map unit box
+  spirit markers → Al Fo Ga St IW Va So Sb (`tools/gfx_mapui.py` kind `col`; marker = active-spirit bit n = spirit id
+  n at u16 0x80178604, drawn after "Lv."; 加幸旋結協超 have no spirit: left JP), status class badges 兵民騎官 → S C K O
+  (`tools/gfx_status.py` kind `badge`; S seen on Keigo's pilot page, C/K/O preview only). Pilot record + recipe in
+  debug.md; **pokes at frame 1 are lost to the state load: use AT >= 8** (why session 8's force_spirit/force_lvup
+  recipes failed). UI warps re-run on the current build (`work/qa/ui_en`, 18/18); new graphics gate
+  `work/qa/gfx_manifest.tsv` + `work/qa/gfx_verdicts` (10 shots in `work/qa/gfx_proof`: the 8 UI shots that lacked
+  verdicts + markers + badge, all ok). Tour gate waived for 15fa7205 (graphics-only). G13/G15 waived in
+  docs/re/graphics.md with the VRAM evidence. Forecast "dots vs ⅠⅡ" (ev05 f13680): the JP has エル・ザーリラ (・),
+  EN "El Zarila"; terrain labels are atlas lookups: ok. `ev01_map_p1.sstate` regenerated on this build.
+- **Next (phase 8), in order:** (A) G10 FMV mov01 subtitles: jPSXdec (Java 8 is installed) + ffmpeg ASS burn,
+  `-replaceframes` (platform-ps1 §FMV); 3 lines + end card, see graphics.md G10; recheck mov12 at 1-s steps.
+  (B) stress saves: pilot records above (+0x0E SP, names via the unit box), unit HP u16 +0x16A guess; poke max
+  values / longest names from `ev01_map_p1` and an intermission state, sheets through the gate. Then phase 8 is done.
+  Older list: DONE: re-tour + gate, exe coverage/textcover, bugs 1-10, force-sheet gate.
   Inkbox: save confirm YES/NO (`work/qa/warp_ui/im_save_confirm/scene.png`, rects 114,135,27,11 l4/r3 and
   179,135,27,11 `--ink 255,255,255 --diff 60` l5/r7) ok; Goal box lines match the JP's padding (session 8);
-  exe_04064/040B0 YES/NO are dead code (waived). LEFT for the done-when: (1) G13/G15 unseen on both tours: waive in
+  exe_04064/040B0 YES/NO are dead code (waived). Session 9 closed (1), (2), (5) and the ⅠⅡ check; (3) (4) are (A) (B) above. Was LEFT: (1) G13/G15 unseen on both tours: waive in
   the gate with the VRAM evidence (top of this file); (2) left-JP tiles D17 (GRA5 0x11000 single-kanji icons
   必集閃鉄熱魂加 / 幸旋縛結協努超 = spirit/status markers, status 兵民騎官 tiles, credits 摯 遺: find the screen,
   redraw, zoomed cold-boot shot); (3) G10 FMV mov01 subtitles (jPSXdec; not started); (4) stress saves (needs
