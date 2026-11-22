@@ -1135,7 +1135,7 @@
    ],
    "speaker": "トト",
    "jp": "　おいらたちには\n　魔装機神があるからだよ！\n\n",
-   "en": "Because we've got Masoukishin!",
+   "en": "Because we've got the Masoukishin!",
    "status": "done"
   },
   {
@@ -1146,7 +1146,7 @@
    ],
    "speaker": "トト",
    "jp": "　魔装機神の力が\n　やつらの精神攻撃を中和しているんだ。\n\n",
-   "en": "The Masoukishin's power is neutralizing\ntheir mental attacks!",
+   "en": "The Masoukishin's power is canceling out\ntheir mind attacks!",
    "status": "done"
   },
   {
@@ -1553,7 +1553,7 @@
    ],
    "speaker": "トト",
    "jp": "　そうだな。\n　それにハラも減ったし……。\n\n",
-   "en": "Yeah. Besides, I'm starving...",
+   "en": "Yeah. And I'm starvin', too...",
    "status": "done"
   },
   {
@@ -1641,7 +1641,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -1696,7 +1696,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうよ、覚えてない？\n『アルマ！』って\n　叫んでくれたのに……。\n",
-   "en": "That's right. Don't you remember? You\nshouted \"Alma!\" for me...",
+   "en": "That's right. Don't you remember? You\nshouted my name, Alma, for me...",
    "status": "done"
   },
   {
@@ -1751,7 +1751,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -1817,7 +1817,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -1850,7 +1850,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　王宮で魔装機同士の模擬試合が\n　開催されたの。\n\n",
-   "en": "a mock tournament between Masouki was\nheld at the royal palace.",
+   "en": "...a mock tournament between Masouki was\nheld at the royal palace.",
    "status": "done"
   },
   {
@@ -1927,7 +1927,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -2059,7 +2059,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -2477,7 +2477,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -2510,7 +2510,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -2631,7 +2631,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -2818,7 +2818,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　………………。\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -2840,7 +2840,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -2873,7 +2873,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　うわあああ……。\n　や……めろ……。\n\n",
-   "en": "Waaaaagh... S-Stop... S-Stop it...",
+   "en": "Waaaaagh... S-Stop... it...",
    "status": "done"
   },
   {
@@ -2905,7 +2905,7 @@
     "0x6814"
    ],
    "jp": "　かつて、誰もがまっすぐな瞳を持っていた\n\n　　　　　　　　けがれを知らず\n　　　　　　遠い未来をも見渡せる\n　　　　澄み切った光を瞳に宿していた\n\n　　　　その魂は高潔にして清廉であった\n　　　この世の諦念を噛み締めるまでは……\n\n　　裏世界……すなわちダウスは闇の中にある\n\n　　そこは、諦念さえ裸足で逃げ出しかねない\n　　　深く暗い感情に覆い尽くされていた\n",
-   "en": "Once, everyone's eyes looked straight ahead\n\nUntainted and pure,\ntheir eyes held a crystal-clear light\nthat could see far into the future\n\nTheir souls were noble and clean\nuntil they tasted the world's resignation...\n\nThe underworld... Daus lies in darkness\n\nIt is shrouded in feelings so deep and dark\nthat even resignation would flee from them",
+   "en": "Once, all had eyes that looked straight ahead\n\nUntainted and pure,\ntheir eyes held a crystal-clear light\nthat could see far into the future\n\nTheir souls were noble and clean\nuntil they tasted the world's resignation...\n\nThe underworld, that is, Daus, lies in darkness\n\nIt is shrouded in feelings so deep and dark\nthat even resignation might flee barefoot",
    "status": "done"
   },
   {

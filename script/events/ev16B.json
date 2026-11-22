@@ -310,7 +310,7 @@
    ],
    "speaker": "トト",
    "jp": "　ふ～ん。\n　おっちゃんって\n　エライ人だったんだ。\n",
-   "en": "Hmmm. So the old guy's an important\nperson, huh.",
+   "en": "Hmmm. So Uncle Beumer's an important\nperson, huh.",
    "status": "done"
   },
   {
@@ -398,7 +398,7 @@
    ],
    "speaker": "ベウマー",
    "jp": "　おまえ、隊長とは\n　どうなった？\n\n",
-   "en": "So, how're things with you and the captain?",
+   "en": "So, how're things with\nyou and the old captain?",
    "status": "done"
   },
   {
@@ -420,7 +420,7 @@
    ],
    "speaker": "ベウマー",
    "jp": "　ダウスから帰ってきたあと、\n　どうもおまえと隊長の関係は、\n　怪しいと思っていたんだ。\n",
-   "en": "Ever since you got back from Daus, I've\nhad a feelin' somethin's goin' on between\nyou and the captain.",
+   "en": "Ever since you got back from Daus, I've\nhad a feelin' somethin's goin' on between\nyou and the old captain.",
    "status": "done"
   },
   {
@@ -1333,7 +1333,7 @@
    ],
    "speaker": "マギーア",
    "jp": "（キャリ、おまえの仇）\n\n\n",
-   "en": "(Kyari, the one who killed you...)",
+   "en": "(Kyari, your killer...)",
    "status": "done"
   },
   {
@@ -2510,7 +2510,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　そうね。\n　どうしてかしら。\n\n",
-   "en": "Let me think. Why did I, I wonder?",
+   "en": "Hmm. Why did I, I wonder?",
    "status": "done"
   },
   {
@@ -2631,7 +2631,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　あなたが私のことを\n　認めてくれるのはうれしいけれど。\n\n",
-   "en": "I'm glad that you think well of me, but...",
+   "en": "I'm glad you think so highly of me.",
    "status": "done"
   },
   {
@@ -2642,7 +2642,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　そう考えない人もいる。\n\n\n",
-   "en": "there are people who don't see it that way.",
+   "en": "But there are people who\ndon't see it that way.",
    "status": "done"
   },
   {
@@ -3114,7 +3114,7 @@
     "0x6ABC"
    ],
    "jp": "　　　　安堵の思いと開放感が戦士たちに\n　　　　　　希望の光を投げかける\n\n　　　だが、戦いは終わってはいなかった\n　　　光を遮る影が最後の審判を受けるため\n　　　　戦士たちの前にその威容を現した\n\n　　正と負、白と黒、正義と邪悪、法と混沌\n\n　　まったく噛み合うことのない主義と主張\n　　接点というものとは、程遠い二つの存在\n\n　今、最終闘争の幕が上がり、審判が下される\n",
-   "en": "Relief and a sense of freedom\ncast a light of hope upon the warriors\n\nBut the battle was not yet over\nThe shadow that blots out the light\nloomed before them to face the last judgment\n\nPlus, minus, white, black, good, evil, law, chaos\n\nCreeds and claims that can never mesh\nTwo beings that share no common ground\n\nNow the last battle begins, and judgment falls",
+   "en": "Relief and a sense of freedom\ncast a light of hope upon the warriors\n\nBut the battle was not yet over\nThe shadow that blots out the light\nloomed before them to face the last judgment\n\nPlus, minus, white, black, good, evil, law, chaos\n\nCreeds and claims that can never mesh\nTwo beings that share no common ground\n\nNow the last fight begins, and judgment falls",
    "status": "done"
   },
   {

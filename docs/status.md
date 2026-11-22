@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release, not started (phase 8 done 2026-11-23; latest: "Session 2026-11-23 (10)" below).
+- **Phase:** 9. Release in progress (latest: "Session 2026-11-23 (11)" below).
   Phase 8 so far: `warp_all.py --rom build/smk_en.cue` 123/123 (`work/qa/warp_en`, states regenerated); JP
   reference warps `work/qa/warp_jp` (16 UI scenes). **Graphics:** `tools/gfx.py` (rows in `gfx/<group>.tsv`, drawn
   in palette-index space into every byte-identical copy of the TIM's pixel block; `img` rows for hand-drawn rects;
@@ -285,6 +285,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
   (force kinds, gated). Full weapon lists of late units not reached (map20/map35 states land mid-event), covered by
   the forced `wpn` names. `work/states/ev01_map_p1.sstate` regenerated on 3c63e899 (the old one had stale VRAM: 兵
   badge) + `jp_ev01_map_p1.sstate` (JP disc). Tour + force gates waived for 3c63e899 (MOV.STR-only change).
+- **Session 2026-11-23 (11), build ef6484d5 (Check 46):** (A) **polish pass done**: 245 phase-6 lines applied
+  (b106-b109 via `review_fixes.py --from-polish/--tick`; US spellings swept) or waived (fixed fields, D20).
+  (B) **story pass done**: `pairs.py --chapters` -> `work/qa/story/chapters` (35), brief `docs/story-reviewer-brief.md`,
+  one reviewer subagent per chapter, reports `work/qa/story/reports/*.tsv` (+ `99_sweep.tsv`: silent lines unified to
+  "..." / "(...)", "All right"), `tools/story_fixes.py verdicts|batch|log`; 352 fixes merged as b110 (2 C, 3 I, rest
+  Minors), 4 C/I chapters re-checked by fresh reviewers (fixed); gate `qa_gate.py check work/qa/story/manifest.tsv
+  work/qa/story/verdicts` exit 0; polish.md 0 unticked. LV padding (exe_03760/78/90) seen in game
+  (`work/qa/force_lv/lv_zoom.png`). (C) `tools/release.py` (build, check, smoke, jp_left on exe/OVER/BAT_OVER minus
+  the dead old quote blocks, every `*manifest.tsv` gate, textcover, polish, README placeholders, xdelta3 -B, re-apply
+  compare, zip with `docs/release-readme.txt`); README filled. GRA5/BAT_TIM/T_TIM jp_left hits are TIM pixel noise.
 - **Next (phase 9, release):** story-pass verdict per chapter (`qa_gate.py check work/qa/story/manifest.tsv ..`,
   translation.md §Review); `docs/polish.md` has unticked lines (233 Minors): apply or tick each; `tools/release.py`
   (runs qa_gate on every manifest + textcover, jp_left, debug tool off, xdelta made/re-applied/verified), README

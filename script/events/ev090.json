@@ -1399,7 +1399,7 @@
    ],
    "speaker": "トト",
    "jp": "　う～ん……。\n　どうしよっかな～？\n\n",
-   "en": "Hmmm... Should I~?",
+   "en": "Hmmm... What should I do~?",
    "status": "done"
   },
   {
@@ -1465,7 +1465,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　わかったから、\n　とにかく今は逃げましょう！\n\n",
-   "en": "All right, I believe you, so just run for now!",
+   "en": "All right, I get it, so just run for now!",
    "status": "done"
   },
   {
@@ -1718,7 +1718,7 @@
    ],
    "speaker": "アルフレード",
    "jp": "『これでは\n　もうほかの人間を乗せられん』\n\n",
-   "en": "I'm afraid no one else can ride it now.",
+   "en": "Now it won't carry anyone else, you see.",
    "status": "done"
   },
   {
@@ -2235,7 +2235,7 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　それに\n　この部屋もそろそろ\n　ラガーシュの兵士がくるだろう。\n",
-   "en": "And Ragash soldiers will be at this room\nsoon enough, I expect.",
+   "en": "And Ragash soldiers will reach this room\nsoon enough, I expect.",
    "status": "done"
   },
   {
@@ -2389,7 +2389,7 @@
    ],
    "speaker": "ロセリニ",
    "jp": "　……わかったよ。\n\n\n",
-   "en": "...Very well.",
+   "en": "...All right. I'll be waiting.",
    "status": "done"
   },
   {

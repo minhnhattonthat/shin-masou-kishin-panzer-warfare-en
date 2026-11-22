@@ -29,7 +29,7 @@ def english(entry, s):
     """Reviewer EN uses ' / ' for the chapter file's line breaks: keep them in multi-paragraph pages (scrolls), else
     join and let the wrap re-break."""
     s = s.strip()
-    if "\n\n" in entry["jp"].strip():
+    if "\n\n" in entry["jp"].strip() or entry.get("kind") != "msg":  # scroll pages and choices keep the breaks
         return "\\n".join(part.strip() for part in s.split(" / "))
     return " ".join(part.strip() for part in s.split(" / ") if part.strip())
 

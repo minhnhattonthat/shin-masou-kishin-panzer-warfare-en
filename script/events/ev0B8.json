@@ -937,7 +937,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　………………。\n\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -948,7 +948,7 @@
    ],
    "speaker": "ソッド",
    "jp": "　そう、\n　貴様らがダウスにいるあいだ、\n　すべては終わった。\n",
-   "en": "Yes. While you were in Daus, it was\nall over.",
+   "en": "Yes. While you were in Daus, everything\ncame to an end.",
    "status": "done"
   },
   {
@@ -1025,7 +1025,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　契約者は、オレだ。\n\n\n",
-   "en": "The contractor is me.",
+   "en": "I'm the contractor.",
    "status": "done"
   },
   {
@@ -1806,7 +1806,7 @@
    ],
    "speaker": "ソッド",
    "jp": "　………………。\n\n\n",
-   "en": "..................",
+   "en": "...",
    "status": "done"
   },
   {
@@ -1839,7 +1839,7 @@
    ],
    "speaker": "ソッド",
    "jp": "（………………）\n\n\n",
-   "en": "(..................)",
+   "en": "(...)",
    "status": "done"
   },
   {
@@ -1872,7 +1872,7 @@
    ],
    "speaker": "ソッド",
    "jp": "（これで魔装機神は３体……）\n\n\n",
-   "en": "(That makes three Masoukishin...)",
+   "en": "(That puts three Masoukishin\non the surface...)",
    "status": "done"
   },
   {

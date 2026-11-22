@@ -1443,7 +1443,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　あなたを信頼しています。\n\n\n",
-   "en": "...believe in you.",
+   "en": "...trust you.",
    "status": "done"
   },
   {
@@ -1608,7 +1608,7 @@
    ],
    "speaker": "ケイゴ",
    "jp": "　そうなんですか？\n　隊長だったら……。\n\n",
-   "en": "Really? But you're the Captain, so...",
+   "en": "Really? I'd have thought\nsomeone like you, Captain...",
    "status": "done"
   },
   {
@@ -1619,7 +1619,7 @@
    ],
    "speaker": "アルマ",
    "jp": "　……隊長だったら？\n\n\n",
-   "en": "...I'm the Captain, so?",
+   "en": "...Someone like me, the Captain, what?",
    "status": "done"
   },
   {
@@ -2211,7 +2211,7 @@
     "0x4ADC"
    ],
    "jp": "　　ここに祖国の希望を背負った女が一人\n\n　　精霊を宿した魔装機神と操者との間には\n　　　　　新たな契約が必要とされる\n\n　　　　無言のうちに結ばれるその契約は\n　　精霊が高位であればあるほど困難を極める\n\n　　　　　操者が精霊を選ぶのではない\n　　　精霊が操者を認めねばならないのだ\n\n　　そう、彼女は己をさしださんとしていた\n　　　その先に皮肉な結末が待とうとも……\n",
-   "en": "Here stands a woman bearing her land's hope\n\nBetween a Masoukishin that houses a spirit\nand its pilot, a new contract is required\n\nThat contract, sealed without a word,\ngrows harder the higher the spirit stands\n\nIt is not the pilot who chooses the spirit\nThe spirit must accept the pilot\n\nYes, she was ready to offer up herself,\nthough an ironic end awaited her...",
+   "en": "Here stands a woman bearing her land's hope\n/ Between a Masoukishin that houses a spirit\nand its pilot, a new contract is required\n/ That contract, sealed without a word,\ngrows harder the higher the spirit stands\n/ It is not the pilot who chooses the spirit\nThe spirit must accept the pilot\n/ Yes, she was ready to offer herself up,\nthough an ironic end awaited her...",
    "status": "done"
   }
  ]
