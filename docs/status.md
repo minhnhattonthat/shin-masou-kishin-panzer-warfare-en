@@ -136,6 +136,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
   their verdicts); visual-QA chunks `work/qa/chunks/chunk_343280f8144c_000..019`, verdicts `work/qa/verdicts/`
   (000-007 reviewed on the b6f1 sheets; 001 and 006 flagged bug 4 below; 008-019 not dispatched). The full tour
   run was still going (ev03+) at hand-back: if `work/qa/tour_full.log` is short of ev35, re-run the missing scenes.
+- **Session 2026-11-22 (3):** bugs 4, 5, 6 fixed (commits 1e6c900, 04e2588, 8f0e221; build c62b2dce, smoke ok,
+  Check 44 passed). (4) intro scroll freed 200 glyph slots, EN pages draw up to ~336: `slots.py` frees 430 at
+  0x801159B8/0x80115A54/0x80115A90 (verified ev03 `work/qa/b4_fix`). (6) confirm screen pilot names: asm
+  `pilot_short` + `script/confirm_short.tsv` (D18, verified ev06 `work/qa/b6_fix`). (5) `batches.py` wrap balances
+  a segment that would leave one word on its last line; `batches.py rewrap` re-wrapped 709 msg/bq lines (no other
+  line changed); lint flags wrap-made one-word last lines. Probe `tools/lua/calls.lua ADDR=` (ra + args of calls).
+  Full EN tour on c62b2dce started (`tools/debug/tour.py --jobs 2` → `work/qa/tour`, log `work/qa/tour_full.log`);
+  if short of ev35, re-run the missing scenes. Then re-init the manifest, re-check chunks 000-007 (bugs fixed) and
+  dispatch the rest. Spirit marker tiles (GRA5 0x11000): not shown by Guts (instant); need a pilot with a lasting
+  spirit (Focus/Alert/...) on a later map, or the unit record's spirit flags.
 - **Next (phase 8), in order:** (a) done (bugs 1-3 above); (b) done except G12/G13/G15 (unseen, see
   above: look for them on the tour sheets, else waive with the VRAM evidence); (c) visual-QA verdicts for the rest
   of the chunks, fix issues, re-init after the tour, `qa_gate.py check`; UI warp scenes: `warp_all.py --rom
