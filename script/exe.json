@@ -2417,7 +2417,7 @@
   {
    "id": "exe_02BF0",
    "jp": "あら？　　機動いてませんが",
-   "en": "Oh? No units have moved...",
+   "en": "Oh, still     to move...",
    "lui": [
     "0x3B894"
    ],
