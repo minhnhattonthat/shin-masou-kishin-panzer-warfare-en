@@ -59,6 +59,17 @@ WORDS = [  # (RAM address, original word, new word)
     (0x80115A54, _addiu(5, 0xC8), _addiu(5, SCROLL_GLYPHS)),
     (0x80115A90, _addiu(5, 0xC8), _addiu(5, SCROLL_GLYPHS)),
 ]
+# Bug 7: 0x80115B4C(active window) dims the other windows' glyphs (0x80103AA8(start, end, 0x404040)) by the OLD
+# ranges 10-90 / 90-170 / 170-250, so glyph 81+ of window 0 (slot 90+) went grey. Re-aim at the NEW ranges.
+_W = [NEW["w0"], NEW["w1"], NEW["w2"], NEW["shadow"]]  # window k = _W[k].._W[k+1]
+WORDS += [(a, _addiu(r, old), _addiu(r, new)) for a, r, old, new in [
+    (0x80115B74, 4, 0x5A, _W[1]), (0x80115B94, 5, 0xAA, _W[2]),  # window 0 active: dim 1, 2
+    (0x80115BA4, 4, 0xAA, _W[2]), (0x80115BAC, 5, 0xFA, _W[3]),
+    (0x80115BB4, 5, 0x5A, _W[1]),                                 # window 1 active: dim 0 (10..), 2
+    (0x80115BC4, 4, 0xAA, _W[2]), (0x80115BCC, 5, 0xFA, _W[3]),
+    (0x80115BD0, 5, 0x5A, _W[1]),                                 # window 2 active: dim 0 (10..), 1
+    (0x80115BE0, 4, 0x5A, _W[1]), (0x80115BE4, 5, 0xAA, _W[2]),
+]]
 
 
 def patch(exe):
