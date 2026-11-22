@@ -38,7 +38,8 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
   Luk (D17). Other graphics text (map command / status / option / battle labels, prologue, credits) is redrawn in
   English: Japanese left in it (e.g. single-kanji spirit icons, 兵民騎官 status tiles) is an `issue`;
 - dialogue speaker label above the text, honorifics like -san / -sama (D1), no 「」 quotes (D8);
-- the 8 HUD army labels abbreviated V./N./R. Soldier/Knight, Rebel Sol./Kt. (D15, the JP abbreviates too).
+- the 8 HUD army labels abbreviated V./N./R. Soldier/Knight, Rebel Sol./Kt. (D15, the JP abbreviates too);
+- on the map attack-confirm screen only, pilot names Masou Kt., Masou Sol., Rebel Kt., Rebel Sol. (D18).
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:
