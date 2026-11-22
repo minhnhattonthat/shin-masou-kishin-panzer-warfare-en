@@ -74,6 +74,8 @@ def run(row, a, card):
            "--frames", row["frames"], "--sav", card, "--timeout", "1500"]
     if a.states:
         cmd += ["--state-out", os.path.join(ROOT, "work", "states", row["name"] + ".sstate")]
+    if a.cover:
+        cmd += ["--script", os.path.join(ROOT, "tools", "lua", "textcover.lua"), "--debugger"]
     def read_log():
         p = os.path.join(out, "log.txt")
         return open(p, encoding="utf-8", errors="replace").read() if os.path.exists(p) else ""
@@ -101,6 +103,7 @@ def main():
     ap.add_argument("--out", default=os.path.join(ROOT, "work", "qa", "warp"))
     ap.add_argument("--jobs", type=int, default=3)
     ap.add_argument("--states", action="store_true")
+    ap.add_argument("--cover", action="store_true", help="also log drawn strings (tools/lua/textcover.lua)")
     ap.add_argument("--retry", type=int, default=2, help="re-runs of a failed scene (default 2)")
     ap.add_argument("--resume", action="store_true", help="keep OUT/<name> runs that already reached their scene")
     a = ap.parse_args()

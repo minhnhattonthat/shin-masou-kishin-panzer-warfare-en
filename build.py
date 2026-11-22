@@ -13,6 +13,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "tools"))
 from check_rom import check  # noqa: E402
+import cover  # noqa: E402
 import font  # noqa: E402
 import gfx  # noqa: E402
 import insert  # noqa: E402
@@ -82,6 +83,7 @@ def main():
     subprocess.run([sys.executable, "-X", "utf8", ROOT / "tools/writes_check.py", "--tree", disc / "tree",
                     "--writes", wdir], check=True)
     repack(disc, ROOT / a.out)
+    print("strings:", cover.write_strings(disc / "tree", ROOT / (a.out + ".strings.tsv")))  # textcover keys
     print("text bytes changed:", changed)
     print("built %s.bin + .cue" % a.out)
 

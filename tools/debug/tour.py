@@ -22,7 +22,8 @@ def run(scene, a):
     shutil.rmtree(out, ignore_errors=True)
     cmd = [sys.executable, "-X", "utf8", os.path.join(SKILL, "scripts", "emu.py"), a.rom, "--out", out,
            "--script", os.path.join(ROOT, "tools/debug/warp.lua"), "--var", "SCENE='%s'" % scene, "--var", "KEEP=1",
-           "--frames", str(a.frames), "--shot-every", str(a.every), "--timeout", "3000"]
+           "--frames", str(a.frames), "--shot-every", str(a.every), "--timeout", "3000",
+           "--script", os.path.join(ROOT, "tools/lua/textcover.lua"), "--debugger"]  # PTR lines: tools/cover.py
     rc = subprocess.run(cmd, capture_output=True, text=True).returncode
     sheets = os.path.join(a.out, "sheets")
     os.makedirs(sheets, exist_ok=True)
